@@ -1,0 +1,73 @@
+{
+  "ngDeps": {
+    "1": "",
+    "3": [
+      {
+        "1": "package:angular2/core.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2_components/angular2_components.dart",
+        "5": false
+      }
+    ],
+    "5": [
+      {
+        "1": "AppComponent",
+        "7": [
+          {
+            "2": "materialDirectives"
+          }
+        ]
+      }
+    ],
+    "6": "app_component.dart"
+  },
+  "type": {
+    "AppComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "my-app",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "AppComponent",
+        "moduleUrl": "asset:angular2_components_example/lib/app_component.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 5,
+      "inputs": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 0,
+        "template": "<!--\n  Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n  for details. All rights reserved. Use of this source code is governed by a\n  BSD-style license that can be found in the LICENSE file.\n-->\n\n<p>\n  <material-checkbox\n      [(checked)]=\"allowed\"\n      label=\"Allow clicking the two buttons below\">\n  </material-checkbox>\n</p>\n\n<p>\n  Count: {{count}} &nbsp;&nbsp;&nbsp;\n  <material-button [disabled]=\"!allowed\" (trigger)=\"increment()\" raised class=\"blue\">Increase count</material-button>\n  <material-button [disabled]=\"!allowed\" (trigger)=\"reset()\">Reset</material-button>\n</p>\n\n<p></p>\n\n<hr>\n\n<h2>Glyphs</h2>\n<glyph icon=\"favorite\"></glyph>\n<glyph icon=\"business\"></glyph>\n<glyph icon=\"thumb_up\"></glyph>\n<glyph icon=\"bluetooth_connected\"></glyph>\n<glyph icon=\"insert_photo\"></glyph>\n<glyph icon=\"more_horiz\"></glyph>\n\n<hr>\n\n<h2>Buttons</h2>\n\n<div>\n  <section class=\"margin\">\n    <h3>Flat</h3>\n    <material-button>button</material-button>\n    <material-button class=\"red\">Colored</material-button>\n    <material-button disabled>Disabled</material-button>\n    <material-button dense>Condensed</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>Raised</h3>\n    <material-button raised>Raised</material-button>\n    <material-button raised class=\"red\">Colored</material-button>\n    <material-button raised disabled>Disabled</material-button>\n    <material-button raised dense>Condensed</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>Without min-width and margin</h3>\n    <p>Regular</p>\n    <material-button class=\"red\">button</material-button>\n    <material-button class=\"red\">A</material-button>\n    <p>Without min-width and margin</p>\n    <material-button clear-size class=\"red\">button</material-button>\n    <material-button clear-size class=\"red\">A</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>With Icon</h3>\n    <material-button icon><glyph icon=\"check\"></glyph></material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>\n      <strong>F</strong>loating\n      <strong>A</strong>ction\n      <strong>B</strong>utton\n    </h3>\n    <material-fab raised>\n      <glyph icon=\"add\"></glyph>\n    </material-fab>\n    <material-fab mini raised>\n      <glyph icon=\"check\"></glyph>\n    </material-fab>\n  </section>\n\n</div>\n\n<hr>\n\n<h2>Input</h2>\n\n<material-input label=\"Write something\"></material-input>\n<material-input floatingLabel label=\"Floating label\"></material-input>\n<material-input required label=\"Required\"></material-input>\n<material-input [disabled]=\"true\" label=\"Disabled\"></material-input>\n<material-input [maxCount]=\"5\" label=\"Max 5 chars\"></material-input>\n<material-input [rightAlign]=\"true\" label=\"Aligned to the right\"></material-input>\n<material-input leadingText=\"$\" label=\"With leading text\"></material-input>\n<material-input trailingText=\"USD\" [rightAlign]=\"true\" label=\"With trailing text\"></material-input>\n<material-input leadingGlyph=\"business\" label=\"With leading glyph\"></material-input>\n<material-input trailingGlyph=\"favorite\" [rightAlign]=\"true\" label=\"With trailing glyph\"></material-input>\n\n<div>\n  Aligned with\n  <material-input type=\"text\" label=\"surrounding\"></material-input>\n  text.\n</div>\n\n<material-input multiline rows=\"3\" label=\"Write many lines\"></material-input>\n\n<hr>\n\n<h2>Checkboxes</h2>\n\n<div>\n  <h3>No label</h3>\n  <material-checkbox></material-checkbox>\n  <h3>Unchecked</h3>\n  <material-checkbox label=\"plain unchecked\"></material-checkbox>\n  <h3>Checked</h3>\n  <material-checkbox [checked]=\"true\" label=\"plain checked\"></material-checkbox>\n  <h3>Indeterminate</h3>\n  <material-checkbox [indeterminate]=\"true\" label=\"work in progress\"></material-checkbox>\n  <h3>Disabled</h3>\n  <material-checkbox [disabled]=\"true\" label=\"mission impossible\"></material-checkbox>\n  <h3>Checked and disabled</h3>\n  <material-checkbox [checked]=\"true\" [disabled]=\"true\" label=\"done and done\">\n  </material-checkbox>\n  <h3>Indeterminate and disabled</h3>\n  <material-checkbox [indeterminate]=\"true\" [disabled]=\"true\" label=\"done and done\">\n  </material-checkbox>\n  <h3>Checked and indeterminate = indeterminate</h3>\n  <material-checkbox [indeterminate]=\"true\" [checked]=\"true\" label=\"indeterminate?\">\n  </material-checkbox>\n  <h3>Label wrapped if width limit is enforced</h3>\n  <material-checkbox\n      class=\"limited-width\"\n      label=\"long label is bad label, but internationalisation has its own opinions\">\n  </material-checkbox>\n</div>\n\n<hr>\n\n<h2>Spinner</h2>\n\n<material-spinner></material-spinner> &nbsp; waiting for Godot\n\n<hr>\n\n<h2>Yes/No Buttons</h2>\n\n<material-yes-no-buttons yesHighlighted></material-yes-no-buttons>\n\n<hr>\n\n<h2>Chips</h2>\n\n<material-chips>\n  <material-chip>My Chip</material-chip>\n  <material-chip>Another Chip</material-chip>\n</material-chips>\n\n<p>Note: These are not backed by any model on this page, so clicking them won't do anything.</p>\n\n<hr>\n\n<h2>Expansion Panel</h2>\n\n<material-expansionpanel-set>\n  <material-expansionpanel name=\"Expansion panel\">\n    <div>\n      Oh hi. I was just trying not to take too much space here.\n    </div>\n  </material-expansionpanel>\n  <material-expansionpanel name=\"Expansion panel #2\">\n    <div>\n      Me too! Don't mind me.\n    </div>\n  </material-expansionpanel>\n</material-expansionpanel-set>\n\n\n<hr>\n\n<h2>Material Progress</h2>\n\n<material-progress [activeProgress]=\"10\" [secondaryProgress]=\"30\"></material-progress>\n\n<material-progress [indeterminate]=\"true\"></material-progress>\n\n<hr>\n\n<h2>Material Radio</h2>\n\n<material-radio-group>\n  <material-radio [checked]=\"true\">default choice\n  </material-radio>\n  <material-radio>alternative choice\n  </material-radio>\n</material-radio-group>\n\n<hr>\n\n<h2>Tabs</h2>\n\n<material-tab-panel>\n  <material-tab label=\"tab 1\">\n    <div>\n      These are the contents of Tab 1.\n    </div>\n  </material-tab>\n  <material-tab label=\"tab 2\">\n    <div>\n      Tab 2 contents, on the other hand, look thusly.\n    </div>\n  </material-tab>\n  <material-tab label=\"tab 3\">\n    <div>\n      <h3>Tab 3 is serious about its contents</h3>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore magni necessitatibus quam qui quis rerum sit, sunt voluptatum. Commodi, corporis minus nemo officiis quisquam rem. Magni odit quo temporibus veritatis!\n      </p>\n    </div>\n  </material-tab>\n</material-tab-panel>\n\n<hr>\n\n<h2>Toggles</h2>\n\n<material-toggle label=\"Unchecked\"></material-toggle> <br/>\n<material-toggle [checked]=\"true\" label=\"Checked\"></material-toggle> <br/>\n<material-toggle [disabled]=\"true\" label=\"Disabled off\"></material-toggle> <br/>\n<material-toggle [disabled]=\"true\" [checked]=\"true\" label=\"Disabled on\"></material-toggle>\n\n<hr>\n\n<h2>Reorder list</h2>\n\n<ol>\n  <reorder-list (reorder)=\"onReorder($event)\">\n    <li *ngFor=\"let item of reorderItems\" reorderItem>\n      {{item}}\n    </li>\n  </reorder-list>\n</ol>\n\n<hr>\n\n<h2>Scorecards</h2>\n\n<acx-scorecard\n    selectable\n    label=\"Estimated earnings\"\n    value=\"$158.22\"\n    description=\"+$24.20 (15%)\"\n    suggestionAfter=\"of last quarter\"\n    changeType=\"POSITIVE\">\n</acx-scorecard>\n\n<acx-scorecard\n    selectable\n    label=\"Lines of code\"\n    value=\"123 KLOC\"\n    description=\"+3535 (2%)\"\n    suggestionAfter=\"of last quarter\"\n    changeType=\"NEGATIVE\">\n</acx-scorecard>\n\n<acx-scorecard\n    selectable\n    [selected]=\"true\"\n    label=\"Selected scorecard\"\n    value=\"9,000\"\n    description=\"Try clicking this\">\n</acx-scorecard>\n\n<hr>\n\n<p>... and more, like &lt;focus-trap&gt;.</p>\n",
+        "templateUrl": "asset:angular2_components_example/lib/app_component.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components_example/lib/app_component.css"
+        ],
+        "ngContentSelectors": []
+      },
+      "providers": [
+        {
+          "class": "Identifier",
+          "name": "materialProviders",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    }
+  },
+  "alias": {}
+}
