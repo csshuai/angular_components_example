@@ -143,6 +143,9 @@
         "centerTabs": "centerTabs",
         "activeTabIndex": "activeTabIndex"
       },
+      "inputTypes": {
+        "centerTabs": " bool"
+      },
       "outputs": {
         "beforeTabChange": "beforeTabChange",
         "tabChange": "tabChange"

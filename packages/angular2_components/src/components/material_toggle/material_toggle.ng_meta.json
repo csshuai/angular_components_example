@@ -79,6 +79,10 @@
         "ariaLabel": "ariaLabel",
         "color": "color"
       },
+      "inputTypes": {
+        "label": " String",
+        "ariaLabel": " String"
+      },
       "outputs": {
         "onChecked": "checkedChange"
       },

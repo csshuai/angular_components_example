@@ -75,9 +75,12 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "key": "focusActivableItem"
+      },
+      "inputTypes": {
+        "key": " String"
       },
       "outputs": {},
       "hostListeners": {},

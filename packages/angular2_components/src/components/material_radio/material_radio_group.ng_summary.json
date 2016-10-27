@@ -168,6 +168,10 @@
         "valueSelection": "selectionModel",
         "selected": "selected"
       },
+      "inputTypes": {
+        "valueSelection": " SelectionModel",
+        "selected": " dynamic"
+      },
       "outputs": {
         "onChange": "selectedChange"
       },

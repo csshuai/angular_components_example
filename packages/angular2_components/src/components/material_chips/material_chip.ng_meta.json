@@ -145,6 +145,11 @@
         "itemRenderer": "itemRenderer",
         "value": "value"
       },
+      "inputTypes": {
+        "selectionModel": " SelectionModel",
+        "removable": " bool",
+        "itemRenderer": " ItemRenderer"
+      },
       "outputs": {
         "remove": "remove"
       },

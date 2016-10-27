@@ -4428,10 +4428,11 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "disabled": "disabled"
       },
+      "inputTypes": {},
       "outputs": {
         "trigger": "trigger"
       },
@@ -4535,8 +4536,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -4631,8 +4633,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -4732,8 +4735,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -4782,9 +4786,12 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "key": "focusActivableItem"
+      },
+      "inputTypes": {
+        "key": " String"
       },
       "outputs": {},
       "hostListeners": {},
@@ -4898,8 +4905,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {
         "keydown": "keydown($event)"
@@ -5009,10 +5017,11 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "loop": "loop"
       },
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -5129,8 +5138,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {
         "keyup": "resetOutline()",
@@ -5172,6 +5182,9 @@
       "inputs": {
         "icon": "icon",
         "iconSet": "iconSet"
+      },
+      "inputTypes": {
+        "iconSet": " String"
       },
       "outputs": {},
       "hostListeners": {},
@@ -5279,6 +5292,7 @@
         "disabled": "disabled",
         "raised": "raised"
       },
+      "inputTypes": {},
       "outputs": {
         "trigger": "trigger"
       },
@@ -5593,6 +5607,7 @@
         "disabled": "disabled",
         "raised": "raised"
       },
+      "inputTypes": {},
       "outputs": {
         "trigger": "trigger"
       },
@@ -5819,6 +5834,7 @@
         "label": "label",
         "themeColor": "themeColor"
       },
+      "inputTypes": {},
       "outputs": {
         "onChange": "change",
         "onChecked": "checkedChange",
@@ -5902,6 +5918,11 @@
         "removable": "removable",
         "itemRenderer": "itemRenderer",
         "value": "value"
+      },
+      "inputTypes": {
+        "selectionModel": " SelectionModel",
+        "removable": " bool",
+        "itemRenderer": " ItemRenderer"
       },
       "outputs": {
         "remove": "remove"
@@ -6028,6 +6049,11 @@
         "removable": "removable",
         "selectionModel": "selectionModel",
         "itemRenderer": "itemRenderer"
+      },
+      "inputTypes": {
+        "removable": " bool",
+        "selectionModel": " SelectionModel",
+        "itemRenderer": " ItemRenderer"
       },
       "outputs": {},
       "hostListeners": {},
@@ -6183,6 +6209,19 @@
         "showSaveCancel": "showSaveCancel",
         "saveText": "saveText",
         "cancelText": "cancelText"
+      },
+      "inputTypes": {
+        "closeOnSave": " bool",
+        "isExpanded": " bool",
+        "saveDisabled": " bool",
+        "hideExpandedHeader": " bool",
+        "disableHeaderExpansion": " bool",
+        "name": " String",
+        "secondaryText": " String",
+        "expandIcon": " String",
+        "showSaveCancel": " bool",
+        "saveText": " String",
+        "cancelText": " String"
       },
       "outputs": {
         "isExpandedChange": "expandedChange",
@@ -6402,8 +6441,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -7249,7 +7289,7 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "numericValue": "numericValue",
         "checkInteger": "checkInteger",
@@ -7258,6 +7298,7 @@
         "upperBound": "upperBound",
         "errorMsg": "errorMsg"
       },
+      "inputTypes": {},
       "outputs": {
         "numericValueChange": "numericValueChange"
       },
@@ -7339,8 +7380,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {
         "urlValueChange": "urlValueChange"
       },
@@ -7561,6 +7603,7 @@
         "rows": "rows",
         "maxRows": "maxRows"
       },
+      "inputTypes": {},
       "outputs": {
         "onKeypress": "inputKeyPress",
         "onChange": "change",
@@ -8230,8 +8273,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -8326,10 +8370,11 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "model": "inputText"
       },
+      "inputTypes": {},
       "outputs": {
         "update": "inputTextChange"
       },
@@ -8565,6 +8610,7 @@
         "rows": "rows",
         "maxRows": "maxRows"
       },
+      "inputTypes": {},
       "outputs": {
         "onKeypress": "inputKeyPress",
         "onChange": "change",
@@ -9156,6 +9202,13 @@
         "max": "max",
         "indeterminate": "indeterminate"
       },
+      "inputTypes": {
+        "activeProgress": " int",
+        "secondaryProgress": " int",
+        "min": " int",
+        "max": " int",
+        "indeterminate": " bool"
+      },
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -9323,6 +9376,11 @@
         "disabled": "disabled",
         "checked": "checked"
       },
+      "inputTypes": {
+        "value": " dynamic",
+        "disabled": " bool",
+        "checked": " bool"
+      },
       "outputs": {
         "onChecked": "checkedChange"
       },
@@ -9467,6 +9525,10 @@
         "valueSelection": "selectionModel",
         "selected": "selected"
       },
+      "inputTypes": {
+        "valueSelection": " SelectionModel",
+        "selected": " dynamic"
+      },
       "outputs": {
         "onChange": "selectedChange"
       },
@@ -9590,6 +9652,9 @@
       "changeDetection": 3,
       "inputs": {
         "focused": "focused"
+      },
+      "inputTypes": {
+        "focused": " bool"
       },
       "outputs": {
         "onAnimating": "animating"
@@ -10176,6 +10241,7 @@
       },
       "changeDetection": 3,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -10260,6 +10326,11 @@
         "activeTabIndex": "activeTabIndex",
         "tabLabels": "tabLabels",
         "tabIds": "tabIds"
+      },
+      "inputTypes": {
+        "activeTabIndex": " int",
+        "tabLabels": " List",
+        "tabIds": " List"
       },
       "outputs": {
         "beforeTabChange": "beforeTabChange",
@@ -10354,9 +10425,12 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "label": "label"
+      },
+      "inputTypes": {
+        "label": " String"
       },
       "outputs": {},
       "hostListeners": {},
@@ -10607,6 +10681,9 @@
         "centerTabs": "centerTabs",
         "activeTabIndex": "activeTabIndex"
       },
+      "inputTypes": {
+        "centerTabs": " bool"
+      },
       "outputs": {
         "beforeTabChange": "beforeTabChange",
         "tabChange": "tabChange"
@@ -10715,8 +10792,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -10765,10 +10843,11 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "label": "label"
       },
+      "inputTypes": {},
       "outputs": {
         "trigger": "trigger"
       },
@@ -10840,6 +10919,10 @@
         "ariaLabel": "ariaLabel",
         "color": "color"
       },
+      "inputTypes": {
+        "label": " String",
+        "ariaLabel": " String"
+      },
       "outputs": {
         "onChecked": "checkedChange"
       },
@@ -10906,8 +10989,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -10963,8 +11047,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -11057,8 +11142,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -11153,8 +11239,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -11200,6 +11287,10 @@
         "yesDisabled": "yesDisabled",
         "noDisplayed": "noDisplayed",
         "pending": "pending"
+      },
+      "inputTypes": {
+        "yesText": " String",
+        "noText": " String"
       },
       "outputs": {
         "yes": "yes",
@@ -11302,8 +11393,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -11396,9 +11488,12 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "verticalItems": "verticalItems"
+      },
+      "inputTypes": {
+        "verticalItems": " bool"
       },
       "outputs": {
         "reorder": "reorder",
@@ -11584,6 +11679,9 @@
         "type": "type",
         "scrollable": "scrollable",
         "resetOnCardChanges": "resetOnCardChanges"
+      },
+      "inputTypes": {
+        "type": " ScoreboardType"
       },
       "outputs": {},
       "hostListeners": {},
@@ -11773,6 +11871,18 @@
         "selectable": "selectable",
         "selectedColor": "selectedColor"
       },
+      "inputTypes": {
+        "title": " String",
+        "label": " String",
+        "value": " String",
+        "changeGlyph": " bool",
+        "suggestionBefore": " String",
+        "description": " String",
+        "suggestionAfter": " String",
+        "changeType": " String",
+        "selected": " bool",
+        "selectedColor": " Color"
+      },
       "outputs": {
         "selectedChange": "selectedChange"
       },
@@ -11872,8 +11982,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -11941,8 +12052,9 @@
         "value": null,
         "diDeps": []
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},

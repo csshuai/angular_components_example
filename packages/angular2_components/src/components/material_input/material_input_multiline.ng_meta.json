@@ -225,6 +225,7 @@
         "rows": "rows",
         "maxRows": "maxRows"
       },
+      "inputTypes": {},
       "outputs": {
         "onKeypress": "inputKeyPress",
         "onChange": "change",

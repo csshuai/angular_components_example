@@ -92,6 +92,11 @@
         "selectionModel": "selectionModel",
         "itemRenderer": "itemRenderer"
       },
+      "inputTypes": {
+        "removable": " bool",
+        "selectionModel": " SelectionModel",
+        "itemRenderer": " ItemRenderer"
+      },
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},

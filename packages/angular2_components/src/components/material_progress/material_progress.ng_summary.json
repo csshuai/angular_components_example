@@ -44,6 +44,13 @@
         "max": "max",
         "indeterminate": "indeterminate"
       },
+      "inputTypes": {
+        "activeProgress": " int",
+        "secondaryProgress": " int",
+        "min": " int",
+        "max": " int",
+        "indeterminate": " bool"
+      },
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},

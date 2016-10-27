@@ -37,6 +37,7 @@
       },
       "changeDetection": 3,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},

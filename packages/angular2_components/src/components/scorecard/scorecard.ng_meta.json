@@ -222,6 +222,18 @@
         "selectable": "selectable",
         "selectedColor": "selectedColor"
       },
+      "inputTypes": {
+        "title": " String",
+        "label": " String",
+        "value": " String",
+        "changeGlyph": " bool",
+        "suggestionBefore": " String",
+        "description": " String",
+        "suggestionAfter": " String",
+        "changeType": " String",
+        "selected": " bool",
+        "selectedColor": " Color"
+      },
       "outputs": {
         "selectedChange": "selectedChange"
       },

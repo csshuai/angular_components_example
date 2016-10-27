@@ -157,6 +157,9 @@
       "inputs": {
         "focused": "focused"
       },
+      "inputTypes": {
+        "focused": " bool"
+      },
       "outputs": {
         "onAnimating": "animating"
       },

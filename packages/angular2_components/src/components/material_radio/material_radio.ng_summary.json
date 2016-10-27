@@ -269,6 +269,11 @@
         "disabled": "disabled",
         "checked": "checked"
       },
+      "inputTypes": {
+        "value": " dynamic",
+        "disabled": " bool",
+        "checked": " bool"
+      },
       "outputs": {
         "onChecked": "checkedChange"
       },

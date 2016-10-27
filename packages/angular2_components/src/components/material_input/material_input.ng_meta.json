@@ -1007,7 +1007,7 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "numericValue": "numericValue",
         "checkInteger": "checkInteger",
@@ -1016,6 +1016,7 @@
         "upperBound": "upperBound",
         "errorMsg": "errorMsg"
       },
+      "inputTypes": {},
       "outputs": {
         "numericValueChange": "numericValueChange"
       },
@@ -1097,8 +1098,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {
         "urlValueChange": "urlValueChange"
       },
@@ -1319,6 +1321,7 @@
         "rows": "rows",
         "maxRows": "maxRows"
       },
+      "inputTypes": {},
       "outputs": {
         "onKeypress": "inputKeyPress",
         "onChange": "change",
@@ -2009,8 +2012,9 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {},
+      "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},
@@ -2105,10 +2109,11 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "model": "inputText"
       },
+      "inputTypes": {},
       "outputs": {
         "update": "inputTextChange"
       },
@@ -2344,6 +2349,7 @@
         "rows": "rows",
         "maxRows": "maxRows"
       },
+      "inputTypes": {},
       "outputs": {
         "onKeypress": "inputKeyPress",
         "onChange": "change",

@@ -207,6 +207,19 @@
         "saveText": "saveText",
         "cancelText": "cancelText"
       },
+      "inputTypes": {
+        "closeOnSave": " bool",
+        "isExpanded": " bool",
+        "saveDisabled": " bool",
+        "hideExpandedHeader": " bool",
+        "disableHeaderExpansion": " bool",
+        "name": " String",
+        "secondaryText": " String",
+        "expandIcon": " String",
+        "showSaveCancel": " bool",
+        "saveText": " String",
+        "cancelText": " String"
+      },
       "outputs": {
         "isExpandedChange": "expandedChange",
         "isExpandedChangeByUserAction": "expandedChangeByUser",

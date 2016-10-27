@@ -132,6 +132,11 @@
         "tabLabels": "tabLabels",
         "tabIds": "tabIds"
       },
+      "inputTypes": {
+        "activeTabIndex": " int",
+        "tabLabels": " List",
+        "tabIds": " List"
+      },
       "outputs": {
         "beforeTabChange": "beforeTabChange",
         "tabChange": "tabChange"

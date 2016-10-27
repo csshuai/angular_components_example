@@ -272,6 +272,9 @@
         "scrollable": "scrollable",
         "resetOnCardChanges": "resetOnCardChanges"
       },
+      "inputTypes": {
+        "type": " ScoreboardType"
+      },
       "outputs": {},
       "hostListeners": {},
       "hostProperties": {},

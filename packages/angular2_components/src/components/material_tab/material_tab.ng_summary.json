@@ -119,9 +119,12 @@
           }
         ]
       },
-      "changeDetection": 5,
+      "changeDetection": 6,
       "inputs": {
         "label": "label"
+      },
+      "inputTypes": {
+        "label": " String"
       },
       "outputs": {},
       "hostListeners": {},

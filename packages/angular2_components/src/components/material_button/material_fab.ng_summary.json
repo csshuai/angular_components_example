@@ -102,6 +102,7 @@
         "disabled": "disabled",
         "raised": "raised"
       },
+      "inputTypes": {},
       "outputs": {
         "trigger": "trigger"
       },
