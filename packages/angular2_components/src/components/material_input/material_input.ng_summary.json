@@ -3,26 +3,6 @@
     "1": "",
     "3": [
       {
-        "1": "dart:async",
-        "5": false
-      },
-      {
-        "1": "package:angular2/angular2.dart",
-        "5": false
-      },
-      {
-        "1": "package:intl/intl.dart",
-        "5": false
-      },
-      {
-        "1": "package:quiver/strings.dart",
-        "2": [
-          "isEmpty",
-          "isNotEmpty"
-        ],
-        "5": false
-      },
-      {
         "1": "../focus/focus.dart",
         "5": false
       },
@@ -31,19 +11,18 @@
         "5": false
       },
       {
-        "1": "../../model/observable/observable.dart",
-        "5": false
-      },
-      {
         "1": "../../utils/angular/reference/reference.dart",
         "5": false
       },
       {
-        "1": "../../utils/async/async.dart",
+        "1": "package:angular2/angular2.dart",
         "5": false
       },
       {
-        "1": "../../utils/disposer/disposer.dart",
+        "1": "package:quiver/strings.dart",
+        "2": [
+          "isNotEmpty"
+        ],
         "5": false
       },
       {
@@ -64,6 +43,12 @@
       }
     ],
     "4": [
+      {
+        "1": "package:angular2/angular2.dart",
+        "2": [
+          "NgModel"
+        ]
+      },
       {
         "1": "base_material_input.dart",
         "2": [
@@ -98,10 +83,6 @@
             "4": "cd"
           },
           {
-            "1": "NgZone",
-            "4": "zone"
-          },
-          {
             "1": "ChangeDetectorRef",
             "4": "changeDetector"
           },
@@ -134,39 +115,13 @@
           },
           {
             "2": "NgModel"
-          }
-        ]
-      },
-      {
-        "1": "MaterialNumberInputValidatorDirective",
-        "5": [
-          {
-            "1": "MaterialInputComponent",
-            "4": "_input"
-          }
-        ],
-        "6": [
-          "OnDestroy"
-        ]
-      },
-      {
-        "1": "MaterialUrlInputDirective",
-        "5": [
-          {
-            "1": "DeferredValidator",
-            "4": "validator"
           },
           {
-            "1": "MaterialInputComponent",
-            "3": [
-              "const Host()"
-            ],
-            "4": "materialInput"
+            "2": "NgSwitch"
+          },
+          {
+            "2": "NgSwitchWhen"
           }
-        ],
-        "6": [
-          "Validator",
-          "OnDestroy"
         ]
       }
     ],
@@ -195,14 +150,14 @@
         },
         {
           "class": "Identifier",
-          "name": "MultilineMaterialInputComponent",
+          "name": "MaterialMultilineInputComponent",
           "moduleUrl": null,
           "prefix": null,
           "value": null
         },
         {
           "class": "Identifier",
-          "name": "InputTextModel",
+          "name": "NgModel",
           "moduleUrl": null,
           "prefix": null,
           "value": null
@@ -215,191 +170,6 @@
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input.dart",
       "prefix": null,
       "value": null
-    },
-    "MaterialNumberInputValidatorDirective": {
-      "class": "Directive",
-      "isComponent": false,
-      "selector": "material-input[type=number]",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "MaterialNumberInputValidatorDirective",
-        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": [
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "MaterialInputComponent",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          }
-        ]
-      },
-      "changeDetection": 6,
-      "inputs": {
-        "numericValue": "numericValue",
-        "checkInteger": "checkInteger",
-        "checkPositive": "checkPositive",
-        "lowerBound": "lowerBound",
-        "upperBound": "upperBound",
-        "errorMsg": "errorMsg"
-      },
-      "inputTypes": {},
-      "outputs": {
-        "numericValueChange": "numericValueChange"
-      },
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [
-        1
-      ],
-      "template": null,
-      "providers": [],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
-    },
-    "NumberValidator": {
-      "class": "Identifier",
-      "name": "NumberValidator",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input.dart",
-      "prefix": null,
-      "value": null
-    },
-    "MaterialUrlInputDirective": {
-      "class": "Directive",
-      "isComponent": false,
-      "selector": "material-input[type=url]",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "MaterialUrlInputDirective",
-        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": [
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "DeferredValidator",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "MaterialInputComponent",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": true,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          }
-        ]
-      },
-      "changeDetection": 6,
-      "inputs": {},
-      "inputTypes": {},
-      "outputs": {
-        "urlValueChange": "urlValueChange"
-      },
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [
-        1
-      ],
-      "template": null,
-      "providers": [
-        {
-          "class": "Identifier",
-          "name": "DeferredValidator",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "NG_VALIDATORS",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "DeferredValidator",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useValue": null,
-          "useFactory": null,
-          "useProperty": null,
-          "multi": true,
-          "deps": null
-        }
-      ],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
     },
     "MaterialInputComponent": {
       "class": "Directive",
@@ -457,28 +227,6 @@
               "value": null,
               "identifier": {
                 "class": "Identifier",
-                "name": "NgZone",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
                 "name": "ChangeDetectorRef",
                 "moduleUrl": null,
                 "prefix": null,
@@ -526,6 +274,8 @@
         "errorMsg": "errorMsg",
         "label": "label",
         "floatingLabel": "floatingLabel",
+        "hintText": "hintText",
+        "showHintOnlyOnFocus": "showHintOnlyOnFocus",
         "required": "required",
         "requiredErrorMsg": "requiredErrorMsg",
         "disabled": "disabled",
@@ -562,7 +312,7 @@
       ],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"baseline\" #popupSourceEl>\n  <div class=\"top-section\">\n    <span *ngIf=\"hasLeadingGlyph\"\n          class=\"leading-text\"\n          [class.floated-label]=\"floatingLabel\">\n      <glyph class=\"glyph leading\"\n             icon=\"{{leadingGlyph}}\"\n             [attr.disabled]=\"disabled\">\n      </glyph>\n    </span>\n    <span *ngIf=\"hasLeadingText\"\n          class=\"leading-text\"\n          [class.floated-label]=\"floatingLabel\">\n      {{leadingText}}\n    </span>\n\n    <div class=\"input-container\"\n         [class.floated-label]=\"floatingLabel\">\n      <div class=\"label\" aria-hidden=\"true\">\n        <!-- needed for floating label animation measurement -->\n        <span class=\"label-text\"\n              [class.invisible]=\"!labelVisible\"\n              [class.animated]=\"labelAnimated\"\n              [class.reset]=\"labelAnimationReset\"\n              [class.focused]=\"focused && floatingLabelVisible\"\n              [class.invalid]=\"invalid && floatingLabelVisible\">\n          {{label}}\n        </span>\n      </div>\n\n      <input #inputEl\n             focusableElement\n             class=\"input\"\n             [class.disabledInput]=\"disabled\"\n             [class.right-align]=\"rightAlign\"\n             [type]=\"type\"\n             attr.aria-invalid=\"{{invalid}}\"\n             [attr.aria-label]=\"ariaLabel\"\n             [disabled]=\"disabled\"\n             [required]=\"required\"\n             [ngModel]=\"inputText\"\n             (blur)=\"inputBlurAction($event, inputEl.validity.valid, inputEl.validationMessage)\"\n             (change)=\"inputChange(inputEl.value, inputEl.validity.valid, inputEl.validationMessage);$event.stopPropagation()\"\n             (focus)=\"inputFocusAction($event)\"\n             (input)=\"inputKeypress(inputEl.value, inputEl.validity.valid, inputEl.validationMessage)\">\n    </div>\n    <span *ngIf=\"hasTrailingText\"\n          class=\"trailing-text\"\n          [class.floated-label]=\"floatingLabel\">\n      {{trailingText}}\n    </span>\n    <span *ngIf=\"hasTrailingGlyph\"\n          class=\"trailing-text\"\n          [class.floated-label]=\"floatingLabel\">\n      <glyph class=\"glyph trailing\"\n             icon=\"{{trailingGlyph}}\"\n             [attr.disabled]=\"disabled\">\n      </glyph>\n    </span>\n    <ng-content select=\"[trailing]\"></ng-content>\n  </div>\n\n  <div class=\"underline\">\n    <div class=\"disabled-underline\" [class.invisible]=\"!disabled\">\n    </div>\n    <div class=\"unfocused-underline\"\n         [class.invisible]=\"disabled\" [class.invalid]=\"invalid\"></div>\n    <div class=\"focused-underline\"\n         [class.invisible]=\"!focused\" [class.invalid]=\"invalid\"\n         [class.animated]=\"underlineAnimated\"></div>\n  </div>\n</div>\n\n<div class=\"bottom-section\" *ngIf=\"displayBottomPanel\">\n  <div class=\"error-text\"\n       role=\"alert\"\n       attr.aria-hidden=\"{{!invalid}}\"\n       [class.focused]=\"focused\"\n       [class.invalid]=\"invalid\"\n       *ngIf=\"invalid && hasErrorMessage\">\n    {{errorMessage}}\n  </div>\n  <div class=\"spaceholder\"\n       *ngIf=\"!invalid || !hasErrorMessage\"\n       tabindex=\"-1\"\n       (focus)=\"$event.stopPropagation()\">\n    &nbsp;\n  </div>\n  <div *ngIf=\"maxCount != null && focused\"\n       class=\"counter\"\n       aria-hidden=\"true\"\n       [class.invalid]=\"invalid\">\n    {{msgCharacterCounter(inputTextLength, maxCount)}}\n  </div>\n</div>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"baseline\" #popupSourceEl>\n  <div class=\"top-section\">\n    <span *ngIf=\"hasLeadingGlyph\"\n          class=\"leading-text\"\n          [class.floated-label]=\"floatingLabel\">\n      <glyph class=\"glyph leading\"\n             icon=\"{{leadingGlyph}}\"\n             [attr.disabled]=\"disabled\">\n      </glyph>\n    </span>\n    <span *ngIf=\"hasLeadingText\"\n          class=\"leading-text\"\n          [class.floated-label]=\"floatingLabel\">\n      {{leadingText}}\n    </span>\n\n    <div class=\"input-container\"\n         [class.floated-label]=\"floatingLabel\">\n      <div class=\"label\"\n           aria-hidden=\"true\"\n           [class.right-align]=\"rightAlign\">\n        <!-- needed for floating label animation measurement -->\n        <span class=\"label-text\"\n              [class.invisible]=\"!labelVisible\"\n              [class.animated]=\"labelAnimated\"\n              [class.reset]=\"labelAnimationReset\"\n              [class.focused]=\"focused && floatingLabelVisible\"\n              [class.invalid]=\"invalid && floatingLabelVisible\">\n          {{label}}\n        </span>\n      </div>\n\n      <input #inputEl\n             focusableElement\n             class=\"input\"\n             [class.disabledInput]=\"disabled\"\n             [class.right-align]=\"rightAlign\"\n             [type]=\"type\"\n             attr.aria-invalid=\"{{invalid}}\"\n             [attr.aria-label]=\"ariaLabel\"\n             [disabled]=\"disabled\"\n             [required]=\"required\"\n             [ngModel]=\"inputText\"\n             (blur)=\"inputBlurAction($event, inputEl.validity.valid, inputEl.validationMessage)\"\n             (change)=\"inputChange(inputEl.value, inputEl.validity.valid, inputEl.validationMessage);$event.stopPropagation()\"\n             (focus)=\"inputFocusAction($event)\"\n             (input)=\"inputKeypress(inputEl.value, inputEl.validity.valid, inputEl.validationMessage)\">\n    </div>\n    <span *ngIf=\"hasTrailingText\"\n          class=\"trailing-text\"\n          [class.floated-label]=\"floatingLabel\">\n      {{trailingText}}\n    </span>\n    <span *ngIf=\"hasTrailingGlyph\"\n          class=\"trailing-text\"\n          [class.floated-label]=\"floatingLabel\">\n      <glyph class=\"glyph trailing\"\n             icon=\"{{trailingGlyph}}\"\n             [attr.disabled]=\"disabled\">\n      </glyph>\n    </span>\n    <ng-content select=\"[trailing]\"></ng-content>\n  </div>\n\n  <div class=\"underline\">\n    <div class=\"disabled-underline\" [class.invisible]=\"!disabled\">\n    </div>\n    <div class=\"unfocused-underline\"\n         [class.invisible]=\"disabled\" [class.invalid]=\"invalid\"></div>\n    <div class=\"focused-underline\"\n         [class.invisible]=\"!focused\" [class.invalid]=\"invalid\"\n         [class.animated]=\"underlineAnimated\"></div>\n  </div>\n</div>\n\n<div class=\"bottom-section\" *ngIf=\"displayBottomPanel\" [ngSwitch]=\"bottomPanelState\">\n  <div class=\"error-text\"\n       role=\"alert\"\n       attr.aria-hidden=\"{{!invalid}}\"\n       [class.focused]=\"focused\"\n       [class.invalid]=\"invalid\"\n       *ngSwitchWhen=\"errorState\">\n    {{errorMessage}}\n  </div>\n  <div class=\"hint-text\" *ngSwitchWhen=\"hintState\">\n    {{hintText}}\n  </div>\n  <div class=\"spaceholder\"\n       *ngSwitchWhen=\"emptyState\"\n       tabindex=\"-1\"\n       (focus)=\"$event.stopPropagation()\">\n    &nbsp;\n  </div>\n  <div *ngIf=\"maxCount != null && focused\"\n       class=\"counter\"\n       aria-hidden=\"true\"\n       [class.invalid]=\"invalid\">\n    {{msgCharacterCounter(inputTextLength, maxCount)}}\n  </div>\n</div>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/material_input/material_input.html",
         "styles": [],
         "styleUrls": [
@@ -570,7 +320,8 @@
         ],
         "ngContentSelectors": [
           "[trailing]"
-        ]
+        ],
+        "preserveWhitespace": false
       },
       "providers": [
         {
@@ -760,8 +511,8 @@
     "materialInputDirectives": [
       "MaterialInputComponent",
       "MaterialInputDefaultValueAccessor",
-      "MultilineMaterialInputComponent",
-      "InputTextModel"
+      "MaterialMultilineInputComponent",
+      "NgModel"
     ]
   }
 }

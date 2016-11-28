@@ -24,10 +24,6 @@
             "4": "_element"
           },
           {
-            "1": "Renderer",
-            "4": "_renderer"
-          },
-          {
             "1": "DomService",
             "4": "_domService"
           }
@@ -56,28 +52,6 @@
               "identifier": {
                 "class": "Identifier",
                 "name": "ElementRef",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "Renderer",
                 "moduleUrl": null,
                 "prefix": null,
                 "value": null

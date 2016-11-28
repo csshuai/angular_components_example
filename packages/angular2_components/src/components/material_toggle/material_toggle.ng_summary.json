@@ -87,7 +87,8 @@
         ],
         "ngContentSelectors": [
           "*"
-        ]
+        ],
+        "preserveWhitespace": false
       },
       "providers": [],
       "viewProviders": [],

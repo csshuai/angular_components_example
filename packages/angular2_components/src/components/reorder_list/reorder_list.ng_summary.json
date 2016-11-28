@@ -11,7 +11,7 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
+        "1": "dart:math",
         "5": false
       },
       {
@@ -28,6 +28,17 @@
       },
       {
         "1": "../../utils/keyboard/keyboard.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
+        "5": false
+      },
+      {
+        "1": "package:quiver/iterables.dart",
+        "2": [
+          "range"
+        ],
         "5": false
       }
     ],
@@ -75,6 +86,20 @@
     "ReorderEvent": {
       "class": "Identifier",
       "name": "ReorderEvent",
+      "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MultiReorderEvent": {
+      "class": "Identifier",
+      "name": "MultiReorderEvent",
+      "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ItemSelectionEvent": {
+      "class": "Identifier",
+      "name": "ItemSelectionEvent",
       "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
       "prefix": null,
       "value": null
@@ -213,21 +238,26 @@
       },
       "changeDetection": 6,
       "inputs": {
-        "verticalItems": "verticalItems"
+        "verticalItems": "verticalItems",
+        "multiSelect": "multiSelect"
       },
       "inputTypes": {
-        "verticalItems": " bool"
+        "verticalItems": " bool",
+        "multiSelect": " bool"
       },
       "outputs": {
         "reorder": "reorder",
         "reorderAttempt": "reorderAttempt",
-        "delete": "delete"
+        "delete": "delete",
+        "itemSelectionChanged": "itemSelectionChanged"
       },
       "hostListeners": {},
       "hostProperties": {
-        "class.vertical": "verticalItems"
+        "class.vertical": "verticalItems",
+        "class.multiselect": "multiSelect"
       },
       "hostAttributes": {
+        "class": "themeable",
         "role": "list"
       },
       "lifecycleHooks": [
@@ -244,7 +274,8 @@
         "ngContentSelectors": [
           "*",
           "[reorderPlaceholder]"
-        ]
+        ],
+        "preserveWhitespace": false
       },
       "providers": [],
       "viewProviders": [],

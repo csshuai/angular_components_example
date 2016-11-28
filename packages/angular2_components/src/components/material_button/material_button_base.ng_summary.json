@@ -11,15 +11,15 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
-        "5": false
-      },
-      {
         "1": "../button_decorator/button_decorator.dart",
         "5": false
       },
       {
         "1": "../../utils/angular/properties/properties.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
         "5": false
       }
     ],

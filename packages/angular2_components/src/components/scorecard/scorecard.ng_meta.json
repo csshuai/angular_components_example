@@ -60,10 +60,6 @@
             "4": "ref"
           },
           {
-            "1": "Renderer",
-            "4": "renderer"
-          },
-          {
             "1": "DomService",
             "4": "domService"
           }
@@ -166,28 +162,6 @@
               "value": null,
               "identifier": {
                 "class": "Identifier",
-                "name": "Renderer",
-                "moduleUrl": "asset:angular2/lib/src/core/render/api.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
                 "name": "DomService",
                 "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
                 "prefix": null,
@@ -209,8 +183,8 @@
       },
       "changeDetection": 4,
       "inputs": {
-        "title": "title",
         "label": "label",
+        "title": "title",
         "value": "value",
         "changeGlyph": "changeGlyph",
         "suggestionBefore": "suggestionBefore",
@@ -223,8 +197,8 @@
         "selectedColor": "selectedColor"
       },
       "inputTypes": {
-        "title": " String",
         "label": " String",
+        "title": " String",
         "value": " String",
         "changeGlyph": " bool",
         "suggestionBefore": " String",
@@ -258,7 +232,7 @@
       "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<material-ripple *ngIf=\"selectable\"></material-ripple>\n<h3>{{label}}<ng-content select=\"name\"></ng-content></h3>\n<h2>{{value}}</h2>\n<span *ngIf=\"suggestionBefore != null\" class=\"suggestion before\">{{suggestionBefore}}</span>\n<span *ngIf=\"description != null\" class=\"description\">\n  <glyph *ngIf=\"changeGlyph && description != '' && !isChangeNeutral\"\n         class=\"change-glyph\"\n         [icon]=\"changeGlyphIcon\"\n         size=\"small\">\n  </glyph>\n  {{description}}</span>\n<span *ngIf=\"suggestionAfter != null\" class=\"suggestion after\">{{suggestionAfter}}</span>\n<ng-content></ng-content>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<material-ripple *ngIf=\"selectable\"></material-ripple>\n<h3>{{label}}<ng-content select=\"name\"></ng-content></h3>\n<h2>{{value}}<ng-content select=\"value\"></ng-content></h2>\n<span *ngIf=\"suggestionBefore != null\" class=\"suggestion before\">{{suggestionBefore}}</span>\n<span *ngIf=\"description != null\" class=\"description\">\n  <glyph *ngIf=\"changeGlyph && description != '' && !isChangeNeutral\"\n         class=\"change-glyph\"\n         [icon]=\"changeGlyphIcon\"\n         size=\"small\">\n  </glyph>\n  {{description}}</span>\n<span *ngIf=\"suggestionAfter != null\" class=\"suggestion after\">{{suggestionAfter}}</span>\n<ng-content></ng-content>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/scorecard/scorecard.html",
         "styles": [],
         "styleUrls": [
@@ -266,6 +240,7 @@
         ],
         "ngContentSelectors": [
           "name",
+          "value",
           "*"
         ]
       },

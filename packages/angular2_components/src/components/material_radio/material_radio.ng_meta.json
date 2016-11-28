@@ -76,10 +76,6 @@
             "4": "cd"
           },
           {
-            "1": "Renderer",
-            "4": "_renderer"
-          },
-          {
             "1": "String",
             "3": [
               "const Attribute('role')"
@@ -263,28 +259,6 @@
           },
           {
             "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "Renderer",
-                "moduleUrl": "asset:angular2/lib/src/core/render/api.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
               "value": "role",
               "identifier": null,
               "identifierIsInstance": false
@@ -345,7 +319,8 @@
         ],
         "ngContentSelectors": [
           "*"
-        ]
+        ],
+        "preserveWhitespace": false
       },
       "providers": [],
       "viewProviders": [],

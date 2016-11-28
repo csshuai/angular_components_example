@@ -11,6 +11,10 @@
         "5": false
       },
       {
+        "1": "../../utils/angular/properties/properties.dart",
+        "5": false
+      },
+      {
         "1": "../../utils/disposer/disposer.dart",
         "5": false
       },
@@ -146,7 +150,9 @@
         ]
       },
       "changeDetection": 6,
-      "inputs": {},
+      "inputs": {
+        "preserveDimensions": "deferredContent"
+      },
       "inputTypes": {},
       "outputs": {},
       "hostListeners": {},

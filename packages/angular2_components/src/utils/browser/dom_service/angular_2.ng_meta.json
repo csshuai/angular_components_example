@@ -19,9 +19,9 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/platform/dom/dom_renderer.dart",
+        "1": "package:angular2/src/core/linker/app_view.dart",
         "2": [
-          "DomRootRenderer"
+          "domRootRendererIsDirty"
         ],
         "5": false
       },
@@ -43,12 +43,6 @@
       }
     ],
     "4": [
-      {
-        "1": "package:angular2/src/platform/dom/dom_renderer.dart",
-        "2": [
-          "DomRootRenderer"
-        ]
-      },
       {
         "1": "./dom_service.dart"
       }
@@ -101,7 +95,7 @@
         "4": "i1"
       },
       {
-        "1": "package:angular2/src/platform/dom/dom_renderer.template.dart",
+        "1": "package:angular2/src/core/linker/app_view.template.dart",
         "4": "i2"
       },
       {
@@ -480,102 +474,6 @@
       "class": "Identifier",
       "name": "_ChangeTracker",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "NAMESPACE_URIS": {
-      "class": "Identifier",
-      "name": "NAMESPACE_URIS",
-      "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_renderer.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DomRootRenderer": {
-      "class": "Type",
-      "name": "DomRootRenderer",
-      "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_renderer.dart",
-      "prefix": null,
-      "isHost": false,
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "DOCUMENT",
-              "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_tokens.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "query": null,
-          "viewQuery": null,
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        },
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "EventManager",
-              "moduleUrl": "asset:angular2/lib/src/platform/dom/events/event_manager.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "query": null,
-          "viewQuery": null,
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        }
-      ]
-    },
-    "DomRenderer": {
-      "class": "Identifier",
-      "name": "DomRenderer",
-      "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_renderer.dart",
-      "prefix": null,
-      "value": null
-    },
-    "moveNodesAfterSibling": {
-      "class": "Identifier",
-      "name": "moveNodesAfterSibling",
-      "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_renderer.dart",
-      "prefix": null,
-      "value": null
-    },
-    "appendNodes": {
-      "class": "Identifier",
-      "name": "appendNodes",
-      "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_renderer.dart",
-      "prefix": null,
-      "value": null
-    },
-    "decoratePreventDefault": {
-      "class": "Identifier",
-      "name": "decoratePreventDefault",
-      "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_renderer.dart",
-      "prefix": null,
-      "value": null
-    },
-    "splitNamespace": {
-      "class": "Identifier",
-      "name": "splitNamespace",
-      "moduleUrl": "asset:angular2/lib/src/platform/dom/dom_renderer.dart",
       "prefix": null,
       "value": null
     }

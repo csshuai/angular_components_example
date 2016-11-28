@@ -19,9 +19,9 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/platform/dom/dom_renderer.dart",
+        "1": "package:angular2/src/core/linker/app_view.dart",
         "2": [
-          "DomRootRenderer"
+          "domRootRendererIsDirty"
         ],
         "5": false
       },
@@ -43,12 +43,6 @@
       }
     ],
     "4": [
-      {
-        "1": "package:angular2/src/platform/dom/dom_renderer.dart",
-        "2": [
-          "DomRootRenderer"
-        ]
-      },
       {
         "1": "./dom_service.dart"
       }

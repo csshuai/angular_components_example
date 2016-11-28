@@ -114,7 +114,8 @@
         ],
         "ngContentSelectors": [
           "*"
-        ]
+        ],
+        "preserveWhitespace": false
       },
       "providers": [
         {

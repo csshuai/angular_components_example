@@ -11,7 +11,7 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
+        "1": "dart:math",
         "5": false
       },
       {
@@ -28,6 +28,17 @@
       },
       {
         "1": "../../utils/keyboard/keyboard.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
+        "5": false
+      },
+      {
+        "1": "package:quiver/iterables.dart",
+        "2": [
+          "range"
+        ],
         "5": false
       }
     ],
@@ -65,23 +76,23 @@
     "6": "reorder_list.dart",
     "7": [
       {
-        "1": "package:angular2/angular2.template.dart",
+        "1": "../../utils/angular/managed_zone/angular_2.template.dart",
         "4": "i0"
       },
       {
-        "1": "../../utils/angular/managed_zone/angular_2.template.dart",
+        "1": "../../utils/async/async.template.dart",
         "4": "i1"
       },
       {
-        "1": "../../utils/async/async.template.dart",
+        "1": "../../utils/disposer/disposer.template.dart",
         "4": "i2"
       },
       {
-        "1": "../../utils/disposer/disposer.template.dart",
+        "1": "../../utils/keyboard/keyboard.template.dart",
         "4": "i3"
       },
       {
-        "1": "../../utils/keyboard/keyboard.template.dart",
+        "1": "package:angular2/angular2.template.dart",
         "4": "i4"
       }
     ]
@@ -97,6 +108,20 @@
     "ReorderEvent": {
       "class": "Identifier",
       "name": "ReorderEvent",
+      "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MultiReorderEvent": {
+      "class": "Identifier",
+      "name": "MultiReorderEvent",
+      "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ItemSelectionEvent": {
+      "class": "Identifier",
+      "name": "ItemSelectionEvent",
       "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
       "prefix": null,
       "value": null
@@ -235,21 +260,26 @@
       },
       "changeDetection": 6,
       "inputs": {
-        "verticalItems": "verticalItems"
+        "verticalItems": "verticalItems",
+        "multiSelect": "multiSelect"
       },
       "inputTypes": {
-        "verticalItems": " bool"
+        "verticalItems": " bool",
+        "multiSelect": " bool"
       },
       "outputs": {
         "reorder": "reorder",
         "reorderAttempt": "reorderAttempt",
-        "delete": "delete"
+        "delete": "delete",
+        "itemSelectionChanged": "itemSelectionChanged"
       },
       "hostListeners": {},
       "hostProperties": {
-        "class.vertical": "verticalItems"
+        "class.vertical": "verticalItems",
+        "class.multiselect": "multiSelect"
       },
       "hostAttributes": {
+        "class": "themeable",
         "role": "list"
       },
       "lifecycleHooks": [
@@ -266,7 +296,8 @@
         "ngContentSelectors": [
           "*",
           "[reorderPlaceholder]"
-        ]
+        ],
+        "preserveWhitespace": false
       },
       "providers": [],
       "viewProviders": [],

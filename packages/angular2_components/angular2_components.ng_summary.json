@@ -30,6 +30,20 @@
       "value": [
         {
           "class": "Identifier",
+          "name": "AutoDismissDirective",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "AutoFocusDirective",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
           "name": "CachingDeferredContentDirective",
           "moduleUrl": null,
           "prefix": null,
@@ -79,14 +93,14 @@
         },
         {
           "class": "Identifier",
-          "name": "GlyphComponent",
+          "name": "FocusTrapComponent",
           "moduleUrl": null,
           "prefix": null,
           "value": null
         },
         {
           "class": "Identifier",
-          "name": "InputTextModel",
+          "name": "GlyphComponent",
           "moduleUrl": null,
           "prefix": null,
           "value": null
@@ -115,6 +129,13 @@
         {
           "class": "Identifier",
           "name": "MaterialChipsComponent",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "MaterialDialogComponent",
           "moduleUrl": null,
           "prefix": null,
           "value": null
@@ -219,7 +240,21 @@
         },
         {
           "class": "Identifier",
-          "name": "MultilineMaterialInputComponent",
+          "name": "MaterialMultilineInputComponent",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "ModalComponent",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "NgModel",
           "moduleUrl": null,
           "prefix": null,
           "value": null
@@ -259,12 +294,21 @@
           "moduleUrl": null,
           "prefix": null,
           "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "overlayBindings",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
         }
       ]
     }
   },
   "alias": {
     "materialDirectives": [
+      "AutoDismissDirective",
+      "AutoFocusDirective",
       "CachingDeferredContentDirective",
       "DeferredContentDirective",
       "FixedMaterialTabStripComponent",
@@ -272,12 +316,13 @@
       "FocusItemDirective",
       "FocusListDirective",
       "FocusableDirective",
+      "FocusTrapComponent",
       "GlyphComponent",
-      "InputTextModel",
       "MaterialButtonComponent",
       "MaterialCheckboxComponent",
       "MaterialChipComponent",
       "MaterialChipsComponent",
+      "MaterialDialogComponent",
       "MaterialExpansionPanel",
       "MaterialExpansionPanelSet",
       "MaterialFabComponent",
@@ -292,13 +337,16 @@
       "MaterialTabPanelComponent",
       "MaterialToggleComponent",
       "MaterialYesNoButtonsComponent",
-      "MultilineMaterialInputComponent",
+      "MaterialMultilineInputComponent",
+      "ModalComponent",
+      "NgModel",
       "ReorderItemDirective",
       "ReorderListComponent",
       "ScorecardComponent"
     ],
     "materialProviders": [
-      "rippleBindings"
+      "rippleBindings",
+      "overlayBindings"
     ]
   }
 }

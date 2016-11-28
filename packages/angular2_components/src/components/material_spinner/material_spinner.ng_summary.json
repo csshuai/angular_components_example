@@ -45,7 +45,8 @@
         "styleUrls": [
           "asset:angular2_components/lib/src/components/material_spinner/material_spinner.scss.css"
         ],
-        "ngContentSelectors": []
+        "ngContentSelectors": [],
+        "preserveWhitespace": false
       },
       "providers": [],
       "viewProviders": [],

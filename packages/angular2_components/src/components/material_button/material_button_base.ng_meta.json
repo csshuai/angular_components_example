@@ -11,30 +11,30 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
-        "5": false
-      },
-      {
         "1": "../button_decorator/button_decorator.dart",
         "5": false
       },
       {
         "1": "../../utils/angular/properties/properties.dart",
         "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
+        "5": false
       }
     ],
     "6": "material_button_base.dart",
     "7": [
       {
-        "1": "package:angular2/angular2.template.dart",
+        "1": "../button_decorator/button_decorator.template.dart",
         "4": "i0"
       },
       {
-        "1": "../button_decorator/button_decorator.template.dart",
+        "1": "../../utils/angular/properties/properties.template.dart",
         "4": "i1"
       },
       {
-        "1": "../../utils/angular/properties/properties.template.dart",
+        "1": "package:angular2/angular2.template.dart",
         "4": "i2"
       }
     ]

@@ -58,7 +58,7 @@
       "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n  Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n  for details. All rights reserved. Use of this source code is governed by a\n  BSD-style license that can be found in the LICENSE file.\n-->\n\n<p>\n  <material-checkbox\n      [(checked)]=\"allowed\"\n      label=\"Allow clicking the two buttons below\">\n  </material-checkbox>\n</p>\n\n<p>\n  Count: {{count}} &nbsp;&nbsp;&nbsp;\n  <material-button [disabled]=\"!allowed\" (trigger)=\"increment()\" raised class=\"blue\">Increase count</material-button>\n  <material-button [disabled]=\"!allowed\" (trigger)=\"reset()\">Reset</material-button>\n</p>\n\n<p></p>\n\n<hr>\n\n<h2>Glyphs</h2>\n<glyph icon=\"favorite\"></glyph>\n<glyph icon=\"business\"></glyph>\n<glyph icon=\"thumb_up\"></glyph>\n<glyph icon=\"bluetooth_connected\"></glyph>\n<glyph icon=\"insert_photo\"></glyph>\n<glyph icon=\"more_horiz\"></glyph>\n\n<hr>\n\n<h2>Buttons</h2>\n\n<div>\n  <section class=\"margin\">\n    <h3>Flat</h3>\n    <material-button>button</material-button>\n    <material-button class=\"red\">Colored</material-button>\n    <material-button disabled>Disabled</material-button>\n    <material-button dense>Condensed</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>Raised</h3>\n    <material-button raised>Raised</material-button>\n    <material-button raised class=\"red\">Colored</material-button>\n    <material-button raised disabled>Disabled</material-button>\n    <material-button raised dense>Condensed</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>Without min-width and margin</h3>\n    <p>Regular</p>\n    <material-button class=\"red\">button</material-button>\n    <material-button class=\"red\">A</material-button>\n    <p>Without min-width and margin</p>\n    <material-button clear-size class=\"red\">button</material-button>\n    <material-button clear-size class=\"red\">A</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>With Icon</h3>\n    <material-button icon><glyph icon=\"check\"></glyph></material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>\n      <strong>F</strong>loating\n      <strong>A</strong>ction\n      <strong>B</strong>utton\n    </h3>\n    <material-fab raised>\n      <glyph icon=\"add\"></glyph>\n    </material-fab>\n    <material-fab mini raised>\n      <glyph icon=\"check\"></glyph>\n    </material-fab>\n  </section>\n\n</div>\n\n<hr>\n\n<h2>Input</h2>\n\n<material-input label=\"Write something\"></material-input>\n<material-input floatingLabel label=\"Floating label\"></material-input>\n<material-input required label=\"Required\"></material-input>\n<material-input [disabled]=\"true\" label=\"Disabled\"></material-input>\n<material-input [maxCount]=\"5\" label=\"Max 5 chars\"></material-input>\n<material-input [rightAlign]=\"true\" label=\"Aligned to the right\"></material-input>\n<material-input leadingText=\"$\" label=\"With leading text\"></material-input>\n<material-input trailingText=\"USD\" [rightAlign]=\"true\" label=\"With trailing text\"></material-input>\n<material-input leadingGlyph=\"business\" label=\"With leading glyph\"></material-input>\n<material-input trailingGlyph=\"favorite\" [rightAlign]=\"true\" label=\"With trailing glyph\"></material-input>\n\n<div>\n  Aligned with\n  <material-input type=\"text\" label=\"surrounding\"></material-input>\n  text.\n</div>\n\n<material-input multiline rows=\"3\" label=\"Write many lines\"></material-input>\n\n<hr>\n\n<h2>Checkboxes</h2>\n\n<div>\n  <h3>No label</h3>\n  <material-checkbox></material-checkbox>\n  <h3>Unchecked</h3>\n  <material-checkbox label=\"plain unchecked\"></material-checkbox>\n  <h3>Checked</h3>\n  <material-checkbox [checked]=\"true\" label=\"plain checked\"></material-checkbox>\n  <h3>Indeterminate</h3>\n  <material-checkbox [indeterminate]=\"true\" label=\"work in progress\"></material-checkbox>\n  <h3>Disabled</h3>\n  <material-checkbox [disabled]=\"true\" label=\"mission impossible\"></material-checkbox>\n  <h3>Checked and disabled</h3>\n  <material-checkbox [checked]=\"true\" [disabled]=\"true\" label=\"done and done\">\n  </material-checkbox>\n  <h3>Indeterminate and disabled</h3>\n  <material-checkbox [indeterminate]=\"true\" [disabled]=\"true\" label=\"done and done\">\n  </material-checkbox>\n  <h3>Checked and indeterminate = indeterminate</h3>\n  <material-checkbox [indeterminate]=\"true\" [checked]=\"true\" label=\"indeterminate?\">\n  </material-checkbox>\n  <h3>Label wrapped if width limit is enforced</h3>\n  <material-checkbox\n      class=\"limited-width\"\n      label=\"long label is bad label, but internationalisation has its own opinions\">\n  </material-checkbox>\n</div>\n\n<hr>\n\n<h2>Spinner</h2>\n\n<material-spinner></material-spinner> &nbsp; waiting for Godot\n\n<hr>\n\n<h2>Yes/No Buttons</h2>\n\n<material-yes-no-buttons yesHighlighted></material-yes-no-buttons>\n\n<hr>\n\n<h2>Chips</h2>\n\n<material-chips>\n  <material-chip>My Chip</material-chip>\n  <material-chip>Another Chip</material-chip>\n</material-chips>\n\n<p>Note: These are not backed by any model on this page, so clicking them won't do anything.</p>\n\n<hr>\n\n<h2>Expansion Panel</h2>\n\n<material-expansionpanel-set>\n  <material-expansionpanel name=\"Expansion panel\">\n    <div>\n      Oh hi. I was just trying not to take too much space here.\n    </div>\n  </material-expansionpanel>\n  <material-expansionpanel name=\"Expansion panel #2\">\n    <div>\n      Me too! Don't mind me.\n    </div>\n  </material-expansionpanel>\n</material-expansionpanel-set>\n\n\n<hr>\n\n<h2>Material Progress</h2>\n\n<material-progress [activeProgress]=\"10\" [secondaryProgress]=\"30\"></material-progress>\n\n<material-progress [indeterminate]=\"true\"></material-progress>\n\n<hr>\n\n<h2>Material Radio</h2>\n\n<material-radio-group>\n  <material-radio [checked]=\"true\">default choice\n  </material-radio>\n  <material-radio>alternative choice\n  </material-radio>\n</material-radio-group>\n\n<hr>\n\n<h2>Tabs</h2>\n\n<material-tab-panel>\n  <material-tab label=\"tab 1\">\n    <div>\n      These are the contents of Tab 1.\n    </div>\n  </material-tab>\n  <material-tab label=\"tab 2\">\n    <div>\n      Tab 2 contents, on the other hand, look thusly.\n    </div>\n  </material-tab>\n  <material-tab label=\"tab 3\">\n    <div>\n      <h3>Tab 3 is serious about its contents</h3>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore magni necessitatibus quam qui quis rerum sit, sunt voluptatum. Commodi, corporis minus nemo officiis quisquam rem. Magni odit quo temporibus veritatis!\n      </p>\n    </div>\n  </material-tab>\n</material-tab-panel>\n\n<hr>\n\n<h2>Toggles</h2>\n\n<material-toggle label=\"Unchecked\"></material-toggle> <br/>\n<material-toggle [checked]=\"true\" label=\"Checked\"></material-toggle> <br/>\n<material-toggle [disabled]=\"true\" label=\"Disabled off\"></material-toggle> <br/>\n<material-toggle [disabled]=\"true\" [checked]=\"true\" label=\"Disabled on\"></material-toggle>\n\n<hr>\n\n<h2>Reorder list</h2>\n\n<ol>\n  <reorder-list (reorder)=\"onReorder($event)\">\n    <li *ngFor=\"let item of reorderItems\" reorderItem>\n      {{item}}\n    </li>\n  </reorder-list>\n</ol>\n\n<hr>\n\n<h2>Scorecards</h2>\n\n<acx-scorecard\n    selectable\n    label=\"Estimated earnings\"\n    value=\"$158.22\"\n    description=\"+$24.20 (15%)\"\n    suggestionAfter=\"of last quarter\"\n    changeType=\"POSITIVE\">\n</acx-scorecard>\n\n<acx-scorecard\n    selectable\n    label=\"Lines of code\"\n    value=\"123 KLOC\"\n    description=\"+3535 (2%)\"\n    suggestionAfter=\"of last quarter\"\n    changeType=\"NEGATIVE\">\n</acx-scorecard>\n\n<acx-scorecard\n    selectable\n    [selected]=\"true\"\n    label=\"Selected scorecard\"\n    value=\"9,000\"\n    description=\"Try clicking this\">\n</acx-scorecard>\n\n<hr>\n\n<p>... and more, like &lt;focus-trap&gt;.</p>\n",
+        "template": "<!--\n  Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n  for details. All rights reserved. Use of this source code is governed by a\n  BSD-style license that can be found in the LICENSE file.\n-->\n\n<p>\n  <material-checkbox\n      [(checked)]=\"allowed\"\n      label=\"Allow clicking the two buttons below\">\n  </material-checkbox>\n</p>\n\n<p>\n  Count: {{count}} &nbsp;&nbsp;&nbsp;\n  <material-button [disabled]=\"!allowed\" (trigger)=\"increment()\" raised class=\"blue\">Increase count</material-button>\n  <material-button [disabled]=\"!allowed\" (trigger)=\"reset()\">Reset</material-button>\n</p>\n\n<p></p>\n\n<hr>\n\n<h2>Glyphs</h2>\n<glyph icon=\"favorite\"></glyph>\n<glyph icon=\"business\"></glyph>\n<glyph icon=\"thumb_up\"></glyph>\n<glyph icon=\"bluetooth_connected\"></glyph>\n<glyph icon=\"insert_photo\"></glyph>\n<glyph icon=\"more_horiz\"></glyph>\n\n<hr>\n\n<h2>Buttons</h2>\n\n<div>\n  <section class=\"margin\">\n    <h3>Flat</h3>\n    <material-button>button</material-button>\n    <material-button class=\"red\">Colored</material-button>\n    <material-button disabled>Disabled</material-button>\n    <material-button dense>Condensed</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>Raised</h3>\n    <material-button raised>Raised</material-button>\n    <material-button raised class=\"red\">Colored</material-button>\n    <material-button raised disabled>Disabled</material-button>\n    <material-button raised dense>Condensed</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>Without min-width and margin</h3>\n    <p>Regular</p>\n    <material-button class=\"red\">button</material-button>\n    <material-button class=\"red\">A</material-button>\n    <p>Without min-width and margin</p>\n    <material-button clear-size class=\"red\">button</material-button>\n    <material-button clear-size class=\"red\">A</material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>With Icon</h3>\n    <material-button icon><glyph icon=\"check\"></glyph></material-button>\n  </section>\n\n  <section class=\"margin\">\n    <h3>\n      <strong>F</strong>loating\n      <strong>A</strong>ction\n      <strong>B</strong>utton\n    </h3>\n    <material-fab raised>\n      <glyph icon=\"add\"></glyph>\n    </material-fab>\n    <material-fab mini raised>\n      <glyph icon=\"check\"></glyph>\n    </material-fab>\n  </section>\n\n</div>\n\n<hr>\n\n<h2>Input</h2>\n\n<material-input label=\"Write something\"></material-input>\n<material-input floatingLabel label=\"Floating label\"></material-input>\n<material-input required label=\"Required\"></material-input>\n<material-input [disabled]=\"true\" label=\"Disabled\"></material-input>\n<material-input [maxCount]=\"5\" label=\"Max 5 chars\"></material-input>\n<material-input [rightAlign]=\"true\" label=\"Aligned to the right\"></material-input>\n<material-input leadingText=\"$\" label=\"With leading text\"></material-input>\n<material-input trailingText=\"USD\" [rightAlign]=\"true\" label=\"With trailing text\"></material-input>\n<material-input leadingGlyph=\"business\" label=\"With leading glyph\"></material-input>\n<material-input trailingGlyph=\"favorite\" [rightAlign]=\"true\" label=\"With trailing glyph\"></material-input>\n\n<div>\n  Aligned with\n  <material-input type=\"text\" label=\"surrounding\"></material-input>\n  text.\n</div>\n\n<material-input multiline rows=\"3\" label=\"Write many lines\"></material-input>\n\n<hr>\n\n<h2>Checkboxes</h2>\n\n<div>\n  <h3>No label</h3>\n  <material-checkbox></material-checkbox>\n  <h3>Unchecked</h3>\n  <material-checkbox label=\"plain unchecked\"></material-checkbox>\n  <h3>Checked</h3>\n  <material-checkbox [checked]=\"true\" label=\"plain checked\"></material-checkbox>\n  <h3>Indeterminate</h3>\n  <material-checkbox [indeterminate]=\"true\" label=\"work in progress\"></material-checkbox>\n  <h3>Disabled</h3>\n  <material-checkbox [disabled]=\"true\" label=\"mission impossible\"></material-checkbox>\n  <h3>Checked and disabled</h3>\n  <material-checkbox [checked]=\"true\" [disabled]=\"true\" label=\"done and done\">\n  </material-checkbox>\n  <h3>Indeterminate and disabled</h3>\n  <material-checkbox [indeterminate]=\"true\" [disabled]=\"true\" label=\"done and done\">\n  </material-checkbox>\n  <h3>Checked and indeterminate = indeterminate</h3>\n  <material-checkbox [indeterminate]=\"true\" [checked]=\"true\" label=\"indeterminate?\">\n  </material-checkbox>\n  <h3>Label wrapped if width limit is enforced</h3>\n  <material-checkbox\n      class=\"limited-width\"\n      label=\"long label is bad label, but internationalisation has its own opinions\">\n  </material-checkbox>\n</div>\n\n<hr>\n\n<h2>Spinner</h2>\n\n<material-spinner></material-spinner> &nbsp; waiting for Godot\n\n<hr>\n\n<h2>Yes/No Buttons</h2>\n\n<material-yes-no-buttons yesHighlighted></material-yes-no-buttons>\n\n<hr>\n\n<h2>Chips</h2>\n\n<material-chips>\n  <material-chip>My Chip</material-chip>\n  <material-chip>Another Chip</material-chip>\n</material-chips>\n\n<p>Note: These are not backed by any model on this page, so clicking them won't do anything.</p>\n\n<hr>\n\n<h2>Expansion Panel</h2>\n\n<material-expansionpanel-set>\n  <material-expansionpanel name=\"Expansion panel\">\n    <div>\n      Oh hi. I was just trying not to take too much space here.\n    </div>\n  </material-expansionpanel>\n  <material-expansionpanel name=\"Expansion panel #2\">\n    <div>\n      Me too! Don't mind me.\n    </div>\n  </material-expansionpanel>\n</material-expansionpanel-set>\n\n\n<hr>\n\n<h2>Material Progress</h2>\n\n<material-progress [activeProgress]=\"10\" [secondaryProgress]=\"30\"></material-progress>\n\n<material-progress [indeterminate]=\"true\"></material-progress>\n\n<hr>\n\n<h2>Material Radio</h2>\n\n<material-radio-group>\n  <material-radio [checked]=\"true\">default choice\n  </material-radio>\n  <material-radio>alternative choice\n  </material-radio>\n</material-radio-group>\n\n<hr>\n\n<h2>Tabs</h2>\n\n<material-tab-panel>\n  <material-tab label=\"tab 1\">\n    <div>\n      These are the contents of Tab 1.\n    </div>\n  </material-tab>\n  <material-tab label=\"tab 2\">\n    <div>\n      Tab 2 contents, on the other hand, look thusly.\n    </div>\n  </material-tab>\n  <material-tab label=\"tab 3\">\n    <div>\n      <h3>Tab 3 is serious about its contents</h3>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore magni necessitatibus quam qui quis rerum sit, sunt voluptatum. Commodi, corporis minus nemo officiis quisquam rem. Magni odit quo temporibus veritatis!\n      </p>\n    </div>\n  </material-tab>\n</material-tab-panel>\n\n<hr>\n\n<h2>Toggles</h2>\n\n<material-toggle label=\"Unchecked\"></material-toggle> <br/>\n<material-toggle [checked]=\"true\" label=\"Checked\"></material-toggle> <br/>\n<material-toggle [disabled]=\"true\" label=\"Disabled off\"></material-toggle> <br/>\n<material-toggle [disabled]=\"true\" [checked]=\"true\" label=\"Disabled on\"></material-toggle>\n\n<hr>\n\n<h2>Reorder list</h2>\n\n<ol>\n  <reorder-list (reorder)=\"onReorder($event)\">\n    <li *ngFor=\"let item of reorderItems\" reorderItem>\n      {{item}}\n    </li>\n  </reorder-list>\n</ol>\n\n<hr>\n\n<h2>Scorecards</h2>\n\n<acx-scorecard\n    selectable\n    label=\"Estimated earnings\"\n    value=\"$158.22\"\n    description=\"+$24.20 (15%)\"\n    suggestionAfter=\"of last quarter\"\n    changeType=\"POSITIVE\">\n</acx-scorecard>\n\n<acx-scorecard\n    selectable\n    label=\"Lines of code\"\n    value=\"123 KLOC\"\n    description=\"+3535 (2%)\"\n    suggestionAfter=\"of last quarter\"\n    changeType=\"NEGATIVE\">\n</acx-scorecard>\n\n<acx-scorecard\n    selectable\n    [selected]=\"true\"\n    label=\"Selected scorecard\"\n    value=\"9,000\"\n    description=\"Try clicking this\">\n</acx-scorecard>\n\n<hr>\n\n<h2>Modal Dialogs</h2>\n<h3>Basic no-frills dialogs</h3>\n\n<!-- Basic Dialog -->\n<material-button (trigger)=\"showBasicDialog = true\"\n                 [disabled]=\"showBasicDialog\"\n                 raised\n                 class=\"blue\">\n  Open Basic\n</material-button>\n\n<modal [visible]=\"showBasicDialog\">\n  <material-dialog class=\"basic-dialog\">\n\n    <h3 header>Dialog title</h3>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum lacus est, eu\n      sagittis ligula fermentum vel. Maecenas facilisis leo dolor, quis rhoncus sem imperdiet vel.\n      Vestibulum vitae tristique orci. Ut lobortis varius convallis. Ut nec egestas diam. Nunc in\n      tincidunt erat. Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverra.\n    </p>\n\n    <div footer>\n      <material-button autoFocus\n                       clear-size\n                       (trigger)=\"showBasicDialog = false\"\n                       class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<!-- Basic Scrolling Dialog -->\n<material-button (trigger)=\"showBasicScrollingDialog = true\"\n                 [disabled]=\"showBasicScrollingDialog\"\n                 raised\n                 class=\"blue\">\n  Open Basic Scrolling\n</material-button>\n\n<modal [visible]=\"showBasicScrollingDialog\">\n  <material-dialog class=\"basic-scrolling-dialog\">\n\n    <h3 header>Dialog title</h3>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum lacus est, eu\n      sagittis ligula fermentum vel. Maecenas facilisis leo dolor, quis rhoncus sem imperdiet vel.\n      Vestibulum vitae tristique orci. Ut lobortis varius convallis. Ut nec egestas diam. Nunc in\n      tincidunt erat. Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverra am. Nunc in tincidunt erat. Vivamus porttitor molestie\n      ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac viverr am. Nunc in\n      tincidunt erat. Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverr am. Nunc in tincidunt erat. Vivamus porttitor molestie\n      ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac viverr am. Nunc in\n      tincidunt erat. Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverr.\n    </p>\n\n    <p>\n      Aenean scelerisque posuere augue, vitae ornare felis ultricies nec. Integer tincidunt libero\n      quis diam congue, ac congue augue posuere. Quisque vel dui a libero finibus imperdiet. Donec\n      ac sapien eget ante volutpat hendrerit. Nunc vel aliquam sapien. Sed dolor libero, posuere a\n      ex eget, fermentum aliquet augue. Phasellus lobortis vitae lorem at egestas. Morbi et ante\n      ultrices ligula dignissim tincidunt non a sem. Morbi tempor posuere sapien sit amet sodales.\n      Praesent ac felis hendrerit, luctus augue et, tristique neque. Nulla scelerisque, urna non\n      iaculis auctor, nisi orci vehicula tellus, sed rhoncus purus eros rhoncus erat. Mauris in\n      mollis nisl. Mauris pretium erat id feugiat mollis. Nam at molestie nisi. Mauris pretium\n      pulvinar neque, sit amet sagittis felis hendrerit suscipit.\n    </p>\n\n    <div footer>\n      <material-button autoFocus\n                       clear-size\n                       (trigger)=\"showBasicScrollingDialog = false\"\n                       class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<!-- Max Height Dialog -->\n<material-button (trigger)=\"showMaxHeightDialog = true\"\n                 [disabled]=\"showMaxHeightDialog\"\n                 raised\n                 class=\"blue\">\n  Open Max Height\n</material-button>\n\n<modal [visible]=\"showMaxHeightDialog\">\n  <material-dialog class=\"max-height-dialog\">\n\n    <h3 header>Dialog title</h3>\n\n    <p *ngFor=\"let maxHeightDialogLine of maxHeightDialogLines\">\n      {{maxHeightDialogLine}}\n    </p>\n\n    <div footer>\n      <material-button (trigger)=\"removeMaxHeightDialogLine()\"\n                       [disabled]=\"maxHeightDialogLines.isEmpty\"\n                       class=\"white\">\n        Remove Some Text\n      </material-button>\n      <material-button (trigger)=\"addMaxHeightDialogLine()\" class=\"white\">\n        Add Some Text\n      </material-button>\n      <material-button autoFocus (trigger)=\"showMaxHeightDialog = false\" class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<h3>Headered dialogs</h3>\n<!-- Headered Dialog -->\n<material-button (trigger)=\"showHeaderedDialog = true\"\n                 [disabled]=\"showHeaderedDialog\"\n                 raised\n                 class=\"blue\">\n  Open Headered\n</material-button>\n\n<modal [(visible)]=\"showHeaderedDialog\">\n  <material-dialog headered class=\"headered-dialog\">\n\n    <div header>\n      <h3>Dialog Title</h3>\n      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum lacus est.</p>\n    </div>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum lacus est, eu\n      sagittis ligula fermentum vel. Maecenas facilisis leo dolor, quis rhoncus sem imperdiet vel.\n      Vestibulum vitae tristique orci. Ut lobortis varius convallis. Ut nec egestas diam. Nunc in\n      tincidunt erat. Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverra am. Nunc in tincidunt erat. Vivamus porttitor molestie\n      ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac viverr am. Nunc in\n      tincidunt erat. Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverr am. Nunc in tincidunt erat. Vivamus porttitor molestie\n      ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac viverr am. Nunc in\n      tincidunt erat. Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverr.\n    </p>\n\n    <div footer>\n      <material-button autoFocus\n                       clear-size\n                       (trigger)=\"showHeaderedDialog = false\"\n                       class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<!-- Dialog with Error -->\n<material-button (trigger)=\"showDialogWithError = true\"\n                 [disabled]=\"showDialogWithError\"\n                 raised\n                 class=\"blue\">\n  Open dialog with an error\n</material-button>\n\n<modal [(visible)]=\"showDialogWithError\">\n  <material-dialog headered\n                   class=\"dialog-with-error\"\n                   [error]=\"dialogWithErrorErrorMessage\">\n\n    <div header>\n      <h3>Dialog Title</h3>\n    </div>\n\n    <material-button raised (trigger)=\"toggleErrorMessage()\" class=\"blue\">\n      {{dialogWithErrorErrorMessage == null ? 'Show' : 'Hide'}} Error Message\n    </material-button>\n\n    <div footer>\n      <material-button autoFocus class=\"close-button white\" (trigger)=\"showDialogWithError = false\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<h3>Info dialogs</h3>\n<!-- Info Dialog -->\n<material-button (trigger)=\"showInfoDialog = true\"\n                 [disabled]=\"showInfoDialog\"\n                 raised\n                 class=\"blue\">\n  Open Info\n</material-button>\n\n<modal [visible]=\"showInfoDialog\">\n  <material-dialog info class=\"info-dialog\">\n\n    <div header>\n      <material-button icon autoFocus (trigger)=\"showInfoDialog = false\">\n        <glyph icon=\"close\"></glyph>\n      </material-button>\n\n      <h3>Information</h3>\n    </div>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum lacus est, eu\n      sagittis ligula fermentum vel. Maecenas facilisis leo dolor, quis rhoncus sem imperdiet.\n    </p>\n\n  </material-dialog>\n</modal>\n\n<!-- Dialog with auto dismiss -->\n<material-button (trigger)=\"showAutoDismissDialog = true\"\n                 [disabled]=\"showAutoDismissDialog\"\n                 raised\n                 class=\"blue\">\n  Open with auto dismiss\n</material-button>\n\n<modal [(visible)]=\"showAutoDismissDialog\">\n  <material-dialog\n      info\n      class=\"info-dialog\"\n      [autoDismissable]=\"showAutoDismissDialog\"\n      (dismiss)=\"showAutoDismissDialog = false\">\n\n    <div header>\n      <material-button icon autoFocus (trigger)=\"showAutoDismissDialog = false\">\n        <glyph icon=\"close\"></glyph>\n      </material-button>\n\n      <h3>Auto Dismiss</h3>\n    </div>\n\n    <p>Click outside the dialog to dismiss.</p>\n\n  </material-dialog>\n</modal>\n\n<h3>Custom dialogs</h3>\n<!-- Dialog with custom background colors -->\n<material-button (trigger)=\"showCustomColorsDialog = true\"\n                 [disabled]=\"showCustomColorsDialog\"\n                 raised\n                 class=\"blue\">\n  Open custom background colors\n</material-button>\n\n<modal [(visible)]=\"showCustomColorsDialog\">\n  <material-dialog headered info class=\"custom-colors-dialog\">\n\n    <div header>\n      <material-button icon autoFocus (trigger)=\"showCustomColorsDialog = false\">\n        <glyph icon=\"close\"></glyph>\n      </material-button>\n\n      <h3>Information</h3>\n    </div>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum lacus est, eu\n      sagittis ligula fermentum vel. Maecenas facilisis leo dolor, quis rhoncus sem imperdiet.\n    </p>\n\n  </material-dialog>\n</modal>\n\n<!-- Dialog with no header and footer -->\n<material-button (trigger)=\"showNoHeaderFooterDialog = true\"\n                 [disabled]=\"showNoHeaderFooterDialog\"\n                 raised\n                 class=\"blue\">\n  Open no header or footer\n</material-button>\n\n<modal [(visible)]=\"showNoHeaderFooterDialog\">\n  <material-dialog class=\"no-header-footer-dialog\" hideHeader=\"true\" hideFooter=\"true\">\n    <p>This custom dialog is good for inserting resuable widgets.</p>\n\n    <material-button (trigger)=\"showNoHeaderFooterDialog = false\"\n                     autoFocus\n                     raised\n                     class=\"blue\">\n      Close\n    </material-button>\n  </material-dialog>\n</modal>\n\n<p>... and more, like &lt;focus-trap&gt;.</p>\n",
         "templateUrl": "asset:angular2_components_example/lib/app_component.html",
         "styles": [],
         "styleUrls": [
@@ -373,6 +373,1039 @@
                 "isValue": false
               }
             ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "AcxImperativeViewUtils",
+              "moduleUrl": "asset:angular2_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "AcxImperativeViewUtils",
+            "moduleUrl": "asset:angular2_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DynamicComponentLoader",
+                    "moduleUrl": "asset:angular2/lib/src/core/linker/dynamic_component_loader.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DomService",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "DomRuler",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "DomRuler",
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "Document",
+                    "moduleUrl": "dart:html",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DomService",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "DomService",
+              "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": {
+            "class": "Factory",
+            "name": "createDomService",
+            "prefix": null,
+            "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/angular_2.dart",
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DomService",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": true,
+                "isOptional": true,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "Disposer",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": true,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "ManagedZone",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "Window",
+                    "moduleUrl": "dart:html",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useProperty": null,
+          "multi": false,
+          "deps": [
+            {
+              "token": {
+                "value": null,
+                "identifier": {
+                  "class": "Identifier",
+                  "name": "DomService",
+                  "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                  "prefix": null,
+                  "value": null
+                },
+                "identifierIsInstance": false
+              },
+              "query": null,
+              "viewQuery": null,
+              "value": null,
+              "isAttribute": false,
+              "isSelf": false,
+              "isHost": false,
+              "isSkipSelf": true,
+              "isOptional": true,
+              "isValue": false
+            },
+            {
+              "token": {
+                "value": null,
+                "identifier": {
+                  "class": "Identifier",
+                  "name": "Disposer",
+                  "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
+                  "prefix": null,
+                  "value": null
+                },
+                "identifierIsInstance": false
+              },
+              "query": null,
+              "viewQuery": null,
+              "value": null,
+              "isAttribute": false,
+              "isSelf": false,
+              "isHost": false,
+              "isSkipSelf": false,
+              "isOptional": true,
+              "isValue": false
+            },
+            {
+              "token": {
+                "value": null,
+                "identifier": {
+                  "class": "Identifier",
+                  "name": "ManagedZone",
+                  "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
+                  "prefix": null,
+                  "value": null
+                },
+                "identifierIsInstance": false
+              },
+              "query": null,
+              "viewQuery": null,
+              "value": null,
+              "isAttribute": false,
+              "isSelf": false,
+              "isHost": false,
+              "isSkipSelf": false,
+              "isOptional": false,
+              "isValue": false
+            },
+            {
+              "token": {
+                "value": null,
+                "identifier": {
+                  "class": "Identifier",
+                  "name": "Window",
+                  "moduleUrl": "dart:html",
+                  "prefix": null,
+                  "value": null
+                },
+                "identifierIsInstance": false
+              },
+              "query": null,
+              "viewQuery": null,
+              "value": null,
+              "isAttribute": false,
+              "isSelf": false,
+              "isHost": false,
+              "isSkipSelf": false,
+              "isOptional": false,
+              "isValue": false
+            }
+          ]
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "ManagedZone",
+              "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "Angular2ManagedZone",
+            "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/angular_2.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "NgZone",
+                    "moduleUrl": "asset:angular2/lib/src/core/zone/ng_zone.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "overlayContainerName",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": "default",
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "overlayContainerToken",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": {
+            "class": "Factory",
+            "name": "getDefaultContainer",
+            "prefix": null,
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/module.dart",
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "overlayContainerName",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "overlayContainerParent",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "overlayContainerParent",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": {
+            "class": "Factory",
+            "name": "getOverlayContainerParent",
+            "prefix": null,
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/module.dart",
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "Document",
+                    "moduleUrl": "dart:html",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "overlaySyncDom",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": true,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "OverlayDomRenderService",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "OverlayDomRenderService",
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "OverlayStyleConfig",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "overlayContainerToken",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "overlayContainerName",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DomRuler",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DomService",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "AcxImperativeViewUtils",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "overlaySyncDom",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "ZIndexer",
+                    "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "OverlayStyleConfig",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "OverlayStyleConfig",
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "Document",
+                    "moduleUrl": "dart:html",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "OverlayService",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "OverlayDomService",
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_dom_service.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "NgZone",
+                    "moduleUrl": "asset:angular2/lib/src/core/zone/ng_zone.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "overlaySyncDom",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "OverlayDomRenderService",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "OverlayService",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": true,
+                "isOptional": true,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Document",
+              "moduleUrl": "dart:html",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": {
+            "class": "Factory",
+            "name": "getDocument",
+            "prefix": null,
+            "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
+            "value": null,
+            "diDeps": []
+          },
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Window",
+              "moduleUrl": "dart:html",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": {
+            "class": "Factory",
+            "name": "getWindow",
+            "prefix": null,
+            "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
+            "value": null,
+            "diDeps": []
+          },
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "ZIndexer",
+              "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "ZIndexer",
+            "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": []
           },
           "useExisting": null,
           "useValue": null,

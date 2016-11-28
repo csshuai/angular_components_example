@@ -70,7 +70,8 @@
         "styleUrls": [
           "asset:angular2_components/lib/src/components/material_progress/material_progress.scss.css"
         ],
-        "ngContentSelectors": []
+        "ngContentSelectors": [],
+        "preserveWhitespace": false
       },
       "providers": [],
       "viewProviders": [],
