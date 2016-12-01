@@ -143,8 +143,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -165,8 +163,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -187,8 +183,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -209,8 +203,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": true,
@@ -225,8 +217,6 @@
               "identifier": null,
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": true,
             "isSelf": false,

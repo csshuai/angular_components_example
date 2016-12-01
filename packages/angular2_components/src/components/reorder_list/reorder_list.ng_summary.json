@@ -49,14 +49,6 @@
           {
             "1": "ManagedZone",
             "4": "_managedZone"
-          },
-          {
-            "1": "QueryList",
-            "2": "<ReorderItemDirective>",
-            "3": [
-              "const ContentChildren(ReorderItemDirective)"
-            ],
-            "4": "_items"
           }
         ],
         "6": [
@@ -129,8 +121,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -184,48 +174,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "QueryList",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": {
-              "selectors": [
-                {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "ReorderItemDirective",
-                    "moduleUrl": null,
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                }
-              ],
-              "descendants": true,
-              "first": false,
-              "propertyName": null,
-              "read": null
-            },
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -279,7 +227,27 @@
       },
       "providers": [],
       "viewProviders": [],
-      "queries": [],
+      "queries": [
+        {
+          "selectors": [
+            {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ReorderItemDirective",
+                "moduleUrl": null,
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            }
+          ],
+          "descendants": false,
+          "first": false,
+          "propertyName": "items",
+          "read": null
+        }
+      ],
       "viewQueries": [
         {
           "selectors": [

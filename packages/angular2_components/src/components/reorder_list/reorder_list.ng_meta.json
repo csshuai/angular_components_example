@@ -49,14 +49,6 @@
           {
             "1": "ManagedZone",
             "4": "_managedZone"
-          },
-          {
-            "1": "QueryList",
-            "2": "<ReorderItemDirective>",
-            "3": [
-              "const ContentChildren(ReorderItemDirective)"
-            ],
-            "4": "_items"
           }
         ],
         "6": [
@@ -151,8 +143,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -206,48 +196,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "QueryList",
-                "moduleUrl": "asset:angular2/lib/src/core/linker/query_list.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": {
-              "selectors": [
-                {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "ReorderItemDirective",
-                    "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                }
-              ],
-              "descendants": true,
-              "first": false,
-              "propertyName": null,
-              "read": null
-            },
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -301,7 +249,50 @@
       },
       "providers": [],
       "viewProviders": [],
-      "queries": [],
+      "queries": [
+        {
+          "selectors": [
+            {
+              "value": null,
+              "identifier": {
+                "class": "Type",
+                "name": "ReorderItemDirective",
+                "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
+                "prefix": null,
+                "isHost": false,
+                "value": null,
+                "diDeps": [
+                  {
+                    "token": {
+                      "value": null,
+                      "identifier": {
+                        "class": "Identifier",
+                        "name": "ElementRef",
+                        "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                        "prefix": null,
+                        "value": null
+                      },
+                      "identifierIsInstance": false
+                    },
+                    "value": null,
+                    "isAttribute": false,
+                    "isSelf": false,
+                    "isHost": false,
+                    "isSkipSelf": false,
+                    "isOptional": false,
+                    "isValue": false
+                  }
+                ]
+              },
+              "identifierIsInstance": false
+            }
+          ],
+          "descendants": false,
+          "first": false,
+          "propertyName": "items",
+          "read": null
+        }
+      ],
       "viewQueries": [
         {
           "selectors": [

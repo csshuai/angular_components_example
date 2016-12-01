@@ -22,16 +22,6 @@
     "5": [
       {
         "1": "MaterialExpansionPanelSet",
-        "5": [
-          {
-            "1": "QueryList",
-            "2": "<MaterialExpansionPanel>",
-            "3": [
-              "const ContentChildren(MaterialExpansionPanel)"
-            ],
-            "4": "_panels"
-          }
-        ],
         "6": [
           "OnDestroy"
         ]
@@ -52,48 +42,7 @@
         "prefix": null,
         "isHost": false,
         "value": null,
-        "diDeps": [
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "QueryList",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": {
-              "selectors": [
-                {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "MaterialExpansionPanel",
-                    "moduleUrl": null,
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                }
-              ],
-              "descendants": true,
-              "first": false,
-              "propertyName": null,
-              "read": null
-            },
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          }
-        ]
+        "diDeps": []
       },
       "changeDetection": 6,
       "inputs": {},
@@ -108,7 +57,27 @@
       "template": null,
       "providers": [],
       "viewProviders": [],
-      "queries": [],
+      "queries": [
+        {
+          "selectors": [
+            {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "MaterialExpansionPanel",
+                "moduleUrl": null,
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            }
+          ],
+          "descendants": false,
+          "first": false,
+          "propertyName": "panels",
+          "read": null
+        }
+      ],
       "viewQueries": []
     }
   },

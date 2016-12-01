@@ -40,13 +40,6 @@
             "4": "_managedZone"
           },
           {
-            "1": "QueryList",
-            "3": [
-              "const ContentChildren(MaterialRadioComponent)"
-            ],
-            "4": "components"
-          },
-          {
             "1": "NgControl",
             "3": [
               "const Self()",
@@ -119,48 +112,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "QueryList",
-                "moduleUrl": "asset:angular2/lib/src/core/linker/query_list.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "query": {
-              "selectors": [
-                {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "MaterialRadioComponent",
-                    "moduleUrl": "asset:angular2_components/lib/src/components/material_radio/material_radio.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                }
-              ],
-              "descendants": true,
-              "first": false,
-              "propertyName": null,
-              "read": null
-            },
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": false,
@@ -181,8 +132,6 @@
               },
               "identifierIsInstance": false
             },
-            "query": null,
-            "viewQuery": null,
             "value": null,
             "isAttribute": false,
             "isSelf": true,
@@ -228,7 +177,124 @@
       },
       "providers": [],
       "viewProviders": [],
-      "queries": [],
+      "queries": [
+        {
+          "selectors": [
+            {
+              "value": null,
+              "identifier": {
+                "class": "Type",
+                "name": "MaterialRadioComponent",
+                "moduleUrl": "asset:angular2_components/lib/src/components/material_radio/material_radio.dart",
+                "prefix": null,
+                "isHost": false,
+                "value": null,
+                "diDeps": [
+                  {
+                    "token": {
+                      "value": null,
+                      "identifier": {
+                        "class": "Identifier",
+                        "name": "ElementRef",
+                        "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                        "prefix": null,
+                        "value": null
+                      },
+                      "identifierIsInstance": false
+                    },
+                    "value": null,
+                    "isAttribute": false,
+                    "isSelf": false,
+                    "isHost": false,
+                    "isSkipSelf": false,
+                    "isOptional": false,
+                    "isValue": false
+                  },
+                  {
+                    "token": {
+                      "value": null,
+                      "identifier": {
+                        "class": "Identifier",
+                        "name": "ChangeDetectorRef",
+                        "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
+                        "prefix": null,
+                        "value": null
+                      },
+                      "identifierIsInstance": false
+                    },
+                    "value": null,
+                    "isAttribute": false,
+                    "isSelf": false,
+                    "isHost": false,
+                    "isSkipSelf": false,
+                    "isOptional": false,
+                    "isValue": false
+                  },
+                  {
+                    "token": {
+                      "value": null,
+                      "identifier": {
+                        "class": "Identifier",
+                        "name": "MaterialRadioGroupComponent",
+                        "moduleUrl": "asset:angular2_components/lib/src/components/material_radio/material_radio_group.dart",
+                        "prefix": null,
+                        "value": null
+                      },
+                      "identifierIsInstance": false
+                    },
+                    "value": null,
+                    "isAttribute": false,
+                    "isSelf": false,
+                    "isHost": true,
+                    "isSkipSelf": false,
+                    "isOptional": true,
+                    "isValue": false
+                  },
+                  {
+                    "token": {
+                      "value": null,
+                      "identifier": {
+                        "class": "Identifier",
+                        "name": "NgControl",
+                        "moduleUrl": "asset:angular2/lib/src/common/forms/directives/ng_control.dart",
+                        "prefix": null,
+                        "value": null
+                      },
+                      "identifierIsInstance": false
+                    },
+                    "value": null,
+                    "isAttribute": false,
+                    "isSelf": true,
+                    "isHost": false,
+                    "isSkipSelf": false,
+                    "isOptional": true,
+                    "isValue": false
+                  },
+                  {
+                    "token": {
+                      "value": "role",
+                      "identifier": null,
+                      "identifierIsInstance": false
+                    },
+                    "value": null,
+                    "isAttribute": true,
+                    "isSelf": false,
+                    "isHost": false,
+                    "isSkipSelf": false,
+                    "isOptional": false,
+                    "isValue": false
+                  }
+                ]
+              },
+              "identifierIsInstance": false
+            }
+          ],
+          "descendants": false,
+          "first": false,
+          "propertyName": "list",
+          "read": null
+        }
+      ],
       "viewQueries": []
     }
   },
