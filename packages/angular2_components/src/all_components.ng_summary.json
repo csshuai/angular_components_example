@@ -90,6 +90,9 @@
         "1": "components/material_input/material_input_multiline.dart"
       },
       {
+        "1": "components/material_popup/material_popup.dart"
+      },
+      {
         "1": "components/material_progress/material_progress.dart"
       },
       {
@@ -132,6 +135,9 @@
         "1": "components/mixins/has_tab_index.dart"
       },
       {
+        "1": "components/mixins/material_dropdown_base.dart"
+      },
+      {
         "1": "components/reorder_list/reorder_list.dart"
       },
       {
@@ -151,6 +157,12 @@
       },
       {
         "1": "laminate/overlay/module.dart"
+      },
+      {
+        "1": "laminate/popup/module.dart"
+      },
+      {
+        "1": "laminate/popup/popup.dart"
       }
     ],
     "6": "all_components.dart"

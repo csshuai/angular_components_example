@@ -177,6 +177,13 @@
         },
         {
           "class": "Identifier",
+          "name": "MaterialPopupComponent",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
           "name": "MaterialProgressComponent",
           "moduleUrl": null,
           "prefix": null,
@@ -261,6 +268,13 @@
         },
         {
           "class": "Identifier",
+          "name": "PopupSourceDirective",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
           "name": "ReorderItemDirective",
           "moduleUrl": null,
           "prefix": null,
@@ -290,14 +304,14 @@
       "value": [
         {
           "class": "Identifier",
-          "name": "rippleBindings",
+          "name": "popupBindings",
           "moduleUrl": null,
           "prefix": null,
           "value": null
         },
         {
           "class": "Identifier",
-          "name": "overlayBindings",
+          "name": "rippleBindings",
           "moduleUrl": null,
           "prefix": null,
           "value": null
@@ -328,6 +342,7 @@
       "MaterialFabComponent",
       "MaterialInputComponent",
       "MaterialInputDefaultValueAccessor",
+      "MaterialPopupComponent",
       "MaterialProgressComponent",
       "MaterialRadioComponent",
       "MaterialRadioGroupComponent",
@@ -340,13 +355,14 @@
       "MaterialMultilineInputComponent",
       "ModalComponent",
       "NgModel",
+      "PopupSourceDirective",
       "ReorderItemDirective",
       "ReorderListComponent",
       "ScorecardComponent"
     ],
     "materialProviders": [
-      "rippleBindings",
-      "overlayBindings"
+      "popupBindings",
+      "rippleBindings"
     ]
   }
 }
