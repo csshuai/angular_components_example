@@ -105,9 +105,6 @@
         "1": "components/material_ripple/material_ripple.dart"
       },
       {
-        "1": "components/material_ripple/module.dart"
-      },
-      {
         "1": "components/material_spinner/material_spinner.dart"
       },
       {
@@ -124,6 +121,12 @@
       },
       {
         "1": "components/material_toggle/material_toggle.dart"
+      },
+      {
+        "1": "components/material_tooltip/material_tooltip.dart"
+      },
+      {
+        "1": "components/material_tooltip/module.dart"
       },
       {
         "1": "components/material_yes_no_buttons/material_yes_no_buttons.dart"
