@@ -205,6 +205,20 @@
         },
         {
           "class": "Identifier",
+          "name": "MaterialListComponent",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "MaterialListItemComponent",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
           "name": "MaterialMultilineInputComponent",
           "moduleUrl": null,
           "prefix": null,
@@ -395,6 +409,8 @@
       "MaterialInkTooltipComponent",
       "MaterialInputComponent",
       "MaterialInputDefaultValueAccessor",
+      "MaterialListComponent",
+      "MaterialListItemComponent",
       "MaterialMultilineInputComponent",
       "MaterialPaperTooltipComponent",
       "MaterialPopupComponent",

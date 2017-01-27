@@ -90,6 +90,15 @@
         "1": "components/material_input/material_input_multiline.dart"
       },
       {
+        "1": "components/material_list/material_list.dart"
+      },
+      {
+        "1": "components/material_list/material_list_item.dart"
+      },
+      {
+        "1": "components/material_list/material_list_size.dart"
+      },
+      {
         "1": "components/material_popup/material_popup.dart"
       },
       {
@@ -166,6 +175,9 @@
       },
       {
         "1": "laminate/popup/popup.dart"
+      },
+      {
+        "1": "model/selection/selection_model.dart"
       }
     ],
     "6": "all_components.dart",
@@ -279,108 +291,124 @@
         "4": "i26"
       },
       {
-        "1": "components/material_popup/material_popup.template.dart",
+        "1": "components/material_list/material_list.template.dart",
         "4": "i27"
       },
       {
-        "1": "components/material_progress/material_progress.template.dart",
+        "1": "components/material_list/material_list_item.template.dart",
         "4": "i28"
       },
       {
-        "1": "components/material_radio/material_radio.template.dart",
+        "1": "components/material_list/material_list_size.template.dart",
         "4": "i29"
       },
       {
-        "1": "components/material_radio/material_radio_group.template.dart",
+        "1": "components/material_popup/material_popup.template.dart",
         "4": "i30"
       },
       {
-        "1": "components/material_ripple/material_ripple.template.dart",
+        "1": "components/material_progress/material_progress.template.dart",
         "4": "i31"
       },
       {
-        "1": "components/material_spinner/material_spinner.template.dart",
+        "1": "components/material_radio/material_radio.template.dart",
         "4": "i32"
       },
       {
-        "1": "components/material_tab/fixed_material_tab_strip.template.dart",
+        "1": "components/material_radio/material_radio_group.template.dart",
         "4": "i33"
       },
       {
-        "1": "components/material_tab/material_tab.template.dart",
+        "1": "components/material_ripple/material_ripple.template.dart",
         "4": "i34"
       },
       {
-        "1": "components/material_tab/material_tab_panel.template.dart",
+        "1": "components/material_spinner/material_spinner.template.dart",
         "4": "i35"
       },
       {
-        "1": "components/material_tab/tab_change_event.template.dart",
+        "1": "components/material_tab/fixed_material_tab_strip.template.dart",
         "4": "i36"
       },
       {
-        "1": "components/material_toggle/material_toggle.template.dart",
+        "1": "components/material_tab/material_tab.template.dart",
         "4": "i37"
       },
       {
-        "1": "components/material_tooltip/material_tooltip.template.dart",
+        "1": "components/material_tab/material_tab_panel.template.dart",
         "4": "i38"
       },
       {
-        "1": "components/material_tooltip/module.template.dart",
+        "1": "components/material_tab/tab_change_event.template.dart",
         "4": "i39"
       },
       {
-        "1": "components/material_yes_no_buttons/material_yes_no_buttons.template.dart",
+        "1": "components/material_toggle/material_toggle.template.dart",
         "4": "i40"
       },
       {
-        "1": "components/mixins/focusable_mixin.template.dart",
+        "1": "components/material_tooltip/material_tooltip.template.dart",
         "4": "i41"
       },
       {
-        "1": "components/mixins/has_tab_index.template.dart",
+        "1": "components/material_tooltip/module.template.dart",
         "4": "i42"
       },
       {
-        "1": "components/mixins/material_dropdown_base.template.dart",
+        "1": "components/material_yes_no_buttons/material_yes_no_buttons.template.dart",
         "4": "i43"
       },
       {
-        "1": "components/reorder_list/reorder_list.template.dart",
+        "1": "components/mixins/focusable_mixin.template.dart",
         "4": "i44"
       },
       {
-        "1": "components/scorecard/scoreboard.template.dart",
+        "1": "components/mixins/has_tab_index.template.dart",
         "4": "i45"
       },
       {
-        "1": "components/scorecard/scorecard.template.dart",
+        "1": "components/mixins/material_dropdown_base.template.dart",
         "4": "i46"
       },
       {
-        "1": "components/theme/dark_theme.template.dart",
+        "1": "components/reorder_list/reorder_list.template.dart",
         "4": "i47"
       },
       {
-        "1": "components/theme/module.template.dart",
+        "1": "components/scorecard/scoreboard.template.dart",
         "4": "i48"
       },
       {
-        "1": "laminate/components/modal/modal.template.dart",
+        "1": "components/scorecard/scorecard.template.dart",
         "4": "i49"
       },
       {
-        "1": "laminate/overlay/module.template.dart",
+        "1": "components/theme/dark_theme.template.dart",
         "4": "i50"
       },
       {
-        "1": "laminate/popup/module.template.dart",
+        "1": "components/theme/module.template.dart",
         "4": "i51"
       },
       {
-        "1": "laminate/popup/popup.template.dart",
+        "1": "laminate/components/modal/modal.template.dart",
         "4": "i52"
+      },
+      {
+        "1": "laminate/overlay/module.template.dart",
+        "4": "i53"
+      },
+      {
+        "1": "laminate/popup/module.template.dart",
+        "4": "i54"
+      },
+      {
+        "1": "laminate/popup/popup.template.dart",
+        "4": "i55"
+      },
+      {
+        "1": "model/selection/selection_model.template.dart",
+        "4": "i56"
       }
     ]
   },
@@ -15070,6 +15098,208 @@
         }
       ]
     },
+    "MaterialListComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-list",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialListComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_list/material_list.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 4,
+      "inputs": {
+        "size": "size",
+        "width": "width"
+      },
+      "inputTypes": {
+        "size": " String"
+      },
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {
+        "attr.size": "size"
+      },
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 0,
+        "template": "<ng-content></ng-content>",
+        "templateUrl": "asset:angular2_components/lib/src/components/material_list/material_list.dart",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components/lib/src/components/material_list/material_list.scss.css"
+        ],
+        "ngContentSelectors": [
+          "*"
+        ]
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "MaterialListSize": {
+      "class": "Identifier",
+      "name": "MaterialListSize",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_list/material_list_size.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MaterialListItemComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-list-item",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialListItemComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_list/material_list_item.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ElementRef",
+                "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "DomService",
+                "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "DropdownHandle",
+                "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": "tabindex",
+              "identifier": null,
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": true,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": "role",
+              "identifier": null,
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": true,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 4,
+      "inputs": {
+        "disabled": "disabled",
+        "active": "active",
+        "closeOnActivate": "closeOnActivate"
+      },
+      "inputTypes": {},
+      "outputs": {
+        "trigger": "trigger"
+      },
+      "hostListeners": {
+        "mouseenter": "onMouseEnter()",
+        "click": "handleClick($event)",
+        "keypress": "handleKeyPress($event)",
+        "mouseleave": "onMouseLeave()"
+      },
+      "hostProperties": {
+        "attr.tabindex": "tabIndex",
+        "attr.role": "role != null ? role : \"button\"",
+        "class.disabled": "disabled",
+        "class.active": "active",
+        "attr.aria-disabled": "disabledStr"
+      },
+      "hostAttributes": {
+        "class": "item"
+      },
+      "lifecycleHooks": [
+        1
+      ],
+      "template": {
+        "encapsulation": 0,
+        "template": "<ng-content></ng-content>",
+        "templateUrl": "asset:angular2_components/lib/src/components/material_list/material_list_item.dart",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components/lib/src/components/material_list/material_list_item.scss.css"
+        ],
+        "ngContentSelectors": [
+          "*"
+        ]
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
     "MaterialPopupComponent_getResolvedPopupRef": {
       "class": "Identifier",
       "name": "MaterialPopupComponent_getResolvedPopupRef",
@@ -17010,8 +17240,7 @@
         "activeProgress": " int",
         "secondaryProgress": " int",
         "min": " int",
-        "max": " int",
-        "indeterminate": " bool"
+        "max": " int"
       },
       "outputs": {},
       "hostListeners": {},
@@ -18042,6 +18271,13 @@
         }
       ],
       "viewQueries": []
+    },
+    "noSelectionIndex": {
+      "class": "Identifier",
+      "name": "noSelectionIndex",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tab/tab_change_event.dart",
+      "prefix": null,
+      "value": null
     },
     "TabChangeEvent": {
       "class": "Identifier",
@@ -20766,7 +21002,8 @@
       "inputs": {
         "type": "type",
         "scrollable": "scrollable",
-        "resetOnCardChanges": "resetOnCardChanges"
+        "resetOnCardChanges": "resetOnCardChanges",
+        "isVertical": "isVertical"
       },
       "inputTypes": {
         "type": " ScoreboardType"
@@ -20781,7 +21018,7 @@
       ],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"acx-scoreboard\">\n  <material-button class=\"scroll-button scroll-back-button\"\n                   (trigger)=\"scrollBack()\"\n                   [class.hide]=\"atScorecardBarStart\"\n                   *ngIf=\"isScrollable\">\n    <glyph [icon]=\"backIconType\"\n           [attr.aria-label]=\"scrollScorecardBarBack\">\n    </glyph>\n  </material-button>\n  <div scorecardBar class=\"scorecard-bar\">\n    <ng-content></ng-content>\n  </div>\n  <material-button class=\"scroll-button scroll-forward-button\"\n                   (trigger)=\"scrollForward()\"\n                   [class.hide]=\"atScorecardBarEnd\"\n                   *ngIf=\"isScrollable\">\n    <glyph [icon]=\"forwardIconType\"\n           [attr.aria-label]=\"scrollScorecardBarForward\">\n    </glyph>\n  </material-button>\n</div>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"acx-scoreboard\"\n     [class.acx-scoreboard-horizontal]=\"!isVertical\"\n     [class.acx-scoreboard-vertical]=\"isVertical\">\n  <material-button class=\"scroll-button scroll-back-button\"\n                   (trigger)=\"scrollBack()\"\n                   [class.hide]=\"atScorecardBarStart\"\n                   *ngIf=\"isScrollable\">\n    <glyph [icon]=\"backIconType\"\n           [attr.aria-label]=\"scrollScorecardBarBack\">\n    </glyph>\n  </material-button>\n  <div scorecardBar class=\"scorecard-bar\" [isVertical]=\"isVertical\">\n    <ng-content></ng-content>\n  </div>\n  <material-button class=\"scroll-button scroll-forward-button\"\n                   (trigger)=\"scrollForward()\"\n                   [class.hide]=\"atScorecardBarEnd\"\n                   *ngIf=\"isScrollable\">\n    <glyph [icon]=\"forwardIconType\"\n           [attr.aria-label]=\"scrollScorecardBarForward\">\n    </glyph>\n  </material-button>\n</div>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/scorecard/scoreboard.html",
         "styles": [],
         "styleUrls": [
@@ -27918,6 +28155,132 @@
           "deps": null
         }
       ]
+    },
+    "KeyProvider": {
+      "class": "Identifier",
+      "name": "KeyProvider",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MatchCallback": {
+      "class": "Identifier",
+      "name": "MatchCallback",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_MultiSelectionModelImpl": {
+      "class": "Identifier",
+      "name": "_MultiSelectionModelImpl",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_NoopSelectionModelImpl": {
+      "class": "Identifier",
+      "name": "_NoopSelectionModelImpl",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableChangeNotifier": {
+      "class": "Identifier",
+      "name": "SelectableChangeNotifier",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_SelectableChangeRecordImpl": {
+      "class": "Identifier",
+      "name": "_SelectableChangeRecordImpl",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionObservable": {
+      "class": "Identifier",
+      "name": "SelectionObservable",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionChangeNotifier": {
+      "class": "Identifier",
+      "name": "SelectionChangeNotifier",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_SelectionChangeRecordImpl": {
+      "class": "Identifier",
+      "name": "_SelectionChangeRecordImpl",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_SingleSelectionModelImpl": {
+      "class": "Identifier",
+      "name": "_SingleSelectionModelImpl",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_defaultKeyProvider": {
+      "class": "Identifier",
+      "name": "_defaultKeyProvider",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionModel": {
+      "class": "Identifier",
+      "name": "SelectionModel",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MultiSelectionModel": {
+      "class": "Identifier",
+      "name": "MultiSelectionModel",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionChangeRecord": {
+      "class": "Identifier",
+      "name": "SelectionChangeRecord",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableChangeRecord": {
+      "class": "Identifier",
+      "name": "SelectableChangeRecord",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DelegatingSelectionModel": {
+      "class": "Identifier",
+      "name": "DelegatingSelectionModel",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/delegating_selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DelegatingMultiSelectionModel": {
+      "class": "Identifier",
+      "name": "DelegatingMultiSelectionModel",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/delegating_selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "RadioGroupSingleSelectionModel": {
+      "class": "Identifier",
+      "name": "RadioGroupSingleSelectionModel",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/radio_group_single_selection_model.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {

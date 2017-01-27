@@ -7,14 +7,18 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
-        "5": false
-      },
-      {
         "1": "../../utils/browser/feature_detector/feature_detector.dart",
         "2": [
           "supportsAnimationApi"
         ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
+        "5": false
+      },
+      {
+        "1": "../../utils/angular/properties/properties.dart",
         "5": false
       }
     ],
@@ -35,12 +39,16 @@
     "6": "material_progress.dart",
     "7": [
       {
-        "1": "package:angular2/angular2.template.dart",
+        "1": "../../utils/browser/feature_detector/feature_detector.template.dart",
         "4": "i0"
       },
       {
-        "1": "../../utils/browser/feature_detector/feature_detector.template.dart",
+        "1": "package:angular2/angular2.template.dart",
         "4": "i1"
+      },
+      {
+        "1": "../../utils/angular/properties/properties.template.dart",
+        "4": "i2"
       }
     ]
   },
@@ -106,8 +114,7 @@
         "activeProgress": " int",
         "secondaryProgress": " int",
         "min": " int",
-        "max": " int",
-        "indeterminate": " bool"
+        "max": " int"
       },
       "outputs": {},
       "hostListeners": {},
