@@ -75,6 +75,13 @@
       "prefix": null,
       "value": null
     },
+    "ErrorFn": {
+      "class": "Identifier",
+      "name": "ErrorFn",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
+      "prefix": null,
+      "value": null
+    },
     "BottomPanelState": {
       "class": "Identifier",
       "name": "BottomPanelState",

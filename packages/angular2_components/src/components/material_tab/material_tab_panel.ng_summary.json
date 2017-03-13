@@ -7,10 +7,6 @@
         "5": false
       },
       {
-        "1": "../../utils/angular/managed_zone/angular_2.dart",
-        "5": false
-      },
-      {
         "1": "../../utils/async/async.dart",
         "5": false
       },
@@ -32,16 +28,9 @@
         "1": "MaterialTabPanelComponent",
         "5": [
           {
-            "1": "ManagedZone",
-            "4": "_managedZone"
-          },
-          {
             "1": "ChangeDetectorRef",
             "4": "_changeDetector"
           }
-        ],
-        "6": [
-          "AfterContentInit"
         ],
         "7": [
           {
@@ -66,26 +55,6 @@
         "isHost": false,
         "value": null,
         "diDeps": [
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "ManagedZone",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
           {
             "token": {
               "value": null,
@@ -125,9 +94,7 @@
       "hostAttributes": {
         "class": "themeable"
       },
-      "lifecycleHooks": [
-        4
-      ],
+      "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,
         "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<material-tab-strip [activeTabIndex]=\"activeTabIndex\"\n                    (beforeTabChange)=\"onBeforeTabChange($event)\"\n                    (tabChange)=\"onTabChange($event)\"\n                    [tabLabels]=\"tabLabels\"\n                    [tabIds]=\"tabIds\">\n</material-tab-strip>\n<ng-content></ng-content>\n",
@@ -160,7 +127,7 @@
           ],
           "descendants": false,
           "first": false,
-          "propertyName": "tabQuery",
+          "propertyName": "tabs",
           "read": null
         }
       ],

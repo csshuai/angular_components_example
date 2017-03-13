@@ -7,10 +7,6 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
-        "5": false
-      },
-      {
         "1": "../glyph/glyph.dart",
         "5": false
       },
@@ -28,6 +24,10 @@
       },
       {
         "1": "../../utils/browser/events/events.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
         "5": false
       }
     ],
@@ -254,7 +254,7 @@
       },
       "hostProperties": {
         "attr.tabindex": "tabIndex",
-        "attr.role": "role != null ? role : \"checkbox\"",
+        "attr.role": "role",
         "class.disabled": "disabled",
         "attr.aria-label": "label",
         "attr.aria-disabled": "disabled"

@@ -7,6 +7,10 @@
         "5": false
       },
       {
+        "1": "dart:convert",
+        "5": false
+      },
+      {
         "1": "package:angular2/src/facade/exceptions.dart",
         "2": [
           "BaseException"
@@ -62,6 +66,10 @@
         "5": false
       },
       {
+        "1": "template_ast.dart",
+        "5": false
+      },
+      {
         "1": "template_parser.dart",
         "2": [
           "TemplateParser"
@@ -112,16 +120,27 @@
         "4": "i7"
       },
       {
-        "1": "template_parser.template.dart",
+        "1": "template_ast.template.dart",
         "4": "i8"
       },
       {
-        "1": "view_compiler/view_compiler.template.dart",
+        "1": "template_parser.template.dart",
         "4": "i9"
+      },
+      {
+        "1": "view_compiler/view_compiler.template.dart",
+        "4": "i10"
       }
     ]
   },
   "type": {
+    "_DEBUG_PRINT_COMPILATION": {
+      "class": "Identifier",
+      "name": "_DEBUG_PRINT_COMPILATION",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
     "SourceModule": {
       "class": "Identifier",
       "name": "SourceModule",

@@ -11,14 +11,6 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/core/di.dart",
-        "2": [
-          "Injector",
-          "Injectable"
-        ],
-        "5": false
-      },
-      {
         "1": "package:angular2/src/core/linker/app_view.dart",
         "2": [
           "domRootRendererIsDirty"
@@ -91,28 +83,24 @@
         "4": "i0"
       },
       {
-        "1": "package:angular2/src/core/di.template.dart",
+        "1": "package:angular2/src/core/linker/app_view.template.dart",
         "4": "i1"
       },
       {
-        "1": "package:angular2/src/core/linker/app_view.template.dart",
+        "1": "../../angular/managed_zone/interface.template.dart",
         "4": "i2"
       },
       {
-        "1": "../../angular/managed_zone/interface.template.dart",
+        "1": "./dom_service.template.dart",
         "4": "i3"
       },
       {
-        "1": "./dom_service.template.dart",
+        "1": "./dom_service_webdriver_testability.template.dart",
         "4": "i4"
       },
       {
-        "1": "./dom_service_webdriver_testability.template.dart",
-        "4": "i5"
-      },
-      {
         "1": "../../disposer/disposer.template.dart",
-        "4": "i6"
+        "4": "i5"
       }
     ]
   },

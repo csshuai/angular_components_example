@@ -33,6 +33,13 @@
           {
             "1": "ElementRef",
             "4": "element"
+          },
+          {
+            "1": "String",
+            "3": [
+              "const Attribute('role')"
+            ],
+            "4": "role"
           }
         ],
         "6": [
@@ -75,6 +82,20 @@
             "isSkipSelf": false,
             "isOptional": false,
             "isValue": false
+          },
+          {
+            "token": {
+              "value": "role",
+              "identifier": null,
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": true,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
           }
         ]
       },
@@ -86,7 +107,8 @@
         "keydown": "keydown($event)"
       },
       "hostProperties": {
-        "attr.tabindex": "tabIndex"
+        "attr.tabindex": "tabIndex",
+        "attr.role": "role"
       },
       "hostAttributes": {},
       "lifecycleHooks": [],

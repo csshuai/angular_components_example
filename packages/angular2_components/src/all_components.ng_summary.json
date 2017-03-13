@@ -90,6 +90,12 @@
         "1": "components/material_input/material_input_multiline.dart"
       },
       {
+        "1": "components/material_input/material_number_accessor.dart"
+      },
+      {
+        "1": "components/material_input/material_number_validators.dart"
+      },
+      {
         "1": "components/material_list/material_list.dart"
       },
       {

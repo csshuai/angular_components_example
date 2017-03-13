@@ -11,6 +11,10 @@
         "5": false
       },
       {
+        "1": "../../annotations/rtl_annotation.dart",
+        "5": false
+      },
+      {
         "1": "../../../utils/browser/dom_service/angular_2.dart",
         "5": false
       },
@@ -34,6 +38,14 @@
           {
             "1": "ElementRef",
             "4": "elementRef"
+          },
+          {
+            "1": "bool",
+            "3": [
+              "const Optional()",
+              "const Inject(rtlToken)"
+            ],
+            "4": "isRtl"
           }
         ],
         "6": [
@@ -45,16 +57,20 @@
     "6": "scorecard_bar.dart",
     "7": [
       {
-        "1": "../../../utils/browser/dom_service/angular_2.template.dart",
+        "1": "../../annotations/rtl_annotation.template.dart",
         "4": "i0"
       },
       {
-        "1": "../../../utils/disposer/disposer.template.dart",
+        "1": "../../../utils/browser/dom_service/angular_2.template.dart",
         "4": "i1"
       },
       {
-        "1": "package:angular2/angular2.template.dart",
+        "1": "../../../utils/disposer/disposer.template.dart",
         "4": "i2"
+      },
+      {
+        "1": "package:angular2/angular2.template.dart",
+        "4": "i3"
       }
     ]
   },
@@ -110,6 +126,26 @@
             "isHost": false,
             "isSkipSelf": false,
             "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "rtlToken",
+                "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
             "isValue": false
           }
         ]

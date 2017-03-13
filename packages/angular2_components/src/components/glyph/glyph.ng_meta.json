@@ -3,6 +3,10 @@
     "1": "",
     "3": [
       {
+        "1": "dart:html",
+        "5": false
+      },
+      {
         "1": "package:angular2/angular2.dart",
         "5": false
       },
@@ -13,7 +17,13 @@
     ],
     "5": [
       {
-        "1": "GlyphComponent"
+        "1": "GlyphComponent",
+        "5": [
+          {
+            "1": "ElementRef",
+            "4": "elementRef"
+          }
+        ]
       }
     ],
     "6": "glyph.dart",
@@ -29,6 +39,13 @@
     ]
   },
   "type": {
+    "_flippedIcons": {
+      "class": "Identifier",
+      "name": "_flippedIcons",
+      "moduleUrl": "asset:angular2_components/lib/src/components/glyph/glyph.dart",
+      "prefix": null,
+      "value": null
+    },
     "GlyphSize": {
       "class": "Identifier",
       "name": "GlyphSize",
@@ -48,7 +65,28 @@
         "prefix": null,
         "isHost": false,
         "value": null,
-        "diDeps": []
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ElementRef",
+                "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          }
+        ]
       },
       "changeDetection": 4,
       "inputs": {
@@ -56,6 +94,7 @@
         "iconSet": "iconSet"
       },
       "inputTypes": {
+        "icon": " dynamic",
         "iconSet": " String"
       },
       "outputs": {},

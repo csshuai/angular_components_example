@@ -11,6 +11,10 @@
         "5": false
       },
       {
+        "1": "../annotations/rtl_annotation.dart",
+        "5": false
+      },
+      {
         "1": "../glyph/glyph.dart",
         "5": false
       },
@@ -73,6 +77,14 @@
           {
             "1": "ChangeDetectorRef",
             "4": "_changeDetector"
+          },
+          {
+            "1": "bool",
+            "3": [
+              "const Optional()",
+              "const Inject(rtlToken)"
+            ],
+            "4": "isRtl"
           }
         ],
         "6": [
@@ -170,6 +182,26 @@
             "isHost": false,
             "isSkipSelf": false,
             "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "rtlToken",
+                "moduleUrl": null,
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
             "isValue": false
           }
         ]

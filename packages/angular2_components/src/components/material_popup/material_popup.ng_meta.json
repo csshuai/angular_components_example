@@ -192,20 +192,6 @@
     ]
   },
   "type": {
-    "MaterialPopupComponent_getResolvedPopupRef": {
-      "class": "Identifier",
-      "name": "MaterialPopupComponent_getResolvedPopupRef",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_popup/material_popup.dart",
-      "prefix": null,
-      "value": null
-    },
-    "MaterialPopupComponent_getHierarchy": {
-      "class": "Identifier",
-      "name": "MaterialPopupComponent_getHierarchy",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_popup/material_popup.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialPopupComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -1320,36 +1306,37 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": {
-            "class": "Identifier",
-            "name": "MaterialPopupComponent_getHierarchy",
-            "moduleUrl": "asset:angular2_components/lib/src/components/material_popup/material_popup.dart",
+            "class": "Factory",
+            "name": "getHierarchy",
             "prefix": null,
-            "value": null
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "PopupComponent",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
           },
           "useProperty": null,
           "multi": false,
-          "deps": [
-            {
-              "token": {
-                "value": null,
-                "identifier": {
-                  "class": "Identifier",
-                  "name": "PopupComponent",
-                  "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-                  "prefix": null,
-                  "value": null
-                },
-                "identifierIsInstance": false
-              },
-              "value": null,
-              "isAttribute": false,
-              "isSelf": false,
-              "isHost": false,
-              "isSkipSelf": false,
-              "isOptional": false,
-              "isValue": false
-            }
-          ]
+          "deps": null
         },
         {
           "class": "Provider",
@@ -1368,36 +1355,37 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": {
-            "class": "Identifier",
-            "name": "MaterialPopupComponent_getResolvedPopupRef",
-            "moduleUrl": "asset:angular2_components/lib/src/components/material_popup/material_popup.dart",
+            "class": "Factory",
+            "name": "getResolvedPopupRef",
             "prefix": null,
-            "value": null
+            "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "PopupComponent",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
           },
           "useProperty": null,
           "multi": false,
-          "deps": [
-            {
-              "token": {
-                "value": null,
-                "identifier": {
-                  "class": "Identifier",
-                  "name": "PopupComponent",
-                  "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-                  "prefix": null,
-                  "value": null
-                },
-                "identifierIsInstance": false
-              },
-              "value": null,
-              "isAttribute": false,
-              "isSelf": false,
-              "isHost": false,
-              "isSkipSelf": false,
-              "isOptional": false,
-              "isValue": false
-            }
-          ]
+          "deps": null
         }
       ],
       "viewProviders": [],

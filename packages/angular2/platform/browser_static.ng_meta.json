@@ -32,6 +32,13 @@
         "5": false
       },
       {
+        "1": "package:angular2/src/core/di.dart",
+        "2": [
+          "Provider"
+        ],
+        "5": false
+      },
+      {
         "1": "package:angular2/src/core/reflection/reflection.dart",
         "2": [
           "Reflector",
@@ -51,13 +58,6 @@
         "2": [
           "BROWSER_APP_COMMON_PROVIDERS",
           "createInitDomAdapter"
-        ],
-        "5": false
-      },
-      {
-        "1": "package:angular2/src/core/di.dart",
-        "2": [
-          "Provider"
         ],
         "5": false
       },
@@ -93,19 +93,19 @@
         "4": "i1"
       },
       {
-        "1": "package:angular2/src/core/reflection/reflection.template.dart",
+        "1": "package:angular2/src/core/di.template.dart",
         "4": "i2"
       },
       {
-        "1": "package:angular2/src/core/testability/testability.template.dart",
+        "1": "package:angular2/src/core/reflection/reflection.template.dart",
         "4": "i3"
       },
       {
-        "1": "package:angular2/src/platform/browser_common.template.dart",
+        "1": "package:angular2/src/core/testability/testability.template.dart",
         "4": "i4"
       },
       {
-        "1": "package:angular2/src/core/di.template.dart",
+        "1": "package:angular2/src/platform/browser_common.template.dart",
         "4": "i5"
       },
       {
@@ -603,60 +603,6 @@
           },
           "useExisting": null,
           "useValue": null,
-          "useFactory": null,
-          "useProperty": null,
-          "multi": false,
-          "deps": null
-        },
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "IterableDiffers",
-              "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": null,
-          "useValue": {
-            "class": "Identifier",
-            "name": "defaultIterableDiffers",
-            "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection.dart",
-            "prefix": null,
-            "value": null
-          },
-          "useFactory": null,
-          "useProperty": null,
-          "multi": false,
-          "deps": null
-        },
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "KeyValueDiffers",
-              "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": null,
-          "useValue": {
-            "class": "Identifier",
-            "name": "defaultKeyValueDiffers",
-            "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection.dart",
-            "prefix": null,
-            "value": null
-          },
           "useFactory": null,
           "useProperty": null,
           "multi": false,
@@ -1252,46 +1198,6 @@
                           "value": null,
                           "identifier": {
                             "class": "Identifier",
-                            "name": "IterableDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "KeyValueDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
                             "name": "ElementRef",
                             "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
                             "prefix": null,
@@ -1319,46 +1225,6 @@
                   "isHost": false,
                   "value": null,
                   "diDeps": [
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "IterableDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "KeyValueDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
                     {
                       "token": {
                         "value": null,
@@ -1439,46 +1305,6 @@
                         "isSkipSelf": false,
                         "isOptional": false,
                         "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "IterableDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "ChangeDetectorRef",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
                       }
                     ]
                   },
@@ -1519,46 +1345,6 @@
                           "class": "Identifier",
                           "name": "TemplateRef",
                           "moduleUrl": "asset:angular2/lib/src/core/linker/template_ref.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "IterableDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "ChangeDetectorRef",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                           "prefix": null,
                           "value": null
                         },
@@ -1784,26 +1570,6 @@
                           "value": null,
                           "identifier": {
                             "class": "Identifier",
-                            "name": "KeyValueDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
                             "name": "ElementRef",
                             "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
                             "prefix": null,
@@ -1831,26 +1597,6 @@
                   "isHost": false,
                   "value": null,
                   "diDeps": [
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "KeyValueDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
                     {
                       "token": {
                         "value": null,
@@ -5138,60 +4884,6 @@
             "value": null,
             "identifier": {
               "class": "Identifier",
-              "name": "IterableDiffers",
-              "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": null,
-          "useValue": {
-            "class": "Identifier",
-            "name": "defaultIterableDiffers",
-            "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection.dart",
-            "prefix": null,
-            "value": null
-          },
-          "useFactory": null,
-          "useProperty": null,
-          "multi": false,
-          "deps": null
-        },
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "KeyValueDiffers",
-              "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": null,
-          "useValue": {
-            "class": "Identifier",
-            "name": "defaultKeyValueDiffers",
-            "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection.dart",
-            "prefix": null,
-            "value": null
-          },
-          "useFactory": null,
-          "useProperty": null,
-          "multi": false,
-          "deps": null
-        },
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
               "name": "DynamicComponentLoader",
               "moduleUrl": "asset:angular2/lib/src/core/linker/dynamic_component_loader.dart",
               "prefix": null,
@@ -5776,46 +5468,6 @@
                           "value": null,
                           "identifier": {
                             "class": "Identifier",
-                            "name": "IterableDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "KeyValueDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
                             "name": "ElementRef",
                             "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
                             "prefix": null,
@@ -5843,46 +5495,6 @@
                   "isHost": false,
                   "value": null,
                   "diDeps": [
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "IterableDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "KeyValueDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
                     {
                       "token": {
                         "value": null,
@@ -5963,46 +5575,6 @@
                         "isSkipSelf": false,
                         "isOptional": false,
                         "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "IterableDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "ChangeDetectorRef",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
                       }
                     ]
                   },
@@ -6043,46 +5615,6 @@
                           "class": "Identifier",
                           "name": "TemplateRef",
                           "moduleUrl": "asset:angular2/lib/src/core/linker/template_ref.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "IterableDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/iterable_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "ChangeDetectorRef",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                           "prefix": null,
                           "value": null
                         },
@@ -6308,26 +5840,6 @@
                           "value": null,
                           "identifier": {
                             "class": "Identifier",
-                            "name": "KeyValueDiffers",
-                            "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": false,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": false,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
                             "name": "ElementRef",
                             "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
                             "prefix": null,
@@ -6355,26 +5867,6 @@
                   "isHost": false,
                   "value": null,
                   "diDeps": [
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "KeyValueDiffers",
-                          "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/keyvalue_differs.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": false,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": false,
-                      "isValue": false
-                    },
                     {
                       "token": {
                         "value": null,

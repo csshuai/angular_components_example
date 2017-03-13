@@ -104,7 +104,7 @@
       ],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"material-chips-root\">\n  <material-chip *ngFor=\"let chip of selectedItems\"\n                 [value]=\"chip\"\n                 [selectionModel]=\"selectionModel\"\n                 [itemRenderer]=\"itemRenderer\"\n                 [removable]=\"removable\"></material-chip>\n  <ng-content></ng-content>\n</div>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<material-chip *ngFor=\"let chip of selectedItems\"\n               [value]=\"chip\"\n               [selectionModel]=\"selectionModel\"\n               [itemRenderer]=\"itemRenderer\"\n               [removable]=\"removable\"></material-chip>\n<ng-content></ng-content>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/material_chips/material_chips.html",
         "styles": [],
         "styleUrls": [

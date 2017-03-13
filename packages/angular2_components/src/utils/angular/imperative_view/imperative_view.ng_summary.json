@@ -15,10 +15,6 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/core/linker/view_ref.dart",
-        "5": false
-      },
-      {
         "1": "../../browser/dom_service/dom_service.dart",
         "5": false
       },

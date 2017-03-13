@@ -11,14 +11,6 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/core/di.dart",
-        "2": [
-          "Injector",
-          "Injectable"
-        ],
-        "5": false
-      },
-      {
         "1": "package:angular2/src/core/linker/app_view.dart",
         "2": [
           "domRootRendererIsDirty"

@@ -30,6 +30,13 @@
           {
             "1": "ManagedZone",
             "4": "_managedZone"
+          },
+          {
+            "1": "String",
+            "3": [
+              "const Attribute('role')"
+            ],
+            "4": "role"
           }
         ],
         "6": [
@@ -72,6 +79,20 @@
             "isSkipSelf": false,
             "isOptional": false,
             "isValue": false
+          },
+          {
+            "token": {
+              "value": "role",
+              "identifier": null,
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": true,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
           }
         ]
       },
@@ -82,10 +103,10 @@
       "inputTypes": {},
       "outputs": {},
       "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {
-        "role": "list"
+      "hostProperties": {
+        "attr.role": "role"
       },
+      "hostAttributes": {},
       "lifecycleHooks": [
         1
       ],

@@ -112,12 +112,12 @@
         "mousedown": "onMouseDown($event)"
       },
       "hostProperties": {
-        "class.is-raised": "raised",
         "attr.aria-disabled": "disabledStr",
+        "attr.raised": "raised ? \"\" : null",
         "attr.tabindex": "tabIndex",
-        "class.is-disabled": "disabled",
         "attr.elevation": "zElevation",
-        "class.is-focused": "visualFocus"
+        "class.is-focused": "visualFocus",
+        "attr.disabled": "disabled ? \"\" : null"
       },
       "hostAttributes": {
         "animated": "true",

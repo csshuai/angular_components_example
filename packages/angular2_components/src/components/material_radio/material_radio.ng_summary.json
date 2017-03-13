@@ -11,10 +11,6 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
-        "5": false
-      },
-      {
         "1": "../focus/focus.dart",
         "5": false
       },
@@ -44,6 +40,10 @@
       },
       {
         "1": "../../utils/disposer/disposer.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
         "5": false
       }
     ],
@@ -251,7 +251,7 @@
       },
       "hostProperties": {
         "attr.tabindex": "tabIndex",
-        "attr.role": "role != null ? role : \"radio\"",
+        "attr.role": "role",
         "class.disabled": "disabled",
         "attr.aria-disabled": "disabled"
       },

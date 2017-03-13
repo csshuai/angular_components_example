@@ -89,6 +89,13 @@
         "5": false
       },
       {
+        "1": "package:angular2/src/platform/dom/dom_tokens.dart",
+        "2": [
+          "DOCUMENT"
+        ],
+        "5": false
+      },
+      {
         "1": "package:angular2/src/testing/test_component_builder.dart",
         "2": [
           "TestComponentBuilder"
@@ -100,13 +107,6 @@
         "2": [
           "BrowserDetection",
           "Log"
-        ],
-        "5": false
-      },
-      {
-        "1": "package:angular2/src/platform/dom/dom_tokens.dart",
-        "2": [
-          "DOCUMENT"
         ],
         "5": false
       }

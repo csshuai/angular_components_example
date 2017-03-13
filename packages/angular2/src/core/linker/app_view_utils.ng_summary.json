@@ -214,13 +214,6 @@
         }
       ]
     },
-    "ensureSlotCount": {
-      "class": "Identifier",
-      "name": "ensureSlotCount",
-      "moduleUrl": "asset:angular2/lib/src/core/linker/app_view_utils.dart",
-      "prefix": null,
-      "value": null
-    },
     "interpolate0": {
       "class": "Identifier",
       "name": "interpolate0",

@@ -8,15 +8,7 @@
         "5": false
       },
       {
-        "1": "package:angular2/angular2.dart",
-        "5": false
-      },
-      {
         "1": "../button_decorator/button_decorator.dart",
-        "5": false
-      },
-      {
-        "1": "../mixins/has_tab_index.dart",
         "5": false
       },
       {
@@ -37,6 +29,10 @@
       },
       {
         "1": "../../utils/disposer/disposer.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/angular2.dart",
         "5": false
       }
     ],
@@ -82,36 +78,32 @@
     "6": "material_list_item.dart",
     "7": [
       {
-        "1": "package:angular2/angular2.template.dart",
+        "1": "../button_decorator/button_decorator.template.dart",
         "4": "i0"
       },
       {
-        "1": "../button_decorator/button_decorator.template.dart",
+        "1": "../mixins/material_dropdown_base.template.dart",
         "4": "i1"
       },
       {
-        "1": "../mixins/has_tab_index.template.dart",
+        "1": "../../model/a11y/active_item_mixin.template.dart",
         "4": "i2"
       },
       {
-        "1": "../mixins/material_dropdown_base.template.dart",
+        "1": "../../utils/angular/properties/properties.template.dart",
         "4": "i3"
       },
       {
-        "1": "../../model/a11y/active_item_mixin.template.dart",
+        "1": "../../utils/browser/dom_service/dom_service.template.dart",
         "4": "i4"
       },
       {
-        "1": "../../utils/angular/properties/properties.template.dart",
+        "1": "../../utils/disposer/disposer.template.dart",
         "4": "i5"
       },
       {
-        "1": "../../utils/browser/dom_service/dom_service.template.dart",
+        "1": "package:angular2/angular2.template.dart",
         "4": "i6"
-      },
-      {
-        "1": "../../utils/disposer/disposer.template.dart",
-        "4": "i7"
       }
     ]
   },
@@ -237,7 +229,7 @@
       },
       "hostProperties": {
         "attr.tabindex": "tabIndex",
-        "attr.role": "role != null ? role : \"button\"",
+        "attr.role": "role",
         "class.disabled": "disabled",
         "class.active": "active",
         "attr.aria-disabled": "disabledStr"

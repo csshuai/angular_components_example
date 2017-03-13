@@ -232,8 +232,8 @@
         "selectedChange": "selectedChange"
       },
       "hostListeners": {
-        "keyup": "resetOutline()",
         "click": "handleClick()",
+        "keyup": "resetOutline()",
         "blur": "resetOutline()",
         "mousedown": "hideOutline()",
         "keypress": "handleKeypress($event)"
@@ -248,7 +248,9 @@
         "class.selectable": "selectable",
         "style.background": "backgroundStyle"
       },
-      "hostAttributes": {},
+      "hostAttributes": {
+        "class": "themeable"
+      },
       "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,

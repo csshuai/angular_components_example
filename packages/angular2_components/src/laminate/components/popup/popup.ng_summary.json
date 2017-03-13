@@ -117,6 +117,38 @@
         ]
       },
       {
+        "1": "getHierarchy",
+        "3": true,
+        "4": [
+          {
+            "1": "Injectable",
+            "4": false
+          }
+        ],
+        "5": [
+          {
+            "1": "PopupComponent",
+            "4": "c"
+          }
+        ]
+      },
+      {
+        "1": "getResolvedPopupRef",
+        "3": true,
+        "4": [
+          {
+            "1": "Injectable",
+            "4": false
+          }
+        ],
+        "5": [
+          {
+            "1": "PopupComponent",
+            "4": "component"
+          }
+        ]
+      },
+      {
         "1": "PopupRefDirective",
         "5": [
           {
@@ -133,20 +165,6 @@
     "6": "popup.dart"
   },
   "type": {
-    "PopupComponent_getResolvedPopupRef": {
-      "class": "Identifier",
-      "name": "PopupComponent_getResolvedPopupRef",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-      "prefix": null,
-      "value": null
-    },
-    "PopupComponent_getHierarchy": {
-      "class": "Identifier",
-      "name": "PopupComponent_getHierarchy",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -411,7 +429,7 @@
           "useValue": null,
           "useFactory": {
             "class": "Factory",
-            "name": "PopupComponent_getHierarchy",
+            "name": "getHierarchy",
             "prefix": null,
             "moduleUrl": null,
             "value": null,
@@ -460,7 +478,7 @@
           "useValue": null,
           "useFactory": {
             "class": "Factory",
-            "name": "PopupComponent_getResolvedPopupRef",
+            "name": "getResolvedPopupRef",
             "prefix": null,
             "moduleUrl": null,
             "value": null,
@@ -495,6 +513,64 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "getHierarchy": {
+      "class": "Factory",
+      "name": "getHierarchy",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PopupComponent",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        }
+      ]
+    },
+    "getResolvedPopupRef": {
+      "class": "Factory",
+      "name": "getResolvedPopupRef",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PopupComponent",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        }
+      ]
     },
     "_DeferredToggleable": {
       "class": "Identifier",

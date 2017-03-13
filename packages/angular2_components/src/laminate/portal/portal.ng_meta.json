@@ -15,10 +15,6 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/core/linker/view_ref.dart",
-        "5": false
-      },
-      {
         "1": "../../utils/angular/imperative_view/imperative_view.dart",
         "5": false
       },
@@ -62,16 +58,12 @@
         "4": "i0"
       },
       {
-        "1": "package:angular2/src/core/linker/view_ref.template.dart",
+        "1": "../../utils/angular/imperative_view/imperative_view.template.dart",
         "4": "i1"
       },
       {
-        "1": "../../utils/angular/imperative_view/imperative_view.template.dart",
-        "4": "i2"
-      },
-      {
         "1": "../../utils/disposer/disposer.template.dart",
-        "4": "i3"
+        "4": "i2"
       }
     ]
   },

@@ -146,20 +146,6 @@
     "6": "material_popup.dart"
   },
   "type": {
-    "MaterialPopupComponent_getResolvedPopupRef": {
-      "class": "Identifier",
-      "name": "MaterialPopupComponent_getResolvedPopupRef",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_popup/material_popup.dart",
-      "prefix": null,
-      "value": null
-    },
-    "MaterialPopupComponent_getHierarchy": {
-      "class": "Identifier",
-      "name": "MaterialPopupComponent_getHierarchy",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_popup/material_popup.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialPopupComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -541,7 +527,7 @@
           "useValue": null,
           "useFactory": {
             "class": "Factory",
-            "name": "MaterialPopupComponent_getHierarchy",
+            "name": "getHierarchy",
             "prefix": null,
             "moduleUrl": null,
             "value": null,
@@ -549,28 +535,7 @@
           },
           "useProperty": null,
           "multi": false,
-          "deps": [
-            {
-              "token": {
-                "value": null,
-                "identifier": {
-                  "class": "Identifier",
-                  "name": "PopupComponent",
-                  "moduleUrl": null,
-                  "prefix": null,
-                  "value": null
-                },
-                "identifierIsInstance": false
-              },
-              "value": null,
-              "isAttribute": false,
-              "isSelf": false,
-              "isHost": false,
-              "isSkipSelf": false,
-              "isOptional": false,
-              "isValue": false
-            }
-          ]
+          "deps": null
         },
         {
           "class": "Provider",
@@ -590,7 +555,7 @@
           "useValue": null,
           "useFactory": {
             "class": "Factory",
-            "name": "MaterialPopupComponent_getResolvedPopupRef",
+            "name": "getResolvedPopupRef",
             "prefix": null,
             "moduleUrl": null,
             "value": null,
@@ -598,28 +563,7 @@
           },
           "useProperty": null,
           "multi": false,
-          "deps": [
-            {
-              "token": {
-                "value": null,
-                "identifier": {
-                  "class": "Identifier",
-                  "name": "PopupComponent",
-                  "moduleUrl": null,
-                  "prefix": null,
-                  "value": null
-                },
-                "identifierIsInstance": false
-              },
-              "value": null,
-              "isAttribute": false,
-              "isSelf": false,
-              "isHost": false,
-              "isSkipSelf": false,
-              "isOptional": false,
-              "isValue": false
-            }
-          ]
+          "deps": null
         }
       ],
       "viewProviders": [],
