@@ -18,6 +18,9 @@
         "1": "components/content/deferred_content_aware.dart"
       },
       {
+        "1": "components/dynamic_component/dynamic_component.dart"
+      },
+      {
         "1": "components/focus/focus.dart"
       },
       {
@@ -87,6 +90,9 @@
         "1": "components/material_input/material_input_default_value_accessor.dart"
       },
       {
+        "1": "components/material_input/material_input_error_keys.dart"
+      },
+      {
         "1": "components/material_input/material_input_multiline.dart"
       },
       {
@@ -94,6 +100,9 @@
       },
       {
         "1": "components/material_input/material_number_validators.dart"
+      },
+      {
+        "1": "components/material_input/material_percent_directive.dart"
       },
       {
         "1": "components/material_list/material_list.dart"
@@ -118,6 +127,33 @@
       },
       {
         "1": "components/material_ripple/material_ripple.dart"
+      },
+      {
+        "1": "components/material_select/activation_handler.dart"
+      },
+      {
+        "1": "components/material_select/display_name.dart"
+      },
+      {
+        "1": "components/material_select/dropdown_button.dart"
+      },
+      {
+        "1": "components/material_select/material_dropdown_select.dart"
+      },
+      {
+        "1": "components/material_select/material_select.dart"
+      },
+      {
+        "1": "components/material_select/material_select_base.dart"
+      },
+      {
+        "1": "components/material_select/material_select_dropdown_item.dart"
+      },
+      {
+        "1": "components/material_select/material_select_item.dart"
+      },
+      {
+        "1": "components/material_select/shift_click_selection.dart"
       },
       {
         "1": "components/material_spinner/material_spinner.dart"
@@ -147,6 +183,9 @@
         "1": "components/material_yes_no_buttons/material_yes_no_buttons.dart"
       },
       {
+        "1": "components/mixins/button_wrapper.dart"
+      },
+      {
         "1": "components/mixins/focusable_mixin.dart"
       },
       {
@@ -154,6 +193,9 @@
       },
       {
         "1": "components/mixins/material_dropdown_base.dart"
+      },
+      {
+        "1": "components/mixins/track_layout_changes.dart"
       },
       {
         "1": "components/reorder_list/reorder_list.dart"
@@ -174,6 +216,9 @@
         "1": "laminate/components/modal/modal.dart"
       },
       {
+        "1": "laminate/enums/alignment.dart"
+      },
+      {
         "1": "laminate/overlay/module.dart"
       },
       {
@@ -184,6 +229,21 @@
       },
       {
         "1": "model/selection/selection_model.dart"
+      },
+      {
+        "1": "model/selection/selection_options.dart"
+      },
+      {
+        "1": "model/selection/src/interfaces/selectable.dart"
+      },
+      {
+        "1": "model/selection/string_selection_options.dart"
+      },
+      {
+        "1": "model/ui/display_name.dart"
+      },
+      {
+        "1": "model/ui/has_renderer.dart"
       }
     ],
     "6": "all_components.dart"

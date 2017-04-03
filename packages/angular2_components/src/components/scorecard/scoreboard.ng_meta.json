@@ -11,10 +11,6 @@
         "5": false
       },
       {
-        "1": "../annotations/rtl_annotation.dart",
-        "5": false
-      },
-      {
         "1": "../glyph/glyph.dart",
         "5": false
       },
@@ -77,14 +73,6 @@
           {
             "1": "ChangeDetectorRef",
             "4": "_changeDetector"
-          },
-          {
-            "1": "bool",
-            "3": [
-              "const Optional()",
-              "const Inject(rtlToken)"
-            ],
-            "4": "isRtl"
           }
         ],
         "6": [
@@ -110,48 +98,44 @@
     "6": "scoreboard.dart",
     "7": [
       {
-        "1": "../annotations/rtl_annotation.template.dart",
+        "1": "../glyph/glyph.template.dart",
         "4": "i0"
       },
       {
-        "1": "../glyph/glyph.template.dart",
+        "1": "../material_button/material_button.template.dart",
         "4": "i1"
       },
       {
-        "1": "../material_button/material_button.template.dart",
+        "1": "../../model/selection/selection_model.template.dart",
         "4": "i2"
       },
       {
-        "1": "../../model/selection/selection_model.template.dart",
+        "1": "../../utils/angular/properties/properties.template.dart",
         "4": "i3"
       },
       {
-        "1": "../../utils/angular/properties/properties.template.dart",
+        "1": "../../utils/browser/dom_service/angular_2.template.dart",
         "4": "i4"
       },
       {
-        "1": "../../utils/browser/dom_service/angular_2.template.dart",
+        "1": "../../utils/color/palette.template.dart",
         "4": "i5"
       },
       {
-        "1": "../../utils/color/palette.template.dart",
+        "1": "../../utils/disposer/disposer.template.dart",
         "4": "i6"
       },
       {
-        "1": "../../utils/disposer/disposer.template.dart",
+        "1": "package:angular2/angular2.template.dart",
         "4": "i7"
       },
       {
-        "1": "package:angular2/angular2.template.dart",
+        "1": "scorecard.template.dart",
         "4": "i8"
       },
       {
-        "1": "scorecard.template.dart",
-        "4": "i9"
-      },
-      {
         "1": "src/scorecard_bar.template.dart",
-        "4": "i10"
+        "4": "i9"
       }
     ]
   },
@@ -228,26 +212,6 @@
             "isHost": false,
             "isSkipSelf": false,
             "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "rtlToken",
-                "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": true,
             "isValue": false
           }
         ]

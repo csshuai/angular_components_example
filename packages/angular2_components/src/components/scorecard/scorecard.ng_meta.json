@@ -204,7 +204,6 @@
       "changeDetection": 4,
       "inputs": {
         "label": "label",
-        "title": "title",
         "value": "value",
         "changeGlyph": "changeGlyph",
         "suggestionBefore": "suggestionBefore",
@@ -218,7 +217,6 @@
       },
       "inputTypes": {
         "label": " String",
-        "title": " String",
         "value": " String",
         "changeGlyph": " bool",
         "suggestionBefore": " String",

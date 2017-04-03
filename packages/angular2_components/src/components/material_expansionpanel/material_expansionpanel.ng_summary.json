@@ -189,6 +189,7 @@
         "name": "name",
         "secondaryText": "secondaryText",
         "expandIcon": "expandIcon",
+        "alwaysShowExpandIcon": "alwaysShowExpandIcon",
         "showSaveCancel": "showSaveCancel",
         "saveText": "saveText",
         "cancelText": "cancelText"
@@ -202,6 +203,7 @@
         "name": " String",
         "secondaryText": " String",
         "expandIcon": " String",
+        "alwaysShowExpandIcon": " bool",
         "showSaveCancel": " bool",
         "saveText": " String",
         "cancelText": " String"

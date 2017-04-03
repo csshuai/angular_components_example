@@ -11,10 +11,6 @@
         "5": false
       },
       {
-        "1": "../annotations/rtl_annotation.dart",
-        "5": false
-      },
-      {
         "1": "../content/deferred_content_aware.dart",
         "5": false
       },
@@ -113,14 +109,6 @@
             "4": "_popupSizeProvider"
           },
           {
-            "1": "bool",
-            "3": [
-              "const Optional()",
-              "const Inject(rtlToken)"
-            ],
-            "4": "rtl"
-          },
-          {
             "1": "ChangeDetectorRef",
             "4": "changeDetector"
           },
@@ -146,48 +134,44 @@
     "6": "material_popup.dart",
     "7": [
       {
-        "1": "../annotations/rtl_annotation.template.dart",
+        "1": "../content/deferred_content_aware.template.dart",
         "4": "i0"
       },
       {
-        "1": "../content/deferred_content_aware.template.dart",
+        "1": "../mixins/material_dropdown_base.template.dart",
         "4": "i1"
       },
       {
-        "1": "../mixins/material_dropdown_base.template.dart",
+        "1": "../../laminate/components/popup/hierarchy.template.dart",
         "4": "i2"
       },
       {
-        "1": "../../laminate/components/popup/hierarchy.template.dart",
+        "1": "../../laminate/components/popup/popup.template.dart",
         "4": "i3"
       },
       {
-        "1": "../../laminate/components/popup/popup.template.dart",
+        "1": "../../laminate/overlay/overlay.template.dart",
         "4": "i4"
       },
       {
-        "1": "../../laminate/overlay/overlay.template.dart",
+        "1": "../../laminate/popup/popup.template.dart",
         "4": "i5"
       },
       {
-        "1": "../../laminate/popup/popup.template.dart",
+        "1": "../../utils/angular/properties/properties.template.dart",
         "4": "i6"
       },
       {
-        "1": "../../utils/angular/properties/properties.template.dart",
+        "1": "../../utils/async/async.template.dart",
         "4": "i7"
       },
       {
-        "1": "../../utils/async/async.template.dart",
+        "1": "../../utils/browser/dom_service/dom_service.template.dart",
         "4": "i8"
       },
       {
-        "1": "../../utils/browser/dom_service/dom_service.template.dart",
-        "4": "i9"
-      },
-      {
         "1": "package:angular2/angular2.template.dart",
-        "4": "i10"
+        "4": "i9"
       }
     ]
   },
@@ -332,26 +316,6 @@
                 "class": "Identifier",
                 "name": "PopupSizeProvider",
                 "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": true,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "rtlToken",
-                "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
                 "prefix": null,
                 "value": null
               },
@@ -579,26 +543,6 @@
                     "value": null,
                     "identifier": {
                       "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
                       "name": "ChangeDetectorRef",
                       "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                       "prefix": null,
@@ -776,26 +720,6 @@
                       "class": "Identifier",
                       "name": "PopupSizeProvider",
                       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
                       "prefix": null,
                       "value": null
                     },
@@ -1028,26 +952,6 @@
                     "value": null,
                     "identifier": {
                       "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
                       "name": "ChangeDetectorRef",
                       "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                       "prefix": null,
@@ -1215,26 +1119,6 @@
                   "isHost": false,
                   "isSkipSelf": false,
                   "isOptional": false,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
                   "isValue": false
                 },
                 {

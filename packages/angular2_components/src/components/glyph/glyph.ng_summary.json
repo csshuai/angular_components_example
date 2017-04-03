@@ -94,7 +94,7 @@
       "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<i [class.material-icons]=\"useMaterialIconsExtended\"\n   aria-hidden=\"true\">\n  {{iconName}}\n</i>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<i class=\"glyph-i\"\n   [class.material-icons]=\"useMaterialIconsExtended\"\n   aria-hidden=\"true\">\n  {{iconName}}\n</i>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/glyph/glyph.html",
         "styles": [],
         "styleUrls": [

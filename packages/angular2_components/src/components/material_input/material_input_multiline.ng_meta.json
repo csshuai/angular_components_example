@@ -234,7 +234,7 @@
         "label": "label",
         "errorRenderer": "errorRenderer",
         "floatingLabel": "floatingLabel",
-        "hint": "hint",
+        "hintText": "hintText",
         "showHintOnlyOnFocus": "showHintOnlyOnFocus",
         "required": "required",
         "requiredErrorMsg": "requiredErrorMsg",

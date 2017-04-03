@@ -106,12 +106,14 @@
       "inputs": {
         "selectionModel": "selectionModel",
         "removable": "removable",
+        "hasLeftIcon": "hasLeftIcon",
         "itemRenderer": "itemRenderer",
         "value": "value"
       },
       "inputTypes": {
         "selectionModel": " SelectionModel",
         "removable": " bool",
+        "hasLeftIcon": " bool",
         "itemRenderer": " ItemRenderer"
       },
       "outputs": {
@@ -125,13 +127,14 @@
       "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"content\" [id]=\"uuid\">\n  {{label}}\n  <ng-content></ng-content>\n</div>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"\n    *ngIf=\"removable\"\n    class=\"delete-icon\"\n    buttonDecorator\n    (trigger)=\"removeChip($event)\"\n    [attr.aria-label]=\"chipDeleteButtonMessage\"\n    [attr.aria-describedby]=\"uuid\">\n      <path d=\"M12 2c-5.53 0-10 4.47-10 10s4.47 10 10 10 10-4.47 10-10-4.47-10-10-10zm5\n               13.59l-1.41 1.41-3.59-3.59-3.59 3.59-1.41-1.41 3.59-3.59-3.59-3.59 1.41-1.41 3.59\n               3.59 3.59-3.59 1.41 1.41-3.59 3.59 3.59 3.59z\"/>\n</svg>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"left-icon\" *ngIf=\"hasLeftIcon\">\n  <ng-content select=\"[left-icon]\"></ng-content>\n</div>\n<div class=\"content\" [id]=\"uuid\">\n  {{label}}\n  <ng-content></ng-content>\n</div>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"\n    *ngIf=\"removable\"\n    class=\"delete-icon\"\n    buttonDecorator\n    (trigger)=\"removeChip($event)\"\n    [attr.aria-label]=\"chipDeleteButtonMessage\"\n    [attr.aria-describedby]=\"uuid\">\n      <path d=\"M12 2c-5.53 0-10 4.47-10 10s4.47 10 10 10 10-4.47 10-10-4.47-10-10-10zm5\n               13.59l-1.41 1.41-3.59-3.59-3.59 3.59-1.41-1.41 3.59-3.59-3.59-3.59 1.41-1.41 3.59\n               3.59 3.59-3.59 1.41 1.41-3.59 3.59 3.59 3.59z\"/>\n</svg>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/material_chips/material_chip.html",
         "styles": [],
         "styleUrls": [
           "asset:angular2_components/lib/src/components/material_chips/material_chip.scss.css"
         ],
         "ngContentSelectors": [
+          "[left-icon]",
           "*"
         ],
         "preserveWhitespace": false

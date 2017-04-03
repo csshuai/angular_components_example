@@ -11,10 +11,6 @@
         "5": false
       },
       {
-        "1": "../../../components/annotations/rtl_annotation.dart",
-        "5": false
-      },
-      {
         "1": "../../../components/content/deferred_content_aware.dart",
         "5": false
       },
@@ -89,14 +85,6 @@
             "4": "_popupService"
           },
           {
-            "1": "bool",
-            "3": [
-              "const Optional()",
-              "const Inject(rtlToken)"
-            ],
-            "4": "rtl"
-          },
-          {
             "1": "ChangeDetectorRef",
             "4": "_changeDetector"
           },
@@ -165,48 +153,44 @@
     "6": "popup.dart",
     "7": [
       {
-        "1": "../../../components/annotations/rtl_annotation.template.dart",
+        "1": "../../../components/content/deferred_content_aware.template.dart",
         "4": "i0"
       },
       {
-        "1": "../../../components/content/deferred_content_aware.template.dart",
+        "1": "./base.template.dart",
         "4": "i1"
       },
       {
-        "1": "./base.template.dart",
+        "1": "./hierarchy.template.dart",
         "4": "i2"
       },
       {
-        "1": "./hierarchy.template.dart",
+        "1": "../../popup/popup.template.dart",
         "4": "i3"
       },
       {
-        "1": "../../popup/popup.template.dart",
+        "1": "../../portal/portal.template.dart",
         "4": "i4"
       },
       {
-        "1": "../../portal/portal.template.dart",
+        "1": "../../../model/ui/toggle.template.dart",
         "4": "i5"
       },
       {
-        "1": "../../../model/ui/toggle.template.dart",
+        "1": "../../../utils/browser/dom_service/dom_service.template.dart",
         "4": "i6"
       },
       {
-        "1": "../../../utils/browser/dom_service/dom_service.template.dart",
+        "1": "../../../utils/disposer/disposer.template.dart",
         "4": "i7"
       },
       {
-        "1": "../../../utils/disposer/disposer.template.dart",
+        "1": "package:angular2/angular2.template.dart",
         "4": "i8"
       },
       {
-        "1": "package:angular2/angular2.template.dart",
-        "4": "i9"
-      },
-      {
         "1": "src/popup_source_directive.template.dart",
-        "4": "i10"
+        "4": "i9"
       }
     ]
   },
@@ -322,26 +306,6 @@
             "isHost": false,
             "isSkipSelf": false,
             "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "rtlToken",
-                "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": true,
             "isValue": false
           },
           {
@@ -548,26 +512,6 @@
                   "isHost": false,
                   "isSkipSelf": false,
                   "isOptional": false,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
                   "isValue": false
                 },
                 {

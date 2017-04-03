@@ -920,6 +920,79 @@
             "value": null,
             "identifier": {
               "class": "Type",
+              "name": "DisplayNameRendererDirective",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/display_name.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "HasRenderer",
+                      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "DisplayNameRendererDirective",
+            "moduleUrl": "asset:angular2_components/lib/src/components/material_select/display_name.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "HasRenderer",
+                    "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
               "name": "FixedMaterialTabStripComponent",
               "moduleUrl": "asset:angular2_components/lib/src/components/material_tab/fixed_material_tab_strip.dart",
               "prefix": null,
@@ -2118,6 +2191,159 @@
                     "class": "Identifier",
                     "name": "ModalComponent",
                     "moduleUrl": "asset:angular2_components/lib/src/laminate/components/modal/modal.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": true,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialDropdownSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "IdGenerator",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "PopupSizeProvider",
+                      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": true,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "rtlToken",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "MaterialDropdownSelectComponent",
+            "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "IdGenerator",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": true,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "PopupSizeProvider",
+                    "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": true,
+                "isOptional": true,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "rtlToken",
+                    "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -3744,26 +3970,6 @@
                     "value": null,
                     "identifier": {
                       "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
                       "name": "ChangeDetectorRef",
                       "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                       "prefix": null,
@@ -3938,26 +4144,6 @@
                     "class": "Identifier",
                     "name": "PopupSizeProvider",
                     "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                },
-                "value": null,
-                "isAttribute": false,
-                "isSelf": false,
-                "isHost": false,
-                "isSkipSelf": false,
-                "isOptional": true,
-                "isValue": false
-              },
-              {
-                "token": {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "rtlToken",
-                    "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -4489,6 +4675,230 @@
                 "isHost": false,
                 "isSkipSelf": false,
                 "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": []
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "MaterialSelectComponent",
+            "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": []
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectItemComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_item.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ElementRef",
+                      "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DomService",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DropdownHandle",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ActivationHandler",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "MaterialSelectItemComponent",
+            "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_item.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "ElementRef",
+                    "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DomService",
+                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "DropdownHandle",
+                    "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": true,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "ActivationHandler",
+                    "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": true,
                 "isValue": false
               }
             ]
@@ -8180,6 +8590,116 @@
       "prefix": null,
       "value": null
     },
+    "DynamicComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "dynamic-component",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "DynamicComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/dynamic_component/dynamic_component.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "DynamicComponentLoader",
+                "moduleUrl": "asset:angular2/lib/src/core/linker/dynamic_component_loader.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ChangeDetectorRef",
+                "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "componentType": "componentType",
+        "value": "value"
+      },
+      "inputTypes": {
+        "componentType": " Type",
+        "value": " dynamic"
+      },
+      "outputs": {
+        "onLoad": "onLoad"
+      },
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [
+        1
+      ],
+      "template": {
+        "encapsulation": 2,
+        "template": "<span #marker></span>",
+        "templateUrl": "asset:angular2_components/lib/src/components/dynamic_component/dynamic_component.dart",
+        "styles": [],
+        "styleUrls": [],
+        "ngContentSelectors": []
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": [
+        {
+          "selectors": [
+            {
+              "value": "marker",
+              "identifier": null,
+              "identifierIsInstance": false
+            }
+          ],
+          "descendants": true,
+          "first": true,
+          "propertyName": "viewContainerRef",
+          "read": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "ViewContainerRef",
+              "moduleUrl": "asset:angular2/lib/src/core/linker/view_container_ref.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          }
+        }
+      ]
+    },
     "Focusable": {
       "class": "Identifier",
       "name": "Focusable",
@@ -9142,7 +9662,7 @@
       "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<i [class.material-icons]=\"useMaterialIconsExtended\"\n   aria-hidden=\"true\">\n  {{iconName}}\n</i>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<i class=\"glyph-i\"\n   [class.material-icons]=\"useMaterialIconsExtended\"\n   aria-hidden=\"true\">\n  {{iconName}}\n</i>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/glyph/glyph.html",
         "styles": [],
         "styleUrls": [
@@ -9817,12 +10337,14 @@
       "inputs": {
         "selectionModel": "selectionModel",
         "removable": "removable",
+        "hasLeftIcon": "hasLeftIcon",
         "itemRenderer": "itemRenderer",
         "value": "value"
       },
       "inputTypes": {
         "selectionModel": " SelectionModel",
         "removable": " bool",
+        "hasLeftIcon": " bool",
         "itemRenderer": " ItemRenderer"
       },
       "outputs": {
@@ -9836,13 +10358,14 @@
       "lifecycleHooks": [],
       "template": {
         "encapsulation": 0,
-        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"content\" [id]=\"uuid\">\n  {{label}}\n  <ng-content></ng-content>\n</div>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"\n    *ngIf=\"removable\"\n    class=\"delete-icon\"\n    buttonDecorator\n    (trigger)=\"removeChip($event)\"\n    [attr.aria-label]=\"chipDeleteButtonMessage\"\n    [attr.aria-describedby]=\"uuid\">\n      <path d=\"M12 2c-5.53 0-10 4.47-10 10s4.47 10 10 10 10-4.47 10-10-4.47-10-10-10zm5\n               13.59l-1.41 1.41-3.59-3.59-3.59 3.59-1.41-1.41 3.59-3.59-3.59-3.59 1.41-1.41 3.59\n               3.59 3.59-3.59 1.41 1.41-3.59 3.59 3.59 3.59z\"/>\n</svg>\n",
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div class=\"left-icon\" *ngIf=\"hasLeftIcon\">\n  <ng-content select=\"[left-icon]\"></ng-content>\n</div>\n<div class=\"content\" [id]=\"uuid\">\n  {{label}}\n  <ng-content></ng-content>\n</div>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"\n    *ngIf=\"removable\"\n    class=\"delete-icon\"\n    buttonDecorator\n    (trigger)=\"removeChip($event)\"\n    [attr.aria-label]=\"chipDeleteButtonMessage\"\n    [attr.aria-describedby]=\"uuid\">\n      <path d=\"M12 2c-5.53 0-10 4.47-10 10s4.47 10 10 10 10-4.47 10-10-4.47-10-10-10zm5\n               13.59l-1.41 1.41-3.59-3.59-3.59 3.59-1.41-1.41 3.59-3.59-3.59-3.59 1.41-1.41 3.59\n               3.59 3.59-3.59 1.41 1.41-3.59 3.59 3.59 3.59z\"/>\n</svg>\n",
         "templateUrl": "asset:angular2_components/lib/src/components/material_chips/material_chip.html",
         "styles": [],
         "styleUrls": [
           "asset:angular2_components/lib/src/components/material_chips/material_chip.scss.css"
         ],
         "ngContentSelectors": [
+          "[left-icon]",
           "*"
         ],
         "preserveWhitespace": false
@@ -10245,6 +10768,7 @@
         "name": "name",
         "secondaryText": "secondaryText",
         "expandIcon": "expandIcon",
+        "alwaysShowExpandIcon": "alwaysShowExpandIcon",
         "showSaveCancel": "showSaveCancel",
         "saveText": "saveText",
         "cancelText": "cancelText"
@@ -10258,6 +10782,7 @@
         "name": " String",
         "secondaryText": " String",
         "expandIcon": " String",
+        "alwaysShowExpandIcon": " bool",
         "showSaveCancel": " bool",
         "saveText": " String",
         "cancelText": " String"
@@ -12465,7 +12990,7 @@
         "label": "label",
         "errorRenderer": "errorRenderer",
         "floatingLabel": "floatingLabel",
-        "hint": "hint",
+        "hintText": "hintText",
         "showHintOnlyOnFocus": "showHintOnlyOnFocus",
         "required": "required",
         "requiredErrorMsg": "requiredErrorMsg",
@@ -21842,6 +22367,48 @@
       "name": "uppercase",
       "pure": true
     },
+    "positiveIntegerRequiredErrorKey": {
+      "class": "Identifier",
+      "name": "positiveIntegerRequiredErrorKey",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
+      "prefix": null,
+      "value": null
+    },
+    "nonNegativeIntegerRequiredErrorKey": {
+      "class": "Identifier",
+      "name": "nonNegativeIntegerRequiredErrorKey",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
+      "prefix": null,
+      "value": null
+    },
+    "numberBelowLowerBoundErrorKey": {
+      "class": "Identifier",
+      "name": "numberBelowLowerBoundErrorKey",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
+      "prefix": null,
+      "value": null
+    },
+    "numberAboveUpperBoundErrorKey": {
+      "class": "Identifier",
+      "name": "numberAboveUpperBoundErrorKey",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
+      "prefix": null,
+      "value": null
+    },
+    "checkIntegerErrorKey": {
+      "class": "Identifier",
+      "name": "checkIntegerErrorKey",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
+      "prefix": null,
+      "value": null
+    },
+    "inputNotNumberErrorKey": {
+      "class": "Identifier",
+      "name": "inputNotNumberErrorKey",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
+      "prefix": null,
+      "value": null
+    },
     "materialNumberInputDirectives": {
       "class": "Identifier",
       "name": "materialNumberInputDirectives",
@@ -22442,13 +23009,6 @@
         }
       ]
     },
-    "checkIntegerErrorId": {
-      "class": "Identifier",
-      "name": "checkIntegerErrorId",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialNumberValueAccessor": {
       "class": "Directive",
       "isComponent": false,
@@ -22944,6 +23504,79 @@
       "queries": [],
       "viewQueries": []
     },
+    "MaterialPercentInputDirective": {
+      "class": "Directive",
+      "isComponent": false,
+      "selector": "material-input[type=percent]",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialPercentInputDirective",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_percent_directive.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "MaterialInputComponent",
+                "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ElementRef",
+                "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "percentErrorRenderer": "percentErrorRenderer"
+      },
+      "inputTypes": {
+        "percentErrorRenderer": " Function"
+      },
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": null,
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
     "MaterialListComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -23304,26 +23937,6 @@
               "value": null,
               "identifier": {
                 "class": "Identifier",
-                "name": "rtlToken",
-                "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": true,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
                 "name": "ChangeDetectorRef",
                 "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                 "prefix": null,
@@ -23533,26 +24146,6 @@
                     "value": null,
                     "identifier": {
                       "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
                       "name": "ChangeDetectorRef",
                       "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                       "prefix": null,
@@ -23730,26 +24323,6 @@
                       "class": "Identifier",
                       "name": "PopupSizeProvider",
                       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
                       "prefix": null,
                       "value": null
                     },
@@ -23982,26 +24555,6 @@
                     "value": null,
                     "identifier": {
                       "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
                       "name": "ChangeDetectorRef",
                       "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                       "prefix": null,
@@ -24169,26 +24722,6 @@
                   "isHost": false,
                   "isSkipSelf": false,
                   "isOptional": false,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "rtlToken",
-                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": false,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
                   "isValue": false
                 },
                 {
@@ -25614,6 +26147,1766 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "ActivationHandler": {
+      "class": "Identifier",
+      "name": "ActivationHandler",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DisplayNameRendererDirective": {
+      "class": "Directive",
+      "isComponent": false,
+      "selector": "[displayNameRenderer]",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "DisplayNameRendererDirective",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_select/display_name.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "HasRenderer",
+                "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": null,
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "DropdownButtonComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "dropdown-button",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "DropdownButtonComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_select/dropdown_button.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 4,
+      "inputs": {
+        "buttonText": "buttonText",
+        "buttonAriaLabel": "buttonAriaLabel",
+        "disabled": "disabled",
+        "icon": "icon",
+        "iconName": "iconName"
+      },
+      "inputTypes": {},
+      "outputs": {
+        "blur": "blur",
+        "focus": "focus",
+        "trigger": "trigger"
+      },
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 0,
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div buttonDecorator\n     keyboardOnlyFocusIndicator\n     class=\"button\"\n     (focus)=\"onFocus($event)\"\n     (blur)=\"onBlur($event)\"\n     [attr.aria-label]=\"buttonAriaLabel\"\n     [class.border]=\"buttonText != null\"\n     [disabled]=\"disabled\">\n  <span class=\"button-text\" *ngIf=\"buttonText != null\">{{buttonText}}</span>\n  <ng-content></ng-content>\n  <glyph *ngIf=\"buttonIcon != null\"\n         class=\"icon\"\n         [icon]=\"buttonIcon\"></glyph>\n</div>\n",
+        "templateUrl": "asset:angular2_components/lib/src/components/material_select/dropdown_button.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components/lib/src/components/button_decorator/button_decorator.scss.css",
+          "asset:angular2_components/lib/src/components/material_select/dropdown_button.scss.css"
+        ],
+        "ngContentSelectors": [
+          "*"
+        ]
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": [
+        {
+          "selectors": [
+            {
+              "value": null,
+              "identifier": {
+                "class": "Type",
+                "name": "ButtonDirective",
+                "moduleUrl": "asset:angular2_components/lib/src/components/button_decorator/button_decorator.dart",
+                "prefix": null,
+                "isHost": false,
+                "value": null,
+                "diDeps": [
+                  {
+                    "token": {
+                      "value": null,
+                      "identifier": {
+                        "class": "Identifier",
+                        "name": "ElementRef",
+                        "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                        "prefix": null,
+                        "value": null
+                      },
+                      "identifierIsInstance": false
+                    },
+                    "value": null,
+                    "isAttribute": false,
+                    "isSelf": false,
+                    "isHost": false,
+                    "isSkipSelf": false,
+                    "isOptional": false,
+                    "isValue": false
+                  }
+                ]
+              },
+              "identifierIsInstance": false
+            }
+          ],
+          "descendants": true,
+          "first": true,
+          "propertyName": "button",
+          "read": null
+        }
+      ]
+    },
+    "ActivateItemOnKeyPressMixin": {
+      "class": "Identifier",
+      "name": "ActivateItemOnKeyPressMixin",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MaterialDropdownSelectComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-dropdown-select",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialDropdownSelectComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "IdGenerator",
+                "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "PopupSizeProvider",
+                "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": true,
+            "isOptional": true,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "rtlToken",
+                "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "componentRenderer": "componentRenderer",
+        "itemRenderer": "itemRenderer",
+        "options": "options",
+        "selection": "selection",
+        "width": "width",
+        "autoDismiss": "autoDismiss",
+        "popupMatchInputWidth": "popupMatchInputWidth",
+        "preferredPositions": "preferredPositions",
+        "slide": "slide",
+        "visible": "visible",
+        "buttonText": "buttonText",
+        "buttonAriaLabel": "buttonAriaLabel",
+        "disabled": "disabled",
+        "icon": "icon",
+        "iconName": "iconName",
+        "trackLayoutChanges": "trackLayoutChanges"
+      },
+      "inputTypes": {},
+      "outputs": {
+        "visibleStream": "visibleChange",
+        "focus": "focus",
+        "blur": "blur"
+      },
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [
+        3,
+        1
+      ],
+      "template": {
+        "encapsulation": 0,
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<dropdown-button\n    [buttonAriaLabel]=\"buttonAriaLabel\"\n    [buttonText]=\"buttonText\"\n    [disabled]=\"disabled\"\n    [iconName]=\"iconName\"\n    [icon]=\"icon\"\n    [raised]=\"raised\"\n    (keydown)=\"onKeyDown($event)\"\n    (keypress)=\"onKeyPress($event)\"\n    (focus)=\"onFocus($event)\"\n    (blur)=\"onBlur($event)\"\n    (keyup)=\"onKeyUp($event)\"\n    (trigger)=\"handleClick($event)\"\n    popupSource\n    #source=\"popupSource\">\n   <ng-content select=\"[buttonContent]\"></ng-content>\n</dropdown-button>\n<material-popup enforceSpaceConstraints\n                [preferredPositions]=\"preferredPositions\"\n                [matchMinSourceWidth]=\"popupMatchInputWidth\"\n                [slide]=\"slide\"\n                [source]=\"source\"\n                [autoDismiss]=\"autoDismiss\"\n                [trackLayoutChanges]=\"trackLayoutChanges\"\n                [visible]=\"visible\"\n                (visibleChange)=\"onVisible($event)\">\n  <div header\n      (keydown)=\"onKeyDown($event)\"\n      (keypress)=\"onKeyPress($event)\"\n      (keyup)=\"onKeyUp($event)\">\n    <ng-content select=\"[header]\"></ng-content>\n  </div>\n  <material-list\n      class=\"options-list\"\n      [width]=\"width\"\n      tabIndex=\"-1\"\n      *deferredContent=\"true\"\n      (keydown)=\"onKeyDown($event)\"\n      (keypress)=\"onKeyPress($event)\"\n      (keyup)=\"onKeyUp($event)\"\n      (mouseout)=\"activeModel.activate(null)\">\n    <ng-content></ng-content>\n    <div class=\"options-wrapper\" *ngIf=\"options != null\">\n      <div *ngFor=\"let group of options.optionGroups trackBy trackByIndexFn\" group\n           [class.empty]=\"group.isEmpty && !group.hasEmptyLabel\">\n        <template [ngIf]=\"group.isNotEmpty || group.hasEmptyLabel\">\n          <span *ngIf=\"group.hasLabel\" label>{{group.uiDisplayName}}</span>\n          <template [ngIf]=\"group.isNotEmpty\">\n            <material-select-dropdown-item *ngFor=\"let item of group\"\n               keyboardOnlyFocusIndicator\n               [itemRenderer]=\"itemRenderer\"\n               [componentRenderer]=\"componentRenderer\"\n               [selection]=\"selection\"\n               [disabled]=\"isOptionDisabled(item)\"\n               [value]=\"item\"\n               [active]=\"activeModel.isActive(item)\"\n               [attr.id]=\"activeModel.id(item)\"\n               (mouseenter)=\"activeModel.activate(item)\">\n            </material-select-dropdown-item>\n          </template>\n          <material-select-dropdown-item\n              *ngIf=\"group.isEmpty && group.hasEmptyLabel\"\n              keyboardOnlyFocusIndicator\n              [disabled]=\"true\"\n              [value]=\"group.emptyLabel\">\n          </material-select-dropdown-item>\n        </template>\n      </div>\n    </div>\n  </material-list>\n  <div footer\n      (keydown)=\"onKeyDown($event)\"\n      (keypress)=\"onKeyPress($event)\"\n      (keyup)=\"onKeyUp($event)\">\n    <ng-content select=\"[footer]\"></ng-content>\n  </div>\n</material-popup>\n",
+        "templateUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.scss.css"
+        ],
+        "ngContentSelectors": [
+          "[buttonContent]",
+          "[header]",
+          "*",
+          "[footer]"
+        ]
+      },
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "DropdownHandle",
+              "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialDropdownSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "IdGenerator",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "PopupSizeProvider",
+                      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": true,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "rtlToken",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "HasRenderer",
+              "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialDropdownSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "IdGenerator",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "PopupSizeProvider",
+                      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": true,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "rtlToken",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "DeferredContentAware",
+              "moduleUrl": "asset:angular2_components/lib/src/components/content/deferred_content_aware.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialDropdownSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "IdGenerator",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "PopupSizeProvider",
+                      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": true,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "rtlToken",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "SelectionContainer",
+              "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_container.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialDropdownSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "IdGenerator",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "PopupSizeProvider",
+                      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": true,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "rtlToken",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PopupSizeProvider",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialDropdownSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "IdGenerator",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "PopupSizeProvider",
+                      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": true,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "rtlToken",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "ActivationHandler",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialDropdownSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_dropdown_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "IdGenerator",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/id_generator/id_generator.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "PopupSizeProvider",
+                      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": true,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "rtlToken",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "MaterialSelectComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-select",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialSelectComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "options": "options",
+        "width": "width",
+        "itemRenderer": "itemRenderer",
+        "componentRenderer": "componentRenderer",
+        "selection": "selection",
+        "disabled": "disabled"
+      },
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {
+        "attr.aria-disabled": "disabledStr"
+      },
+      "hostAttributes": {
+        "role": "listbox"
+      },
+      "lifecycleHooks": [
+        1
+      ],
+      "template": {
+        "encapsulation": 0,
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<material-list [width]=\"width\">\n  <ng-content></ng-content>\n  <div class=\"options-wrapper\" *ngIf=\"options != null\">\n    <div *ngFor=\"let group of options.optionGroups trackBy trackByIndexFn\" group\n         [class.empty]=\"group.isEmpty\">\n      <template [ngIf]=\"group.isNotEmpty\">\n        <span *ngIf=\"group.hasLabel\" label>{{group.uiDisplayName}}</span>\n        <material-select-item *ngFor=\"let item of group\"\n                              [itemRenderer]=\"itemRenderer\"\n                              [disabled]=\"disabled\"\n                              [componentRenderer]=\"componentRenderer\"\n                              [selection]=\"selection\"\n                              [value]=\"item\">\n        </material-select-item>\n      </template>\n    </div>\n  </div>\n</material-list>\n",
+        "templateUrl": "asset:angular2_components/lib/src/components/material_select/material_select.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components/lib/src/components/material_select/material_select.scss.css"
+        ],
+        "ngContentSelectors": [
+          "*"
+        ]
+      },
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "HasRenderer",
+              "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": []
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "SelectionContainer",
+              "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_container.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": []
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [
+        {
+          "selectors": [
+            {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "SelectionItem",
+                "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_container.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            }
+          ],
+          "descendants": false,
+          "first": false,
+          "propertyName": "selectItems",
+          "read": null
+        }
+      ],
+      "viewQueries": []
+    },
+    "MaterialSelectBase": {
+      "class": "Identifier",
+      "name": "MaterialSelectBase",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_base.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MaterialSelectDropdownItemComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-select-dropdown-item",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialSelectDropdownItemComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_dropdown_item.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ElementRef",
+                "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "DomService",
+                "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "DropdownHandle",
+                "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ActivationHandler",
+                "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "active": "active",
+        "closeOnActivate": "closeOnActivate",
+        "componentRenderer": "componentRenderer",
+        "disabled": "disabled",
+        "hideCheckbox": "hideCheckbox",
+        "itemRenderer": "itemRenderer",
+        "selected": "selected",
+        "selection": "selection",
+        "value": "value"
+      },
+      "inputTypes": {},
+      "outputs": {
+        "trigger": "trigger"
+      },
+      "hostListeners": {
+        "click": "handleClick($event)",
+        "mouseenter": "onMouseEnter()",
+        "keypress": "handleKeyPress($event)",
+        "mousedown": "preventTextSelectionIfShiftKey($event)",
+        "mouseleave": "onMouseLeave()"
+      },
+      "hostProperties": {
+        "class.disabled": "disabled",
+        "attr.aria-disabled": "disabledStr",
+        "class.multiselect": "supportsMultiSelect",
+        "class.active": "active",
+        "class.selected": "isSelected"
+      },
+      "hostAttributes": {
+        "tabindex": "0",
+        "class": "item",
+        "role": "button"
+      },
+      "lifecycleHooks": [
+        1
+      ],
+      "template": {
+        "encapsulation": 0,
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div *ngIf=\"!supportsMultiSelect && isSelected\"\n     class=\"selected-accent\"\n     [attr.aria-label]=\"selectedMessage\">\n</div>\n<material-checkbox *ngIf=\"supportsMultiSelect && !hideCheckbox\"\n                   [checked]=\"isSelected\"\n                   [disabled]=\"disabled\"\n                   [attr.aria-label]=\"isSelected ? selectedMessage : notSelectedMessage\">\n</material-checkbox>\n<span *ngIf=\"valueHasLabel\" class=\"label\">{{valueLabel}}</span>\n<dynamic-component *ngIf=\"componentType != null\"\n    class=\"dynamic-item\"\n    [componentType]=\"componentType\"\n    [value]=\"value\">\n</dynamic-component>\n",
+        "templateUrl": "asset:angular2_components/lib/src/components/material_select/material_select_dropdown_item.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components/lib/src/components/material_select/material_select_dropdown_item.scss.css"
+        ],
+        "ngContentSelectors": []
+      },
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "SelectionItem",
+              "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_container.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectDropdownItemComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_dropdown_item.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ElementRef",
+                      "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DomService",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DropdownHandle",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ActivationHandler",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "HasRenderer",
+              "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectDropdownItemComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_dropdown_item.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ElementRef",
+                      "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DomService",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DropdownHandle",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ActivationHandler",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "MaterialSelectItemComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-select-item",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialSelectItemComponent",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_item.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ElementRef",
+                "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "DomService",
+                "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "DropdownHandle",
+                "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ActivationHandler",
+                "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "disabled": "disabled",
+        "active": "active",
+        "value": "value",
+        "hideCheckbox": "hideCheckbox",
+        "itemRenderer": "itemRenderer",
+        "componentRenderer": "componentRenderer",
+        "selection": "selection",
+        "selected": "selected",
+        "closeOnActivate": "closeOnActivate"
+      },
+      "inputTypes": {
+        "itemRenderer": " ItemRenderer",
+        "componentRenderer": " ComponentRenderer",
+        "selection": " SelectionModel"
+      },
+      "outputs": {
+        "trigger": "trigger"
+      },
+      "hostListeners": {
+        "mouseenter": "onMouseEnter()",
+        "click": "handleClick($event)",
+        "keypress": "handleKeyPress($event)",
+        "mouseleave": "onMouseLeave()"
+      },
+      "hostProperties": {
+        "class.multiselect": "supportsMultiSelect",
+        "class.disabled": "disabled",
+        "class.active": "active",
+        "class.selected": "isSelected",
+        "attr.aria-disabled": "disabledStr"
+      },
+      "hostAttributes": {
+        "tabindex": "0",
+        "class": "item",
+        "role": "option"
+      },
+      "lifecycleHooks": [
+        1
+      ],
+      "template": {
+        "encapsulation": 0,
+        "template": "<!--\n Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n for details. All rights reserved. Use of this source code is governed by a\n BSD-style license that can be found in the LICENSE file.\n-->\n<div *ngIf=\"!supportsMultiSelect && isSelected\"\n     class=\"selected-accent\"\n     [attr.aria-label]=\"selectedMessage\">\n</div>\n<material-checkbox *ngIf=\"supportsMultiSelect\"\n                   tabindex=\"-1\"\n                   [checked]=\"isSelected\"\n                   [disabled]=\"disabled\"\n                   [attr.aria-label]=\"isSelected ? selectedMessage : notSelectedMessage\">\n</material-checkbox>\n<span *ngIf=\"valueHasLabel\" class=\"label\">{{valueLabel}}</span>\n<dynamic-component *ngIf=\"componentType != null\"\n    class=\"dynamic-item\"\n    [componentType]=\"componentType\"\n    [value]=\"value\">\n</dynamic-component>\n<ng-content></ng-content>\n",
+        "templateUrl": "asset:angular2_components/lib/src/components/material_select/material_select_item.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular2_components/lib/src/components/material_select/material_select_item.scss.css"
+        ],
+        "ngContentSelectors": [
+          "*"
+        ]
+      },
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "SelectionItem",
+              "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_container.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectItemComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_item.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ElementRef",
+                      "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DomService",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DropdownHandle",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ActivationHandler",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        },
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "HasRenderer",
+              "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "MaterialSelectItemComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_select/material_select_item.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ElementRef",
+                      "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DomService",
+                      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "DropdownHandle",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                },
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "ActivationHandler",
+                      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/activation_handler.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": true,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "ShiftClickSelectionMixin": {
+      "class": "Identifier",
+      "name": "ShiftClickSelectionMixin",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_select/shift_click_selection.dart",
+      "prefix": null,
+      "value": null
     },
     "MaterialSpinnerComponent": {
       "class": "Directive",
@@ -27173,26 +29466,6 @@
                       "value": null,
                       "identifier": {
                         "class": "Identifier",
-                        "name": "rtlToken",
-                        "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                        "prefix": null,
-                        "value": null
-                      },
-                      "identifierIsInstance": false
-                    },
-                    "value": null,
-                    "isAttribute": false,
-                    "isSelf": false,
-                    "isHost": false,
-                    "isSkipSelf": false,
-                    "isOptional": true,
-                    "isValue": false
-                  },
-                  {
-                    "token": {
-                      "value": null,
-                      "identifier": {
-                        "class": "Identifier",
                         "name": "ChangeDetectorRef",
                         "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detector_ref.dart",
                         "prefix": null,
@@ -28525,6 +30798,13 @@
         }
       ]
     },
+    "MaterialButtonWrapper": {
+      "class": "Identifier",
+      "name": "MaterialButtonWrapper",
+      "moduleUrl": "asset:angular2_components/lib/src/components/mixins/button_wrapper.dart",
+      "prefix": null,
+      "value": null
+    },
     "FocusableMixin": {
       "class": "Identifier",
       "name": "FocusableMixin",
@@ -28550,6 +30830,13 @@
       "class": "Identifier",
       "name": "MaterialDropdownBase",
       "moduleUrl": "asset:angular2_components/lib/src/components/mixins/material_dropdown_base.dart",
+      "prefix": null,
+      "value": null
+    },
+    "TrackLayoutChangesMixin": {
+      "class": "Identifier",
+      "name": "TrackLayoutChangesMixin",
+      "moduleUrl": "asset:angular2_components/lib/src/components/mixins/track_layout_changes.dart",
       "prefix": null,
       "value": null
     },
@@ -28855,26 +31142,6 @@
             "isSkipSelf": false,
             "isOptional": false,
             "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "rtlToken",
-                "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": true,
-            "isValue": false
           }
         ]
       },
@@ -29157,7 +31424,6 @@
       "changeDetection": 4,
       "inputs": {
         "label": "label",
-        "title": "title",
         "value": "value",
         "changeGlyph": "changeGlyph",
         "suggestionBefore": "suggestionBefore",
@@ -29171,7 +31437,6 @@
       },
       "inputTypes": {
         "label": " String",
-        "title": " String",
         "value": " String",
         "changeGlyph": " bool",
         "suggestionBefore": " String",
@@ -29632,6 +31897,62 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "Alignment": {
+      "class": "Identifier",
+      "name": "Alignment",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_CustomAlignment": {
+      "class": "Identifier",
+      "name": "_CustomAlignment",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_BeforeCustomAlignment": {
+      "class": "Identifier",
+      "name": "_BeforeCustomAlignment",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_AfterCustomAlignment": {
+      "class": "Identifier",
+      "name": "_AfterCustomAlignment",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "RelativePosition": {
+      "class": "Identifier",
+      "name": "RelativePosition",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_AnimationOrigins": {
+      "class": "Identifier",
+      "name": "_AnimationOrigins",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SetPropertyFn": {
+      "class": "Identifier",
+      "name": "SetPropertyFn",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ElementStyleEnum": {
+      "class": "Identifier",
+      "name": "ElementStyleEnum",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
+      "prefix": null,
+      "value": null
     },
     "overlayBindings": {
       "class": "Identifier",
@@ -36183,6 +38504,188 @@
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/radio_group_single_selection_model.dart",
       "prefix": null,
       "value": null
+    },
+    "_FutureSelectionOptions": {
+      "class": "Identifier",
+      "name": "_FutureSelectionOptions",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_StreamSelectionOptions": {
+      "class": "Identifier",
+      "name": "_StreamSelectionOptions",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "OptionGroup": {
+      "class": "Identifier",
+      "name": "OptionGroup",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "GroupedOptions": {
+      "class": "Identifier",
+      "name": "GroupedOptions",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionOptions": {
+      "class": "Identifier",
+      "name": "SelectionOptions",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableOption": {
+      "class": "Identifier",
+      "name": "SelectableOption",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableGetter": {
+      "class": "Identifier",
+      "name": "SelectableGetter",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "Selectable": {
+      "class": "Identifier",
+      "name": "Selectable",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableWithComposition": {
+      "class": "Identifier",
+      "name": "SelectableWithComposition",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "HasSelectionRationale": {
+      "class": "Identifier",
+      "name": "HasSelectionRationale",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_NullHasSelectionRationale": {
+      "class": "Identifier",
+      "name": "_NullHasSelectionRationale",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "StringSuggestionFilter": {
+      "class": "Identifier",
+      "name": "StringSuggestionFilter",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/string_selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_stringFormatSuggestion": {
+      "class": "Identifier",
+      "name": "_stringFormatSuggestion",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/string_selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "StringSelectionOptions": {
+      "class": "Identifier",
+      "name": "StringSelectionOptions",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/string_selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "HasUIDisplayName": {
+      "class": "Identifier",
+      "name": "HasUIDisplayName",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/display_name.dart",
+      "prefix": null,
+      "value": null
+    },
+    "LabeledValue": {
+      "class": "Identifier",
+      "name": "LabeledValue",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/display_name.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ItemRenderer": {
+      "class": "Identifier",
+      "name": "ItemRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ComponentRenderer": {
+      "class": "Identifier",
+      "name": "ComponentRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "nullRenderer": {
+      "class": "Identifier",
+      "name": "nullRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "HasRenderer": {
+      "class": "Identifier",
+      "name": "HasRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CachingItemRenderer": {
+      "class": "Identifier",
+      "name": "CachingItemRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "RendersValue": {
+      "class": "Identifier",
+      "name": "RendersValue",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "HasComponentRenderer": {
+      "class": "Identifier",
+      "name": "HasComponentRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "defaultItemRenderer": {
+      "class": "Identifier",
+      "name": "defaultItemRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_nullRenderer": {
+      "class": "Identifier",
+      "name": "_nullRenderer",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SupportsRendering": {
+      "class": "Identifier",
+      "name": "SupportsRendering",
+      "moduleUrl": "asset:angular2_components/lib/src/model/ui/has_renderer.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {
@@ -36193,6 +38696,7 @@
       "ClickableTooltipTargetDirective",
       "DarkThemeDirective",
       "DeferredContentDirective",
+      "DisplayNameRendererDirective",
       "FixedMaterialTabStripComponent",
       "FocusActivableItemDirective",
       "FocusItemDirective",
@@ -36205,6 +38709,7 @@
       "MaterialChipComponent",
       "MaterialChipsComponent",
       "MaterialDialogComponent",
+      "MaterialDropdownSelectComponent",
       "MaterialExpansionPanel",
       "MaterialExpansionPanelSet",
       "MaterialFabComponent",
@@ -36221,6 +38726,8 @@
       "MaterialRadioComponent",
       "MaterialRadioGroupComponent",
       "MaterialRippleComponent",
+      "MaterialSelectComponent",
+      "MaterialSelectItemComponent",
       "MaterialSpinnerComponent",
       "MaterialTabComponent",
       "MaterialTabPanelComponent",

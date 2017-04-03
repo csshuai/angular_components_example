@@ -37,6 +37,10 @@
       {
         "1": "material_number_validators.dart",
         "5": false
+      },
+      {
+        "1": "material_input_error_keys.dart",
+        "5": false
       }
     ],
     "4": [
@@ -130,6 +134,10 @@
       {
         "1": "material_number_validators.template.dart",
         "4": "i5"
+      },
+      {
+        "1": "material_input_error_keys.template.dart",
+        "4": "i6"
       }
     ]
   },
@@ -733,13 +741,6 @@
           "deps": null
         }
       ]
-    },
-    "checkIntegerErrorId": {
-      "class": "Identifier",
-      "name": "checkIntegerErrorId",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
-      "prefix": null,
-      "value": null
     },
     "MaterialNumberValueAccessor": {
       "class": "Directive",
@@ -3003,7 +3004,7 @@
         "label": "label",
         "errorRenderer": "errorRenderer",
         "floatingLabel": "floatingLabel",
-        "hint": "hint",
+        "hintText": "hintText",
         "showHintOnlyOnFocus": "showHintOnlyOnFocus",
         "required": "required",
         "requiredErrorMsg": "requiredErrorMsg",
