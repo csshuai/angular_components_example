@@ -25,15 +25,16 @@
         "5": false
       },
       {
+        "1": "config.dart",
+        "5": false
+      },
+      {
         "1": "output/output_ast.dart",
         "4": "o",
         "5": false
       },
       {
         "1": "shadow_css.dart",
-        "2": [
-          "ShadowCss"
-        ],
         "5": false
       },
       {
@@ -62,6 +63,10 @@
         ],
         "5": [
           {
+            "1": "CompilerConfig",
+            "4": "_config"
+          },
+          {
             "1": "UrlResolver",
             "4": "_urlResolver"
           }
@@ -83,20 +88,24 @@
         "4": "i2"
       },
       {
-        "1": "output/output_ast.template.dart",
+        "1": "config.template.dart",
         "4": "i3"
       },
       {
-        "1": "shadow_css.template.dart",
+        "1": "output/output_ast.template.dart",
         "4": "i4"
       },
       {
-        "1": "style_url_resolver.template.dart",
+        "1": "shadow_css.template.dart",
         "4": "i5"
       },
       {
-        "1": "url_resolver.template.dart",
+        "1": "style_url_resolver.template.dart",
         "4": "i6"
+      },
+      {
+        "1": "url_resolver.template.dart",
+        "4": "i7"
       }
     ]
   },
@@ -130,6 +139,26 @@
       "isHost": false,
       "value": null,
       "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "CompilerConfig",
+              "moduleUrl": "asset:angular2/lib/src/compiler/config.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        },
         {
           "token": {
             "value": null,

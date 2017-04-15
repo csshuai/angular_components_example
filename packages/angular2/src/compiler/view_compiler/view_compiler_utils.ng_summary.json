@@ -80,6 +80,13 @@
       "prefix": null,
       "value": null
     },
+    "createDebugInfoTokenExpression": {
+      "class": "Identifier",
+      "name": "createDebugInfoTokenExpression",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
+      "prefix": null,
+      "value": null
+    },
     "createFlatArray": {
       "class": "Identifier",
       "name": "createFlatArray",

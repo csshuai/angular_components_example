@@ -106,6 +106,13 @@
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/event_binder.dart",
       "prefix": null,
       "value": null
+    },
+    "isNativeHtmlEvent": {
+      "class": "Identifier",
+      "name": "isNativeHtmlEvent",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/event_binder.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

@@ -25,15 +25,16 @@
         "5": false
       },
       {
+        "1": "config.dart",
+        "5": false
+      },
+      {
         "1": "output/output_ast.dart",
         "4": "o",
         "5": false
       },
       {
         "1": "shadow_css.dart",
-        "2": [
-          "ShadowCss"
-        ],
         "5": false
       },
       {
@@ -61,6 +62,10 @@
           }
         ],
         "5": [
+          {
+            "1": "CompilerConfig",
+            "4": "_config"
+          },
           {
             "1": "UrlResolver",
             "4": "_urlResolver"
@@ -100,6 +105,26 @@
       "isHost": false,
       "value": null,
       "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "CompilerConfig",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        },
         {
           "token": {
             "value": null,

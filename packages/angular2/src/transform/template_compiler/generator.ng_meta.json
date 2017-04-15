@@ -11,7 +11,7 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/compiler/offline_compiler.dart",
+        "1": "package:angular2/src/compiler/source_module.dart",
         "5": false
       },
       {
@@ -40,9 +40,6 @@
       },
       {
         "1": "package:angular2/src/transform/common/options.dart",
-        "2": [
-          "CODEGEN_DEBUG_MODE"
-        ],
         "5": false
       },
       {
@@ -66,7 +63,7 @@
         "4": "i0"
       },
       {
-        "1": "package:angular2/src/compiler/offline_compiler.template.dart",
+        "1": "package:angular2/src/compiler/source_module.template.dart",
         "4": "i1"
       },
       {

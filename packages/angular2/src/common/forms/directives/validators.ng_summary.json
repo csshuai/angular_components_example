@@ -3,10 +3,6 @@
     "1": "",
     "3": [
       {
-        "1": "dart:async",
-        "5": false
-      },
-      {
         "1": "package:angular2/core.dart",
         "5": false
       },
@@ -86,13 +82,6 @@
       "prefix": null,
       "value": null
     },
-    "AsyncValidatorFn": {
-      "class": "Identifier",
-      "name": "AsyncValidatorFn",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/validators.dart",
-      "prefix": null,
-      "value": null
-    },
     "REQUIRED": {
       "class": "Identifier",
       "name": "REQUIRED",
@@ -103,13 +92,6 @@
     "Validator": {
       "class": "Identifier",
       "name": "Validator",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/validators.dart",
-      "prefix": null,
-      "value": null
-    },
-    "AsyncValidator": {
-      "class": "Identifier",
-      "name": "AsyncValidator",
       "moduleUrl": "asset:angular2/lib/src/common/forms/directives/validators.dart",
       "prefix": null,
       "value": null
@@ -161,7 +143,6 @@
             "value": null
           },
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         }
@@ -236,7 +217,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         }
@@ -311,7 +291,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         }
@@ -386,7 +365,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         }

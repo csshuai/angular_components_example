@@ -216,7 +216,6 @@
               }
             ]
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {

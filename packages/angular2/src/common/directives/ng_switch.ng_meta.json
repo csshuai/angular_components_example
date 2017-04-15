@@ -4,12 +4,17 @@
     "3": [
       {
         "1": "package:angular2/core.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/di/decorators.dart",
         "2": [
-          "Directive",
-          "Host",
-          "ViewContainerRef",
-          "TemplateRef"
+          "Host"
         ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/facade/lang.dart",
         "5": false
       }
     ],
@@ -63,6 +68,14 @@
       {
         "1": "package:angular2/core.template.dart",
         "4": "i0"
+      },
+      {
+        "1": "package:angular2/src/core/di/decorators.template.dart",
+        "4": "i1"
+      },
+      {
+        "1": "package:angular2/src/facade/lang.template.dart",
+        "4": "i2"
       }
     ]
   },
@@ -114,7 +127,7 @@
     "NgSwitchWhen": {
       "class": "Directive",
       "isComponent": false,
-      "selector": "[ngSwitchWhen]",
+      "selector": "[ngSwitchWhen],[ngSwitchCase]",
       "exportAs": null,
       "type": {
         "class": "Type",
@@ -188,7 +201,8 @@
       },
       "changeDetection": 6,
       "inputs": {
-        "ngSwitchWhen": "ngSwitchWhen"
+        "ngSwitchWhen": "ngSwitchWhen",
+        "ngSwitchCase": "ngSwitchCase"
       },
       "inputTypes": {},
       "outputs": {},

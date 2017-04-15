@@ -330,7 +330,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -443,7 +442,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -485,7 +483,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -638,7 +635,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -732,7 +728,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -761,7 +756,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -788,7 +782,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -941,7 +934,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -991,7 +983,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -1030,7 +1021,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1063,7 +1053,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -1098,7 +1087,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -1251,7 +1239,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1345,7 +1332,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -1522,7 +1508,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         }
@@ -1598,9 +1583,9 @@
       "prefix": null,
       "value": null
     },
-    "_IS_DART_VM": {
+    "isDartVM": {
       "class": "Identifier",
-      "name": "_IS_DART_VM",
+      "name": "isDartVM",
       "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
       "prefix": null,
       "value": null
@@ -1808,23 +1793,9 @@
       "prefix": null,
       "value": null
     },
-    "_THROW_IF_NOT_FOUND": {
-      "class": "Identifier",
-      "name": "_THROW_IF_NOT_FOUND",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
     "THROW_IF_NOT_FOUND": {
       "class": "Identifier",
       "name": "THROW_IF_NOT_FOUND",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_NullInjector": {
-      "class": "Identifier",
-      "name": "_NullInjector",
       "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
@@ -1836,23 +1807,9 @@
       "prefix": null,
       "value": null
     },
-    "_EmptyInjectorFactory": {
+    "_EmptyInjector": {
       "class": "Identifier",
-      "name": "_EmptyInjectorFactory",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "InjectorFactory": {
-      "class": "Identifier",
-      "name": "InjectorFactory",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_BoundInjectorFactory": {
-      "class": "Identifier",
-      "name": "_BoundInjectorFactory",
+      "name": "_EmptyInjector",
       "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
@@ -1860,14 +1817,14 @@
     "MapInjector": {
       "class": "Identifier",
       "name": "MapInjector",
-      "moduleUrl": "asset:angular2/lib/src/core/di/map_injector.dart",
+      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
     },
-    "MapInjectorFactory": {
+    "MissingProviderError": {
       "class": "Identifier",
-      "name": "MapInjectorFactory",
-      "moduleUrl": "asset:angular2/lib/src/core/di/map_injector.dart",
+      "name": "MissingProviderError",
+      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
     },
@@ -2081,13 +2038,6 @@
       "prefix": null,
       "value": null
     },
-    "_identityPostProcess": {
-      "class": "Identifier",
-      "name": "_identityPostProcess",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
     "ResolvedReflectiveProvider": {
       "class": "Identifier",
       "name": "ResolvedReflectiveProvider",
@@ -2168,6 +2118,13 @@
     "_extractToken": {
       "class": "Identifier",
       "name": "_extractToken",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_extractTokenUnwrappedParameters": {
+      "class": "Identifier",
+      "name": "_extractTokenUnwrappedParameters",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null
@@ -2545,7 +2502,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2578,7 +2534,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2605,7 +2560,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -2636,7 +2590,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -2743,20 +2696,6 @@
     "RenderDebugInfo": {
       "class": "Identifier",
       "name": "RenderDebugInfo",
-      "moduleUrl": "asset:angular2/lib/src/core/render/api.dart",
-      "prefix": null,
-      "value": null
-    },
-    "Renderer": {
-      "class": "Identifier",
-      "name": "Renderer",
-      "moduleUrl": "asset:angular2/lib/src/core/render/api.dart",
-      "prefix": null,
-      "value": null
-    },
-    "RootRenderer": {
-      "class": "Identifier",
-      "name": "RootRenderer",
       "moduleUrl": "asset:angular2/lib/src/core/render/api.dart",
       "prefix": null,
       "value": null
@@ -3578,7 +3517,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3648,7 +3586,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3721,7 +3658,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3831,7 +3767,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {
@@ -3939,7 +3874,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {
@@ -3989,7 +3923,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -4077,7 +4010,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4147,7 +4079,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4220,7 +4151,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4330,7 +4260,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {
@@ -4438,7 +4367,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {

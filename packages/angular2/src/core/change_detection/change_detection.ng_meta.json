@@ -109,9 +109,9 @@
       "prefix": null,
       "value": null
     },
-    "_IS_DART_VM": {
+    "isDartVM": {
       "class": "Identifier",
-      "name": "_IS_DART_VM",
+      "name": "isDartVM",
       "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
       "prefix": null,
       "value": null

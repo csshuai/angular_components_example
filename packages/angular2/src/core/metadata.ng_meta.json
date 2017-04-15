@@ -3,6 +3,10 @@
     "1": "",
     "3": [
       {
+        "1": "package:meta/meta.dart",
+        "5": false
+      },
+      {
         "1": "change_detection/change_detection.dart",
         "5": false
       },

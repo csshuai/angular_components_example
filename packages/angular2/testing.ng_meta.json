@@ -1,6 +1,24 @@
 {
   "ngDeps": {
     "1": "angular2.testing",
+    "3": [
+      {
+        "1": "package:angular2/src/core/change_detection.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/linker/view_ref.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/debug/debug_app_view.dart",
+        "5": false
+      },
+      {
+        "1": "package:meta/meta.dart",
+        "5": false
+      }
+    ],
     "4": [
       {
         "1": "src/compiler/xhr_mock.dart",
@@ -56,44 +74,77 @@
     "6": "testing.dart",
     "7": [
       {
-        "1": "src/compiler/xhr_mock.template.dart",
+        "1": "package:angular2/src/core/change_detection.template.dart",
         "4": "i0"
       },
       {
-        "1": "src/debug/debug_node.template.dart",
+        "1": "package:angular2/src/core/linker/view_ref.template.dart",
         "4": "i1"
       },
       {
-        "1": "src/mock/directive_resolver_mock.template.dart",
+        "1": "package:angular2/src/debug/debug_app_view.template.dart",
         "4": "i2"
       },
       {
-        "1": "src/mock/mock_application_ref.template.dart",
+        "1": "src/compiler/xhr_mock.template.dart",
         "4": "i3"
       },
       {
-        "1": "src/mock/ng_zone_mock.template.dart",
+        "1": "src/debug/debug_node.template.dart",
         "4": "i4"
       },
       {
-        "1": "src/mock/view_resolver_mock.template.dart",
+        "1": "src/mock/directive_resolver_mock.template.dart",
         "4": "i5"
       },
       {
-        "1": "src/testing/fake_async.template.dart",
+        "1": "src/mock/mock_application_ref.template.dart",
         "4": "i6"
       },
       {
-        "1": "src/testing/test_component_builder.template.dart",
+        "1": "src/mock/ng_zone_mock.template.dart",
         "4": "i7"
       },
       {
-        "1": "src/testing/test_injector.template.dart",
+        "1": "src/mock/view_resolver_mock.template.dart",
         "4": "i8"
+      },
+      {
+        "1": "src/testing/fake_async.template.dart",
+        "4": "i9"
+      },
+      {
+        "1": "src/testing/test_component_builder.template.dart",
+        "4": "i10"
+      },
+      {
+        "1": "src/testing/test_injector.template.dart",
+        "4": "i11"
       }
     ]
   },
   "type": {
+    "isDebugMode": {
+      "class": "Identifier",
+      "name": "isDebugMode",
+      "moduleUrl": "asset:angular2/lib/testing.dart",
+      "prefix": null,
+      "value": null
+    },
+    "assertReleaseMode": {
+      "class": "Identifier",
+      "name": "assertReleaseMode",
+      "moduleUrl": "asset:angular2/lib/testing.dart",
+      "prefix": null,
+      "value": null
+    },
+    "assertDebugMode": {
+      "class": "Identifier",
+      "name": "assertDebugMode",
+      "moduleUrl": "asset:angular2/lib/testing.dart",
+      "prefix": null,
+      "value": null
+    },
     "MockXHR": {
       "class": "Identifier",
       "name": "MockXHR",

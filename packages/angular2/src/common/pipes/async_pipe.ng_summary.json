@@ -10,10 +10,16 @@
         "1": "package:angular2/core.dart",
         "2": [
           "Pipe",
-          "Injectable",
           "ChangeDetectorRef",
           "OnDestroy",
           "WrappedValue"
+        ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/di.dart",
+        "2": [
+          "Injectable"
         ],
         "5": false
       },

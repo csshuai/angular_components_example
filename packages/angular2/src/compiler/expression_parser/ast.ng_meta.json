@@ -8,13 +8,6 @@
       "prefix": null,
       "value": null
     },
-    "Quote": {
-      "class": "Identifier",
-      "name": "Quote",
-      "moduleUrl": "asset:angular2/lib/src/compiler/expression_parser/ast.dart",
-      "prefix": null,
-      "value": null
-    },
     "EmptyExpr": {
       "class": "Identifier",
       "name": "EmptyExpr",

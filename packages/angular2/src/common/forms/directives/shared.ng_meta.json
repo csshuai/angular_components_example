@@ -87,8 +87,7 @@
       {
         "1": "normalize_validator.dart",
         "2": [
-          "normalizeValidator",
-          "normalizeAsyncValidator"
+          "normalizeValidator"
         ],
         "5": false
       },
@@ -116,8 +115,7 @@
       {
         "1": "validators.dart",
         "2": [
-          "ValidatorFn",
-          "AsyncValidatorFn"
+          "ValidatorFn"
         ],
         "5": false
       }
@@ -226,13 +224,6 @@
     "composeValidators": {
       "class": "Identifier",
       "name": "composeValidators",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
-      "prefix": null,
-      "value": null
-    },
-    "composeAsyncValidators": {
-      "class": "Identifier",
-      "name": "composeAsyncValidators",
       "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
       "prefix": null,
       "value": null

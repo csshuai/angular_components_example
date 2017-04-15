@@ -82,7 +82,6 @@
           "useExisting": null,
           "useValue": "packages",
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }

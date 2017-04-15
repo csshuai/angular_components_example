@@ -239,7 +239,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -341,7 +340,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -516,7 +514,6 @@
               }
             ]
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {
@@ -757,7 +754,6 @@
               }
             ]
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {
@@ -847,7 +843,6 @@
               }
             ]
           },
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -921,7 +916,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -1357,7 +1351,6 @@
               }
             ]
           },
-          "useProperty": null,
           "multi": false,
           "deps": [
             {

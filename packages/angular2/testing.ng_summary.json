@@ -1,6 +1,24 @@
 {
   "ngDeps": {
     "1": "angular2.testing",
+    "3": [
+      {
+        "1": "package:angular2/src/core/change_detection.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/linker/view_ref.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/debug/debug_app_view.dart",
+        "5": false
+      },
+      {
+        "1": "package:meta/meta.dart",
+        "5": false
+      }
+    ],
     "4": [
       {
         "1": "src/compiler/xhr_mock.dart",
@@ -55,6 +73,28 @@
     ],
     "6": "testing.dart"
   },
-  "type": {},
+  "type": {
+    "isDebugMode": {
+      "class": "Identifier",
+      "name": "isDebugMode",
+      "moduleUrl": "asset:angular2/lib/testing.dart",
+      "prefix": null,
+      "value": null
+    },
+    "assertReleaseMode": {
+      "class": "Identifier",
+      "name": "assertReleaseMode",
+      "moduleUrl": "asset:angular2/lib/testing.dart",
+      "prefix": null,
+      "value": null
+    },
+    "assertDebugMode": {
+      "class": "Identifier",
+      "name": "assertDebugMode",
+      "moduleUrl": "asset:angular2/lib/testing.dart",
+      "prefix": null,
+      "value": null
+    }
+  },
   "alias": {}
 }

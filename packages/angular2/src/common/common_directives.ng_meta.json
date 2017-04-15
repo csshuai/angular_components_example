@@ -105,7 +105,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -218,7 +217,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -331,7 +329,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -404,7 +401,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -477,7 +473,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -508,7 +503,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -661,7 +655,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -814,7 +807,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -856,26 +848,6 @@
                     "identifier": {
                       "class": "Identifier",
                       "name": "NG_VALIDATORS",
-                      "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": true,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "NG_ASYNC_VALIDATORS",
                       "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                       "prefix": null,
                       "value": null
@@ -967,26 +939,6 @@
                   "value": null,
                   "identifier": {
                     "class": "Identifier",
-                    "name": "NG_ASYNC_VALIDATORS",
-                    "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                },
-                "value": null,
-                "isAttribute": false,
-                "isSelf": true,
-                "isHost": false,
-                "isSkipSelf": false,
-                "isOptional": true,
-                "isValue": false
-              },
-              {
-                "token": {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
                     "name": "NG_VALUE_ACCESSOR",
                     "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                     "prefix": null,
@@ -1007,7 +959,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1049,26 +1000,6 @@
                     "identifier": {
                       "class": "Identifier",
                       "name": "NG_VALIDATORS",
-                      "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": true,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "NG_ASYNC_VALIDATORS",
                       "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                       "prefix": null,
                       "value": null
@@ -1134,33 +1065,12 @@
                 "isSkipSelf": false,
                 "isOptional": true,
                 "isValue": false
-              },
-              {
-                "token": {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "NG_ASYNC_VALIDATORS",
-                    "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                },
-                "value": null,
-                "isAttribute": false,
-                "isSelf": true,
-                "isHost": false,
-                "isSkipSelf": false,
-                "isOptional": true,
-                "isValue": false
               }
             ]
           },
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1182,26 +1092,6 @@
                     "identifier": {
                       "class": "Identifier",
                       "name": "NG_VALIDATORS",
-                      "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": true,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "NG_ASYNC_VALIDATORS",
                       "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                       "prefix": null,
                       "value": null
@@ -1273,26 +1163,6 @@
                   "value": null,
                   "identifier": {
                     "class": "Identifier",
-                    "name": "NG_ASYNC_VALIDATORS",
-                    "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                },
-                "value": null,
-                "isAttribute": false,
-                "isSelf": true,
-                "isHost": false,
-                "isSkipSelf": false,
-                "isOptional": true,
-                "isValue": false
-              },
-              {
-                "token": {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
                     "name": "NG_VALUE_ACCESSOR",
                     "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                     "prefix": null,
@@ -1313,7 +1183,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1335,26 +1204,6 @@
                     "identifier": {
                       "class": "Identifier",
                       "name": "NG_VALIDATORS",
-                      "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": true,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "NG_ASYNC_VALIDATORS",
                       "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                       "prefix": null,
                       "value": null
@@ -1426,26 +1275,6 @@
                   "value": null,
                   "identifier": {
                     "class": "Identifier",
-                    "name": "NG_ASYNC_VALIDATORS",
-                    "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                },
-                "value": null,
-                "isAttribute": false,
-                "isSelf": true,
-                "isHost": false,
-                "isSkipSelf": false,
-                "isOptional": true,
-                "isValue": false
-              },
-              {
-                "token": {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
                     "name": "NG_VALUE_ACCESSOR",
                     "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                     "prefix": null,
@@ -1466,7 +1295,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1488,26 +1316,6 @@
                     "identifier": {
                       "class": "Identifier",
                       "name": "NG_VALIDATORS",
-                      "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": true,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "NG_ASYNC_VALIDATORS",
                       "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                       "prefix": null,
                       "value": null
@@ -1553,33 +1361,12 @@
                 "isSkipSelf": false,
                 "isOptional": true,
                 "isValue": false
-              },
-              {
-                "token": {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "NG_ASYNC_VALIDATORS",
-                    "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                },
-                "value": null,
-                "isAttribute": false,
-                "isSelf": true,
-                "isHost": false,
-                "isSkipSelf": false,
-                "isOptional": true,
-                "isValue": false
               }
             ]
           },
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1601,26 +1388,6 @@
                     "identifier": {
                       "class": "Identifier",
                       "name": "NG_VALIDATORS",
-                      "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                      "prefix": null,
-                      "value": null
-                    },
-                    "identifierIsInstance": false
-                  },
-                  "value": null,
-                  "isAttribute": false,
-                  "isSelf": true,
-                  "isHost": false,
-                  "isSkipSelf": false,
-                  "isOptional": true,
-                  "isValue": false
-                },
-                {
-                  "token": {
-                    "value": null,
-                    "identifier": {
-                      "class": "Identifier",
-                      "name": "NG_ASYNC_VALIDATORS",
                       "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                       "prefix": null,
                       "value": null
@@ -1666,33 +1433,12 @@
                 "isSkipSelf": false,
                 "isOptional": true,
                 "isValue": false
-              },
-              {
-                "token": {
-                  "value": null,
-                  "identifier": {
-                    "class": "Identifier",
-                    "name": "NG_ASYNC_VALIDATORS",
-                    "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                    "prefix": null,
-                    "value": null
-                  },
-                  "identifierIsInstance": false
-                },
-                "value": null,
-                "isAttribute": false,
-                "isSelf": true,
-                "isHost": false,
-                "isSkipSelf": false,
-                "isOptional": true,
-                "isValue": false
               }
             ]
           },
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1805,7 +1551,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1878,7 +1623,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1951,7 +1695,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2024,7 +1767,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2097,7 +1839,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2250,7 +1991,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2281,7 +2021,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2342,7 +2081,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2403,7 +2141,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -2464,7 +2201,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }

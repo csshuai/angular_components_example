@@ -155,7 +155,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -268,7 +267,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -381,7 +379,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -454,7 +451,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -527,7 +523,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -558,7 +553,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -711,7 +705,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -864,7 +857,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -1178,7 +1170,7 @@
     "NgSwitchWhen": {
       "class": "Directive",
       "isComponent": false,
-      "selector": "[ngSwitchWhen]",
+      "selector": "[ngSwitchWhen],[ngSwitchCase]",
       "exportAs": null,
       "type": {
         "class": "Type",
@@ -1252,7 +1244,8 @@
       },
       "changeDetection": 6,
       "inputs": {
-        "ngSwitchWhen": "ngSwitchWhen"
+        "ngSwitchWhen": "ngSwitchWhen",
+        "ngSwitchCase": "ngSwitchCase"
       },
       "inputTypes": {},
       "outputs": {},

@@ -118,6 +118,12 @@
         ]
       },
       {
+        "1": "forms/directives/shared.dart",
+        "2": [
+          "composeValidators"
+        ]
+      },
+      {
         "1": "forms/directives/validators.dart",
         "2": [
           "RequiredValidator",
@@ -147,7 +153,6 @@
         "1": "forms/validators.dart",
         "2": [
           "NG_VALIDATORS",
-          "NG_ASYNC_VALIDATORS",
           "Validators"
         ]
       }

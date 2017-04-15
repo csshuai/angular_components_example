@@ -3,6 +3,10 @@
     "1": "",
     "3": [
       {
+        "1": "package:analyzer/analyzer.dart",
+        "5": false
+      },
+      {
         "1": "package:analyzer/dart/element/element.dart",
         "5": false
       },
@@ -37,6 +41,13 @@
     ]
   },
   "type": {
+    "optionalPackage": {
+      "class": "Identifier",
+      "name": "optionalPackage",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/common/parameter_model.dart",
+      "prefix": null,
+      "value": null
+    },
     "ParameterModel": {
       "class": "Identifier",
       "name": "ParameterModel",

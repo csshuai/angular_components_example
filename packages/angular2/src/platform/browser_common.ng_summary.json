@@ -47,15 +47,18 @@
         "5": false
       },
       {
+        "1": "package:angular2/src/platform/browser/exceptions.dart",
+        "2": [
+          "BrowserExceptionHandler"
+        ],
+        "5": false
+      },
+      {
         "1": "package:angular2/src/security/dom_sanitization_service.dart",
         "5": false
       },
       {
         "1": "package:angular2/src/security/dom_sanitization_service_impl.dart",
-        "5": false
-      },
-      {
-        "1": "package:logging/logging.dart",
         "5": false
       },
       {
@@ -199,7 +202,6 @@
             "value": null,
             "diDeps": []
           },
-          "useProperty": null,
           "multi": true,
           "deps": [
             {
@@ -259,7 +261,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -288,7 +289,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -344,7 +344,6 @@
             "value": null
           },
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         },
@@ -371,7 +370,6 @@
             "value": null
           },
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         },
@@ -388,20 +386,20 @@
             },
             "identifierIsInstance": false
           },
-          "useClass": null,
-          "useExisting": null,
-          "useValue": null,
-          "useFactory": {
-            "class": "Factory",
-            "name": "exceptionHandler",
-            "prefix": null,
+          "useClass": {
+            "class": "Type",
+            "name": "BrowserExceptionHandler",
             "moduleUrl": null,
+            "prefix": null,
+            "isHost": false,
             "value": null,
             "diDeps": []
           },
-          "useProperty": null,
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
           "multi": false,
-          "deps": []
+          "deps": null
         },
         {
           "class": "Identifier",
@@ -448,7 +446,6 @@
             "value": null,
             "diDeps": []
           },
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -477,7 +474,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -528,18 +524,10 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
       ]
-    },
-    "exceptionHandler": {
-      "class": "Identifier",
-      "name": "exceptionHandler",
-      "moduleUrl": "asset:angular2/lib/src/platform/browser_common.dart",
-      "prefix": null,
-      "value": null
     },
     "createEventPlugins": {
       "class": "Factory",

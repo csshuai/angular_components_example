@@ -168,6 +168,12 @@
         ]
       },
       {
+        "1": "source_module.dart",
+        "2": [
+          "SourceModule"
+        ]
+      },
+      {
         "1": "xhr.dart"
       }
     ],
@@ -267,7 +273,6 @@
             "value": null,
             "diDeps": []
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -305,7 +310,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },

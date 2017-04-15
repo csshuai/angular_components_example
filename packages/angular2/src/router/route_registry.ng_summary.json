@@ -14,10 +14,16 @@
       {
         "1": "package:angular2/core.dart",
         "2": [
-          "Injectable",
-          "Inject",
           "OpaqueToken",
           "ComponentFactory"
+        ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/di.dart",
+        "2": [
+          "Injectable",
+          "Inject"
         ],
         "5": false
       },

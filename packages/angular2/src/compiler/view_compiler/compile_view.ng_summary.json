@@ -72,7 +72,7 @@
         "1": "compile_query.dart",
         "2": [
           "CompileQuery",
-          "createQueryList",
+          "createQueryListField",
           "addQueryToTokenMap"
         ],
         "5": false

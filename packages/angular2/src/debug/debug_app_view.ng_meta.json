@@ -71,6 +71,10 @@
         "5": false
       },
       {
+        "1": "package:meta/meta.dart",
+        "5": false
+      },
+      {
         "1": "debug_context.dart",
         "2": [
           "StaticNodeDebugInfo",
@@ -191,13 +195,6 @@
     "_UndefinedInjectorResult": {
       "class": "Identifier",
       "name": "_UndefinedInjectorResult",
-      "moduleUrl": "asset:angular2/lib/src/core/linker/app_view.dart",
-      "prefix": null,
-      "value": null
-    },
-    "appViewRootElementName": {
-      "class": "Identifier",
-      "name": "appViewRootElementName",
       "moduleUrl": "asset:angular2/lib/src/core/linker/app_view.dart",
       "prefix": null,
       "value": null

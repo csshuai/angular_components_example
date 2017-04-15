@@ -3,6 +3,10 @@
     "1": "",
     "3": [
       {
+        "1": "dart:async",
+        "5": false
+      },
+      {
         "1": "dart:html",
         "5": false
       },
@@ -50,6 +54,14 @@
         "5": false
       },
       {
+        "1": "package:meta/meta.dart",
+        "5": false
+      },
+      {
+        "1": "../zone/ng_zone.dart",
+        "5": false
+      },
+      {
         "1": "app_view_utils.dart",
         "5": false
       },
@@ -69,6 +81,10 @@
         "2": [
           "ViewDestroyedException"
         ],
+        "5": false
+      },
+      {
+        "1": "template_ref.dart",
         "5": false
       },
       {
@@ -101,13 +117,6 @@
     "_UndefinedInjectorResult": {
       "class": "Identifier",
       "name": "_UndefinedInjectorResult",
-      "moduleUrl": "asset:angular2/lib/src/core/linker/app_view.dart",
-      "prefix": null,
-      "value": null
-    },
-    "appViewRootElementName": {
-      "class": "Identifier",
-      "name": "appViewRootElementName",
       "moduleUrl": "asset:angular2/lib/src/core/linker/app_view.dart",
       "prefix": null,
       "value": null

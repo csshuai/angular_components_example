@@ -11,8 +11,7 @@
       {
         "1": "src/core/di.dart",
         "3": [
-          "MapInjector",
-          "MapInjectorFactory"
+          "MapInjector"
         ]
       },
       {

@@ -524,6 +524,13 @@
       "prefix": null,
       "value": null
     },
+    "importDeferred": {
+      "class": "Identifier",
+      "name": "importDeferred",
+      "moduleUrl": "asset:angular2/lib/src/compiler/output/output_ast.dart",
+      "prefix": null,
+      "value": null
+    },
     "importType": {
       "class": "Identifier",
       "name": "importType",

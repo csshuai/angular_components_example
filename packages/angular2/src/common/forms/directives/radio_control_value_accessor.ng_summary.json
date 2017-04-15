@@ -16,7 +16,13 @@
           "Input",
           "OnInit",
           "OnDestroy",
-          "Injector",
+          "Injector"
+        ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/di.dart",
+        "2": [
           "Injectable"
         ],
         "5": false
@@ -113,7 +119,6 @@
         },
         "useValue": null,
         "useFactory": null,
-        "useProperty": null,
         "multi": true,
         "deps": null
       }

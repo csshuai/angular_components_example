@@ -20,7 +20,7 @@
           "getPlatform",
           "createPlatform",
           "PLATFORM_INITIALIZER",
-          "MapInjector"
+          "Injector"
         ],
         "5": false
       },
@@ -148,7 +148,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -301,7 +300,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -395,7 +393,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -424,7 +421,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -451,7 +447,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -604,7 +599,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -654,7 +648,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -685,7 +678,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -714,7 +706,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -745,7 +736,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -776,7 +766,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -870,7 +859,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -901,7 +889,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -932,7 +919,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -963,7 +949,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -994,7 +979,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1025,7 +1009,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1056,7 +1039,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1087,7 +1069,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1118,7 +1099,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1149,14 +1129,12 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               }
             ]
           },
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         },
@@ -1250,7 +1228,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1363,7 +1340,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1476,7 +1452,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1549,7 +1524,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1622,7 +1596,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1653,7 +1626,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1806,7 +1778,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -1959,7 +1930,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -2001,26 +1971,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -2112,26 +2062,6 @@
                         "value": null,
                         "identifier": {
                           "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
                           "name": "NG_VALUE_ACCESSOR",
                           "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                           "prefix": null,
@@ -2152,7 +2082,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -2194,26 +2123,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -2279,33 +2188,12 @@
                       "isSkipSelf": false,
                       "isOptional": true,
                       "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
                     }
                   ]
                 },
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -2327,26 +2215,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -2418,26 +2286,6 @@
                         "value": null,
                         "identifier": {
                           "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
                           "name": "NG_VALUE_ACCESSOR",
                           "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                           "prefix": null,
@@ -2458,7 +2306,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -2480,26 +2327,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -2571,26 +2398,6 @@
                         "value": null,
                         "identifier": {
                           "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
                           "name": "NG_VALUE_ACCESSOR",
                           "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                           "prefix": null,
@@ -2611,7 +2418,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -2633,26 +2439,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -2698,33 +2484,12 @@
                       "isSkipSelf": false,
                       "isOptional": true,
                       "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
                     }
                   ]
                 },
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -2746,26 +2511,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -2811,33 +2556,12 @@
                       "isSkipSelf": false,
                       "isOptional": true,
                       "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
                     }
                   ]
                 },
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -2950,7 +2674,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3023,7 +2746,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3096,7 +2818,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3169,7 +2890,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3242,7 +2962,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3395,7 +3114,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3426,7 +3144,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3487,7 +3204,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3548,7 +3264,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -3609,14 +3324,12 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               }
             ]
           },
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         },
@@ -3633,19 +3346,20 @@
             },
             "identifierIsInstance": false
           },
-          "useClass": null,
+          "useClass": {
+            "class": "Type",
+            "name": "BrowserExceptionHandler",
+            "moduleUrl": "asset:angular2/lib/src/platform/browser/exceptions.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": []
+          },
           "useExisting": null,
           "useValue": null,
-          "useFactory": {
-            "class": "Identifier",
-            "name": "exceptionHandler",
-            "moduleUrl": "asset:angular2/lib/src/platform/browser_common.dart",
-            "prefix": null,
-            "value": null
-          },
-          "useProperty": null,
+          "useFactory": null,
           "multi": false,
-          "deps": []
+          "deps": null
         },
         {
           "class": "Provider",
@@ -3674,7 +3388,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3705,7 +3418,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3778,7 +3490,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3867,7 +3578,6 @@
               }
             ]
           },
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3896,7 +3606,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -3969,7 +3678,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4082,7 +3790,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4109,7 +3816,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         }
@@ -4176,7 +3882,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4209,7 +3914,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4236,7 +3940,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -4267,7 +3970,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4294,7 +3996,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": true,
           "deps": [
             {
@@ -4354,7 +4055,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4383,7 +4083,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -4418,7 +4117,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -4571,7 +4269,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4665,7 +4362,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4694,7 +4390,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4721,7 +4416,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -4874,7 +4568,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4924,7 +4617,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4955,7 +4647,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -4984,7 +4675,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -5015,7 +4705,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -5046,7 +4735,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -5140,7 +4828,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5171,7 +4858,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5202,7 +4888,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5233,7 +4918,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5264,7 +4948,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5295,7 +4978,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5326,7 +5008,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5357,7 +5038,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5388,7 +5068,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5419,14 +5098,12 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               }
             ]
           },
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         },
@@ -5520,7 +5197,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5633,7 +5309,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5746,7 +5421,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5819,7 +5493,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5892,7 +5565,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -5923,7 +5595,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -6076,7 +5747,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -6229,7 +5899,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -6271,26 +5940,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -6382,26 +6031,6 @@
                         "value": null,
                         "identifier": {
                           "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
                           "name": "NG_VALUE_ACCESSOR",
                           "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                           "prefix": null,
@@ -6422,7 +6051,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -6464,26 +6092,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -6549,33 +6157,12 @@
                       "isSkipSelf": false,
                       "isOptional": true,
                       "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
                     }
                   ]
                 },
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -6597,26 +6184,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -6688,26 +6255,6 @@
                         "value": null,
                         "identifier": {
                           "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
                           "name": "NG_VALUE_ACCESSOR",
                           "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                           "prefix": null,
@@ -6728,7 +6275,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -6750,26 +6296,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -6841,26 +6367,6 @@
                         "value": null,
                         "identifier": {
                           "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
                           "name": "NG_VALUE_ACCESSOR",
                           "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
                           "prefix": null,
@@ -6881,7 +6387,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -6903,26 +6408,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -6968,33 +6453,12 @@
                       "isSkipSelf": false,
                       "isOptional": true,
                       "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
                     }
                   ]
                 },
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7016,26 +6480,6 @@
                           "identifier": {
                             "class": "Identifier",
                             "name": "NG_VALIDATORS",
-                            "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                            "prefix": null,
-                            "value": null
-                          },
-                          "identifierIsInstance": false
-                        },
-                        "value": null,
-                        "isAttribute": false,
-                        "isSelf": true,
-                        "isHost": false,
-                        "isSkipSelf": false,
-                        "isOptional": true,
-                        "isValue": false
-                      },
-                      {
-                        "token": {
-                          "value": null,
-                          "identifier": {
-                            "class": "Identifier",
-                            "name": "NG_ASYNC_VALIDATORS",
                             "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
                             "prefix": null,
                             "value": null
@@ -7081,33 +6525,12 @@
                       "isSkipSelf": false,
                       "isOptional": true,
                       "isValue": false
-                    },
-                    {
-                      "token": {
-                        "value": null,
-                        "identifier": {
-                          "class": "Identifier",
-                          "name": "NG_ASYNC_VALIDATORS",
-                          "moduleUrl": "asset:angular2/lib/src/common/forms/validators.dart",
-                          "prefix": null,
-                          "value": null
-                        },
-                        "identifierIsInstance": false
-                      },
-                      "value": null,
-                      "isAttribute": false,
-                      "isSelf": true,
-                      "isHost": false,
-                      "isSkipSelf": false,
-                      "isOptional": true,
-                      "isValue": false
                     }
                   ]
                 },
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7220,7 +6643,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7293,7 +6715,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7366,7 +6787,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7439,7 +6859,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7512,7 +6931,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7665,7 +7083,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7696,7 +7113,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7757,7 +7173,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7818,7 +7233,6 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               },
@@ -7879,14 +7293,12 @@
                 "useExisting": null,
                 "useValue": null,
                 "useFactory": null,
-                "useProperty": null,
                 "multi": false,
                 "deps": null
               }
             ]
           },
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         },
@@ -7903,19 +7315,20 @@
             },
             "identifierIsInstance": false
           },
-          "useClass": null,
+          "useClass": {
+            "class": "Type",
+            "name": "BrowserExceptionHandler",
+            "moduleUrl": "asset:angular2/lib/src/platform/browser/exceptions.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": []
+          },
           "useExisting": null,
           "useValue": null,
-          "useFactory": {
-            "class": "Identifier",
-            "name": "exceptionHandler",
-            "moduleUrl": "asset:angular2/lib/src/platform/browser_common.dart",
-            "prefix": null,
-            "value": null
-          },
-          "useProperty": null,
+          "useFactory": null,
           "multi": false,
-          "deps": []
+          "deps": null
         },
         {
           "class": "Provider",
@@ -7944,7 +7357,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -7975,7 +7387,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -8048,7 +7459,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -8137,7 +7547,6 @@
               }
             ]
           },
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -8166,7 +7575,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -8239,7 +7647,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -8352,7 +7759,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -8389,18 +7795,10 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
       ]
-    },
-    "exceptionHandler": {
-      "class": "Identifier",
-      "name": "exceptionHandler",
-      "moduleUrl": "asset:angular2/lib/src/platform/browser_common.dart",
-      "prefix": null,
-      "value": null
     },
     "createEventPlugins": {
       "class": "Factory",

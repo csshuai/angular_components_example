@@ -3,9 +3,17 @@
     "1": "",
     "3": [
       {
-        "1": "package:angular2/src/facade/lang.dart",
+        "1": "package:csslib/parser.dart",
+        "5": false
+      },
+      {
+        "1": "package:csslib/visitor.dart",
+        "5": false
+      },
+      {
+        "1": "logging.dart",
         "2": [
-          "jsSplit"
+          "logger"
         ],
         "5": false
       }
@@ -13,107 +21,121 @@
     "6": "shadow_css.dart"
   },
   "type": {
-    "_polyfillHost": {
+    "shimShadowCss": {
       "class": "Identifier",
-      "name": "_polyfillHost",
+      "name": "shimShadowCss",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "_polyfillHostContext": {
+    "getDeclaration": {
       "class": "Identifier",
-      "name": "_polyfillHostContext",
+      "name": "getDeclaration",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "_parenSuffix": {
+    "unquote": {
       "class": "Identifier",
-      "name": "_parenSuffix",
+      "name": "unquote",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "_polyfillHostNoCombinator": {
+    "parseSelectorGroupFrom": {
       "class": "Identifier",
-      "name": "_polyfillHostNoCombinator",
+      "name": "parseSelectorGroupFrom",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "_selectorReSuffix": {
+    "selectorGroupForProperty": {
       "class": "Identifier",
-      "name": "_selectorReSuffix",
+      "name": "selectorGroupForProperty",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "OPEN_CURLY": {
+    "isHost": {
       "class": "Identifier",
-      "name": "OPEN_CURLY",
+      "name": "isHost",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "CLOSE_CURLY": {
+    "isHostFunction": {
       "class": "Identifier",
-      "name": "CLOSE_CURLY",
+      "name": "isHostFunction",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "BLOCK_PLACEHOLDER": {
+    "isHostContextFunction": {
       "class": "Identifier",
-      "name": "BLOCK_PLACEHOLDER",
+      "name": "isHostContextFunction",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "ShadowCss": {
+    "matchesElement": {
       "class": "Identifier",
-      "name": "ShadowCss",
+      "name": "matchesElement",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "stripComments": {
+    "clone": {
       "class": "Identifier",
-      "name": "stripComments",
+      "name": "clone",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "CssRule": {
+    "createClassSelectorSequence": {
       "class": "Identifier",
-      "name": "CssRule",
+      "name": "createClassSelectorSequence",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "processRules": {
+    "createPseudoClassSelectorSequence": {
       "class": "Identifier",
-      "name": "processRules",
+      "name": "createPseudoClassSelectorSequence",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "StringWithEscapedBlocks": {
+    "ComplexSelector": {
       "class": "Identifier",
-      "name": "StringWithEscapedBlocks",
+      "name": "ComplexSelector",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "escapeBlocks": {
+    "CompoundSelector": {
       "class": "Identifier",
-      "name": "escapeBlocks",
+      "name": "CompoundSelector",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null
     },
-    "_extractSourceMappingUrl": {
+    "Indices": {
       "class": "Identifier",
-      "name": "_extractSourceMappingUrl",
+      "name": "Indices",
+      "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ShadowTransformer": {
+      "class": "Identifier",
+      "name": "ShadowTransformer",
+      "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
+      "prefix": null,
+      "value": null
+    },
+    "LegacyShadowTransformer": {
+      "class": "Identifier",
+      "name": "LegacyShadowTransformer",
       "moduleUrl": "asset:angular2/lib/src/compiler/shadow_css.dart",
       "prefix": null,
       "value": null

@@ -31,10 +31,6 @@
         "5": false
       },
       {
-        "1": "package:logging/logging.dart",
-        "5": false
-      },
-      {
         "1": "package:source_span/source_span.dart",
         "5": false
       },
@@ -101,6 +97,13 @@
         "2": [
           "identifierToken",
           "Identifiers"
+        ],
+        "5": false
+      },
+      {
+        "1": "logging.dart",
+        "2": [
+          "logger"
         ],
         "5": false
       },
@@ -216,6 +219,13 @@
     "TEMPLATE_ATTR_PREFIX": {
       "class": "Identifier",
       "name": "TEMPLATE_ATTR_PREFIX",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "TEMPLATE_DEFERRED_ATTR": {
+      "class": "Identifier",
+      "name": "TEMPLATE_DEFERRED_ATTR",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
       "prefix": null,
       "value": null

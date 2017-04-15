@@ -20,7 +20,7 @@
           "getPlatform",
           "createPlatform",
           "PLATFORM_INITIALIZER",
-          "MapInjector"
+          "Injector"
         ],
         "5": false
       },
@@ -122,7 +122,6 @@
             "value": null,
             "diDeps": []
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         }

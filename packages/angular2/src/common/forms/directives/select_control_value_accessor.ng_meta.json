@@ -13,8 +13,14 @@
           "Provider",
           "ElementRef",
           "Input",
+          "OnDestroy"
+        ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/di.dart",
+        "2": [
           "Host",
-          "OnDestroy",
           "Optional"
         ],
         "5": false
@@ -85,12 +91,16 @@
         "4": "i0"
       },
       {
-        "1": "package:angular2/src/facade/lang.template.dart",
+        "1": "package:angular2/di.template.dart",
         "4": "i1"
       },
       {
-        "1": "control_value_accessor.template.dart",
+        "1": "package:angular2/src/facade/lang.template.dart",
         "4": "i2"
+      },
+      {
+        "1": "control_value_accessor.template.dart",
+        "4": "i3"
       }
     ]
   },
@@ -151,7 +161,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         }
@@ -269,7 +278,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": true,
           "deps": null
         }

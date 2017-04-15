@@ -9,14 +9,7 @@
         "1": "di/injector.dart",
         "2": [
           "Injector",
-          "InjectorFactory"
-        ]
-      },
-      {
-        "1": "di/map_injector.dart",
-        "2": [
-          "MapInjector",
-          "MapInjectorFactory"
+          "MapInjector"
         ]
       },
       {
@@ -78,32 +71,28 @@
         "4": "i1"
       },
       {
-        "1": "di/map_injector.template.dart",
+        "1": "di/opaque_token.template.dart",
         "4": "i2"
       },
       {
-        "1": "di/opaque_token.template.dart",
+        "1": "di/provider.template.dart",
         "4": "i3"
       },
       {
-        "1": "di/provider.template.dart",
+        "1": "di/reflective_exceptions.template.dart",
         "4": "i4"
       },
       {
-        "1": "di/reflective_exceptions.template.dart",
+        "1": "di/reflective_injector.template.dart",
         "4": "i5"
       },
       {
-        "1": "di/reflective_injector.template.dart",
+        "1": "di/reflective_key.template.dart",
         "4": "i6"
       },
       {
-        "1": "di/reflective_key.template.dart",
-        "4": "i7"
-      },
-      {
         "1": "di/reflective_provider.template.dart",
-        "4": "i8"
+        "4": "i7"
       }
     ]
   },
@@ -157,23 +146,9 @@
       "prefix": null,
       "value": null
     },
-    "_THROW_IF_NOT_FOUND": {
-      "class": "Identifier",
-      "name": "_THROW_IF_NOT_FOUND",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
     "THROW_IF_NOT_FOUND": {
       "class": "Identifier",
       "name": "THROW_IF_NOT_FOUND",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_NullInjector": {
-      "class": "Identifier",
-      "name": "_NullInjector",
       "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
@@ -185,23 +160,9 @@
       "prefix": null,
       "value": null
     },
-    "_EmptyInjectorFactory": {
+    "_EmptyInjector": {
       "class": "Identifier",
-      "name": "_EmptyInjectorFactory",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "InjectorFactory": {
-      "class": "Identifier",
-      "name": "InjectorFactory",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_BoundInjectorFactory": {
-      "class": "Identifier",
-      "name": "_BoundInjectorFactory",
+      "name": "_EmptyInjector",
       "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
@@ -209,14 +170,14 @@
     "MapInjector": {
       "class": "Identifier",
       "name": "MapInjector",
-      "moduleUrl": "asset:angular2/lib/src/core/di/map_injector.dart",
+      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
     },
-    "MapInjectorFactory": {
+    "MissingProviderError": {
       "class": "Identifier",
-      "name": "MapInjectorFactory",
-      "moduleUrl": "asset:angular2/lib/src/core/di/map_injector.dart",
+      "name": "MissingProviderError",
+      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
     },
@@ -430,13 +391,6 @@
       "prefix": null,
       "value": null
     },
-    "_identityPostProcess": {
-      "class": "Identifier",
-      "name": "_identityPostProcess",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
     "ResolvedReflectiveProvider": {
       "class": "Identifier",
       "name": "ResolvedReflectiveProvider",
@@ -517,6 +471,13 @@
     "_extractToken": {
       "class": "Identifier",
       "name": "_extractToken",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_extractTokenUnwrappedParameters": {
+      "class": "Identifier",
+      "name": "_extractTokenUnwrappedParameters",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null

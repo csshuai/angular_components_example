@@ -11,6 +11,10 @@
         "5": false
       },
       {
+        "1": "package:analyzer/src/dart/resolver/scope.dart",
+        "5": false
+      },
+      {
         "1": "package:code_builder/code_builder.dart",
         "5": false
       }
@@ -28,13 +32,6 @@
     "_importFrom": {
       "class": "Identifier",
       "name": "_importFrom",
-      "moduleUrl": "asset:angular2/lib/src/source_gen/common/references.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_definesLibrary": {
-      "class": "Identifier",
-      "name": "_definesLibrary",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/references.dart",
       "prefix": null,
       "value": null

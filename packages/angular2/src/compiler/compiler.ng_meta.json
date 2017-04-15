@@ -168,6 +168,12 @@
         ]
       },
       {
+        "1": "source_module.dart",
+        "2": [
+          "SourceModule"
+        ]
+      },
+      {
         "1": "xhr.dart"
       }
     ],
@@ -258,8 +264,12 @@
         "4": "i20"
       },
       {
-        "1": "xhr.template.dart",
+        "1": "source_module.template.dart",
         "4": "i21"
+      },
+      {
+        "1": "xhr.template.dart",
+        "4": "i22"
       }
     ]
   },
@@ -297,7 +307,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -370,7 +379,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -401,7 +409,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -554,7 +561,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -707,7 +713,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -940,7 +945,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -961,7 +965,6 @@
           "useExisting": null,
           "useValue": "packages",
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -977,6 +980,26 @@
               "isHost": false,
               "value": null,
               "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "CompilerConfig",
+                      "moduleUrl": "asset:angular2/lib/src/compiler/config.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                },
                 {
                   "token": {
                     "value": null,
@@ -1014,6 +1037,26 @@
                   "value": null,
                   "identifier": {
                     "class": "Identifier",
+                    "name": "CompilerConfig",
+                    "moduleUrl": "asset:angular2/lib/src/compiler/config.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              },
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
                     "name": "UrlResolver",
                     "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
                     "prefix": null,
@@ -1034,7 +1077,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1147,7 +1189,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1174,7 +1215,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -1205,7 +1245,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1238,7 +1277,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1311,7 +1349,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1384,7 +1421,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1457,7 +1493,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -1530,7 +1565,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -1744,13 +1778,6 @@
     "_DEBUG_PRINT_COMPILATION": {
       "class": "Identifier",
       "name": "_DEBUG_PRINT_COMPILATION",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SourceModule": {
-      "class": "Identifier",
-      "name": "SourceModule",
       "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
       "prefix": null,
       "value": null
@@ -2004,7 +2031,6 @@
           "useExisting": null,
           "useValue": "packages",
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -2104,6 +2130,13 @@
           "isValue": false
         }
       ]
+    },
+    "SourceModule": {
+      "class": "Identifier",
+      "name": "SourceModule",
+      "moduleUrl": "asset:angular2/lib/src/compiler/source_module.dart",
+      "prefix": null,
+      "value": null
     },
     "XHR": {
       "class": "Identifier",

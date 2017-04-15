@@ -49,8 +49,7 @@
           "FunctionCall",
           "TemplateBinding",
           "ASTWithSource",
-          "AstVisitor",
-          "Quote"
+          "AstVisitor"
         ],
         "5": false
       },
@@ -59,7 +58,6 @@
         "2": [
           "Lexer",
           "EOF",
-          "isIdentifier",
           "isQuote",
           "Token",
           "$PERIOD",

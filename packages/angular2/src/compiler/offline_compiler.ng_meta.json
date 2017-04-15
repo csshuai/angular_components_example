@@ -18,6 +18,10 @@
         "5": false
       },
       {
+        "1": "source_module.dart",
+        "5": false
+      },
+      {
         "1": "compile_metadata.dart",
         "2": [
           "CompileDirectiveMetadata",
@@ -92,44 +96,48 @@
         "4": "i0"
       },
       {
-        "1": "compile_metadata.template.dart",
+        "1": "source_module.template.dart",
         "4": "i1"
       },
       {
-        "1": "compiler_utils.template.dart",
+        "1": "compile_metadata.template.dart",
         "4": "i2"
       },
       {
-        "1": "directive_normalizer.template.dart",
+        "1": "compiler_utils.template.dart",
         "4": "i3"
       },
       {
-        "1": "identifiers.template.dart",
+        "1": "directive_normalizer.template.dart",
         "4": "i4"
       },
       {
-        "1": "output/abstract_emitter.template.dart",
+        "1": "identifiers.template.dart",
         "4": "i5"
       },
       {
-        "1": "output/output_ast.template.dart",
+        "1": "output/abstract_emitter.template.dart",
         "4": "i6"
       },
       {
-        "1": "style_compiler.template.dart",
+        "1": "output/output_ast.template.dart",
         "4": "i7"
       },
       {
-        "1": "template_ast.template.dart",
+        "1": "style_compiler.template.dart",
         "4": "i8"
       },
       {
-        "1": "template_parser.template.dart",
+        "1": "template_ast.template.dart",
         "4": "i9"
       },
       {
-        "1": "view_compiler/view_compiler.template.dart",
+        "1": "template_parser.template.dart",
         "4": "i10"
+      },
+      {
+        "1": "view_compiler/view_compiler.template.dart",
+        "4": "i11"
       }
     ]
   },
@@ -137,13 +145,6 @@
     "_DEBUG_PRINT_COMPILATION": {
       "class": "Identifier",
       "name": "_DEBUG_PRINT_COMPILATION",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SourceModule": {
-      "class": "Identifier",
-      "name": "SourceModule",
       "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
       "prefix": null,
       "value": null

@@ -18,6 +18,10 @@
         "5": false
       },
       {
+        "1": "package:angular2/src/compiler/config.dart",
+        "5": false
+      },
+      {
         "1": "package:angular2/src/compiler/offline_compiler.dart",
         "5": false
       },

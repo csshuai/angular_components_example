@@ -11,6 +11,27 @@
         "5": false
       },
       {
+        "1": "package:angular2/platform/common_dom.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/change_detection/constants.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/linker/app_view.dart",
+        "2": [
+          "lastGuardedView",
+          "caughtException",
+          "caughtStack"
+        ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/linker/view_ref.dart",
+        "5": false
+      },
+      {
         "1": "package:angular2/src/facade/exceptions.dart",
         "2": [
           "BaseException",
@@ -21,7 +42,8 @@
       {
         "1": "package:angular2/src/facade/lang.dart",
         "2": [
-          "assertionsEnabled"
+          "assertionsEnabled",
+          "isDartVM"
         ],
         "5": false
       },
@@ -55,6 +77,10 @@
       },
       {
         "1": "linker/component_resolver.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/platform/dom/shared_styles_host.dart",
         "5": false
       },
       {
@@ -111,44 +137,64 @@
     "6": "application_ref.dart",
     "7": [
       {
-        "1": "package:angular2/src/facade/exceptions.template.dart",
+        "1": "package:angular2/platform/common_dom.template.dart",
         "4": "i0"
       },
       {
-        "1": "package:angular2/src/facade/lang.template.dart",
+        "1": "package:angular2/src/core/change_detection/constants.template.dart",
         "4": "i1"
       },
       {
-        "1": "application_tokens.template.dart",
+        "1": "package:angular2/src/core/linker/app_view.template.dart",
         "4": "i2"
       },
       {
-        "1": "change_detection/change_detector_ref.template.dart",
+        "1": "package:angular2/src/core/linker/view_ref.template.dart",
         "4": "i3"
       },
       {
-        "1": "di.template.dart",
+        "1": "package:angular2/src/facade/exceptions.template.dart",
         "4": "i4"
       },
       {
-        "1": "linker/app_view_utils.template.dart",
+        "1": "package:angular2/src/facade/lang.template.dart",
         "4": "i5"
       },
       {
-        "1": "linker/component_factory.template.dart",
+        "1": "application_tokens.template.dart",
         "4": "i6"
       },
       {
-        "1": "linker/component_resolver.template.dart",
+        "1": "change_detection/change_detector_ref.template.dart",
         "4": "i7"
       },
       {
-        "1": "testability/testability.template.dart",
+        "1": "di.template.dart",
         "4": "i8"
       },
       {
-        "1": "zone/ng_zone.template.dart",
+        "1": "linker/app_view_utils.template.dart",
         "4": "i9"
+      },
+      {
+        "1": "linker/component_factory.template.dart",
+        "4": "i10"
+      },
+      {
+        "1": "linker/component_resolver.template.dart",
+        "4": "i11"
+      },
+      {
+        "1": "package:angular2/src/platform/dom/shared_styles_host.template.dart",
+        "4": "i12"
+      },
+      {
+        "1": "testability/testability.template.dart",
+        "4": "i13"
+      },
+      {
+        "1": "zone/ng_zone.template.dart",
+        "4": "i14"
       }
     ]
   },
@@ -186,7 +232,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -219,7 +264,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -254,7 +298,6 @@
             "prefix": null,
             "value": null
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -407,7 +450,6 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         },
@@ -501,7 +543,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }

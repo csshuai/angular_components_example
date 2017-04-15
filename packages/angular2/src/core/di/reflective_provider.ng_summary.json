@@ -29,7 +29,6 @@
         "1": "provider.dart",
         "2": [
           "Provider",
-          "provide",
           "noValueProvided"
         ],
         "5": false
@@ -54,13 +53,6 @@
     "ReflectiveDependency": {
       "class": "Identifier",
       "name": "ReflectiveDependency",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_identityPostProcess": {
-      "class": "Identifier",
-      "name": "_identityPostProcess",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null
@@ -145,6 +137,13 @@
     "_extractToken": {
       "class": "Identifier",
       "name": "_extractToken",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_extractTokenUnwrappedParameters": {
+      "class": "Identifier",
+      "name": "_extractTokenUnwrappedParameters",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null

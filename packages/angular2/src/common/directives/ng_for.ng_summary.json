@@ -15,10 +15,6 @@
         "5": false
       },
       {
-        "1": "package:angular2/src/facade/exceptions.dart",
-        "5": false
-      },
-      {
         "1": "../../core/change_detection/differs/default_iterable_differ.dart",
         "2": [
           "DefaultIterableDiffer",

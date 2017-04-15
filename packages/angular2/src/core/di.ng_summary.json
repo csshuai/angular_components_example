@@ -9,14 +9,7 @@
         "1": "di/injector.dart",
         "2": [
           "Injector",
-          "InjectorFactory"
-        ]
-      },
-      {
-        "1": "di/map_injector.dart",
-        "2": [
-          "MapInjector",
-          "MapInjectorFactory"
+          "MapInjector"
         ]
       },
       {

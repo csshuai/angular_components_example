@@ -45,6 +45,13 @@
       "prefix": null,
       "value": null
     },
+    "packageToAssetScheme": {
+      "class": "Identifier",
+      "name": "packageToAssetScheme",
+      "moduleUrl": "asset:angular2/lib/src/transform/common/url_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
     "isDartCoreUri": {
       "class": "Identifier",
       "name": "isDartCoreUri",
@@ -82,7 +89,6 @@
           "useExisting": null,
           "useValue": "packages",
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }

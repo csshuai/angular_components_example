@@ -120,7 +120,6 @@
           "useExisting": null,
           "useValue": true,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }

@@ -11,6 +11,27 @@
         "5": false
       },
       {
+        "1": "package:angular2/platform/common_dom.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/change_detection/constants.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/linker/app_view.dart",
+        "2": [
+          "lastGuardedView",
+          "caughtException",
+          "caughtStack"
+        ],
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/core/linker/view_ref.dart",
+        "5": false
+      },
+      {
         "1": "package:angular2/src/facade/exceptions.dart",
         "2": [
           "BaseException",
@@ -21,7 +42,8 @@
       {
         "1": "package:angular2/src/facade/lang.dart",
         "2": [
-          "assertionsEnabled"
+          "assertionsEnabled",
+          "isDartVM"
         ],
         "5": false
       },
@@ -55,6 +77,10 @@
       },
       {
         "1": "linker/component_resolver.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/platform/dom/shared_styles_host.dart",
         "5": false
       },
       {
@@ -151,7 +177,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
@@ -187,7 +212,6 @@
             "value": null,
             "diDeps": []
           },
-          "useProperty": null,
           "multi": false,
           "deps": []
         },
@@ -225,7 +249,6 @@
           },
           "useValue": null,
           "useFactory": null,
-          "useProperty": null,
           "multi": false,
           "deps": null
         }
