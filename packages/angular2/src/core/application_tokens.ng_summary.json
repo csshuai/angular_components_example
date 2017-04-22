@@ -59,13 +59,6 @@
         "deps": []
       }
     },
-    "PLATFORM_INITIALIZER": {
-      "class": "Identifier",
-      "name": "PLATFORM_INITIALIZER",
-      "moduleUrl": "asset:angular2/lib/src/core/application_tokens.dart",
-      "prefix": null,
-      "value": null
-    },
     "APP_INITIALIZER": {
       "class": "Identifier",
       "name": "APP_INITIALIZER",
@@ -80,9 +73,9 @@
       "prefix": null,
       "value": null
     },
-    "appIdRandomProviderFactory": {
+    "PLATFORM_INITIALIZER": {
       "class": "Identifier",
-      "name": "appIdRandomProviderFactory",
+      "name": "PLATFORM_INITIALIZER",
       "moduleUrl": "asset:angular2/lib/src/core/application_tokens.dart",
       "prefix": null,
       "value": null
@@ -90,6 +83,13 @@
     "_randomChar": {
       "class": "Identifier",
       "name": "_randomChar",
+      "moduleUrl": "asset:angular2/lib/src/core/application_tokens.dart",
+      "prefix": null,
+      "value": null
+    },
+    "appIdRandomProviderFactory": {
+      "class": "Identifier",
+      "name": "appIdRandomProviderFactory",
       "moduleUrl": "asset:angular2/lib/src/core/application_tokens.dart",
       "prefix": null,
       "value": null

@@ -8,13 +8,6 @@
       "prefix": null,
       "value": null
     },
-    "_ZoneRunner": {
-      "class": "Identifier",
-      "name": "_ZoneRunner",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/zoned_async.dart",
-      "prefix": null,
-      "value": null
-    },
     "ZonedFuture": {
       "class": "Identifier",
       "name": "ZonedFuture",
@@ -25,6 +18,13 @@
     "ZonedStream": {
       "class": "Identifier",
       "name": "ZonedStream",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/zoned_async.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_ZoneRunner": {
+      "class": "Identifier",
+      "name": "_ZoneRunner",
       "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/zoned_async.dart",
       "prefix": null,
       "value": null

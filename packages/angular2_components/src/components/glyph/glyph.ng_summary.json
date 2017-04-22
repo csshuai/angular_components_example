@@ -29,20 +29,6 @@
     "6": "glyph.dart"
   },
   "type": {
-    "_flippedIcons": {
-      "class": "Identifier",
-      "name": "_flippedIcons",
-      "moduleUrl": "asset:angular2_components/lib/src/components/glyph/glyph.dart",
-      "prefix": null,
-      "value": null
-    },
-    "GlyphSize": {
-      "class": "Identifier",
-      "name": "GlyphSize",
-      "moduleUrl": "asset:angular2_components/lib/src/components/glyph/glyph.dart",
-      "prefix": null,
-      "value": null
-    },
     "GlyphComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -107,6 +93,20 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "GlyphSize": {
+      "class": "Identifier",
+      "name": "GlyphSize",
+      "moduleUrl": "asset:angular2_components/lib/src/components/glyph/glyph.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_flippedIcons": {
+      "class": "Identifier",
+      "name": "_flippedIcons",
+      "moduleUrl": "asset:angular2_components/lib/src/components/glyph/glyph.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

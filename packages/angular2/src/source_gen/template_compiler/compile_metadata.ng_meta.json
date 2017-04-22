@@ -131,6 +131,13 @@
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
+    },
+    "_PrivateConstructorException": {
+      "class": "Identifier",
+      "name": "_PrivateConstructorException",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

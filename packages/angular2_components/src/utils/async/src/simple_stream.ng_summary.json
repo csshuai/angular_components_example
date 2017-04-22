@@ -1,6 +1,34 @@
 {
   "ngDeps": null,
   "type": {
+    "EmptySimpleStream": {
+      "class": "Identifier",
+      "name": "EmptySimpleStream",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
+      "prefix": null,
+      "value": null
+    },
+    "LastStateStream": {
+      "class": "Identifier",
+      "name": "LastStateStream",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SimpleStream": {
+      "class": "Identifier",
+      "name": "SimpleStream",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SimpleStreamSubscription": {
+      "class": "Identifier",
+      "name": "SimpleStreamSubscription",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
+      "prefix": null,
+      "value": null
+    },
     "StreamCallContextFunc": {
       "class": "Identifier",
       "name": "StreamCallContextFunc",
@@ -18,34 +46,6 @@
     "SubscriptionChangeListener": {
       "class": "Identifier",
       "name": "SubscriptionChangeListener",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SimpleStream": {
-      "class": "Identifier",
-      "name": "SimpleStream",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
-      "prefix": null,
-      "value": null
-    },
-    "LastStateStream": {
-      "class": "Identifier",
-      "name": "LastStateStream",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
-      "prefix": null,
-      "value": null
-    },
-    "EmptySimpleStream": {
-      "class": "Identifier",
-      "name": "EmptySimpleStream",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SimpleStreamSubscription": {
-      "class": "Identifier",
-      "name": "SimpleStreamSubscription",
       "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/simple_stream.dart",
       "prefix": null,
       "value": null

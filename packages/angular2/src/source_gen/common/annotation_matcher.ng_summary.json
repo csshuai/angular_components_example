@@ -34,37 +34,16 @@
       "prefix": null,
       "value": null
     },
-    "safeMatcher": {
+    "_isInjectable": {
       "class": "Identifier",
-      "name": "safeMatcher",
+      "name": "_isInjectable",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
       "prefix": null,
       "value": null
     },
-    "safeMatcherType": {
+    "hasDirectives": {
       "class": "Identifier",
-      "name": "safeMatcherType",
-      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
-      "prefix": null,
-      "value": null
-    },
-    "safeMatcherTypes": {
-      "class": "Identifier",
-      "name": "safeMatcherTypes",
-      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
-      "prefix": null,
-      "value": null
-    },
-    "safeIsInjectable": {
-      "class": "Identifier",
-      "name": "safeIsInjectable",
-      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
-      "prefix": null,
-      "value": null
-    },
-    "isInjectable": {
-      "class": "Identifier",
-      "name": "isInjectable",
+      "name": "hasDirectives",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
       "prefix": null,
       "value": null
@@ -83,9 +62,9 @@
       "prefix": null,
       "value": null
     },
-    "hasDirectives": {
+    "isInjectable": {
       "class": "Identifier",
-      "name": "hasDirectives",
+      "name": "isInjectable",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
       "prefix": null,
       "value": null
@@ -97,13 +76,6 @@
       "prefix": null,
       "value": null
     },
-    "matchTypes": {
-      "class": "Identifier",
-      "name": "matchTypes",
-      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
-      "prefix": null,
-      "value": null
-    },
     "matchAnnotation": {
       "class": "Identifier",
       "name": "matchAnnotation",
@@ -111,9 +83,37 @@
       "prefix": null,
       "value": null
     },
-    "_isInjectable": {
+    "matchTypes": {
       "class": "Identifier",
-      "name": "_isInjectable",
+      "name": "matchTypes",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
+      "prefix": null,
+      "value": null
+    },
+    "safeIsInjectable": {
+      "class": "Identifier",
+      "name": "safeIsInjectable",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
+      "prefix": null,
+      "value": null
+    },
+    "safeMatcher": {
+      "class": "Identifier",
+      "name": "safeMatcher",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
+      "prefix": null,
+      "value": null
+    },
+    "safeMatcherType": {
+      "class": "Identifier",
+      "name": "safeMatcherType",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
+      "prefix": null,
+      "value": null
+    },
+    "safeMatcherTypes": {
+      "class": "Identifier",
+      "name": "safeMatcherTypes",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/annotation_matcher.dart",
       "prefix": null,
       "value": null

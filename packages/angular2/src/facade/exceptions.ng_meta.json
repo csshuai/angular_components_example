@@ -28,6 +28,13 @@
       "prefix": null,
       "value": null
     },
+    "ExceptionHandler": {
+      "class": "Identifier",
+      "name": "ExceptionHandler",
+      "moduleUrl": "asset:angular2/lib/src/facade/exception_handler.dart",
+      "prefix": null,
+      "value": null
+    },
     "WrappedException": {
       "class": "Identifier",
       "name": "WrappedException",
@@ -39,13 +46,6 @@
       "class": "Identifier",
       "name": "makeTypeError",
       "moduleUrl": "asset:angular2/lib/src/facade/exceptions.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ExceptionHandler": {
-      "class": "Identifier",
-      "name": "ExceptionHandler",
-      "moduleUrl": "asset:angular2/lib/src/facade/exception_handler.dart",
       "prefix": null,
       "value": null
     }

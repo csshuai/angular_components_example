@@ -206,6 +206,13 @@
         }
       ]
     },
+    "RadioButtonState": {
+      "class": "Identifier",
+      "name": "RadioButtonState",
+      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/radio_control_value_accessor.dart",
+      "prefix": null,
+      "value": null
+    },
     "RadioControlRegistry": {
       "class": "Type",
       "name": "RadioControlRegistry",
@@ -214,13 +221,6 @@
       "isHost": false,
       "value": null,
       "diDeps": []
-    },
-    "RadioButtonState": {
-      "class": "Identifier",
-      "name": "RadioButtonState",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/radio_control_value_accessor.dart",
-      "prefix": null,
-      "value": null
     },
     "RadioControlValueAccessor": {
       "class": "Directive",

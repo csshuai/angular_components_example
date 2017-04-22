@@ -30,16 +30,16 @@
     "6": "ng_deps_model.dart"
   },
   "type": {
-    "_visited": {
+    "NgDepsModel": {
       "class": "Identifier",
-      "name": "_visited",
+      "name": "NgDepsModel",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/ng_deps_model.dart",
       "prefix": null,
       "value": null
     },
-    "NgDepsModel": {
+    "_visited": {
       "class": "Identifier",
-      "name": "NgDepsModel",
+      "name": "_visited",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/ng_deps_model.dart",
       "prefix": null,
       "value": null

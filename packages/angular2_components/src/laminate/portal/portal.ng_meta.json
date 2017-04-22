@@ -68,6 +68,34 @@
     ]
   },
   "type": {
+    "BasePortalHost": {
+      "class": "Identifier",
+      "name": "BasePortalHost",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ComponentPortal": {
+      "class": "Identifier",
+      "name": "ComponentPortal",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DelegatingPortalHost": {
+      "class": "Identifier",
+      "name": "DelegatingPortalHost",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DomPortalHost": {
+      "class": "Identifier",
+      "name": "DomPortalHost",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
+      "prefix": null,
+      "value": null
+    },
     "OnTemplatePortalReady": {
       "class": "Identifier",
       "name": "OnTemplatePortalReady",
@@ -82,37 +110,9 @@
       "prefix": null,
       "value": null
     },
-    "ComponentPortal": {
-      "class": "Identifier",
-      "name": "ComponentPortal",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
-      "prefix": null,
-      "value": null
-    },
-    "TemplatePortal": {
-      "class": "Identifier",
-      "name": "TemplatePortal",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
-      "prefix": null,
-      "value": null
-    },
     "PortalHost": {
       "class": "Identifier",
       "name": "PortalHost",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BasePortalHost": {
-      "class": "Identifier",
-      "name": "BasePortalHost",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DelegatingPortalHost": {
-      "class": "Identifier",
-      "name": "DelegatingPortalHost",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
       "prefix": null,
       "value": null
@@ -188,9 +188,9 @@
       "queries": [],
       "viewQueries": []
     },
-    "DomPortalHost": {
+    "TemplatePortal": {
       "class": "Identifier",
-      "name": "DomPortalHost",
+      "name": "TemplatePortal",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/portal/portal.dart",
       "prefix": null,
       "value": null

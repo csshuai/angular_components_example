@@ -34,6 +34,13 @@
     "6": "router_providers.dart"
   },
   "type": {
+    "ROUTER_BINDINGS": {
+      "class": "Identifier",
+      "name": "ROUTER_BINDINGS",
+      "moduleUrl": "asset:angular2/lib/src/router/router_providers.dart",
+      "prefix": null,
+      "value": null
+    },
     "ROUTER_PROVIDERS": {
       "class": "Identifier",
       "name": "ROUTER_PROVIDERS",
@@ -76,13 +83,6 @@
           "deps": null
         }
       ]
-    },
-    "ROUTER_BINDINGS": {
-      "class": "Identifier",
-      "name": "ROUTER_BINDINGS",
-      "moduleUrl": "asset:angular2/lib/src/router/router_providers.dart",
-      "prefix": null,
-      "value": null
     }
   },
   "alias": {}

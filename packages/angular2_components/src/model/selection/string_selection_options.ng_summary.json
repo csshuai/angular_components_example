@@ -26,6 +26,13 @@
     "6": "string_selection_options.dart"
   },
   "type": {
+    "StringSelectionOptions": {
+      "class": "Identifier",
+      "name": "StringSelectionOptions",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/string_selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
     "StringSuggestionFilter": {
       "class": "Identifier",
       "name": "StringSuggestionFilter",
@@ -36,13 +43,6 @@
     "_stringFormatSuggestion": {
       "class": "Identifier",
       "name": "_stringFormatSuggestion",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/string_selection_options.dart",
-      "prefix": null,
-      "value": null
-    },
-    "StringSelectionOptions": {
-      "class": "Identifier",
-      "name": "StringSelectionOptions",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/string_selection_options.dart",
       "prefix": null,
       "value": null

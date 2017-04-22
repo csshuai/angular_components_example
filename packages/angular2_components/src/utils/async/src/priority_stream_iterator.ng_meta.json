@@ -21,16 +21,16 @@
       "prefix": null,
       "value": null
     },
-    "_StablePriorityQueue": {
+    "_OrderedComparator": {
       "class": "Identifier",
-      "name": "_StablePriorityQueue",
+      "name": "_OrderedComparator",
       "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/priority_stream_iterator.dart",
       "prefix": null,
       "value": null
     },
-    "_OrderedComparator": {
+    "_StablePriorityQueue": {
       "class": "Identifier",
-      "name": "_OrderedComparator",
+      "name": "_StablePriorityQueue",
       "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/priority_stream_iterator.dart",
       "prefix": null,
       "value": null

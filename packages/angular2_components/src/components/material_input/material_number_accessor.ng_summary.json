@@ -112,69 +112,123 @@
     "6": "material_number_accessor.dart"
   },
   "type": {
-    "materialNumberInputDirectives": {
-      "class": "Identifier",
-      "name": "materialNumberInputDirectives",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
-      "prefix": null,
-      "value": [
+    "CheckIntegerValidator": {
+      "class": "Directive",
+      "isComponent": false,
+      "selector": "material-input[type=number][checkInteger],material-input[type=percent][checkInteger]",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "CheckIntegerValidator",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": null,
+      "providers": [
         {
-          "class": "Identifier",
-          "name": "CheckIntegerValidator",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Identifier",
-          "name": "LowerBoundValidator",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Identifier",
-          "name": "MaterialInputComponent",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Identifier",
-          "name": "MaterialNumberValueAccessor",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Identifier",
-          "name": "MaterialNumberValidator",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Identifier",
-          "name": "PositiveNumValidator",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Identifier",
-          "name": "CheckNonNegativeValidator",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
-        },
-        {
-          "class": "Identifier",
-          "name": "UpperBoundValidator",
-          "moduleUrl": null,
-          "prefix": null,
-          "value": null
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "NG_VALIDATORS",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "CheckIntegerValidator",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "multi": true,
+          "deps": null
         }
-      ]
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "MaterialNumberValidator": {
+      "class": "Directive",
+      "isComponent": false,
+      "selector": "material-input[type=number]:not([checkInteger]),material-input[type=percent]:not([checkInteger])",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialNumberValidator",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": null,
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "NG_VALIDATORS",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "MaterialNumberValidator",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "multi": true,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
     },
     "MaterialNumberValueAccessor": {
       "class": "Directive",
@@ -289,134 +343,80 @@
       "queries": [],
       "viewQueries": []
     },
-    "MaterialNumberValidator": {
-      "class": "Directive",
-      "isComponent": false,
-      "selector": "material-input[type=number]:not([checkInteger]),material-input[type=percent]:not([checkInteger])",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "MaterialNumberValidator",
-        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": []
-      },
-      "changeDetection": 6,
-      "inputs": {},
-      "inputTypes": {},
-      "outputs": {},
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [],
-      "template": null,
-      "providers": [
+    "materialNumberInputDirectives": {
+      "class": "Identifier",
+      "name": "materialNumberInputDirectives",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
+      "prefix": null,
+      "value": [
         {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "NG_VALIDATORS",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "MaterialNumberValidator",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useValue": null,
-          "useFactory": null,
-          "multi": true,
-          "deps": null
-        }
-      ],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
-    },
-    "CheckIntegerValidator": {
-      "class": "Directive",
-      "isComponent": false,
-      "selector": "material-input[type=number][checkInteger],material-input[type=percent][checkInteger]",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "CheckIntegerValidator",
-        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_accessor.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": []
-      },
-      "changeDetection": 6,
-      "inputs": {},
-      "inputTypes": {},
-      "outputs": {},
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [],
-      "template": null,
-      "providers": [
+          "class": "Identifier",
+          "name": "CheckIntegerValidator",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
         {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "NG_VALIDATORS",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "CheckIntegerValidator",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useValue": null,
-          "useFactory": null,
-          "multi": true,
-          "deps": null
+          "class": "Identifier",
+          "name": "LowerBoundValidator",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "MaterialInputComponent",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "MaterialNumberValueAccessor",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "MaterialNumberValidator",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "PositiveNumValidator",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "CheckNonNegativeValidator",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
+        },
+        {
+          "class": "Identifier",
+          "name": "UpperBoundValidator",
+          "moduleUrl": null,
+          "prefix": null,
+          "value": null
         }
-      ],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
+      ]
     }
   },
   "alias": {
     "materialNumberInputDirectives": [
       "CheckIntegerValidator",
+      "CheckNonNegativeValidator",
       "LowerBoundValidator",
       "MaterialInputComponent",
-      "MaterialNumberValueAccessor",
       "MaterialNumberValidator",
+      "MaterialNumberValueAccessor",
       "PositiveNumValidator",
-      "CheckNonNegativeValidator",
       "UpperBoundValidator"
     ]
   }

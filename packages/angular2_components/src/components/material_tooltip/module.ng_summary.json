@@ -47,6 +47,55 @@
     "6": "module.dart"
   },
   "type": {
+    "createTooltipController": {
+      "class": "Factory",
+      "name": "createTooltipController",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/module.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "TooltipController",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": true,
+          "isOptional": true,
+          "isValue": false
+        },
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Disposer",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": true,
+          "isValue": false
+        }
+      ]
+    },
     "materialTooltipBindings": {
       "class": "Identifier",
       "name": "materialTooltipBindings",
@@ -135,55 +184,6 @@
           }
         ]
       }
-    },
-    "createTooltipController": {
-      "class": "Factory",
-      "name": "createTooltipController",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/module.dart",
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "TooltipController",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": true,
-          "isOptional": true,
-          "isValue": false
-        },
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "Disposer",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": true,
-          "isValue": false
-        }
-      ]
     }
   },
   "alias": {

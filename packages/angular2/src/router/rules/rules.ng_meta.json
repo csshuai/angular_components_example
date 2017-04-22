@@ -69,9 +69,9 @@
     ]
   },
   "type": {
-    "RouteMatch": {
+    "AbstractRule": {
       "class": "Identifier",
-      "name": "RouteMatch",
+      "name": "AbstractRule",
       "moduleUrl": "asset:angular2/lib/src/router/rules/rules.dart",
       "prefix": null,
       "value": null
@@ -90,16 +90,16 @@
       "prefix": null,
       "value": null
     },
-    "AbstractRule": {
+    "RedirectRule": {
       "class": "Identifier",
-      "name": "AbstractRule",
+      "name": "RedirectRule",
       "moduleUrl": "asset:angular2/lib/src/router/rules/rules.dart",
       "prefix": null,
       "value": null
     },
-    "RedirectRule": {
+    "RouteMatch": {
       "class": "Identifier",
-      "name": "RedirectRule",
+      "name": "RouteMatch",
       "moduleUrl": "asset:angular2/lib/src/router/rules/rules.dart",
       "prefix": null,
       "value": null

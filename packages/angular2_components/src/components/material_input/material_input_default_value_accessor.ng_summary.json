@@ -66,76 +66,12 @@
     "6": "material_input_default_value_accessor.dart"
   },
   "type": {
-    "MaterialInputDefaultValueAccessor": {
-      "class": "Directive",
-      "isComponent": false,
-      "selector": "material-input:not([blurUpdate])",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "MaterialInputDefaultValueAccessor",
-        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_default_value_accessor.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": [
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "BaseMaterialInput",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": false,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": false,
-            "isValue": false
-          },
-          {
-            "token": {
-              "value": null,
-              "identifier": {
-                "class": "Identifier",
-                "name": "NgControl",
-                "moduleUrl": null,
-                "prefix": null,
-                "value": null
-              },
-              "identifierIsInstance": false
-            },
-            "value": null,
-            "isAttribute": false,
-            "isSelf": true,
-            "isHost": false,
-            "isSkipSelf": false,
-            "isOptional": true,
-            "isValue": false
-          }
-        ]
-      },
-      "changeDetection": 6,
-      "inputs": {},
-      "inputTypes": {},
-      "outputs": {},
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [
-        1
-      ],
-      "template": null,
-      "providers": [],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
+    "BaseMaterialInputValueAccessor": {
+      "class": "Identifier",
+      "name": "BaseMaterialInputValueAccessor",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_default_value_accessor.dart",
+      "prefix": null,
+      "value": null
     },
     "MaterialInputBlurValueAccessor": {
       "class": "Directive",
@@ -208,12 +144,76 @@
       "queries": [],
       "viewQueries": []
     },
-    "BaseMaterialInputValueAccessor": {
-      "class": "Identifier",
-      "name": "BaseMaterialInputValueAccessor",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_default_value_accessor.dart",
-      "prefix": null,
-      "value": null
+    "MaterialInputDefaultValueAccessor": {
+      "class": "Directive",
+      "isComponent": false,
+      "selector": "material-input:not([blurUpdate])",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialInputDefaultValueAccessor",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_default_value_accessor.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "BaseMaterialInput",
+                "moduleUrl": null,
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "NgControl",
+                "moduleUrl": null,
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "value": null,
+            "isAttribute": false,
+            "isSelf": true,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": true,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [
+        1
+      ],
+      "template": null,
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
     }
   },
   "alias": {}

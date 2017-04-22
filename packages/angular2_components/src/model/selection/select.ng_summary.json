@@ -22,13 +22,6 @@
       "prefix": null,
       "value": null
     },
-    "Predicate": {
-      "class": "Identifier",
-      "name": "Predicate",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/select.dart",
-      "prefix": null,
-      "value": null
-    },
     "Filterable": {
       "class": "Identifier",
       "name": "Filterable",
@@ -39,6 +32,13 @@
     "Parent": {
       "class": "Identifier",
       "name": "Parent",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/select.dart",
+      "prefix": null,
+      "value": null
+    },
+    "Predicate": {
+      "class": "Identifier",
+      "name": "Predicate",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/select.dart",
       "prefix": null,
       "value": null

@@ -83,6 +83,34 @@
     ]
   },
   "type": {
+    "CompileDiDependencyMetadata": {
+      "class": "Identifier",
+      "name": "CompileDiDependencyMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CompileDirectiveMetadata": {
+      "class": "Identifier",
+      "name": "CompileDirectiveMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CompileFactoryMetadata": {
+      "class": "Identifier",
+      "name": "CompileFactoryMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CompileIdentifierMetadata": {
+      "class": "Identifier",
+      "name": "CompileIdentifierMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
     "CompileMetadataWithIdentifier": {
       "class": "Identifier",
       "name": "CompileMetadataWithIdentifier",
@@ -97,23 +125,9 @@
       "prefix": null,
       "value": null
     },
-    "metadataFromJson": {
+    "CompilePipeMetadata": {
       "class": "Identifier",
-      "name": "metadataFromJson",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileIdentifierMetadata": {
-      "class": "Identifier",
-      "name": "CompileIdentifierMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileDiDependencyMetadata": {
-      "class": "Identifier",
-      "name": "CompileDiDependencyMetadata",
+      "name": "CompilePipeMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
@@ -121,34 +135,6 @@
     "CompileProviderMetadata": {
       "class": "Identifier",
       "name": "CompileProviderMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileFactoryMetadata": {
-      "class": "Identifier",
-      "name": "CompileFactoryMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileTokenMetadata": {
-      "class": "Identifier",
-      "name": "CompileTokenMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileTokenMap": {
-      "class": "Identifier",
-      "name": "CompileTokenMap",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileTypeMetadata": {
-      "class": "Identifier",
-      "name": "CompileTypeMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
@@ -167,23 +153,23 @@
       "prefix": null,
       "value": null
     },
-    "CompileDirectiveMetadata": {
+    "CompileTokenMap": {
       "class": "Identifier",
-      "name": "CompileDirectiveMetadata",
+      "name": "CompileTokenMap",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
     },
-    "createHostComponentMeta": {
+    "CompileTokenMetadata": {
       "class": "Identifier",
-      "name": "createHostComponentMeta",
+      "name": "CompileTokenMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
     },
-    "CompilePipeMetadata": {
+    "CompileTypeMetadata": {
       "class": "Identifier",
-      "name": "CompilePipeMetadata",
+      "name": "CompileTypeMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
@@ -212,6 +198,20 @@
     "_objToJson": {
       "class": "Identifier",
       "name": "_objToJson",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createHostComponentMeta": {
+      "class": "Identifier",
+      "name": "createHostComponentMeta",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "metadataFromJson": {
+      "class": "Identifier",
+      "name": "metadataFromJson",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null

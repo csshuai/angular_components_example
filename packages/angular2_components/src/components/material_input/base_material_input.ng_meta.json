@@ -84,16 +84,16 @@
     ]
   },
   "type": {
-    "materialInputErrorKey": {
+    "BaseMaterialInput": {
       "class": "Identifier",
-      "name": "materialInputErrorKey",
+      "name": "BaseMaterialInput",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
       "prefix": null,
       "value": null
     },
-    "ValidityCheck": {
+    "BottomPanelState": {
       "class": "Identifier",
-      "name": "ValidityCheck",
+      "name": "BottomPanelState",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
       "prefix": null,
       "value": null
@@ -112,16 +112,16 @@
       "prefix": null,
       "value": null
     },
-    "BottomPanelState": {
+    "ValidityCheck": {
       "class": "Identifier",
-      "name": "BottomPanelState",
+      "name": "ValidityCheck",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
       "prefix": null,
       "value": null
     },
-    "BaseMaterialInput": {
+    "materialInputErrorKey": {
       "class": "Identifier",
-      "name": "BaseMaterialInput",
+      "name": "materialInputErrorKey",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
       "prefix": null,
       "value": null

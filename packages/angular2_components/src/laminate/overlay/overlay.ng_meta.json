@@ -54,16 +54,23 @@
       "prefix": null,
       "value": null
     },
-    "OverlayRef": {
+    "BaseOverlayRef": {
       "class": "Identifier",
-      "name": "OverlayRef",
+      "name": "BaseOverlayRef",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_ref.dart",
       "prefix": null,
       "value": null
     },
-    "BaseOverlayRef": {
+    "MutableOverlayState": {
       "class": "Identifier",
-      "name": "BaseOverlayRef",
+      "name": "MutableOverlayState",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
+      "prefix": null,
+      "value": null
+    },
+    "OverlayRef": {
+      "class": "Identifier",
+      "name": "OverlayRef",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_ref.dart",
       "prefix": null,
       "value": null
@@ -72,20 +79,6 @@
       "class": "Identifier",
       "name": "OverlayService",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_stateEquals": {
-      "class": "Identifier",
-      "name": "_stateEquals",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_stateHashCode": {
-      "class": "Identifier",
-      "name": "_stateHashCode",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
       "prefix": null,
       "value": null
     },
@@ -103,9 +96,16 @@
       "prefix": null,
       "value": null
     },
-    "MutableOverlayState": {
+    "_stateEquals": {
       "class": "Identifier",
-      "name": "MutableOverlayState",
+      "name": "_stateEquals",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_stateHashCode": {
+      "class": "Identifier",
+      "name": "_stateHashCode",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
       "prefix": null,
       "value": null

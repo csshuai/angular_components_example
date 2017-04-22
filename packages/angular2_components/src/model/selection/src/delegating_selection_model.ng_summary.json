@@ -18,16 +18,16 @@
     "6": "delegating_selection_model.dart"
   },
   "type": {
-    "DelegatingSelectionModel": {
+    "DelegatingMultiSelectionModel": {
       "class": "Identifier",
-      "name": "DelegatingSelectionModel",
+      "name": "DelegatingMultiSelectionModel",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/delegating_selection_model.dart",
       "prefix": null,
       "value": null
     },
-    "DelegatingMultiSelectionModel": {
+    "DelegatingSelectionModel": {
       "class": "Identifier",
-      "name": "DelegatingMultiSelectionModel",
+      "name": "DelegatingSelectionModel",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/delegating_selection_model.dart",
       "prefix": null,
       "value": null

@@ -10,16 +10,23 @@
     "6": "injector.dart"
   },
   "type": {
-    "THROW_IF_NOT_FOUND": {
+    "Injector": {
       "class": "Identifier",
-      "name": "THROW_IF_NOT_FOUND",
+      "name": "Injector",
       "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
     },
-    "Injector": {
+    "MissingProviderError": {
       "class": "Identifier",
-      "name": "Injector",
+      "name": "MissingProviderError",
+      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
+      "prefix": null,
+      "value": null
+    },
+    "THROW_IF_NOT_FOUND": {
+      "class": "Identifier",
+      "name": "THROW_IF_NOT_FOUND",
       "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null
@@ -31,16 +38,9 @@
       "prefix": null,
       "value": null
     },
-    "MapInjector": {
+    "_MapInjector": {
       "class": "Identifier",
-      "name": "MapInjector",
-      "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "MissingProviderError": {
-      "class": "Identifier",
-      "name": "MissingProviderError",
+      "name": "_MapInjector",
       "moduleUrl": "asset:angular2/lib/src/core/di/injector.dart",
       "prefix": null,
       "value": null

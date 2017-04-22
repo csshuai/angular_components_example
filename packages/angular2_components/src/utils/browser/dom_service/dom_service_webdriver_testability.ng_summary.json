@@ -14,16 +14,16 @@
     "6": "dom_service_webdriver_testability.dart"
   },
   "type": {
-    "createDomServiceWebdriverTestability": {
+    "DomServiceWebdriverTestability": {
       "class": "Identifier",
-      "name": "createDomServiceWebdriverTestability",
+      "name": "DomServiceWebdriverTestability",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service_webdriver_testability.dart",
       "prefix": null,
       "value": null
     },
-    "DomServiceWebdriverTestability": {
+    "createDomServiceWebdriverTestability": {
       "class": "Identifier",
-      "name": "DomServiceWebdriverTestability",
+      "name": "createDomServiceWebdriverTestability",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service_webdriver_testability.dart",
       "prefix": null,
       "value": null

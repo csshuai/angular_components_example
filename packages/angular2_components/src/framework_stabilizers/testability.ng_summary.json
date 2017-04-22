@@ -27,9 +27,16 @@
     "6": "testability.dart"
   },
   "type": {
-    "_url": {
+    "AbstractTestability": {
       "class": "Identifier",
-      "name": "_url",
+      "name": "AbstractTestability",
+      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
+      "prefix": null,
+      "value": null
+    },
+    "NullTestability": {
+      "class": "Identifier",
+      "name": "NullTestability",
       "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
       "prefix": null,
       "value": null
@@ -41,16 +48,9 @@
       "prefix": null,
       "value": null
     },
-    "AbstractTestability": {
+    "_url": {
       "class": "Identifier",
-      "name": "AbstractTestability",
-      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
-      "prefix": null,
-      "value": null
-    },
-    "NullTestability": {
-      "class": "Identifier",
-      "name": "NullTestability",
+      "name": "_url",
       "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
       "prefix": null,
       "value": null

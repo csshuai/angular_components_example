@@ -83,20 +83,6 @@
       "prefix": null,
       "value": null
     },
-    "StylesCompileDependency": {
-      "class": "Identifier",
-      "name": "StylesCompileDependency",
-      "moduleUrl": "asset:angular2/lib/src/compiler/style_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
-    "StylesCompileResult": {
-      "class": "Identifier",
-      "name": "StylesCompileResult",
-      "moduleUrl": "asset:angular2/lib/src/compiler/style_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
     "StyleCompiler": {
       "class": "Type",
       "name": "StyleCompiler",
@@ -146,6 +132,20 @@
           "isValue": false
         }
       ]
+    },
+    "StylesCompileDependency": {
+      "class": "Identifier",
+      "name": "StylesCompileDependency",
+      "moduleUrl": "asset:angular2/lib/src/compiler/style_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "StylesCompileResult": {
+      "class": "Identifier",
+      "name": "StylesCompileResult",
+      "moduleUrl": "asset:angular2/lib/src/compiler/style_compiler.dart",
+      "prefix": null,
+      "value": null
     },
     "getStylesVarName": {
       "class": "Identifier",

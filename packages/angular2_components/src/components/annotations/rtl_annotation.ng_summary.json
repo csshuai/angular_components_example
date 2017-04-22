@@ -32,12 +32,34 @@
     "6": "rtl_annotation.dart"
   },
   "type": {
-    "rtlToken": {
-      "class": "Identifier",
-      "name": "rtlToken",
-      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+    "determineRtl": {
+      "class": "Factory",
+      "name": "determineRtl",
       "prefix": null,
-      "value": null
+      "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Document",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        }
+      ]
     },
     "rtlProvider": {
       "class": "Identifier",
@@ -93,34 +115,12 @@
         ]
       }
     },
-    "determineRtl": {
-      "class": "Factory",
-      "name": "determineRtl",
-      "prefix": null,
+    "rtlToken": {
+      "class": "Identifier",
+      "name": "rtlToken",
       "moduleUrl": "asset:angular2_components/lib/src/components/annotations/rtl_annotation.dart",
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "Document",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        }
-      ]
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

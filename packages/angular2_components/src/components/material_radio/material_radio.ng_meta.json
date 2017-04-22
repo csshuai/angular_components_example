@@ -142,20 +142,6 @@
     ]
   },
   "type": {
-    "uncheckedIcon": {
-      "class": "Identifier",
-      "name": "uncheckedIcon",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_radio/material_radio.dart",
-      "prefix": null,
-      "value": null
-    },
-    "checkedIcon": {
-      "class": "Identifier",
-      "name": "checkedIcon",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_radio/material_radio.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialRadioComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -316,6 +302,20 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "checkedIcon": {
+      "class": "Identifier",
+      "name": "checkedIcon",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_radio/material_radio.dart",
+      "prefix": null,
+      "value": null
+    },
+    "uncheckedIcon": {
+      "class": "Identifier",
+      "name": "uncheckedIcon",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_radio/material_radio.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

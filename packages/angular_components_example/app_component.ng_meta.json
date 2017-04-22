@@ -61,121 +61,6 @@
     ]
   },
   "type": {
-    "Language": {
-      "class": "Identifier",
-      "name": "Language",
-      "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ExampleRendererComponent": {
-      "class": "Directive",
-      "isComponent": true,
-      "selector": "example-renderer",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "ExampleRendererComponent",
-        "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": []
-      },
-      "changeDetection": 6,
-      "inputs": {},
-      "inputTypes": {},
-      "outputs": {},
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [],
-      "template": {
-        "encapsulation": 0,
-        "template": "<glyph icon=\"language\"></glyph>{{disPlayName}}",
-        "templateUrl": "asset:angular_components_example/lib/app_component.dart",
-        "styles": [
-          "glyph { vertical-align: middle; margin-right: 8px; }"
-        ],
-        "styleUrls": [],
-        "ngContentSelectors": []
-      },
-      "providers": [],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
-    },
-    "createPopupSizeProvider": {
-      "class": "Factory",
-      "name": "createPopupSizeProvider",
-      "prefix": null,
-      "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
-      "value": null,
-      "diDeps": []
-    },
-    "defaultPopupSizeProvider": {
-      "class": "Directive",
-      "isComponent": false,
-      "selector": "[defaultPopupSizeProvider]",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "defaultPopupSizeProvider",
-        "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": []
-      },
-      "changeDetection": 6,
-      "inputs": {},
-      "inputTypes": {},
-      "outputs": {},
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [],
-      "template": null,
-      "providers": [
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "PopupSizeProvider",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": null,
-          "useValue": null,
-          "useFactory": {
-            "class": "Factory",
-            "name": "createPopupSizeProvider",
-            "prefix": null,
-            "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
-            "value": null,
-            "diDeps": []
-          },
-          "multi": false,
-          "deps": null
-        }
-      ],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
-    },
-    "ExampleSelectionOptions": {
-      "class": "Identifier",
-      "name": "ExampleSelectionOptions",
-      "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
-      "prefix": null,
-      "value": null
-    },
     "AppComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -1419,6 +1304,121 @@
           "useExisting": null,
           "useValue": null,
           "useFactory": null,
+          "multi": false,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "ExampleRendererComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "example-renderer",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "ExampleRendererComponent",
+        "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 0,
+        "template": "<glyph icon=\"language\"></glyph>{{disPlayName}}",
+        "templateUrl": "asset:angular_components_example/lib/app_component.dart",
+        "styles": [
+          "glyph { vertical-align: middle; margin-right: 8px; }"
+        ],
+        "styleUrls": [],
+        "ngContentSelectors": []
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "ExampleSelectionOptions": {
+      "class": "Identifier",
+      "name": "ExampleSelectionOptions",
+      "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
+      "prefix": null,
+      "value": null
+    },
+    "Language": {
+      "class": "Identifier",
+      "name": "Language",
+      "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createPopupSizeProvider": {
+      "class": "Factory",
+      "name": "createPopupSizeProvider",
+      "prefix": null,
+      "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
+      "value": null,
+      "diDeps": []
+    },
+    "defaultPopupSizeProvider": {
+      "class": "Directive",
+      "isComponent": false,
+      "selector": "[defaultPopupSizeProvider]",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "defaultPopupSizeProvider",
+        "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": null,
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PopupSizeProvider",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": {
+            "class": "Factory",
+            "name": "createPopupSizeProvider",
+            "prefix": null,
+            "moduleUrl": "asset:angular_components_example/lib/app_component.dart",
+            "value": null,
+            "diDeps": []
+          },
           "multi": false,
           "deps": null
         }

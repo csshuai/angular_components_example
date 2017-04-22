@@ -8,8 +8,7 @@
       {
         "1": "di/injector.dart",
         "2": [
-          "Injector",
-          "MapInjector"
+          "Injector"
         ]
       },
       {

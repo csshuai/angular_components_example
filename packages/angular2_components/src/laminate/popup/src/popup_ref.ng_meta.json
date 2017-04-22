@@ -96,20 +96,6 @@
     ]
   },
   "type": {
-    "ViewportBoundsGetter": {
-      "class": "Identifier",
-      "name": "ViewportBoundsGetter",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_DebouncedVisibilitySetter": {
-      "class": "Identifier",
-      "name": "_DebouncedVisibilitySetter",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupRef": {
       "class": "Identifier",
       "name": "PopupRef",
@@ -124,9 +110,16 @@
       "prefix": null,
       "value": null
     },
-    "_flatten": {
+    "ViewportBoundsGetter": {
       "class": "Identifier",
-      "name": "_flatten",
+      "name": "ViewportBoundsGetter",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_DebouncedVisibilitySetter": {
+      "class": "Identifier",
+      "name": "_DebouncedVisibilitySetter",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
       "prefix": null,
       "value": null
@@ -134,6 +127,13 @@
     "_Size": {
       "class": "Identifier",
       "name": "_Size",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_flatten": {
+      "class": "Identifier",
+      "name": "_flatten",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
       "prefix": null,
       "value": null

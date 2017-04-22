@@ -43,16 +43,23 @@
     "6": "code_builder.dart"
   },
   "type": {
-    "_ignoredProblems": {
+    "_NgScope": {
       "class": "Identifier",
-      "name": "_ignoredProblems",
+      "name": "_NgScope",
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/code_builder.dart",
       "prefix": null,
       "value": null
     },
-    "buildGeneratedCode": {
+    "_PrefixScope": {
       "class": "Identifier",
-      "name": "buildGeneratedCode",
+      "name": "_PrefixScope",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/code_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_ignoredProblems": {
+      "class": "Identifier",
+      "name": "_ignoredProblems",
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/code_builder.dart",
       "prefix": null,
       "value": null
@@ -64,16 +71,9 @@
       "prefix": null,
       "value": null
     },
-    "_NgScope": {
+    "buildGeneratedCode": {
       "class": "Identifier",
-      "name": "_NgScope",
-      "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/code_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_PrefixScope": {
-      "class": "Identifier",
-      "name": "_PrefixScope",
+      "name": "buildGeneratedCode",
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/code_builder.dart",
       "prefix": null,
       "value": null

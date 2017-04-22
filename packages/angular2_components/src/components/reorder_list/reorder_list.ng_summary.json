@@ -68,16 +68,9 @@
     "6": "reorder_list.dart"
   },
   "type": {
-    "ReorderListHandler": {
+    "ItemSelectionEvent": {
       "class": "Identifier",
-      "name": "ReorderListHandler",
-      "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ReorderEvent": {
-      "class": "Identifier",
-      "name": "ReorderEvent",
+      "name": "ItemSelectionEvent",
       "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
       "prefix": null,
       "value": null
@@ -89,9 +82,9 @@
       "prefix": null,
       "value": null
     },
-    "ItemSelectionEvent": {
+    "ReorderEvent": {
       "class": "Identifier",
-      "name": "ItemSelectionEvent",
+      "name": "ReorderEvent",
       "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
       "prefix": null,
       "value": null
@@ -273,6 +266,13 @@
           }
         }
       ]
+    },
+    "ReorderListHandler": {
+      "class": "Identifier",
+      "name": "ReorderListHandler",
+      "moduleUrl": "asset:angular2_components/lib/src/components/reorder_list/reorder_list.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

@@ -25,9 +25,30 @@
       "prefix": null,
       "value": null
     },
-    "isSpaceKey": {
+    "anyParentHasAttribute": {
       "class": "Identifier",
-      "name": "isSpaceKey",
+      "name": "anyParentHasAttribute",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
+      "prefix": null,
+      "value": null
+    },
+    "anyParentHasClass": {
+      "class": "Identifier",
+      "name": "anyParentHasClass",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
+      "prefix": null,
+      "value": null
+    },
+    "anyParentHasTag": {
+      "class": "Identifier",
+      "name": "anyParentHasTag",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
+      "prefix": null,
+      "value": null
+    },
+    "closestWithClass": {
+      "class": "Identifier",
+      "name": "closestWithClass",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
       "prefix": null,
       "value": null
@@ -35,6 +56,20 @@
     "isKeyboardTrigger": {
       "class": "Identifier",
       "name": "isKeyboardTrigger",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
+      "prefix": null,
+      "value": null
+    },
+    "isParentOf": {
+      "class": "Identifier",
+      "name": "isParentOf",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
+      "prefix": null,
+      "value": null
+    },
+    "isSpaceKey": {
+      "class": "Identifier",
+      "name": "isSpaceKey",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
       "prefix": null,
       "value": null
@@ -63,41 +98,6 @@
     "triggersOutsideAny": {
       "class": "Identifier",
       "name": "triggersOutsideAny",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
-      "prefix": null,
-      "value": null
-    },
-    "anyParentHasAttribute": {
-      "class": "Identifier",
-      "name": "anyParentHasAttribute",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
-      "prefix": null,
-      "value": null
-    },
-    "anyParentHasTag": {
-      "class": "Identifier",
-      "name": "anyParentHasTag",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
-      "prefix": null,
-      "value": null
-    },
-    "anyParentHasClass": {
-      "class": "Identifier",
-      "name": "anyParentHasClass",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
-      "prefix": null,
-      "value": null
-    },
-    "closestWithClass": {
-      "class": "Identifier",
-      "name": "closestWithClass",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
-      "prefix": null,
-      "value": null
-    },
-    "isParentOf": {
-      "class": "Identifier",
-      "name": "isParentOf",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/events/events.dart",
       "prefix": null,
       "value": null

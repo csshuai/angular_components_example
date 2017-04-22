@@ -1,16 +1,9 @@
 {
   "ngDeps": null,
   "type": {
-    "SelectableOption": {
+    "HasSelectionRationale": {
       "class": "Identifier",
-      "name": "SelectableOption",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SelectableGetter": {
-      "class": "Identifier",
-      "name": "SelectableGetter",
+      "name": "HasSelectionRationale",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
       "prefix": null,
       "value": null
@@ -22,16 +15,23 @@
       "prefix": null,
       "value": null
     },
-    "SelectableWithComposition": {
+    "SelectableGetter": {
       "class": "Identifier",
-      "name": "SelectableWithComposition",
+      "name": "SelectableGetter",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
       "prefix": null,
       "value": null
     },
-    "HasSelectionRationale": {
+    "SelectableOption": {
       "class": "Identifier",
-      "name": "HasSelectionRationale",
+      "name": "SelectableOption",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableWithComposition": {
+      "class": "Identifier",
+      "name": "SelectableWithComposition",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/src/interfaces/selectable.dart",
       "prefix": null,
       "value": null

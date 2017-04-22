@@ -27,13 +27,6 @@
     ]
   },
   "type": {
-    "_ValidatorFn": {
-      "class": "Identifier",
-      "name": "_ValidatorFn",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/deferred_validator.dart",
-      "prefix": null,
-      "value": null
-    },
     "DeferredValidator": {
       "class": "Type",
       "name": "DeferredValidator",
@@ -42,6 +35,13 @@
       "isHost": false,
       "value": null,
       "diDeps": []
+    },
+    "_ValidatorFn": {
+      "class": "Identifier",
+      "name": "_ValidatorFn",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/deferred_validator.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

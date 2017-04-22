@@ -240,6 +240,13 @@
     ]
   },
   "type": {
+    "CompiledTemplate": {
+      "class": "Identifier",
+      "name": "CompiledTemplate",
+      "moduleUrl": "asset:angular2/lib/src/compiler/runtime_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
     "RuntimeCompiler": {
       "class": "Type",
       "name": "RuntimeCompiler",
@@ -370,9 +377,9 @@
         }
       ]
     },
-    "CompiledTemplate": {
+    "_ResolvedStyles": {
       "class": "Identifier",
-      "name": "CompiledTemplate",
+      "name": "_ResolvedStyles",
       "moduleUrl": "asset:angular2/lib/src/compiler/runtime_compiler.dart",
       "prefix": null,
       "value": null
@@ -380,13 +387,6 @@
     "assertComponent": {
       "class": "Identifier",
       "name": "assertComponent",
-      "moduleUrl": "asset:angular2/lib/src/compiler/runtime_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_ResolvedStyles": {
-      "class": "Identifier",
-      "name": "_ResolvedStyles",
       "moduleUrl": "asset:angular2/lib/src/compiler/runtime_compiler.dart",
       "prefix": null,
       "value": null

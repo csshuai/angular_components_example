@@ -71,6 +71,48 @@
     ]
   },
   "type": {
+    "componentFromDirectives": {
+      "class": "Identifier",
+      "name": "componentFromDirectives",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
+      "prefix": null,
+      "value": null
+    },
+    "convertValueToOutputAst": {
+      "class": "Identifier",
+      "name": "convertValueToOutputAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createDebugInfoTokenExpression": {
+      "class": "Identifier",
+      "name": "createDebugInfoTokenExpression",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createDiTokenExpression": {
+      "class": "Identifier",
+      "name": "createDiTokenExpression",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createFlatArray": {
+      "class": "Identifier",
+      "name": "createFlatArray",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createPureProxy": {
+      "class": "Identifier",
+      "name": "createPureProxy",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
+      "prefix": null,
+      "value": null
+    },
     "createSetAttributeParams": {
       "class": "Identifier",
       "name": "createSetAttributeParams",
@@ -85,13 +127,6 @@
       "prefix": null,
       "value": null
     },
-    "injectFromViewParentInjector": {
-      "class": "Identifier",
-      "name": "injectFromViewParentInjector",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
-      "prefix": null,
-      "value": null
-    },
     "getViewFactoryName": {
       "class": "Identifier",
       "name": "getViewFactoryName",
@@ -99,44 +134,9 @@
       "prefix": null,
       "value": null
     },
-    "createDiTokenExpression": {
+    "injectFromViewParentInjector": {
       "class": "Identifier",
-      "name": "createDiTokenExpression",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
-      "prefix": null,
-      "value": null
-    },
-    "createDebugInfoTokenExpression": {
-      "class": "Identifier",
-      "name": "createDebugInfoTokenExpression",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
-      "prefix": null,
-      "value": null
-    },
-    "createFlatArray": {
-      "class": "Identifier",
-      "name": "createFlatArray",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
-      "prefix": null,
-      "value": null
-    },
-    "convertValueToOutputAst": {
-      "class": "Identifier",
-      "name": "convertValueToOutputAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
-      "prefix": null,
-      "value": null
-    },
-    "createPureProxy": {
-      "class": "Identifier",
-      "name": "createPureProxy",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
-      "prefix": null,
-      "value": null
-    },
-    "componentFromDirectives": {
-      "class": "Identifier",
-      "name": "componentFromDirectives",
+      "name": "injectFromViewParentInjector",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_compiler_utils.dart",
       "prefix": null,
       "value": null

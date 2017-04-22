@@ -33,30 +33,9 @@
     ]
   },
   "type": {
-    "_url": {
-      "class": "Identifier",
-      "name": "_url",
-      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
-      "prefix": null,
-      "value": null
-    },
-    "Testability": {
-      "class": "Identifier",
-      "name": "Testability",
-      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
-      "prefix": null,
-      "value": null
-    },
     "AbstractTestability": {
       "class": "Identifier",
       "name": "AbstractTestability",
-      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
-      "prefix": null,
-      "value": null
-    },
-    "NullTestability": {
-      "class": "Identifier",
-      "name": "NullTestability",
       "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
       "prefix": null,
       "value": null
@@ -68,10 +47,31 @@
       "prefix": null,
       "value": null
     },
+    "FrameworkStabilizers": {
+      "class": "Identifier",
+      "name": "FrameworkStabilizers",
+      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/framework_stabilizers.dart",
+      "prefix": null,
+      "value": null
+    },
     "IsStableCallback": {
       "class": "Identifier",
       "name": "IsStableCallback",
       "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/framework_stabilizers.dart",
+      "prefix": null,
+      "value": null
+    },
+    "NullTestability": {
+      "class": "Identifier",
+      "name": "NullTestability",
+      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
+      "prefix": null,
+      "value": null
+    },
+    "Testability": {
+      "class": "Identifier",
+      "name": "Testability",
+      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
       "prefix": null,
       "value": null
     },
@@ -82,10 +82,10 @@
       "prefix": null,
       "value": null
     },
-    "FrameworkStabilizers": {
+    "_url": {
       "class": "Identifier",
-      "name": "FrameworkStabilizers",
-      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/framework_stabilizers.dart",
+      "name": "_url",
+      "moduleUrl": "asset:angular2_components/lib/src/framework_stabilizers/testability.dart",
       "prefix": null,
       "value": null
     }

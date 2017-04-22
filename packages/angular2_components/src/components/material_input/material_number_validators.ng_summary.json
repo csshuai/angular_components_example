@@ -48,65 +48,6 @@
     "6": "material_number_validators.dart"
   },
   "type": {
-    "PositiveNumValidator": {
-      "class": "Directive",
-      "isComponent": false,
-      "selector": "[checkPositive]",
-      "exportAs": null,
-      "type": {
-        "class": "Type",
-        "name": "PositiveNumValidator",
-        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_validators.dart",
-        "prefix": null,
-        "isHost": false,
-        "value": null,
-        "diDeps": []
-      },
-      "changeDetection": 6,
-      "inputs": {},
-      "inputTypes": {},
-      "outputs": {},
-      "hostListeners": {},
-      "hostProperties": {},
-      "hostAttributes": {},
-      "lifecycleHooks": [],
-      "template": null,
-      "providers": [
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "NG_VALIDATORS",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "PositiveNumValidator",
-              "moduleUrl": null,
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useValue": null,
-          "useFactory": null,
-          "multi": true,
-          "deps": null
-        }
-      ],
-      "viewProviders": [],
-      "queries": [],
-      "viewQueries": []
-    },
     "CheckNonNegativeValidator": {
       "class": "Directive",
       "isComponent": false,
@@ -215,6 +156,65 @@
             "identifier": {
               "class": "Identifier",
               "name": "LowerBoundValidator",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useValue": null,
+          "useFactory": null,
+          "multi": true,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "PositiveNumValidator": {
+      "class": "Directive",
+      "isComponent": false,
+      "selector": "[checkPositive]",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "PositiveNumValidator",
+        "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_number_validators.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": null,
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "NG_VALIDATORS",
+              "moduleUrl": null,
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PositiveNumValidator",
               "moduleUrl": null,
               "prefix": null,
               "value": null

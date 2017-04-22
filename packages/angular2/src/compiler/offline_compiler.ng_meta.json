@@ -142,13 +142,6 @@
     ]
   },
   "type": {
-    "_DEBUG_PRINT_COMPILATION": {
-      "class": "Identifier",
-      "name": "_DEBUG_PRINT_COMPILATION",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
     "NormalizedComponentWithViewDirectives": {
       "class": "Identifier",
       "name": "NormalizedComponentWithViewDirectives",
@@ -163,9 +156,16 @@
       "prefix": null,
       "value": null
     },
-    "_resolveViewStatements": {
+    "_DEBUG_PRINT_COMPILATION": {
       "class": "Identifier",
-      "name": "_resolveViewStatements",
+      "name": "_DEBUG_PRINT_COMPILATION",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_assertComponent": {
+      "class": "Identifier",
+      "name": "_assertComponent",
       "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
       "prefix": null,
       "value": null
@@ -177,9 +177,9 @@
       "prefix": null,
       "value": null
     },
-    "_templateModuleUrl": {
+    "_resolveViewStatements": {
       "class": "Identifier",
-      "name": "_templateModuleUrl",
+      "name": "_resolveViewStatements",
       "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
       "prefix": null,
       "value": null
@@ -191,9 +191,9 @@
       "prefix": null,
       "value": null
     },
-    "_assertComponent": {
+    "_templateModuleUrl": {
       "class": "Identifier",
-      "name": "_assertComponent",
+      "name": "_templateModuleUrl",
       "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
       "prefix": null,
       "value": null

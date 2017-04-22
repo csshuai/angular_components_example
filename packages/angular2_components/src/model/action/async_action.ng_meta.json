@@ -36,20 +36,6 @@
       "prefix": null,
       "value": null
     },
-    "Executor": {
-      "class": "Identifier",
-      "name": "Executor",
-      "moduleUrl": "asset:angular2_components/lib/src/model/action/src/async_action_controller.dart",
-      "prefix": null,
-      "value": null
-    },
-    "OnCancelFunction": {
-      "class": "Identifier",
-      "name": "OnCancelFunction",
-      "moduleUrl": "asset:angular2_components/lib/src/model/action/src/async_action_controller.dart",
-      "prefix": null,
-      "value": null
-    },
     "AsyncActionController": {
       "class": "Identifier",
       "name": "AsyncActionController",
@@ -61,6 +47,20 @@
       "class": "Identifier",
       "name": "DelegatingAsyncAction",
       "moduleUrl": "asset:angular2_components/lib/src/model/action/src/delegating_async_action.dart",
+      "prefix": null,
+      "value": null
+    },
+    "Executor": {
+      "class": "Identifier",
+      "name": "Executor",
+      "moduleUrl": "asset:angular2_components/lib/src/model/action/src/async_action_controller.dart",
+      "prefix": null,
+      "value": null
+    },
+    "OnCancelFunction": {
+      "class": "Identifier",
+      "name": "OnCancelFunction",
+      "moduleUrl": "asset:angular2_components/lib/src/model/action/src/async_action_controller.dart",
       "prefix": null,
       "value": null
     }

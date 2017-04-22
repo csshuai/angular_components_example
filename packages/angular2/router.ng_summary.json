@@ -122,8 +122,8 @@
   },
   "alias": {
     "ROUTER_DIRECTIVES": [
-      "RouterOutlet",
-      "RouterLink"
+      "RouterLink",
+      "RouterOutlet"
     ]
   }
 }

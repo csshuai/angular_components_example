@@ -111,9 +111,9 @@
     "6": "debug_app_view.dart"
   },
   "type": {
-    "_templateCommentText": {
+    "DebugAppView": {
       "class": "Identifier",
-      "name": "_templateCommentText",
+      "name": "DebugAppView",
       "moduleUrl": "asset:angular2/lib/src/debug/debug_app_view.dart",
       "prefix": null,
       "value": null
@@ -121,13 +121,6 @@
     "INSPECT_GLOBAL_NAME": {
       "class": "Identifier",
       "name": "INSPECT_GLOBAL_NAME",
-      "moduleUrl": "asset:angular2/lib/src/debug/debug_app_view.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DebugAppView": {
-      "class": "Identifier",
-      "name": "DebugAppView",
       "moduleUrl": "asset:angular2/lib/src/debug/debug_app_view.dart",
       "prefix": null,
       "value": null
@@ -142,6 +135,13 @@
     "_setGlobalVar": {
       "class": "Identifier",
       "name": "_setGlobalVar",
+      "moduleUrl": "asset:angular2/lib/src/debug/debug_app_view.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_templateCommentText": {
+      "class": "Identifier",
+      "name": "_templateCommentText",
       "moduleUrl": "asset:angular2/lib/src/debug/debug_app_view.dart",
       "prefix": null,
       "value": null

@@ -140,13 +140,6 @@
     ]
   },
   "type": {
-    "ScoreboardType": {
-      "class": "Identifier",
-      "name": "ScoreboardType",
-      "moduleUrl": "asset:angular2_components/lib/src/components/scorecard/scoreboard.dart",
-      "prefix": null,
-      "value": null
-    },
     "ScoreboardComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -416,6 +409,13 @@
           "read": null
         }
       ]
+    },
+    "ScoreboardType": {
+      "class": "Identifier",
+      "name": "ScoreboardType",
+      "moduleUrl": "asset:angular2_components/lib/src/components/scorecard/scoreboard.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

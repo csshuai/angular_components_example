@@ -210,16 +210,9 @@
         }
       ]
     },
-    "splitAndFlattenLinkParams": {
+    "assertTerminalComponent": {
       "class": "Identifier",
-      "name": "splitAndFlattenLinkParams",
-      "moduleUrl": "asset:angular2/lib/src/router/route_registry.dart",
-      "prefix": null,
-      "value": null
-    },
-    "mostSpecific": {
-      "class": "Identifier",
-      "name": "mostSpecific",
+      "name": "assertTerminalComponent",
       "moduleUrl": "asset:angular2/lib/src/router/route_registry.dart",
       "prefix": null,
       "value": null
@@ -231,9 +224,16 @@
       "prefix": null,
       "value": null
     },
-    "assertTerminalComponent": {
+    "mostSpecific": {
       "class": "Identifier",
-      "name": "assertTerminalComponent",
+      "name": "mostSpecific",
+      "moduleUrl": "asset:angular2/lib/src/router/route_registry.dart",
+      "prefix": null,
+      "value": null
+    },
+    "splitAndFlattenLinkParams": {
+      "class": "Identifier",
+      "name": "splitAndFlattenLinkParams",
       "moduleUrl": "asset:angular2/lib/src/router/route_registry.dart",
       "prefix": null,
       "value": null

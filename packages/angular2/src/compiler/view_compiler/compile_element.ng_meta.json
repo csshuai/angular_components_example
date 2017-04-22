@@ -121,6 +121,13 @@
     ]
   },
   "type": {
+    "CompileElement": {
+      "class": "Identifier",
+      "name": "CompileElement",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/compile_element.dart",
+      "prefix": null,
+      "value": null
+    },
     "CompileNode": {
       "class": "Identifier",
       "name": "CompileNode",
@@ -128,9 +135,9 @@
       "prefix": null,
       "value": null
     },
-    "CompileElement": {
+    "_QueryWithRead": {
       "class": "Identifier",
-      "name": "CompileElement",
+      "name": "_QueryWithRead",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/compile_element.dart",
       "prefix": null,
       "value": null
@@ -145,13 +152,6 @@
     "createProviderProperty": {
       "class": "Identifier",
       "name": "createProviderProperty",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/compile_element.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_QueryWithRead": {
-      "class": "Identifier",
-      "name": "_QueryWithRead",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/compile_element.dart",
       "prefix": null,
       "value": null

@@ -26,16 +26,16 @@
       "prefix": null,
       "value": null
     },
-    "isStyleUrlResolvable": {
+    "extractStyleUrls": {
       "class": "Identifier",
-      "name": "isStyleUrlResolvable",
+      "name": "extractStyleUrls",
       "moduleUrl": "asset:angular2/lib/src/compiler/style_url_resolver.dart",
       "prefix": null,
       "value": null
     },
-    "extractStyleUrls": {
+    "isStyleUrlResolvable": {
       "class": "Identifier",
-      "name": "extractStyleUrls",
+      "name": "isStyleUrlResolvable",
       "moduleUrl": "asset:angular2/lib/src/compiler/style_url_resolver.dart",
       "prefix": null,
       "value": null

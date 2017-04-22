@@ -104,34 +104,6 @@
     "6": "overlay_dom_render_service.dart"
   },
   "type": {
-    "overlayContainerName": {
-      "class": "Identifier",
-      "name": "overlayContainerName",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "overlayContainerToken": {
-      "class": "Identifier",
-      "name": "overlayContainerToken",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "overlayContainerParent": {
-      "class": "Identifier",
-      "name": "overlayContainerParent",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "overlaySyncDom": {
-      "class": "Identifier",
-      "name": "overlaySyncDom",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
-      "prefix": null,
-      "value": null
-    },
     "OverlayDomRenderService": {
       "class": "Type",
       "name": "OverlayDomRenderService",
@@ -301,6 +273,34 @@
           "isValue": false
         }
       ]
+    },
+    "overlayContainerName": {
+      "class": "Identifier",
+      "name": "overlayContainerName",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "overlayContainerParent": {
+      "class": "Identifier",
+      "name": "overlayContainerParent",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "overlayContainerToken": {
+      "class": "Identifier",
+      "name": "overlayContainerToken",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "overlaySyncDom": {
+      "class": "Identifier",
+      "name": "overlaySyncDom",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

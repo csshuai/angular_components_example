@@ -82,16 +82,16 @@
     "6": "ng_deps_visitor.dart"
   },
   "type": {
-    "resolveNgDepsFor": {
+    "ReflectableVisitor": {
       "class": "Identifier",
-      "name": "resolveNgDepsFor",
+      "name": "ReflectableVisitor",
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/ng_deps_visitor.dart",
       "prefix": null,
       "value": null
     },
-    "ReflectableVisitor": {
+    "resolveNgDepsFor": {
       "class": "Identifier",
-      "name": "ReflectableVisitor",
+      "name": "resolveNgDepsFor",
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/ng_deps_visitor.dart",
       "prefix": null,
       "value": null

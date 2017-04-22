@@ -42,13 +42,6 @@
     "6": "dark_theme.dart"
   },
   "type": {
-    "darkThemeClass": {
-      "class": "Identifier",
-      "name": "darkThemeClass",
-      "moduleUrl": "asset:angular2_components/lib/src/components/theme/dark_theme.dart",
-      "prefix": null,
-      "value": null
-    },
     "AcxDarkTheme": {
       "class": "Type",
       "name": "AcxDarkTheme",
@@ -127,6 +120,13 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "darkThemeClass": {
+      "class": "Identifier",
+      "name": "darkThemeClass",
+      "moduleUrl": "asset:angular2_components/lib/src/components/theme/dark_theme.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

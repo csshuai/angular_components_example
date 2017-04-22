@@ -44,6 +44,55 @@
       "prefix": null,
       "value": null
     },
+    "MultiSelectionModel": {
+      "class": "Identifier",
+      "name": "MultiSelectionModel",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableChangeNotifier": {
+      "class": "Identifier",
+      "name": "SelectableChangeNotifier",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectableChangeRecord": {
+      "class": "Identifier",
+      "name": "SelectableChangeRecord",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionChangeNotifier": {
+      "class": "Identifier",
+      "name": "SelectionChangeNotifier",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionChangeRecord": {
+      "class": "Identifier",
+      "name": "SelectionChangeRecord",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionModel": {
+      "class": "Identifier",
+      "name": "SelectionModel",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SelectionObservable": {
+      "class": "Identifier",
+      "name": "SelectionObservable",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
+      "prefix": null,
+      "value": null
+    },
     "_MultiSelectionModelImpl": {
       "class": "Identifier",
       "name": "_MultiSelectionModelImpl",
@@ -58,30 +107,9 @@
       "prefix": null,
       "value": null
     },
-    "SelectableChangeNotifier": {
-      "class": "Identifier",
-      "name": "SelectableChangeNotifier",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
-      "prefix": null,
-      "value": null
-    },
     "_SelectableChangeRecordImpl": {
       "class": "Identifier",
       "name": "_SelectableChangeRecordImpl",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SelectionObservable": {
-      "class": "Identifier",
-      "name": "SelectionObservable",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SelectionChangeNotifier": {
-      "class": "Identifier",
-      "name": "SelectionChangeNotifier",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
       "prefix": null,
       "value": null
@@ -103,34 +131,6 @@
     "_defaultKeyProvider": {
       "class": "Identifier",
       "name": "_defaultKeyProvider",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SelectionModel": {
-      "class": "Identifier",
-      "name": "SelectionModel",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
-      "prefix": null,
-      "value": null
-    },
-    "MultiSelectionModel": {
-      "class": "Identifier",
-      "name": "MultiSelectionModel",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SelectionChangeRecord": {
-      "class": "Identifier",
-      "name": "SelectionChangeRecord",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SelectableChangeRecord": {
-      "class": "Identifier",
-      "name": "SelectableChangeRecord",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_model.dart",
       "prefix": null,
       "value": null

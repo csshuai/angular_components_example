@@ -37,6 +37,20 @@
     ]
   },
   "type": {
+    "GetterFn": {
+      "class": "Identifier",
+      "name": "GetterFn",
+      "moduleUrl": "asset:angular2/lib/src/core/reflection/types.dart",
+      "prefix": null,
+      "value": null
+    },
+    "MethodFn": {
+      "class": "Identifier",
+      "name": "MethodFn",
+      "moduleUrl": "asset:angular2/lib/src/core/reflection/types.dart",
+      "prefix": null,
+      "value": null
+    },
     "NoReflectionCapabilities": {
       "class": "Identifier",
       "name": "NoReflectionCapabilities",
@@ -48,6 +62,13 @@
       "class": "Identifier",
       "name": "NoReflectionCapabilitiesError",
       "moduleUrl": "asset:angular2/lib/src/core/reflection/reflection.dart",
+      "prefix": null,
+      "value": null
+    },
+    "PlatformReflectionCapabilities": {
+      "class": "Identifier",
+      "name": "PlatformReflectionCapabilities",
+      "moduleUrl": "asset:angular2/lib/src/core/reflection/platform_reflection_capabilities.dart",
       "prefix": null,
       "value": null
     },
@@ -65,20 +86,6 @@
       "prefix": null,
       "value": null
     },
-    "_mergeMaps": {
-      "class": "Identifier",
-      "name": "_mergeMaps",
-      "moduleUrl": "asset:angular2/lib/src/core/reflection/reflector.dart",
-      "prefix": null,
-      "value": null
-    },
-    "PlatformReflectionCapabilities": {
-      "class": "Identifier",
-      "name": "PlatformReflectionCapabilities",
-      "moduleUrl": "asset:angular2/lib/src/core/reflection/platform_reflection_capabilities.dart",
-      "prefix": null,
-      "value": null
-    },
     "SetterFn": {
       "class": "Identifier",
       "name": "SetterFn",
@@ -86,17 +93,10 @@
       "prefix": null,
       "value": null
     },
-    "GetterFn": {
+    "_mergeMaps": {
       "class": "Identifier",
-      "name": "GetterFn",
-      "moduleUrl": "asset:angular2/lib/src/core/reflection/types.dart",
-      "prefix": null,
-      "value": null
-    },
-    "MethodFn": {
-      "class": "Identifier",
-      "name": "MethodFn",
-      "moduleUrl": "asset:angular2/lib/src/core/reflection/types.dart",
+      "name": "_mergeMaps",
+      "moduleUrl": "asset:angular2/lib/src/core/reflection/reflector.dart",
       "prefix": null,
       "value": null
     }

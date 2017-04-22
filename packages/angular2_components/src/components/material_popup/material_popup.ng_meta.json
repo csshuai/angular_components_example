@@ -176,6 +176,91 @@
     ]
   },
   "type": {
+    "AsyncMeasureSize": {
+      "class": "Identifier",
+      "name": "AsyncMeasureSize",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_event.dart",
+      "prefix": null,
+      "value": null
+    },
+    "AsyncPopupEvent": {
+      "class": "Identifier",
+      "name": "AsyncPopupEvent",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_event.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DomPopupSource": {
+      "class": "Identifier",
+      "name": "DomPopupSource",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DomPopupSourceFactory": {
+      "class": "Type",
+      "name": "DomPopupSourceFactory",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
+      "prefix": null,
+      "isHost": false,
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Window",
+              "moduleUrl": "dart:html",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        },
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "DomRuler",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        }
+      ]
+    },
+    "ElementPopupSource": {
+      "class": "Identifier",
+      "name": "ElementPopupSource",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_source.dart",
+      "prefix": null,
+      "value": null
+    },
+    "FixedPopupSizeProvider": {
+      "class": "Identifier",
+      "name": "FixedPopupSizeProvider",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+      "prefix": null,
+      "value": null
+    },
     "MaterialPopupComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -1271,67 +1356,10 @@
       "queries": [],
       "viewQueries": []
     },
-    "AsyncMeasureSize": {
+    "PercentagePopupSizeProvider": {
       "class": "Identifier",
-      "name": "AsyncMeasureSize",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_event.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DomPopupSourceFactory": {
-      "class": "Type",
-      "name": "DomPopupSourceFactory",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
-      "prefix": null,
-      "isHost": false,
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "Window",
-              "moduleUrl": "dart:html",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        },
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "DomRuler",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        }
-      ]
-    },
-    "DomPopupSource": {
-      "class": "Identifier",
-      "name": "DomPopupSource",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
+      "name": "PercentagePopupSizeProvider",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
       "prefix": null,
       "value": null
     },
@@ -1470,13 +1498,6 @@
       "prefix": null,
       "value": null
     },
-    "AsyncPopupEvent": {
-      "class": "Identifier",
-      "name": "AsyncPopupEvent",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_event.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupPosition": {
       "class": "Identifier",
       "name": "PopupPosition",
@@ -1491,20 +1512,6 @@
       "prefix": null,
       "value": null
     },
-    "ViewportBoundsGetter": {
-      "class": "Identifier",
-      "name": "ViewportBoundsGetter",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_DebouncedVisibilitySetter": {
-      "class": "Identifier",
-      "name": "_DebouncedVisibilitySetter",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupRef": {
       "class": "Identifier",
       "name": "PopupRef",
@@ -1516,27 +1523,6 @@
       "class": "Identifier",
       "name": "PopupRefImpl",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_flatten": {
-      "class": "Identifier",
-      "name": "_flatten",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_Size": {
-      "class": "Identifier",
-      "name": "_Size",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
-      "prefix": null,
-      "value": null
-    },
-    "defaultPopupPositions": {
-      "class": "Identifier",
-      "name": "defaultPopupPositions",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
       "prefix": null,
       "value": null
     },
@@ -1610,30 +1596,9 @@
         }
       ]
     },
-    "unboundedPopupSize": {
-      "class": "Identifier",
-      "name": "unboundedPopupSize",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupSizeProvider": {
       "class": "Identifier",
       "name": "PopupSizeProvider",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "PercentagePopupSizeProvider": {
-      "class": "Identifier",
-      "name": "PercentagePopupSizeProvider",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "FixedPopupSizeProvider": {
-      "class": "Identifier",
-      "name": "FixedPopupSizeProvider",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
       "prefix": null,
       "value": null
@@ -1793,44 +1758,9 @@
       "queries": [],
       "viewQueries": []
     },
-    "_SizeDefinition": {
-      "class": "Identifier",
-      "name": "_SizeDefinition",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_PixelSizeDefinition": {
-      "class": "Identifier",
-      "name": "_PixelSizeDefinition",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_PercentSizeDefinition": {
-      "class": "Identifier",
-      "name": "_PercentSizeDefinition",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupSource": {
       "class": "Identifier",
       "name": "PopupSource",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_source.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ElementPopupSource": {
-      "class": "Identifier",
-      "name": "ElementPopupSource",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_source.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_RectanglePopupSource": {
-      "class": "Identifier",
-      "name": "_RectanglePopupSource",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_source.dart",
       "prefix": null,
       "value": null
@@ -1934,6 +1864,76 @@
       "class": "Identifier",
       "name": "PopupState",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_state.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ViewportBoundsGetter": {
+      "class": "Identifier",
+      "name": "ViewportBoundsGetter",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_DebouncedVisibilitySetter": {
+      "class": "Identifier",
+      "name": "_DebouncedVisibilitySetter",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_PercentSizeDefinition": {
+      "class": "Identifier",
+      "name": "_PercentSizeDefinition",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_PixelSizeDefinition": {
+      "class": "Identifier",
+      "name": "_PixelSizeDefinition",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_RectanglePopupSource": {
+      "class": "Identifier",
+      "name": "_RectanglePopupSource",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_source.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_Size": {
+      "class": "Identifier",
+      "name": "_Size",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_SizeDefinition": {
+      "class": "Identifier",
+      "name": "_SizeDefinition",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_flatten": {
+      "class": "Identifier",
+      "name": "_flatten",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_ref.dart",
+      "prefix": null,
+      "value": null
+    },
+    "defaultPopupPositions": {
+      "class": "Identifier",
+      "name": "defaultPopupPositions",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "unboundedPopupSize": {
+      "class": "Identifier",
+      "name": "unboundedPopupSize",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
       "prefix": null,
       "value": null
     }

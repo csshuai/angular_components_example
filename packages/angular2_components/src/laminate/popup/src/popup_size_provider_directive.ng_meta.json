@@ -209,9 +209,9 @@
       "queries": [],
       "viewQueries": []
     },
-    "_SizeDefinition": {
+    "_PercentSizeDefinition": {
       "class": "Identifier",
-      "name": "_SizeDefinition",
+      "name": "_PercentSizeDefinition",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
       "prefix": null,
       "value": null
@@ -223,9 +223,9 @@
       "prefix": null,
       "value": null
     },
-    "_PercentSizeDefinition": {
+    "_SizeDefinition": {
       "class": "Identifier",
-      "name": "_PercentSizeDefinition",
+      "name": "_SizeDefinition",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider_directive.dart",
       "prefix": null,
       "value": null

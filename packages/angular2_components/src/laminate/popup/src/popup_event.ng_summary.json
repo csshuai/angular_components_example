@@ -29,16 +29,16 @@
       "prefix": null,
       "value": null
     },
-    "PopupEvent": {
+    "AsyncPopupEvent": {
       "class": "Identifier",
-      "name": "PopupEvent",
+      "name": "AsyncPopupEvent",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_event.dart",
       "prefix": null,
       "value": null
     },
-    "AsyncPopupEvent": {
+    "PopupEvent": {
       "class": "Identifier",
-      "name": "AsyncPopupEvent",
+      "name": "PopupEvent",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_event.dart",
       "prefix": null,
       "value": null

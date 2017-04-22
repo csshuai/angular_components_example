@@ -57,23 +57,9 @@
       "prefix": null,
       "value": null
     },
-    "ResolvedReflectiveProvider": {
-      "class": "Identifier",
-      "name": "ResolvedReflectiveProvider",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
     "ResolvedReflectiveBinding": {
       "class": "Identifier",
       "name": "ResolvedReflectiveBinding",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ResolvedReflectiveProviderImpl": {
-      "class": "Identifier",
-      "name": "ResolvedReflectiveProviderImpl",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null
@@ -85,44 +71,23 @@
       "prefix": null,
       "value": null
     },
-    "resolveReflectiveFactory": {
+    "ResolvedReflectiveProvider": {
       "class": "Identifier",
-      "name": "resolveReflectiveFactory",
+      "name": "ResolvedReflectiveProvider",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null
     },
-    "resolveReflectiveProvider": {
+    "ResolvedReflectiveProviderImpl": {
       "class": "Identifier",
-      "name": "resolveReflectiveProvider",
+      "name": "ResolvedReflectiveProviderImpl",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null
     },
-    "resolveReflectiveProviders": {
+    "_createDependency": {
       "class": "Identifier",
-      "name": "resolveReflectiveProviders",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "mergeResolvedReflectiveProviders": {
-      "class": "Identifier",
-      "name": "mergeResolvedReflectiveProviders",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_normalizeProviders": {
-      "class": "Identifier",
-      "name": "_normalizeProviders",
-      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "constructDependencies": {
-      "class": "Identifier",
-      "name": "constructDependencies",
+      "name": "_createDependency",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null
@@ -148,9 +113,44 @@
       "prefix": null,
       "value": null
     },
-    "_createDependency": {
+    "_normalizeProviders": {
       "class": "Identifier",
-      "name": "_createDependency",
+      "name": "_normalizeProviders",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "constructDependencies": {
+      "class": "Identifier",
+      "name": "constructDependencies",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "mergeResolvedReflectiveProviders": {
+      "class": "Identifier",
+      "name": "mergeResolvedReflectiveProviders",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "resolveReflectiveFactory": {
+      "class": "Identifier",
+      "name": "resolveReflectiveFactory",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "resolveReflectiveProvider": {
+      "class": "Identifier",
+      "name": "resolveReflectiveProvider",
+      "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "resolveReflectiveProviders": {
+      "class": "Identifier",
+      "name": "resolveReflectiveProviders",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_provider.dart",
       "prefix": null,
       "value": null

@@ -105,6 +105,13 @@
     ]
   },
   "type": {
+    "Outputs": {
+      "class": "Identifier",
+      "name": "Outputs",
+      "moduleUrl": "asset:angular2/lib/src/transform/template_compiler/generator.dart",
+      "prefix": null,
+      "value": null
+    },
     "processTemplates": {
       "class": "Identifier",
       "name": "processTemplates",
@@ -115,13 +122,6 @@
     "templatesAssetId": {
       "class": "Identifier",
       "name": "templatesAssetId",
-      "moduleUrl": "asset:angular2/lib/src/transform/template_compiler/generator.dart",
-      "prefix": null,
-      "value": null
-    },
-    "Outputs": {
-      "class": "Identifier",
-      "name": "Outputs",
       "moduleUrl": "asset:angular2/lib/src/transform/template_compiler/generator.dart",
       "prefix": null,
       "value": null

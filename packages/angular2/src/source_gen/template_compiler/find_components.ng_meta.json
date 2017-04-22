@@ -118,9 +118,9 @@
     ]
   },
   "type": {
-    "findComponents": {
+    "ComponentVisitor": {
       "class": "Identifier",
-      "name": "findComponents",
+      "name": "ComponentVisitor",
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/find_components.dart",
       "prefix": null,
       "value": null
@@ -132,9 +132,16 @@
       "prefix": null,
       "value": null
     },
-    "ComponentVisitor": {
+    "extractLifecycleHooks": {
       "class": "Identifier",
-      "name": "ComponentVisitor",
+      "name": "extractLifecycleHooks",
+      "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/find_components.dart",
+      "prefix": null,
+      "value": null
+    },
+    "findComponents": {
+      "class": "Identifier",
+      "name": "findComponents",
       "moduleUrl": "asset:angular2/lib/src/source_gen/template_compiler/find_components.dart",
       "prefix": null,
       "value": null

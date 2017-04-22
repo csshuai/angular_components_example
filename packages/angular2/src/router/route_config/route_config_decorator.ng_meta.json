@@ -42,30 +42,9 @@
     ]
   },
   "type": {
-    "RouteConfig": {
-      "class": "Identifier",
-      "name": "RouteConfig",
-      "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
-      "prefix": null,
-      "value": null
-    },
     "AbstractRoute": {
       "class": "Identifier",
       "name": "AbstractRoute",
-      "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
-      "prefix": null,
-      "value": null
-    },
-    "Route": {
-      "class": "Identifier",
-      "name": "Route",
-      "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
-      "prefix": null,
-      "value": null
-    },
-    "AuxRoute": {
-      "class": "Identifier",
-      "name": "AuxRoute",
       "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
       "prefix": null,
       "value": null
@@ -77,9 +56,30 @@
       "prefix": null,
       "value": null
     },
+    "AuxRoute": {
+      "class": "Identifier",
+      "name": "AuxRoute",
+      "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
+      "prefix": null,
+      "value": null
+    },
     "Redirect": {
       "class": "Identifier",
       "name": "Redirect",
+      "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
+      "prefix": null,
+      "value": null
+    },
+    "Route": {
+      "class": "Identifier",
+      "name": "Route",
+      "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
+      "prefix": null,
+      "value": null
+    },
+    "RouteConfig": {
+      "class": "Identifier",
+      "name": "RouteConfig",
       "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_decorator.dart",
       "prefix": null,
       "value": null

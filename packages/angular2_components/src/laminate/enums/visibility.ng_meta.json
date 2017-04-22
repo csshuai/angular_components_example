@@ -21,10 +21,10 @@
     ]
   },
   "type": {
-    "Visibility": {
+    "ElementStyleEnum": {
       "class": "Identifier",
-      "name": "Visibility",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/visibility.dart",
+      "name": "ElementStyleEnum",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
       "prefix": null,
       "value": null
     },
@@ -35,10 +35,10 @@
       "prefix": null,
       "value": null
     },
-    "ElementStyleEnum": {
+    "Visibility": {
       "class": "Identifier",
-      "name": "ElementStyleEnum",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
+      "name": "Visibility",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/visibility.dart",
       "prefix": null,
       "value": null
     }

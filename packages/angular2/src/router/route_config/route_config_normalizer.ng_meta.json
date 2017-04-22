@@ -47,16 +47,16 @@
     ]
   },
   "type": {
-    "normalizeRouteConfig": {
+    "assertComponentExists": {
       "class": "Identifier",
-      "name": "normalizeRouteConfig",
+      "name": "assertComponentExists",
       "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_normalizer.dart",
       "prefix": null,
       "value": null
     },
-    "assertComponentExists": {
+    "normalizeRouteConfig": {
       "class": "Identifier",
-      "name": "assertComponentExists",
+      "name": "normalizeRouteConfig",
       "moduleUrl": "asset:angular2/lib/src/router/route_config/route_config_normalizer.dart",
       "prefix": null,
       "value": null

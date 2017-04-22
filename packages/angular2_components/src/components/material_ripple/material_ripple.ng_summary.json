@@ -50,62 +50,6 @@
     "6": "material_ripple.dart"
   },
   "type": {
-    "_rippleDiameter": {
-      "class": "Identifier",
-      "name": "_rippleDiameter",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_rippleRadius": {
-      "class": "Identifier",
-      "name": "_rippleRadius",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_minOpacity": {
-      "class": "Identifier",
-      "name": "_minOpacity",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_maxOpacity": {
-      "class": "Identifier",
-      "name": "_maxOpacity",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_maxRipples": {
-      "class": "Identifier",
-      "name": "_maxRipples",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_createRipple": {
-      "class": "Identifier",
-      "name": "_createRipple",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_applyAnimation": {
-      "class": "Identifier",
-      "name": "_applyAnimation",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_applyFallbackAnimation": {
-      "class": "Identifier",
-      "name": "_applyFallbackAnimation",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialRippleComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -167,6 +111,62 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "_applyAnimation": {
+      "class": "Identifier",
+      "name": "_applyAnimation",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_applyFallbackAnimation": {
+      "class": "Identifier",
+      "name": "_applyFallbackAnimation",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_createRipple": {
+      "class": "Identifier",
+      "name": "_createRipple",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_maxOpacity": {
+      "class": "Identifier",
+      "name": "_maxOpacity",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_maxRipples": {
+      "class": "Identifier",
+      "name": "_maxRipples",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_minOpacity": {
+      "class": "Identifier",
+      "name": "_minOpacity",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_rippleDiameter": {
+      "class": "Identifier",
+      "name": "_rippleDiameter",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_rippleRadius": {
+      "class": "Identifier",
+      "name": "_rippleRadius",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_ripple/material_ripple.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

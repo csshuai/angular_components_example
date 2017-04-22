@@ -30,9 +30,16 @@
     "6": "base.dart"
   },
   "type": {
-    "PopupInterface": {
+    "PopupBase": {
       "class": "Identifier",
-      "name": "PopupInterface",
+      "name": "PopupBase",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/base.dart",
+      "prefix": null,
+      "value": null
+    },
+    "PopupComposite": {
+      "class": "Identifier",
+      "name": "PopupComposite",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/base.dart",
       "prefix": null,
       "value": null
@@ -44,16 +51,9 @@
       "prefix": null,
       "value": null
     },
-    "PopupBase": {
+    "PopupInterface": {
       "class": "Identifier",
-      "name": "PopupBase",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/base.dart",
-      "prefix": null,
-      "value": null
-    },
-    "PopupComposite": {
-      "class": "Identifier",
-      "name": "PopupComposite",
+      "name": "PopupInterface",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/base.dart",
       "prefix": null,
       "value": null

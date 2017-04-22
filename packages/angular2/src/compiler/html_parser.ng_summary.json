@@ -57,13 +57,6 @@
     "6": "html_parser.dart"
   },
   "type": {
-    "HtmlTreeError": {
-      "class": "Identifier",
-      "name": "HtmlTreeError",
-      "moduleUrl": "asset:angular2/lib/src/compiler/html_parser.dart",
-      "prefix": null,
-      "value": null
-    },
     "HtmlParseTreeResult": {
       "class": "Identifier",
       "name": "HtmlParseTreeResult",
@@ -83,6 +76,13 @@
     "HtmlTreeBuilder": {
       "class": "Identifier",
       "name": "HtmlTreeBuilder",
+      "moduleUrl": "asset:angular2/lib/src/compiler/html_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "HtmlTreeError": {
+      "class": "Identifier",
+      "name": "HtmlTreeError",
       "moduleUrl": "asset:angular2/lib/src/compiler/html_parser.dart",
       "prefix": null,
       "value": null

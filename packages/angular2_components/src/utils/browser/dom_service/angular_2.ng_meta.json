@@ -105,6 +105,137 @@
     ]
   },
   "type": {
+    "DomReadWriteFn": {
+      "class": "Identifier",
+      "name": "DomReadWriteFn",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DomService": {
+      "class": "Identifier",
+      "name": "DomService",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "DomServiceState": {
+      "class": "Identifier",
+      "name": "DomServiceState",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "IsDomMutatedPredicate": {
+      "class": "Identifier",
+      "name": "IsDomMutatedPredicate",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "RequestAnimationFrame": {
+      "class": "Identifier",
+      "name": "RequestAnimationFrame",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_ChangeTracker": {
+      "class": "Identifier",
+      "name": "_ChangeTracker",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createDomService": {
+      "class": "Factory",
+      "name": "createDomService",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/angular_2.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "DomService",
+              "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": true,
+          "isOptional": true,
+          "isValue": false
+        },
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Disposer",
+              "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": true,
+          "isValue": false
+        },
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "ManagedZone",
+              "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        },
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Window",
+              "moduleUrl": "dart:html",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        }
+      ]
+    },
     "domServiceBinding": {
       "class": "Identifier",
       "name": "domServiceBinding",
@@ -302,141 +433,10 @@
         }
       ]
     },
-    "createDomService": {
-      "class": "Factory",
-      "name": "createDomService",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/angular_2.dart",
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "DomService",
-              "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": true,
-          "isOptional": true,
-          "isValue": false
-        },
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "Disposer",
-              "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": true,
-          "isValue": false
-        },
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "ManagedZone",
-              "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        },
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "Window",
-              "moduleUrl": "dart:html",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        }
-      ]
-    },
     "setupAcxRootDomRenderer": {
       "class": "Identifier",
       "name": "setupAcxRootDomRenderer",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/angular_2.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DomReadWriteFn": {
-      "class": "Identifier",
-      "name": "DomReadWriteFn",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "RequestAnimationFrame": {
-      "class": "Identifier",
-      "name": "RequestAnimationFrame",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DomServiceState": {
-      "class": "Identifier",
-      "name": "DomServiceState",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "IsDomMutatedPredicate": {
-      "class": "Identifier",
-      "name": "IsDomMutatedPredicate",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DomService": {
-      "class": "Identifier",
-      "name": "DomService",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_ChangeTracker": {
-      "class": "Identifier",
-      "name": "_ChangeTracker",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
       "prefix": null,
       "value": null
     }

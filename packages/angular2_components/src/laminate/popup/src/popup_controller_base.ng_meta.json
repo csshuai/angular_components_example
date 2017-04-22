@@ -96,16 +96,16 @@
     ]
   },
   "type": {
-    "PopupControllerBase": {
+    "PopupController": {
       "class": "Identifier",
-      "name": "PopupControllerBase",
+      "name": "PopupController",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_controller_base.dart",
       "prefix": null,
       "value": null
     },
-    "PopupController": {
+    "PopupControllerBase": {
       "class": "Identifier",
-      "name": "PopupController",
+      "name": "PopupControllerBase",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_controller_base.dart",
       "prefix": null,
       "value": null

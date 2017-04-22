@@ -29,13 +29,6 @@
     "6": "zindexer.dart"
   },
   "type": {
-    "_currentZIndex": {
-      "class": "Identifier",
-      "name": "_currentZIndex",
-      "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
-      "prefix": null,
-      "value": null
-    },
     "ZIndexer": {
       "class": "Type",
       "name": "ZIndexer",
@@ -44,6 +37,13 @@
       "isHost": false,
       "value": null,
       "diDeps": []
+    },
+    "_currentZIndex": {
+      "class": "Identifier",
+      "name": "_currentZIndex",
+      "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

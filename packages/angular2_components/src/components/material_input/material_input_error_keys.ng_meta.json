@@ -1,9 +1,16 @@
 {
   "ngDeps": null,
   "type": {
-    "positiveIntegerRequiredErrorKey": {
+    "checkIntegerErrorKey": {
       "class": "Identifier",
-      "name": "positiveIntegerRequiredErrorKey",
+      "name": "checkIntegerErrorKey",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
+      "prefix": null,
+      "value": null
+    },
+    "inputNotNumberErrorKey": {
+      "class": "Identifier",
+      "name": "inputNotNumberErrorKey",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
       "prefix": null,
       "value": null
@@ -15,13 +22,6 @@
       "prefix": null,
       "value": null
     },
-    "numberBelowLowerBoundErrorKey": {
-      "class": "Identifier",
-      "name": "numberBelowLowerBoundErrorKey",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
-      "prefix": null,
-      "value": null
-    },
     "numberAboveUpperBoundErrorKey": {
       "class": "Identifier",
       "name": "numberAboveUpperBoundErrorKey",
@@ -29,16 +29,16 @@
       "prefix": null,
       "value": null
     },
-    "checkIntegerErrorKey": {
+    "numberBelowLowerBoundErrorKey": {
       "class": "Identifier",
-      "name": "checkIntegerErrorKey",
+      "name": "numberBelowLowerBoundErrorKey",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
       "prefix": null,
       "value": null
     },
-    "inputNotNumberErrorKey": {
+    "positiveIntegerRequiredErrorKey": {
       "class": "Identifier",
-      "name": "inputNotNumberErrorKey",
+      "name": "positiveIntegerRequiredErrorKey",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/material_input_error_keys.dart",
       "prefix": null,
       "value": null

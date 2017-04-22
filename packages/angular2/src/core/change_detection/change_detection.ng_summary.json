@@ -33,12 +33,6 @@
         ]
       },
       {
-        "1": "differs/default_keyvalue_differ.dart",
-        "2": [
-          "KeyValueChangeRecord"
-        ]
-      },
-      {
         "1": "pipe_transform.dart",
         "2": [
           "PipeTransform"

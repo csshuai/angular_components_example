@@ -57,13 +57,6 @@
     "6": "material_tab.dart"
   },
   "type": {
-    "Tab": {
-      "class": "Identifier",
-      "name": "Tab",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tab/material_tab.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialTabComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -214,6 +207,13 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "Tab": {
+      "class": "Identifier",
+      "name": "Tab",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tab/material_tab.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

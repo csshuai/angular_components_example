@@ -36,6 +36,22 @@
     "6": "module.dart"
   },
   "type": {
+    "getDocument": {
+      "class": "Factory",
+      "name": "getDocument",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
+      "value": null,
+      "diDeps": []
+    },
+    "getWindow": {
+      "class": "Factory",
+      "name": "getWindow",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
+      "value": null,
+      "diDeps": []
+    },
     "windowBindings": {
       "class": "Identifier",
       "name": "windowBindings",
@@ -97,22 +113,6 @@
           "deps": null
         }
       ]
-    },
-    "getDocument": {
-      "class": "Factory",
-      "name": "getDocument",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
-      "value": null,
-      "diDeps": []
-    },
-    "getWindow": {
-      "class": "Factory",
-      "name": "getWindow",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
-      "value": null,
-      "diDeps": []
     }
   },
   "alias": {}

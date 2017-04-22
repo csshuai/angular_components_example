@@ -23,9 +23,9 @@
     "6": "testability.dart"
   },
   "type": {
-    "_self": {
+    "BrowserGetTestability": {
       "class": "Identifier",
-      "name": "_self",
+      "name": "BrowserGetTestability",
       "moduleUrl": "asset:angular2/lib/src/platform/browser/testability.dart",
       "prefix": null,
       "value": null
@@ -37,9 +37,9 @@
       "prefix": null,
       "value": null
     },
-    "BrowserGetTestability": {
+    "_self": {
       "class": "Identifier",
-      "name": "BrowserGetTestability",
+      "name": "_self",
       "moduleUrl": "asset:angular2/lib/src/platform/browser/testability.dart",
       "prefix": null,
       "value": null

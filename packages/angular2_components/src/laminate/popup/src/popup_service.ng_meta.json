@@ -101,13 +101,6 @@
     ]
   },
   "type": {
-    "defaultPopupPositions": {
-      "class": "Identifier",
-      "name": "defaultPopupPositions",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupService": {
       "class": "Type",
       "name": "PopupService",
@@ -177,6 +170,13 @@
           "isValue": false
         }
       ]
+    },
+    "defaultPopupPositions": {
+      "class": "Identifier",
+      "name": "defaultPopupPositions",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

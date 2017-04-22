@@ -14,20 +14,6 @@
     "6": "observable.dart"
   },
   "type": {
-    "EqualsFn": {
-      "class": "Identifier",
-      "name": "EqualsFn",
-      "moduleUrl": "asset:angular2_components/lib/src/model/observable/observable.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ObserveAware": {
-      "class": "Identifier",
-      "name": "ObserveAware",
-      "moduleUrl": "asset:angular2_components/lib/src/model/observable/observable.dart",
-      "prefix": null,
-      "value": null
-    },
     "Change": {
       "class": "Identifier",
       "name": "Change",
@@ -49,9 +35,16 @@
       "prefix": null,
       "value": null
     },
-    "ObservableView": {
+    "EqualsFn": {
       "class": "Identifier",
-      "name": "ObservableView",
+      "name": "EqualsFn",
+      "moduleUrl": "asset:angular2_components/lib/src/model/observable/observable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ObservableComposite": {
+      "class": "Identifier",
+      "name": "ObservableComposite",
       "moduleUrl": "asset:angular2_components/lib/src/model/observable/observable.dart",
       "prefix": null,
       "value": null
@@ -63,9 +56,16 @@
       "prefix": null,
       "value": null
     },
-    "ObservableComposite": {
+    "ObservableView": {
       "class": "Identifier",
-      "name": "ObservableComposite",
+      "name": "ObservableView",
+      "moduleUrl": "asset:angular2_components/lib/src/model/observable/observable.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ObserveAware": {
+      "class": "Identifier",
+      "name": "ObserveAware",
       "moduleUrl": "asset:angular2_components/lib/src/model/observable/observable.dart",
       "prefix": null,
       "value": null

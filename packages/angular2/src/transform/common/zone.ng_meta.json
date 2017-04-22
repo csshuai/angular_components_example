@@ -54,6 +54,13 @@
       "prefix": null,
       "value": null
     },
+    "_friendlyError": {
+      "class": "Identifier",
+      "name": "_friendlyError",
+      "moduleUrl": "asset:angular2/lib/src/transform/common/zone.dart",
+      "prefix": null,
+      "value": null
+    },
     "exec": {
       "class": "Identifier",
       "name": "exec",
@@ -71,13 +78,6 @@
     "templateCompiler": {
       "class": "Identifier",
       "name": "templateCompiler",
-      "moduleUrl": "asset:angular2/lib/src/transform/common/zone.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_friendlyError": {
-      "class": "Identifier",
-      "name": "_friendlyError",
       "moduleUrl": "asset:angular2/lib/src/transform/common/zone.dart",
       "prefix": null,
       "value": null

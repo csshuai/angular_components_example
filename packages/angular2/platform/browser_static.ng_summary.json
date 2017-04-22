@@ -127,9 +127,9 @@
         }
       ]
     },
-    "createDoc": {
+    "bootstrapStatic": {
       "class": "Identifier",
-      "name": "createDoc",
+      "name": "bootstrapStatic",
       "moduleUrl": "asset:angular2/lib/platform/browser_static.dart",
       "prefix": null,
       "value": null
@@ -141,9 +141,9 @@
       "prefix": null,
       "value": null
     },
-    "bootstrapStatic": {
+    "createDoc": {
       "class": "Identifier",
-      "name": "bootstrapStatic",
+      "name": "createDoc",
       "moduleUrl": "asset:angular2/lib/platform/browser_static.dart",
       "prefix": null,
       "value": null

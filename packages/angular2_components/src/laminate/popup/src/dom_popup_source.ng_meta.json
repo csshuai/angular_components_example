@@ -88,6 +88,13 @@
       "prefix": null,
       "value": null
     },
+    "DomPopupSource": {
+      "class": "Identifier",
+      "name": "DomPopupSource",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
+      "prefix": null,
+      "value": null
+    },
     "DomPopupSourceFactory": {
       "class": "Type",
       "name": "DomPopupSourceFactory",
@@ -137,13 +144,6 @@
           "isValue": false
         }
       ]
-    },
-    "DomPopupSource": {
-      "class": "Identifier",
-      "name": "DomPopupSource",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
-      "prefix": null,
-      "value": null
     }
   },
   "alias": {}

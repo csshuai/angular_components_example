@@ -20,16 +20,16 @@
     "6": "feature_detector.dart"
   },
   "type": {
-    "supportsHover": {
+    "isHammerLoaded": {
       "class": "Identifier",
-      "name": "supportsHover",
+      "name": "isHammerLoaded",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/feature_detector/feature_detector.dart",
       "prefix": null,
       "value": null
     },
-    "isHammerLoaded": {
+    "supportsHover": {
       "class": "Identifier",
-      "name": "isHammerLoaded",
+      "name": "supportsHover",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/feature_detector/feature_detector.dart",
       "prefix": null,
       "value": null

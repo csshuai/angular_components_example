@@ -132,6 +132,34 @@
     ]
   },
   "type": {
+    "BaseMaterialInput": {
+      "class": "Identifier",
+      "name": "BaseMaterialInput",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
+      "prefix": null,
+      "value": null
+    },
+    "BottomPanelState": {
+      "class": "Identifier",
+      "name": "BottomPanelState",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CharacterCounter": {
+      "class": "Identifier",
+      "name": "CharacterCounter",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ErrorFn": {
+      "class": "Identifier",
+      "name": "ErrorFn",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
+      "prefix": null,
+      "value": null
+    },
     "MaterialMultilineInputComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -791,13 +819,6 @@
         }
       ]
     },
-    "materialInputErrorKey": {
-      "class": "Identifier",
-      "name": "materialInputErrorKey",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
-      "prefix": null,
-      "value": null
-    },
     "ValidityCheck": {
       "class": "Identifier",
       "name": "ValidityCheck",
@@ -805,30 +826,9 @@
       "prefix": null,
       "value": null
     },
-    "CharacterCounter": {
+    "materialInputErrorKey": {
       "class": "Identifier",
-      "name": "CharacterCounter",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ErrorFn": {
-      "class": "Identifier",
-      "name": "ErrorFn",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BottomPanelState": {
-      "class": "Identifier",
-      "name": "BottomPanelState",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BaseMaterialInput": {
-      "class": "Identifier",
-      "name": "BaseMaterialInput",
+      "name": "materialInputErrorKey",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_input/base_material_input.dart",
       "prefix": null,
       "value": null

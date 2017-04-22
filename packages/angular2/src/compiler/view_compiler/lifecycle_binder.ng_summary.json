@@ -58,13 +58,6 @@
     "6": "lifecycle_binder.dart"
   },
   "type": {
-    "bindDirectiveDetectChangesLifecycleCallbacks": {
-      "class": "Identifier",
-      "name": "bindDirectiveDetectChangesLifecycleCallbacks",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/lifecycle_binder.dart",
-      "prefix": null,
-      "value": null
-    },
     "bindDirectiveAfterContentLifecycleCallbacks": {
       "class": "Identifier",
       "name": "bindDirectiveAfterContentLifecycleCallbacks",
@@ -82,6 +75,13 @@
     "bindDirectiveDestroyLifecycleCallbacks": {
       "class": "Identifier",
       "name": "bindDirectiveDestroyLifecycleCallbacks",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/lifecycle_binder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "bindDirectiveDetectChangesLifecycleCallbacks": {
+      "class": "Identifier",
+      "name": "bindDirectiveDetectChangesLifecycleCallbacks",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/lifecycle_binder.dart",
       "prefix": null,
       "value": null

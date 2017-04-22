@@ -32,16 +32,16 @@
     ]
   },
   "type": {
-    "PopupSource": {
+    "ElementPopupSource": {
       "class": "Identifier",
-      "name": "PopupSource",
+      "name": "ElementPopupSource",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_source.dart",
       "prefix": null,
       "value": null
     },
-    "ElementPopupSource": {
+    "PopupSource": {
       "class": "Identifier",
-      "name": "ElementPopupSource",
+      "name": "PopupSource",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_source.dart",
       "prefix": null,
       "value": null

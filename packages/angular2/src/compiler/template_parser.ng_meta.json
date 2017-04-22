@@ -288,9 +288,65 @@
     ]
   },
   "type": {
-    "TEMPLATE_ELEMENT": {
+    "ATTRIBUTE_PREFIX": {
       "class": "Identifier",
-      "name": "TEMPLATE_ELEMENT",
+      "name": "ATTRIBUTE_PREFIX",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "BoundElementOrDirectiveProperty": {
+      "class": "Identifier",
+      "name": "BoundElementOrDirectiveProperty",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CLASS_ATTR": {
+      "class": "Identifier",
+      "name": "CLASS_ATTR",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CLASS_PREFIX": {
+      "class": "Identifier",
+      "name": "CLASS_PREFIX",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ElementContext": {
+      "class": "Identifier",
+      "name": "ElementContext",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ElementOrDirectiveRef": {
+      "class": "Identifier",
+      "name": "ElementOrDirectiveRef",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "NonBindableVisitor": {
+      "class": "Identifier",
+      "name": "NonBindableVisitor",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "PipeCollector": {
+      "class": "Identifier",
+      "name": "PipeCollector",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "STYLE_PREFIX": {
+      "class": "Identifier",
+      "name": "STYLE_PREFIX",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
       "prefix": null,
       "value": null
@@ -316,30 +372,9 @@
       "prefix": null,
       "value": null
     },
-    "CLASS_ATTR": {
+    "TEMPLATE_ELEMENT": {
       "class": "Identifier",
-      "name": "CLASS_ATTR",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ATTRIBUTE_PREFIX": {
-      "class": "Identifier",
-      "name": "ATTRIBUTE_PREFIX",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CLASS_PREFIX": {
-      "class": "Identifier",
-      "name": "CLASS_PREFIX",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "STYLE_PREFIX": {
-      "class": "Identifier",
-      "name": "STYLE_PREFIX",
+      "name": "TEMPLATE_ELEMENT",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
       "prefix": null,
       "value": null
@@ -354,6 +389,13 @@
     "TemplateParseResult": {
       "class": "Identifier",
       "name": "TemplateParseResult",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "TemplateParseVisitor": {
+      "class": "Identifier",
+      "name": "TemplateParseVisitor",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
       "prefix": null,
       "value": null
@@ -428,48 +470,6 @@
         }
       ]
     },
-    "TemplateParseVisitor": {
-      "class": "Identifier",
-      "name": "TemplateParseVisitor",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "NonBindableVisitor": {
-      "class": "Identifier",
-      "name": "NonBindableVisitor",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BoundElementOrDirectiveProperty": {
-      "class": "Identifier",
-      "name": "BoundElementOrDirectiveProperty",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ElementOrDirectiveRef": {
-      "class": "Identifier",
-      "name": "ElementOrDirectiveRef",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "splitClasses": {
-      "class": "Identifier",
-      "name": "splitClasses",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ElementContext": {
-      "class": "Identifier",
-      "name": "ElementContext",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
-      "prefix": null,
-      "value": null
-    },
     "createElementCssSelector": {
       "class": "Identifier",
       "name": "createElementCssSelector",
@@ -477,16 +477,16 @@
       "prefix": null,
       "value": null
     },
-    "PipeCollector": {
+    "removeDuplicates": {
       "class": "Identifier",
-      "name": "PipeCollector",
+      "name": "removeDuplicates",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
       "prefix": null,
       "value": null
     },
-    "removeDuplicates": {
+    "splitClasses": {
       "class": "Identifier",
-      "name": "removeDuplicates",
+      "name": "splitClasses",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_parser.dart",
       "prefix": null,
       "value": null

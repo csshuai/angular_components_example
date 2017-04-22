@@ -74,9 +74,9 @@
     "6": "testing.dart"
   },
   "type": {
-    "isDebugMode": {
+    "assertDebugMode": {
       "class": "Identifier",
-      "name": "isDebugMode",
+      "name": "assertDebugMode",
       "moduleUrl": "asset:angular2/lib/testing.dart",
       "prefix": null,
       "value": null
@@ -88,9 +88,9 @@
       "prefix": null,
       "value": null
     },
-    "assertDebugMode": {
+    "isDebugMode": {
       "class": "Identifier",
-      "name": "assertDebugMode",
+      "name": "isDebugMode",
       "moduleUrl": "asset:angular2/lib/testing.dart",
       "prefix": null,
       "value": null

@@ -60,13 +60,6 @@
       "prefix": null,
       "value": null
     },
-    "_indeterminateTiming": {
-      "class": "Identifier",
-      "name": "_indeterminateTiming",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_progress/material_progress.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialProgressComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -165,6 +158,13 @@
           "read": null
         }
       ]
+    },
+    "_indeterminateTiming": {
+      "class": "Identifier",
+      "name": "_indeterminateTiming",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_progress/material_progress.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

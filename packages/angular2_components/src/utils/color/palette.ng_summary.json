@@ -111,17 +111,17 @@
   "alias": {
     "chartingPalette": [
       "blue500",
-      "red500",
-      "yellow500",
-      "green500",
-      "purple400",
       "cyan600",
       "deepOrange400",
-      "lime800",
+      "green500",
       "indigo400",
+      "lime800",
       "pink300",
+      "pink700",
+      "purple400",
+      "red500",
       "teal700",
-      "pink700"
+      "yellow500"
     ]
   }
 }

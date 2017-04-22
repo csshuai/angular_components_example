@@ -33,12 +33,6 @@
         ]
       },
       {
-        "1": "differs/default_keyvalue_differ.dart",
-        "2": [
-          "KeyValueChangeRecord"
-        ]
-      },
-      {
         "1": "pipe_transform.dart",
         "2": [
           "PipeTransform"
@@ -64,90 +58,16 @@
         "4": "i3"
       },
       {
-        "1": "differs/default_keyvalue_differ.template.dart",
-        "4": "i4"
-      },
-      {
         "1": "pipe_transform.template.dart",
-        "4": "i5"
+        "4": "i4"
       }
     ]
   },
   "type": {
-    "_DevModeEquality": {
+    "ChangeDetectionStrategy": {
       "class": "Identifier",
-      "name": "_DevModeEquality",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
-      "prefix": null,
-      "value": null
-    },
-    "devModeEqual": {
-      "class": "Identifier",
-      "name": "devModeEqual",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
-      "prefix": null,
-      "value": null
-    },
-    "WrappedValue": {
-      "class": "Identifier",
-      "name": "WrappedValue",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ValueUnwrapper": {
-      "class": "Identifier",
-      "name": "ValueUnwrapper",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
-      "prefix": null,
-      "value": null
-    },
-    "SimpleChange": {
-      "class": "Identifier",
-      "name": "SimpleChange",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
-      "prefix": null,
-      "value": null
-    },
-    "isDartVM": {
-      "class": "Identifier",
-      "name": "isDartVM",
-      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
-      "prefix": null,
-      "value": null
-    },
-    "jsSplit": {
-      "class": "Identifier",
-      "name": "jsSplit",
-      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
-      "prefix": null,
-      "value": null
-    },
-    "looseIdentical": {
-      "class": "Identifier",
-      "name": "looseIdentical",
-      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_looseIdentical": {
-      "class": "Identifier",
-      "name": "_looseIdentical",
-      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
-      "prefix": null,
-      "value": null
-    },
-    "assertionsEnabled": {
-      "class": "Identifier",
-      "name": "assertionsEnabled",
-      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
-      "prefix": null,
-      "value": null
-    },
-    "isPrimitive": {
-      "class": "Identifier",
-      "name": "isPrimitive",
-      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
+      "name": "ChangeDetectionStrategy",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/constants.dart",
       "prefix": null,
       "value": null
     },
@@ -165,30 +85,16 @@
       "prefix": null,
       "value": null
     },
-    "ChangeDetectionStrategy": {
+    "CollectionChangeRecord": {
       "class": "Identifier",
-      "name": "ChangeDetectionStrategy",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/constants.dart",
-      "prefix": null,
-      "value": null
-    },
-    "isDefaultChangeDetectionStrategy": {
-      "class": "Identifier",
-      "name": "isDefaultChangeDetectionStrategy",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/constants.dart",
+      "name": "CollectionChangeRecord",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_iterable_differ.dart",
       "prefix": null,
       "value": null
     },
     "DefaultIterableCallback": {
       "class": "Identifier",
       "name": "DefaultIterableCallback",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_iterable_differ.dart",
-      "prefix": null,
-      "value": null
-    },
-    "TrackByFn": {
-      "class": "Identifier",
-      "name": "TrackByFn",
       "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_iterable_differ.dart",
       "prefix": null,
       "value": null
@@ -200,10 +106,45 @@
       "prefix": null,
       "value": null
     },
-    "CollectionChangeRecord": {
+    "PipeTransform": {
       "class": "Identifier",
-      "name": "CollectionChangeRecord",
+      "name": "PipeTransform",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/pipe_transform.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SimpleChange": {
+      "class": "Identifier",
+      "name": "SimpleChange",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
+      "prefix": null,
+      "value": null
+    },
+    "TrackByFn": {
+      "class": "Identifier",
+      "name": "TrackByFn",
       "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_iterable_differ.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ValueUnwrapper": {
+      "class": "Identifier",
+      "name": "ValueUnwrapper",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
+      "prefix": null,
+      "value": null
+    },
+    "WrappedValue": {
+      "class": "Identifier",
+      "name": "WrappedValue",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_DevModeEquality": {
+      "class": "Identifier",
+      "name": "_DevModeEquality",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
       "prefix": null,
       "value": null
     },
@@ -228,31 +169,59 @@
       "prefix": null,
       "value": null
     },
-    "_MapHandler": {
+    "_looseIdentical": {
       "class": "Identifier",
-      "name": "_MapHandler",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_keyvalue_differ.dart",
+      "name": "_looseIdentical",
+      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
       "prefix": null,
       "value": null
     },
-    "DefaultKeyValueDiffer": {
+    "assertionsEnabled": {
       "class": "Identifier",
-      "name": "DefaultKeyValueDiffer",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_keyvalue_differ.dart",
+      "name": "assertionsEnabled",
+      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
       "prefix": null,
       "value": null
     },
-    "KeyValueChangeRecord": {
+    "devModeEqual": {
       "class": "Identifier",
-      "name": "KeyValueChangeRecord",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_keyvalue_differ.dart",
+      "name": "devModeEqual",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/change_detection_util.dart",
       "prefix": null,
       "value": null
     },
-    "PipeTransform": {
+    "isDartVM": {
       "class": "Identifier",
-      "name": "PipeTransform",
-      "moduleUrl": "asset:angular2/lib/src/core/change_detection/pipe_transform.dart",
+      "name": "isDartVM",
+      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
+      "prefix": null,
+      "value": null
+    },
+    "isDefaultChangeDetectionStrategy": {
+      "class": "Identifier",
+      "name": "isDefaultChangeDetectionStrategy",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/constants.dart",
+      "prefix": null,
+      "value": null
+    },
+    "isPrimitive": {
+      "class": "Identifier",
+      "name": "isPrimitive",
+      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
+      "prefix": null,
+      "value": null
+    },
+    "jsSplit": {
+      "class": "Identifier",
+      "name": "jsSplit",
+      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
+      "prefix": null,
+      "value": null
+    },
+    "looseIdentical": {
+      "class": "Identifier",
+      "name": "looseIdentical",
+      "moduleUrl": "asset:angular2/lib/src/facade/lang.dart",
       "prefix": null,
       "value": null
     }

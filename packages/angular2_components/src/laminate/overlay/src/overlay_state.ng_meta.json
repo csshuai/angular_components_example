@@ -48,16 +48,9 @@
     ]
   },
   "type": {
-    "_stateEquals": {
+    "MutableOverlayState": {
       "class": "Identifier",
-      "name": "_stateEquals",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_stateHashCode": {
-      "class": "Identifier",
-      "name": "_stateHashCode",
+      "name": "MutableOverlayState",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
       "prefix": null,
       "value": null
@@ -76,9 +69,16 @@
       "prefix": null,
       "value": null
     },
-    "MutableOverlayState": {
+    "_stateEquals": {
       "class": "Identifier",
-      "name": "MutableOverlayState",
+      "name": "_stateEquals",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_stateHashCode": {
+      "class": "Identifier",
+      "name": "_stateHashCode",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_state.dart",
       "prefix": null,
       "value": null

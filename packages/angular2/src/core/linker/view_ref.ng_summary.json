@@ -31,16 +31,16 @@
     "6": "view_ref.dart"
   },
   "type": {
-    "ViewRef": {
+    "EmbeddedViewRef": {
       "class": "Identifier",
-      "name": "ViewRef",
+      "name": "EmbeddedViewRef",
       "moduleUrl": "asset:angular2/lib/src/core/linker/view_ref.dart",
       "prefix": null,
       "value": null
     },
-    "EmbeddedViewRef": {
+    "ViewRef": {
       "class": "Identifier",
-      "name": "EmbeddedViewRef",
+      "name": "ViewRef",
       "moduleUrl": "asset:angular2/lib/src/core/linker/view_ref.dart",
       "prefix": null,
       "value": null

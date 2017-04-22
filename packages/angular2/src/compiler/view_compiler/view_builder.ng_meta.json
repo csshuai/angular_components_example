@@ -33,6 +33,10 @@
         "5": false
       },
       {
+        "1": "package:logging/logging.dart",
+        "5": false
+      },
+      {
         "1": "../compile_metadata.dart",
         "2": [
           "CompileIdentifierMetadata",
@@ -251,16 +255,16 @@
     ]
   },
   "type": {
-    "IMPLICIT_TEMPLATE_VAR": {
+    "CLASS_ATTR": {
       "class": "Identifier",
-      "name": "IMPLICIT_TEMPLATE_VAR",
+      "name": "CLASS_ATTR",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
     },
-    "CLASS_ATTR": {
+    "IMPLICIT_TEMPLATE_VAR": {
       "class": "Identifier",
-      "name": "CLASS_ATTR",
+      "name": "IMPLICIT_TEMPLATE_VAR",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
@@ -272,9 +276,9 @@
       "prefix": null,
       "value": null
     },
-    "appViewRootElementName": {
+    "ViewBuilderVisitor": {
       "class": "Identifier",
-      "name": "appViewRootElementName",
+      "name": "ViewBuilderVisitor",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
@@ -286,16 +290,9 @@
       "prefix": null,
       "value": null
     },
-    "ViewBuilderVisitor": {
+    "_addRenderTypeCtorInitialization": {
       "class": "Identifier",
-      "name": "ViewBuilderVisitor",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_mergeHtmlAndDirectiveAttrs": {
-      "class": "Identifier",
-      "name": "_mergeHtmlAndDirectiveAttrs",
+      "name": "_addRenderTypeCtorInitialization",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
@@ -307,16 +304,9 @@
       "prefix": null,
       "value": null
     },
-    "mergeAttributeValue": {
+    "_constructRenderType": {
       "class": "Identifier",
-      "name": "mergeAttributeValue",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_writeLiteralAttributeValues": {
-      "class": "Identifier",
-      "name": "_writeLiteralAttributeValues",
+      "name": "_constructRenderType",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
@@ -328,9 +318,65 @@
       "prefix": null,
       "value": null
     },
-    "mapToKeyValueArray": {
+    "_createViewClassConstructor": {
       "class": "Identifier",
-      "name": "mapToKeyValueArray",
+      "name": "_createViewClassConstructor",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_mergeHtmlAndDirectiveAttrs": {
+      "class": "Identifier",
+      "name": "_mergeHtmlAndDirectiveAttrs",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_tagNameFromComponentSelector": {
+      "class": "Identifier",
+      "name": "_tagNameFromComponentSelector",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_writeComponentHostEventListeners": {
+      "class": "Identifier",
+      "name": "_writeComponentHostEventListeners",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_writeLiteralAttributeValues": {
+      "class": "Identifier",
+      "name": "_writeLiteralAttributeValues",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "addReturnValuefNotEmpty": {
+      "class": "Identifier",
+      "name": "addReturnValuefNotEmpty",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "appViewRootElementName": {
+      "class": "Identifier",
+      "name": "appViewRootElementName",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "buildUpdaterFunctionName": {
+      "class": "Identifier",
+      "name": "buildUpdaterFunctionName",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createInputUpdateFunction": {
+      "class": "Identifier",
+      "name": "createInputUpdateFunction",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
@@ -349,93 +395,9 @@
       "prefix": null,
       "value": null
     },
-    "_createViewClassConstructor": {
-      "class": "Identifier",
-      "name": "_createViewClassConstructor",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_tagNameFromComponentSelector": {
-      "class": "Identifier",
-      "name": "_tagNameFromComponentSelector",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_addRenderTypeCtorInitialization": {
-      "class": "Identifier",
-      "name": "_addRenderTypeCtorInitialization",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_constructRenderType": {
-      "class": "Identifier",
-      "name": "_constructRenderType",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "generateDestroyMethod": {
-      "class": "Identifier",
-      "name": "generateDestroyMethod",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "createInputUpdateFunction": {
-      "class": "Identifier",
-      "name": "createInputUpdateFunction",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
     "createViewFactory": {
       "class": "Identifier",
       "name": "createViewFactory",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "generateBuildMethod": {
-      "class": "Identifier",
-      "name": "generateBuildMethod",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_writeComponentHostEventListeners": {
-      "class": "Identifier",
-      "name": "_writeComponentHostEventListeners",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "generateDetectChangesMethod": {
-      "class": "Identifier",
-      "name": "generateDetectChangesMethod",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "addReturnValuefNotEmpty": {
-      "class": "Identifier",
-      "name": "addReturnValuefNotEmpty",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "getContextType": {
-      "class": "Identifier",
-      "name": "getContextType",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "getChangeDetectionMode": {
-      "class": "Identifier",
-      "name": "getChangeDetectionMode",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
@@ -447,9 +409,51 @@
       "prefix": null,
       "value": null
     },
-    "writeInputUpdaters": {
+    "generateBuildMethod": {
       "class": "Identifier",
-      "name": "writeInputUpdaters",
+      "name": "generateBuildMethod",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "generateDestroyMethod": {
+      "class": "Identifier",
+      "name": "generateDestroyMethod",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "generateDetectChangesMethod": {
+      "class": "Identifier",
+      "name": "generateDetectChangesMethod",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "getChangeDetectionMode": {
+      "class": "Identifier",
+      "name": "getChangeDetectionMode",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "getContextType": {
+      "class": "Identifier",
+      "name": "getContextType",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "mapToKeyValueArray": {
+      "class": "Identifier",
+      "name": "mapToKeyValueArray",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "mergeAttributeValue": {
+      "class": "Identifier",
+      "name": "mergeAttributeValue",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null
@@ -461,9 +465,9 @@
       "prefix": null,
       "value": null
     },
-    "buildUpdaterFunctionName": {
+    "writeInputUpdaters": {
       "class": "Identifier",
-      "name": "buildUpdaterFunctionName",
+      "name": "writeInputUpdaters",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/view_builder.dart",
       "prefix": null,
       "value": null

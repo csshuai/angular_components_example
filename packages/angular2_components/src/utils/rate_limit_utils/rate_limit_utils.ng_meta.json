@@ -14,13 +14,6 @@
     "6": "rate_limit_utils.dart"
   },
   "type": {
-    "UnaryFunction": {
-      "class": "Identifier",
-      "name": "UnaryFunction",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/rate_limit_utils/rate_limit_utils.dart",
-      "prefix": null,
-      "value": null
-    },
     "DebouncedFunction": {
       "class": "Identifier",
       "name": "DebouncedFunction",
@@ -31,6 +24,20 @@
     "RateLimitStrategy": {
       "class": "Identifier",
       "name": "RateLimitStrategy",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/rate_limit_utils/rate_limit_utils.dart",
+      "prefix": null,
+      "value": null
+    },
+    "UnaryFunction": {
+      "class": "Identifier",
+      "name": "UnaryFunction",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/rate_limit_utils/rate_limit_utils.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_throttle": {
+      "class": "Identifier",
+      "name": "_throttle",
       "moduleUrl": "asset:angular2_components/lib/src/utils/rate_limit_utils/rate_limit_utils.dart",
       "prefix": null,
       "value": null
@@ -52,13 +59,6 @@
     "throttleGuaranteeLast": {
       "class": "Identifier",
       "name": "throttleGuaranteeLast",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/rate_limit_utils/rate_limit_utils.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_throttle": {
-      "class": "Identifier",
-      "name": "_throttle",
       "moduleUrl": "asset:angular2_components/lib/src/utils/rate_limit_utils/rate_limit_utils.dart",
       "prefix": null,
       "value": null

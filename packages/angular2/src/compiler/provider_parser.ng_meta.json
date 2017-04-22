@@ -68,6 +68,13 @@
     ]
   },
   "type": {
+    "ProviderElementContext": {
+      "class": "Identifier",
+      "name": "ProviderElementContext",
+      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
+      "prefix": null,
+      "value": null
+    },
     "ProviderError": {
       "class": "Identifier",
       "name": "ProviderError",
@@ -82,9 +89,44 @@
       "prefix": null,
       "value": null
     },
-    "ProviderElementContext": {
+    "_addQueryToTokenMap": {
       "class": "Identifier",
-      "name": "ProviderElementContext",
+      "name": "_addQueryToTokenMap",
+      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_getContentQueries": {
+      "class": "Identifier",
+      "name": "_getContentQueries",
+      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_getViewQueries": {
+      "class": "Identifier",
+      "name": "_getViewQueries",
+      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_normalizeProviders": {
+      "class": "Identifier",
+      "name": "_normalizeProviders",
+      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_resolveProviders": {
+      "class": "Identifier",
+      "name": "_resolveProviders",
+      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_resolveProvidersFromDirectives": {
+      "class": "Identifier",
+      "name": "_resolveProvidersFromDirectives",
       "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
       "prefix": null,
       "value": null
@@ -99,48 +141,6 @@
     "_transformProviderAst": {
       "class": "Identifier",
       "name": "_transformProviderAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_normalizeProviders": {
-      "class": "Identifier",
-      "name": "_normalizeProviders",
-      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_resolveProvidersFromDirectives": {
-      "class": "Identifier",
-      "name": "_resolveProvidersFromDirectives",
-      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_resolveProviders": {
-      "class": "Identifier",
-      "name": "_resolveProviders",
-      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_getViewQueries": {
-      "class": "Identifier",
-      "name": "_getViewQueries",
-      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_getContentQueries": {
-      "class": "Identifier",
-      "name": "_getContentQueries",
-      "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_addQueryToTokenMap": {
-      "class": "Identifier",
-      "name": "_addQueryToTokenMap",
       "moduleUrl": "asset:angular2/lib/src/compiler/provider_parser.dart",
       "prefix": null,
       "value": null

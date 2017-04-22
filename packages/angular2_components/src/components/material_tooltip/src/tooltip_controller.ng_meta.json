@@ -31,13 +31,6 @@
     ]
   },
   "type": {
-    "keepAliveDuration": {
-      "class": "Identifier",
-      "name": "keepAliveDuration",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_controller.dart",
-      "prefix": null,
-      "value": null
-    },
     "Tooltip": {
       "class": "Identifier",
       "name": "Tooltip",
@@ -57,6 +50,13 @@
     "_ProxyTooltip": {
       "class": "Identifier",
       "name": "_ProxyTooltip",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_controller.dart",
+      "prefix": null,
+      "value": null
+    },
+    "keepAliveDuration": {
+      "class": "Identifier",
+      "name": "keepAliveDuration",
       "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_controller.dart",
       "prefix": null,
       "value": null

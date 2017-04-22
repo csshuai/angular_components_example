@@ -21,6 +21,13 @@
     ]
   },
   "type": {
+    "ElementStyleEnum": {
+      "class": "Identifier",
+      "name": "ElementStyleEnum",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
+      "prefix": null,
+      "value": null
+    },
     "Position": {
       "class": "Identifier",
       "name": "Position",
@@ -31,13 +38,6 @@
     "SetPropertyFn": {
       "class": "Identifier",
       "name": "SetPropertyFn",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ElementStyleEnum": {
-      "class": "Identifier",
-      "name": "ElementStyleEnum",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
       "prefix": null,
       "value": null

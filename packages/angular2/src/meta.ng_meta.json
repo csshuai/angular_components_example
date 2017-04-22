@@ -19,16 +19,16 @@
     ]
   },
   "type": {
-    "StaticTypes": {
+    "AngularMetadataTypes": {
       "class": "Identifier",
-      "name": "StaticTypes",
+      "name": "AngularMetadataTypes",
       "moduleUrl": "asset:angular2/lib/src/meta/types.dart",
       "prefix": null,
       "value": null
     },
-    "_MirrorsStaticTypes": {
+    "StaticTypes": {
       "class": "Identifier",
-      "name": "_MirrorsStaticTypes",
+      "name": "StaticTypes",
       "moduleUrl": "asset:angular2/lib/src/meta/types.dart",
       "prefix": null,
       "value": null
@@ -40,9 +40,9 @@
       "prefix": null,
       "value": null
     },
-    "AngularMetadataTypes": {
+    "_MirrorsStaticTypes": {
       "class": "Identifier",
-      "name": "AngularMetadataTypes",
+      "name": "_MirrorsStaticTypes",
       "moduleUrl": "asset:angular2/lib/src/meta/types.dart",
       "prefix": null,
       "value": null

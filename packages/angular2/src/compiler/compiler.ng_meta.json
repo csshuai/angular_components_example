@@ -274,6 +274,41 @@
     ]
   },
   "type": {
+    "AttrAst": {
+      "class": "Identifier",
+      "name": "AttrAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "BoundDirectivePropertyAst": {
+      "class": "Identifier",
+      "name": "BoundDirectivePropertyAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "BoundElementPropertyAst": {
+      "class": "Identifier",
+      "name": "BoundElementPropertyAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "BoundEventAst": {
+      "class": "Identifier",
+      "name": "BoundEventAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "BoundTextAst": {
+      "class": "Identifier",
+      "name": "BoundTextAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
     "COMPILER_PROVIDERS": {
       "class": "Identifier",
       "name": "COMPILER_PROVIDERS",
@@ -1570,24 +1605,31 @@
         }
       ]
     },
-    "createCompilerConfig": {
+    "CompileDiDependencyMetadata": {
       "class": "Identifier",
-      "name": "createCompilerConfig",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compiler.dart",
+      "name": "CompileDiDependencyMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
     },
-    "PLATFORM_DIRECTIVES": {
+    "CompileDirectiveMetadata": {
       "class": "Identifier",
-      "name": "PLATFORM_DIRECTIVES",
-      "moduleUrl": "asset:angular2/lib/src/core/platform_directives_and_pipes.dart",
+      "name": "CompileDirectiveMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
     },
-    "PLATFORM_PIPES": {
+    "CompileFactoryMetadata": {
       "class": "Identifier",
-      "name": "PLATFORM_PIPES",
-      "moduleUrl": "asset:angular2/lib/src/core/platform_directives_and_pipes.dart",
+      "name": "CompileFactoryMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "CompileIdentifierMetadata": {
+      "class": "Identifier",
+      "name": "CompileIdentifierMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
     },
@@ -1605,23 +1647,9 @@
       "prefix": null,
       "value": null
     },
-    "metadataFromJson": {
+    "CompilePipeMetadata": {
       "class": "Identifier",
-      "name": "metadataFromJson",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileIdentifierMetadata": {
-      "class": "Identifier",
-      "name": "CompileIdentifierMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileDiDependencyMetadata": {
-      "class": "Identifier",
-      "name": "CompileDiDependencyMetadata",
+      "name": "CompilePipeMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
@@ -1629,34 +1657,6 @@
     "CompileProviderMetadata": {
       "class": "Identifier",
       "name": "CompileProviderMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileFactoryMetadata": {
-      "class": "Identifier",
-      "name": "CompileFactoryMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileTokenMetadata": {
-      "class": "Identifier",
-      "name": "CompileTokenMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileTokenMap": {
-      "class": "Identifier",
-      "name": "CompileTokenMap",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "CompileTypeMetadata": {
-      "class": "Identifier",
-      "name": "CompileTypeMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
@@ -1675,51 +1675,23 @@
       "prefix": null,
       "value": null
     },
-    "CompileDirectiveMetadata": {
+    "CompileTokenMap": {
       "class": "Identifier",
-      "name": "CompileDirectiveMetadata",
+      "name": "CompileTokenMap",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
     },
-    "createHostComponentMeta": {
+    "CompileTokenMetadata": {
       "class": "Identifier",
-      "name": "createHostComponentMeta",
+      "name": "CompileTokenMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
     },
-    "CompilePipeMetadata": {
+    "CompileTypeMetadata": {
       "class": "Identifier",
-      "name": "CompilePipeMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_arrayFromJson": {
-      "class": "Identifier",
-      "name": "_arrayFromJson",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_arrayToJson": {
-      "class": "Identifier",
-      "name": "_arrayToJson",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_objFromJson": {
-      "class": "Identifier",
-      "name": "_objFromJson",
-      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_objToJson": {
-      "class": "Identifier",
-      "name": "_objToJson",
+      "name": "CompileTypeMetadata",
       "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
       "prefix": null,
       "value": null
@@ -1731,17 +1703,38 @@
       "prefix": null,
       "value": null
     },
-    "_isDirectiveMetadata": {
+    "DEFAULT_PACKAGE_URL_PROVIDER": {
       "class": "Identifier",
-      "name": "_isDirectiveMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/directive_resolver.dart",
+      "name": "DEFAULT_PACKAGE_URL_PROVIDER",
+      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
       "prefix": null,
-      "value": null
+      "value": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PACKAGE_ROOT_URL",
+              "moduleUrl": "asset:angular2/lib/src/core/application_tokens.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": null,
+          "useExisting": null,
+          "useValue": "packages",
+          "useFactory": null,
+          "multi": false,
+          "deps": null
+        }
+      ]
     },
-    "NoDirectiveAnnotationError": {
+    "DirectiveAst": {
       "class": "Identifier",
-      "name": "NoDirectiveAnnotationError",
-      "moduleUrl": "asset:angular2/lib/src/compiler/directive_resolver.dart",
+      "name": "DirectiveAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
       "prefix": null,
       "value": null
     },
@@ -1775,10 +1768,38 @@
         }
       ]
     },
-    "_DEBUG_PRINT_COMPILATION": {
+    "ElementAst": {
       "class": "Identifier",
-      "name": "_DEBUG_PRINT_COMPILATION",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "name": "ElementAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ElementProviderUsage": {
+      "class": "Identifier",
+      "name": "ElementProviderUsage",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "EmbeddedTemplateAst": {
+      "class": "Identifier",
+      "name": "EmbeddedTemplateAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "NgContentAst": {
+      "class": "Identifier",
+      "name": "NgContentAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "NoDirectiveAnnotationError": {
+      "class": "Identifier",
+      "name": "NoDirectiveAnnotationError",
+      "moduleUrl": "asset:angular2/lib/src/compiler/directive_resolver.dart",
       "prefix": null,
       "value": null
     },
@@ -1796,38 +1817,17 @@
       "prefix": null,
       "value": null
     },
-    "_resolveViewStatements": {
+    "PLATFORM_DIRECTIVES": {
       "class": "Identifier",
-      "name": "_resolveViewStatements",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "name": "PLATFORM_DIRECTIVES",
+      "moduleUrl": "asset:angular2/lib/src/core/platform_directives_and_pipes.dart",
       "prefix": null,
       "value": null
     },
-    "_resolveStyleStatements": {
+    "PLATFORM_PIPES": {
       "class": "Identifier",
-      "name": "_resolveStyleStatements",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_templateModuleUrl": {
-      "class": "Identifier",
-      "name": "_templateModuleUrl",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_stylesModuleUrl": {
-      "class": "Identifier",
-      "name": "_stylesModuleUrl",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_assertComponent": {
-      "class": "Identifier",
-      "name": "_assertComponent",
-      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "name": "PLATFORM_PIPES",
+      "moduleUrl": "asset:angular2/lib/src/core/platform_directives_and_pipes.dart",
       "prefix": null,
       "value": null
     },
@@ -1861,114 +1861,9 @@
         }
       ]
     },
-    "_isPipeMetadata": {
-      "class": "Identifier",
-      "name": "_isPipeMetadata",
-      "moduleUrl": "asset:angular2/lib/src/compiler/pipe_resolver.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ProviderAstType": {
-      "class": "Identifier",
-      "name": "ProviderAstType",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
     "PropertyBindingType": {
       "class": "Identifier",
       "name": "PropertyBindingType",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "TemplateAst": {
-      "class": "Identifier",
-      "name": "TemplateAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "TextAst": {
-      "class": "Identifier",
-      "name": "TextAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BoundTextAst": {
-      "class": "Identifier",
-      "name": "BoundTextAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "AttrAst": {
-      "class": "Identifier",
-      "name": "AttrAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BoundElementPropertyAst": {
-      "class": "Identifier",
-      "name": "BoundElementPropertyAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ElementProviderUsage": {
-      "class": "Identifier",
-      "name": "ElementProviderUsage",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BoundEventAst": {
-      "class": "Identifier",
-      "name": "BoundEventAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ReferenceAst": {
-      "class": "Identifier",
-      "name": "ReferenceAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "VariableAst": {
-      "class": "Identifier",
-      "name": "VariableAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ElementAst": {
-      "class": "Identifier",
-      "name": "ElementAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "EmbeddedTemplateAst": {
-      "class": "Identifier",
-      "name": "EmbeddedTemplateAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "BoundDirectivePropertyAst": {
-      "class": "Identifier",
-      "name": "BoundDirectivePropertyAst",
-      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DirectiveAst": {
-      "class": "Identifier",
-      "name": "DirectiveAst",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
       "prefix": null,
       "value": null
@@ -1980,9 +1875,30 @@
       "prefix": null,
       "value": null
     },
-    "NgContentAst": {
+    "ProviderAstType": {
       "class": "Identifier",
-      "name": "NgContentAst",
+      "name": "ProviderAstType",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ReferenceAst": {
+      "class": "Identifier",
+      "name": "ReferenceAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
+      "prefix": null,
+      "value": null
+    },
+    "SourceModule": {
+      "class": "Identifier",
+      "name": "SourceModule",
+      "moduleUrl": "asset:angular2/lib/src/compiler/source_module.dart",
+      "prefix": null,
+      "value": null
+    },
+    "TemplateAst": {
+      "class": "Identifier",
+      "name": "TemplateAst",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
       "prefix": null,
       "value": null
@@ -1994,59 +1910,10 @@
       "prefix": null,
       "value": null
     },
-    "templateVisitAll": {
+    "TextAst": {
       "class": "Identifier",
-      "name": "templateVisitAll",
+      "name": "TextAst",
       "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_ASSET_SCHEME": {
-      "class": "Identifier",
-      "name": "_ASSET_SCHEME",
-      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
-      "prefix": null,
-      "value": null
-    },
-    "DEFAULT_PACKAGE_URL_PROVIDER": {
-      "class": "Identifier",
-      "name": "DEFAULT_PACKAGE_URL_PROVIDER",
-      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
-      "prefix": null,
-      "value": [
-        {
-          "class": "Provider",
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "PACKAGE_ROOT_URL",
-              "moduleUrl": "asset:angular2/lib/src/core/application_tokens.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "useClass": null,
-          "useExisting": null,
-          "useValue": "packages",
-          "useFactory": null,
-          "multi": false,
-          "deps": null
-        }
-      ]
-    },
-    "createUrlResolverWithoutPackagePrefix": {
-      "class": "Identifier",
-      "name": "createUrlResolverWithoutPackagePrefix",
-      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
-      "prefix": null,
-      "value": null
-    },
-    "createOfflineCompileUrlResolver": {
-      "class": "Identifier",
-      "name": "createOfflineCompileUrlResolver",
-      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
       "prefix": null,
       "value": null
     },
@@ -2080,24 +1947,10 @@
         }
       ]
     },
-    "_removeLeadingChars": {
+    "VariableAst": {
       "class": "Identifier",
-      "name": "_removeLeadingChars",
-      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_removeTrailingSlash": {
-      "class": "Identifier",
-      "name": "_removeTrailingSlash",
-      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
-      "prefix": null,
-      "value": null
-    },
-    "getUrlScheme": {
-      "class": "Identifier",
-      "name": "getUrlScheme",
-      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
+      "name": "VariableAst",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
       "prefix": null,
       "value": null
     },
@@ -2131,17 +1984,164 @@
         }
       ]
     },
-    "SourceModule": {
-      "class": "Identifier",
-      "name": "SourceModule",
-      "moduleUrl": "asset:angular2/lib/src/compiler/source_module.dart",
-      "prefix": null,
-      "value": null
-    },
     "XHR": {
       "class": "Identifier",
       "name": "XHR",
       "moduleUrl": "asset:angular2/lib/src/compiler/xhr.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_ASSET_SCHEME": {
+      "class": "Identifier",
+      "name": "_ASSET_SCHEME",
+      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_DEBUG_PRINT_COMPILATION": {
+      "class": "Identifier",
+      "name": "_DEBUG_PRINT_COMPILATION",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_arrayFromJson": {
+      "class": "Identifier",
+      "name": "_arrayFromJson",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_arrayToJson": {
+      "class": "Identifier",
+      "name": "_arrayToJson",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_assertComponent": {
+      "class": "Identifier",
+      "name": "_assertComponent",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_isDirectiveMetadata": {
+      "class": "Identifier",
+      "name": "_isDirectiveMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/directive_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_isPipeMetadata": {
+      "class": "Identifier",
+      "name": "_isPipeMetadata",
+      "moduleUrl": "asset:angular2/lib/src/compiler/pipe_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_objFromJson": {
+      "class": "Identifier",
+      "name": "_objFromJson",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_objToJson": {
+      "class": "Identifier",
+      "name": "_objToJson",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_removeLeadingChars": {
+      "class": "Identifier",
+      "name": "_removeLeadingChars",
+      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_removeTrailingSlash": {
+      "class": "Identifier",
+      "name": "_removeTrailingSlash",
+      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_resolveStyleStatements": {
+      "class": "Identifier",
+      "name": "_resolveStyleStatements",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_resolveViewStatements": {
+      "class": "Identifier",
+      "name": "_resolveViewStatements",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_stylesModuleUrl": {
+      "class": "Identifier",
+      "name": "_stylesModuleUrl",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_templateModuleUrl": {
+      "class": "Identifier",
+      "name": "_templateModuleUrl",
+      "moduleUrl": "asset:angular2/lib/src/compiler/offline_compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createCompilerConfig": {
+      "class": "Identifier",
+      "name": "createCompilerConfig",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compiler.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createHostComponentMeta": {
+      "class": "Identifier",
+      "name": "createHostComponentMeta",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createOfflineCompileUrlResolver": {
+      "class": "Identifier",
+      "name": "createOfflineCompileUrlResolver",
+      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createUrlResolverWithoutPackagePrefix": {
+      "class": "Identifier",
+      "name": "createUrlResolverWithoutPackagePrefix",
+      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "getUrlScheme": {
+      "class": "Identifier",
+      "name": "getUrlScheme",
+      "moduleUrl": "asset:angular2/lib/src/compiler/url_resolver.dart",
+      "prefix": null,
+      "value": null
+    },
+    "metadataFromJson": {
+      "class": "Identifier",
+      "name": "metadataFromJson",
+      "moduleUrl": "asset:angular2/lib/src/compiler/compile_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "templateVisitAll": {
+      "class": "Identifier",
+      "name": "templateVisitAll",
+      "moduleUrl": "asset:angular2/lib/src/compiler/template_ast.dart",
       "prefix": null,
       "value": null
     }

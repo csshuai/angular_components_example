@@ -123,27 +123,6 @@
     "6": "shared.dart"
   },
   "type": {
-    "controlPath": {
-      "class": "Identifier",
-      "name": "controlPath",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
-      "prefix": null,
-      "value": null
-    },
-    "setUpControl": {
-      "class": "Identifier",
-      "name": "setUpControl",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
-      "prefix": null,
-      "value": null
-    },
-    "setUpControlGroup": {
-      "class": "Identifier",
-      "name": "setUpControlGroup",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
-      "prefix": null,
-      "value": null
-    },
     "_throwError": {
       "class": "Identifier",
       "name": "_throwError",
@@ -158,6 +137,13 @@
       "prefix": null,
       "value": null
     },
+    "controlPath": {
+      "class": "Identifier",
+      "name": "controlPath",
+      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
+      "prefix": null,
+      "value": null
+    },
     "isPropertyUpdated": {
       "class": "Identifier",
       "name": "isPropertyUpdated",
@@ -168,6 +154,20 @@
     "selectValueAccessor": {
       "class": "Identifier",
       "name": "selectValueAccessor",
+      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
+      "prefix": null,
+      "value": null
+    },
+    "setUpControl": {
+      "class": "Identifier",
+      "name": "setUpControl",
+      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
+      "prefix": null,
+      "value": null
+    },
+    "setUpControlGroup": {
+      "class": "Identifier",
+      "name": "setUpControlGroup",
       "moduleUrl": "asset:angular2/lib/src/common/forms/directives/shared.dart",
       "prefix": null,
       "value": null

@@ -45,13 +45,6 @@
     "6": "date_pipe.dart"
   },
   "type": {
-    "_defaultLocale": {
-      "class": "Identifier",
-      "name": "_defaultLocale",
-      "moduleUrl": "asset:angular2/lib/src/common/pipes/date_pipe.dart",
-      "prefix": null,
-      "value": null
-    },
     "DatePipe": {
       "class": "Pipe",
       "type": {
@@ -66,16 +59,16 @@
       "name": "date",
       "pure": true
     },
-    "_normalizeLocale": {
+    "_formatDate": {
       "class": "Identifier",
-      "name": "_normalizeLocale",
+      "name": "_formatDate",
       "moduleUrl": "asset:angular2/lib/src/common/pipes/date_pipe.dart",
       "prefix": null,
       "value": null
     },
-    "_formatDate": {
+    "_normalizeLocale": {
       "class": "Identifier",
-      "name": "_formatDate",
+      "name": "_normalizeLocale",
       "moduleUrl": "asset:angular2/lib/src/common/pipes/date_pipe.dart",
       "prefix": null,
       "value": null

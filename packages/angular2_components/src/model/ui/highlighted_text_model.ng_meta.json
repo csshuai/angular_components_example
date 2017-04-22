@@ -24,16 +24,16 @@
     "6": "highlighted_text_model.dart"
   },
   "type": {
-    "Highlighter": {
+    "HighlightedTextSegment": {
       "class": "Identifier",
-      "name": "Highlighter",
+      "name": "HighlightedTextSegment",
       "moduleUrl": "asset:angular2_components/lib/src/model/ui/highlighted_text_model.dart",
       "prefix": null,
       "value": null
     },
-    "HighlightedTextSegment": {
+    "Highlighter": {
       "class": "Identifier",
-      "name": "HighlightedTextSegment",
+      "name": "Highlighter",
       "moduleUrl": "asset:angular2_components/lib/src/model/ui/highlighted_text_model.dart",
       "prefix": null,
       "value": null

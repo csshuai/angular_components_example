@@ -44,16 +44,16 @@
       "prefix": null,
       "value": null
     },
-    "OverlayRef": {
+    "BaseOverlayRef": {
       "class": "Identifier",
-      "name": "OverlayRef",
+      "name": "BaseOverlayRef",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_ref.dart",
       "prefix": null,
       "value": null
     },
-    "BaseOverlayRef": {
+    "OverlayRef": {
       "class": "Identifier",
-      "name": "BaseOverlayRef",
+      "name": "OverlayRef",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_ref.dart",
       "prefix": null,
       "value": null

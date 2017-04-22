@@ -41,16 +41,16 @@
     ]
   },
   "type": {
-    "optionalPackage": {
+    "ParameterModel": {
       "class": "Identifier",
-      "name": "optionalPackage",
+      "name": "ParameterModel",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/parameter_model.dart",
       "prefix": null,
       "value": null
     },
-    "ParameterModel": {
+    "optionalPackage": {
       "class": "Identifier",
-      "name": "ParameterModel",
+      "name": "optionalPackage",
       "moduleUrl": "asset:angular2/lib/src/source_gen/common/parameter_model.dart",
       "prefix": null,
       "value": null

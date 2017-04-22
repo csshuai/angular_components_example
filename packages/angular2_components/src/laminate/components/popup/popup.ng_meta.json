@@ -708,71 +708,6 @@
       "queries": [],
       "viewQueries": []
     },
-    "getHierarchy": {
-      "class": "Factory",
-      "name": "getHierarchy",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "PopupComponent",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        }
-      ]
-    },
-    "getResolvedPopupRef": {
-      "class": "Factory",
-      "name": "getResolvedPopupRef",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "PopupComponent",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        }
-      ]
-    },
-    "_DeferredToggleable": {
-      "class": "Identifier",
-      "name": "_DeferredToggleable",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
-      "prefix": null,
-      "value": null
-    },
     "PopupRefDirective": {
       "class": "Directive",
       "isComponent": false,
@@ -920,6 +855,71 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "_DeferredToggleable": {
+      "class": "Identifier",
+      "name": "_DeferredToggleable",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+      "prefix": null,
+      "value": null
+    },
+    "getHierarchy": {
+      "class": "Factory",
+      "name": "getHierarchy",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PopupComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        }
+      ]
+    },
+    "getResolvedPopupRef": {
+      "class": "Factory",
+      "name": "getResolvedPopupRef",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "PopupComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/laminate/components/popup/popup.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
+        }
+      ]
     }
   },
   "alias": {}

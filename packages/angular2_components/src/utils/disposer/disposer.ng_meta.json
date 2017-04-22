@@ -1,9 +1,9 @@
 {
   "ngDeps": null,
   "type": {
-    "_oneShotDisposerMemoryLeakWarning": {
+    "Disposable": {
       "class": "Identifier",
-      "name": "_oneShotDisposerMemoryLeakWarning",
+      "name": "Disposable",
       "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
       "prefix": null,
       "value": null
@@ -15,9 +15,9 @@
       "prefix": null,
       "value": null
     },
-    "Disposable": {
+    "Disposer": {
       "class": "Identifier",
-      "name": "Disposable",
+      "name": "Disposer",
       "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
       "prefix": null,
       "value": null
@@ -36,9 +36,9 @@
       "prefix": null,
       "value": null
     },
-    "Disposer": {
+    "_oneShotDisposerMemoryLeakWarning": {
       "class": "Identifier",
-      "name": "Disposer",
+      "name": "_oneShotDisposerMemoryLeakWarning",
       "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
       "prefix": null,
       "value": null

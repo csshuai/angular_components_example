@@ -110,9 +110,9 @@
       "prefix": null,
       "value": null
     },
-    "collectEventListeners": {
+    "_extractFunction": {
       "class": "Identifier",
-      "name": "collectEventListeners",
+      "name": "_extractFunction",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/event_binder.dart",
       "prefix": null,
       "value": null
@@ -131,16 +131,16 @@
       "prefix": null,
       "value": null
     },
-    "convertStmtIntoExpression": {
+    "collectEventListeners": {
       "class": "Identifier",
-      "name": "convertStmtIntoExpression",
+      "name": "collectEventListeners",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/event_binder.dart",
       "prefix": null,
       "value": null
     },
-    "_extractFunction": {
+    "convertStmtIntoExpression": {
       "class": "Identifier",
-      "name": "_extractFunction",
+      "name": "convertStmtIntoExpression",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/event_binder.dart",
       "prefix": null,
       "value": null

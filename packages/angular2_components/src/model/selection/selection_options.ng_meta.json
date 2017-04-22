@@ -44,16 +44,9 @@
     ]
   },
   "type": {
-    "_FutureSelectionOptions": {
+    "GroupedOptions": {
       "class": "Identifier",
-      "name": "_FutureSelectionOptions",
-      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_StreamSelectionOptions": {
-      "class": "Identifier",
-      "name": "_StreamSelectionOptions",
+      "name": "GroupedOptions",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
       "prefix": null,
       "value": null
@@ -65,16 +58,23 @@
       "prefix": null,
       "value": null
     },
-    "GroupedOptions": {
+    "SelectionOptions": {
       "class": "Identifier",
-      "name": "GroupedOptions",
+      "name": "SelectionOptions",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
       "prefix": null,
       "value": null
     },
-    "SelectionOptions": {
+    "_FutureSelectionOptions": {
       "class": "Identifier",
-      "name": "SelectionOptions",
+      "name": "_FutureSelectionOptions",
+      "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_StreamSelectionOptions": {
+      "class": "Identifier",
+      "name": "_StreamSelectionOptions",
       "moduleUrl": "asset:angular2_components/lib/src/model/selection/selection_options.dart",
       "prefix": null,
       "value": null

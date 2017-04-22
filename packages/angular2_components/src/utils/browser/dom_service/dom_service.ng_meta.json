@@ -63,9 +63,9 @@
       "prefix": null,
       "value": null
     },
-    "RequestAnimationFrame": {
+    "DomService": {
       "class": "Identifier",
-      "name": "RequestAnimationFrame",
+      "name": "DomService",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
       "prefix": null,
       "value": null
@@ -84,9 +84,9 @@
       "prefix": null,
       "value": null
     },
-    "DomService": {
+    "RequestAnimationFrame": {
       "class": "Identifier",
-      "name": "DomService",
+      "name": "RequestAnimationFrame",
       "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
       "prefix": null,
       "value": null

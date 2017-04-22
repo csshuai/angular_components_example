@@ -1,16 +1,16 @@
 {
   "ngDeps": null,
   "type": {
-    "HasIcon": {
+    "HasHoverIcon": {
       "class": "Identifier",
-      "name": "HasIcon",
+      "name": "HasHoverIcon",
       "moduleUrl": "asset:angular2_components/lib/src/model/ui/icon.dart",
       "prefix": null,
       "value": null
     },
-    "HasHoverIcon": {
+    "HasIcon": {
       "class": "Identifier",
-      "name": "HasHoverIcon",
+      "name": "HasIcon",
       "moduleUrl": "asset:angular2_components/lib/src/model/ui/icon.dart",
       "prefix": null,
       "value": null

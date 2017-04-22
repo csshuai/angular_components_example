@@ -221,44 +221,9 @@
     ]
   },
   "type": {
-    "createBindFieldExpr": {
-      "class": "Identifier",
-      "name": "createBindFieldExpr",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "createCurrValueExpr": {
-      "class": "Identifier",
-      "name": "createCurrValueExpr",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "bind": {
-      "class": "Identifier",
-      "name": "bind",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
-      "prefix": null,
-      "value": null
-    },
     "_bindLiteral": {
       "class": "Identifier",
       "name": "_bindLiteral",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "bindRenderText": {
-      "class": "Identifier",
-      "name": "bindRenderText",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "bindAndWriteToRenderer": {
-      "class": "Identifier",
-      "name": "bindAndWriteToRenderer",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
       "prefix": null,
       "value": null
@@ -270,16 +235,23 @@
       "prefix": null,
       "value": null
     },
-    "sanitizedValue": {
+    "_isPrimitiveFieldType": {
       "class": "Identifier",
-      "name": "sanitizedValue",
+      "name": "_isPrimitiveFieldType",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
       "prefix": null,
       "value": null
     },
-    "bindRenderInputs": {
+    "bind": {
       "class": "Identifier",
-      "name": "bindRenderInputs",
+      "name": "bind",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "bindAndWriteToRenderer": {
+      "class": "Identifier",
+      "name": "bindAndWriteToRenderer",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
       "prefix": null,
       "value": null
@@ -298,9 +270,44 @@
       "prefix": null,
       "value": null
     },
+    "bindRenderInputs": {
+      "class": "Identifier",
+      "name": "bindRenderInputs",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "bindRenderText": {
+      "class": "Identifier",
+      "name": "bindRenderText",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
+      "prefix": null,
+      "value": null
+    },
     "bindToUpdateMethod": {
       "class": "Identifier",
       "name": "bindToUpdateMethod",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createBindFieldExpr": {
+      "class": "Identifier",
+      "name": "createBindFieldExpr",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "createCurrValueExpr": {
+      "class": "Identifier",
+      "name": "createCurrValueExpr",
+      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
+      "prefix": null,
+      "value": null
+    },
+    "isPrimitiveTypeName": {
+      "class": "Identifier",
+      "name": "isPrimitiveTypeName",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
       "prefix": null,
       "value": null
@@ -312,16 +319,9 @@
       "prefix": null,
       "value": null
     },
-    "_isPrimitiveFieldType": {
+    "sanitizedValue": {
       "class": "Identifier",
-      "name": "_isPrimitiveFieldType",
-      "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
-      "prefix": null,
-      "value": null
-    },
-    "isPrimitiveTypeName": {
-      "class": "Identifier",
-      "name": "isPrimitiveTypeName",
+      "name": "sanitizedValue",
       "moduleUrl": "asset:angular2/lib/src/compiler/view_compiler/property_binder.dart",
       "prefix": null,
       "value": null

@@ -32,37 +32,16 @@
       "prefix": null,
       "value": null
     },
-    "_CustomAlignment": {
+    "ElementStyleEnum": {
       "class": "Identifier",
-      "name": "_CustomAlignment",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_BeforeCustomAlignment": {
-      "class": "Identifier",
-      "name": "_BeforeCustomAlignment",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_AfterCustomAlignment": {
-      "class": "Identifier",
-      "name": "_AfterCustomAlignment",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "name": "ElementStyleEnum",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
       "prefix": null,
       "value": null
     },
     "RelativePosition": {
       "class": "Identifier",
       "name": "RelativePosition",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_AnimationOrigins": {
-      "class": "Identifier",
-      "name": "_AnimationOrigins",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
       "prefix": null,
       "value": null
@@ -74,10 +53,31 @@
       "prefix": null,
       "value": null
     },
-    "ElementStyleEnum": {
+    "_AfterCustomAlignment": {
       "class": "Identifier",
-      "name": "ElementStyleEnum",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/src/base.dart",
+      "name": "_AfterCustomAlignment",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_AnimationOrigins": {
+      "class": "Identifier",
+      "name": "_AnimationOrigins",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_BeforeCustomAlignment": {
+      "class": "Identifier",
+      "name": "_BeforeCustomAlignment",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_CustomAlignment": {
+      "class": "Identifier",
+      "name": "_CustomAlignment",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/enums/alignment.dart",
       "prefix": null,
       "value": null
     }

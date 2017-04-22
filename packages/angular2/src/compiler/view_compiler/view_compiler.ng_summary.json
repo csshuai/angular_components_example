@@ -17,6 +17,10 @@
         "5": false
       },
       {
+        "1": "package:logging/logging.dart",
+        "5": false
+      },
+      {
         "1": "../compile_metadata.dart",
         "2": [
           "CompileDirectiveMetadata",

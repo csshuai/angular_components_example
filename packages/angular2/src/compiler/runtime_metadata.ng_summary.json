@@ -266,6 +266,20 @@
         }
       ]
     },
+    "calcModuleUrl": {
+      "class": "Identifier",
+      "name": "calcModuleUrl",
+      "moduleUrl": "asset:angular2/lib/src/compiler/runtime_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
+    "flattenArray": {
+      "class": "Identifier",
+      "name": "flattenArray",
+      "moduleUrl": "asset:angular2/lib/src/compiler/runtime_metadata.dart",
+      "prefix": null,
+      "value": null
+    },
     "flattenDirectives": {
       "class": "Identifier",
       "name": "flattenDirectives",
@@ -280,23 +294,9 @@
       "prefix": null,
       "value": null
     },
-    "flattenArray": {
-      "class": "Identifier",
-      "name": "flattenArray",
-      "moduleUrl": "asset:angular2/lib/src/compiler/runtime_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
     "isValidType": {
       "class": "Identifier",
       "name": "isValidType",
-      "moduleUrl": "asset:angular2/lib/src/compiler/runtime_metadata.dart",
-      "prefix": null,
-      "value": null
-    },
-    "calcModuleUrl": {
-      "class": "Identifier",
-      "name": "calcModuleUrl",
       "moduleUrl": "asset:angular2/lib/src/compiler/runtime_metadata.dart",
       "prefix": null,
       "value": null

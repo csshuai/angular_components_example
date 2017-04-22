@@ -24,16 +24,16 @@
       "prefix": null,
       "value": null
     },
-    "DisposableCallbackBase": {
+    "DisposableCallback": {
       "class": "Identifier",
-      "name": "DisposableCallbackBase",
+      "name": "DisposableCallback",
       "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposable_callback.dart",
       "prefix": null,
       "value": null
     },
-    "DisposableCallback": {
+    "DisposableCallbackBase": {
       "class": "Identifier",
-      "name": "DisposableCallback",
+      "name": "DisposableCallbackBase",
       "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposable_callback.dart",
       "prefix": null,
       "value": null

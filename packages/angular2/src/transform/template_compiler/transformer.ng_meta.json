@@ -89,16 +89,16 @@
     ]
   },
   "type": {
-    "_emptyNgDepsContents": {
+    "TemplateCompiler": {
       "class": "Identifier",
-      "name": "_emptyNgDepsContents",
+      "name": "TemplateCompiler",
       "moduleUrl": "asset:angular2/lib/src/transform/template_compiler/transformer.dart",
       "prefix": null,
       "value": null
     },
-    "TemplateCompiler": {
+    "_emptyNgDepsContents": {
       "class": "Identifier",
-      "name": "TemplateCompiler",
+      "name": "_emptyNgDepsContents",
       "moduleUrl": "asset:angular2/lib/src/transform/template_compiler/transformer.dart",
       "prefix": null,
       "value": null

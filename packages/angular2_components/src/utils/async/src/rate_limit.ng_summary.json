@@ -17,6 +17,13 @@
     "6": "rate_limit.dart"
   },
   "type": {
+    "RateLimitTransformer": {
+      "class": "Identifier",
+      "name": "RateLimitTransformer",
+      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/rate_limit.dart",
+      "prefix": null,
+      "value": null
+    },
     "_AddEventFn": {
       "class": "Identifier",
       "name": "_AddEventFn",
@@ -27,13 +34,6 @@
     "_RateLimitSink": {
       "class": "Identifier",
       "name": "_RateLimitSink",
-      "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/rate_limit.dart",
-      "prefix": null,
-      "value": null
-    },
-    "RateLimitTransformer": {
-      "class": "Identifier",
-      "name": "RateLimitTransformer",
       "moduleUrl": "asset:angular2_components/lib/src/utils/async/src/rate_limit.dart",
       "prefix": null,
       "value": null

@@ -22,16 +22,16 @@
     "6": "list_tracker.dart"
   },
   "type": {
-    "_MapFunction": {
+    "LazyListTracker": {
       "class": "Identifier",
-      "name": "_MapFunction",
+      "name": "LazyListTracker",
       "moduleUrl": "asset:angular2_components/lib/src/model/collection/list_tracker.dart",
       "prefix": null,
       "value": null
     },
-    "LazyListTracker": {
+    "_MapFunction": {
       "class": "Identifier",
-      "name": "LazyListTracker",
+      "name": "_MapFunction",
       "moduleUrl": "asset:angular2_components/lib/src/model/collection/list_tracker.dart",
       "prefix": null,
       "value": null

@@ -111,48 +111,6 @@
     ]
   },
   "type": {
-    "uncheckedIcon": {
-      "class": "Identifier",
-      "name": "uncheckedIcon",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
-      "prefix": null,
-      "value": null
-    },
-    "checkedIcon": {
-      "class": "Identifier",
-      "name": "checkedIcon",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
-      "prefix": null,
-      "value": null
-    },
-    "indeterminateIcon": {
-      "class": "Identifier",
-      "name": "indeterminateIcon",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
-      "prefix": null,
-      "value": null
-    },
-    "uncheckedAriaState": {
-      "class": "Identifier",
-      "name": "uncheckedAriaState",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
-      "prefix": null,
-      "value": null
-    },
-    "checkedAriaState": {
-      "class": "Identifier",
-      "name": "checkedAriaState",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
-      "prefix": null,
-      "value": null
-    },
-    "indeterminateAriaState": {
-      "class": "Identifier",
-      "name": "indeterminateAriaState",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialCheckboxComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -306,6 +264,48 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "checkedAriaState": {
+      "class": "Identifier",
+      "name": "checkedAriaState",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
+      "prefix": null,
+      "value": null
+    },
+    "checkedIcon": {
+      "class": "Identifier",
+      "name": "checkedIcon",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
+      "prefix": null,
+      "value": null
+    },
+    "indeterminateAriaState": {
+      "class": "Identifier",
+      "name": "indeterminateAriaState",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
+      "prefix": null,
+      "value": null
+    },
+    "indeterminateIcon": {
+      "class": "Identifier",
+      "name": "indeterminateIcon",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
+      "prefix": null,
+      "value": null
+    },
+    "uncheckedAriaState": {
+      "class": "Identifier",
+      "name": "uncheckedAriaState",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
+      "prefix": null,
+      "value": null
+    },
+    "uncheckedIcon": {
+      "class": "Identifier",
+      "name": "uncheckedIcon",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_checkbox/material_checkbox.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

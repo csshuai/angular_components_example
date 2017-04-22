@@ -58,20 +58,6 @@
     "6": "ng_deps_code.dart"
   },
   "type": {
-    "_ignoredProblems": {
-      "class": "Identifier",
-      "name": "_ignoredProblems",
-      "moduleUrl": "asset:angular2/lib/src/transform/common/code/ng_deps_code.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_ignoredRealTemplateIssues": {
-      "class": "Identifier",
-      "name": "_ignoredRealTemplateIssues",
-      "moduleUrl": "asset:angular2/lib/src/transform/common/code/ng_deps_code.dart",
-      "prefix": null,
-      "value": null
-    },
     "NgDepsVisitor": {
       "class": "Identifier",
       "name": "NgDepsVisitor",
@@ -89,6 +75,20 @@
     "NgDepsWriterMixin": {
       "class": "Identifier",
       "name": "NgDepsWriterMixin",
+      "moduleUrl": "asset:angular2/lib/src/transform/common/code/ng_deps_code.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_ignoredProblems": {
+      "class": "Identifier",
+      "name": "_ignoredProblems",
+      "moduleUrl": "asset:angular2/lib/src/transform/common/code/ng_deps_code.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_ignoredRealTemplateIssues": {
+      "class": "Identifier",
+      "name": "_ignoredRealTemplateIssues",
       "moduleUrl": "asset:angular2/lib/src/transform/common/code/ng_deps_code.dart",
       "prefix": null,
       "value": null

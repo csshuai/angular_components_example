@@ -118,48 +118,6 @@
     ]
   },
   "type": {
-    "Focusable": {
-      "class": "Identifier",
-      "name": "Focusable",
-      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
-      "prefix": null,
-      "value": null
-    },
-    "RootFocusable": {
-      "class": "Identifier",
-      "name": "RootFocusable",
-      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
-      "prefix": null,
-      "value": null
-    },
-    "ProjectedFocus": {
-      "class": "Identifier",
-      "name": "ProjectedFocus",
-      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
-      "prefix": null,
-      "value": null
-    },
-    "_FocusableElement": {
-      "class": "Identifier",
-      "name": "_FocusableElement",
-      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
-      "prefix": null,
-      "value": null
-    },
-    "FocusableItem": {
-      "class": "Identifier",
-      "name": "FocusableItem",
-      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
-      "prefix": null,
-      "value": null
-    },
-    "FocusMoveEvent": {
-      "class": "Identifier",
-      "name": "FocusMoveEvent",
-      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
-      "prefix": null,
-      "value": null
-    },
     "AutoFocusDirective": {
       "class": "Directive",
       "isComponent": false,
@@ -294,6 +252,20 @@
       "queries": [],
       "viewQueries": []
     },
+    "FocusMoveEvent": {
+      "class": "Identifier",
+      "name": "FocusMoveEvent",
+      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
+      "prefix": null,
+      "value": null
+    },
+    "Focusable": {
+      "class": "Identifier",
+      "name": "Focusable",
+      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
+      "prefix": null,
+      "value": null
+    },
     "FocusableDirective": {
       "class": "Directive",
       "isComponent": false,
@@ -342,6 +314,34 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "FocusableItem": {
+      "class": "Identifier",
+      "name": "FocusableItem",
+      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
+      "prefix": null,
+      "value": null
+    },
+    "ProjectedFocus": {
+      "class": "Identifier",
+      "name": "ProjectedFocus",
+      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
+      "prefix": null,
+      "value": null
+    },
+    "RootFocusable": {
+      "class": "Identifier",
+      "name": "RootFocusable",
+      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_FocusableElement": {
+      "class": "Identifier",
+      "name": "_FocusableElement",
+      "moduleUrl": "asset:angular2_components/lib/src/components/focus/focus.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

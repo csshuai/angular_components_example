@@ -88,9 +88,9 @@
     ]
   },
   "type": {
-    "shimmedStylesheetAssetId": {
+    "_sanitizeLibName": {
       "class": "Identifier",
-      "name": "shimmedStylesheetAssetId",
+      "name": "_sanitizeLibName",
       "moduleUrl": "asset:angular2/lib/src/transform/stylesheet_compiler/processor.dart",
       "prefix": null,
       "value": null
@@ -109,16 +109,16 @@
       "prefix": null,
       "value": null
     },
-    "writeSourceModule": {
+    "shimmedStylesheetAssetId": {
       "class": "Identifier",
-      "name": "writeSourceModule",
+      "name": "shimmedStylesheetAssetId",
       "moduleUrl": "asset:angular2/lib/src/transform/stylesheet_compiler/processor.dart",
       "prefix": null,
       "value": null
     },
-    "_sanitizeLibName": {
+    "writeSourceModule": {
       "class": "Identifier",
-      "name": "_sanitizeLibName",
+      "name": "writeSourceModule",
       "moduleUrl": "asset:angular2/lib/src/transform/stylesheet_compiler/processor.dart",
       "prefix": null,
       "value": null

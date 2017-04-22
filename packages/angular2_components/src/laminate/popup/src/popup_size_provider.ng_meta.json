@@ -1,16 +1,9 @@
 {
   "ngDeps": null,
   "type": {
-    "unboundedPopupSize": {
+    "FixedPopupSizeProvider": {
       "class": "Identifier",
-      "name": "unboundedPopupSize",
-      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
-      "prefix": null,
-      "value": null
-    },
-    "PopupSizeProvider": {
-      "class": "Identifier",
-      "name": "PopupSizeProvider",
+      "name": "FixedPopupSizeProvider",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
       "prefix": null,
       "value": null
@@ -22,9 +15,16 @@
       "prefix": null,
       "value": null
     },
-    "FixedPopupSizeProvider": {
+    "PopupSizeProvider": {
       "class": "Identifier",
-      "name": "FixedPopupSizeProvider",
+      "name": "PopupSizeProvider",
+      "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+      "prefix": null,
+      "value": null
+    },
+    "unboundedPopupSize": {
+      "class": "Identifier",
+      "name": "unboundedPopupSize",
       "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
       "prefix": null,
       "value": null

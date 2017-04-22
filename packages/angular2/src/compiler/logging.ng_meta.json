@@ -14,16 +14,16 @@
     "6": "logging.dart"
   },
   "type": {
-    "loggerKey": {
+    "logger": {
       "class": "Identifier",
-      "name": "loggerKey",
+      "name": "logger",
       "moduleUrl": "asset:angular2/lib/src/compiler/logging.dart",
       "prefix": null,
       "value": null
     },
-    "logger": {
+    "loggerKey": {
       "class": "Identifier",
-      "name": "logger",
+      "name": "loggerKey",
       "moduleUrl": "asset:angular2/lib/src/compiler/logging.dart",
       "prefix": null,
       "value": null

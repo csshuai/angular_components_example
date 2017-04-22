@@ -36,6 +36,13 @@
     ]
   },
   "type": {
+    "MissingInterfaceError": {
+      "class": "Identifier",
+      "name": "MissingInterfaceError",
+      "moduleUrl": "asset:angular2/lib/src/core/reflection/reflection_capabilities.dart",
+      "prefix": null,
+      "value": null
+    },
     "ReflectionCapabilities": {
       "class": "Identifier",
       "name": "ReflectionCapabilities",
@@ -60,13 +67,6 @@
     "_checkImplements": {
       "class": "Identifier",
       "name": "_checkImplements",
-      "moduleUrl": "asset:angular2/lib/src/core/reflection/reflection_capabilities.dart",
-      "prefix": null,
-      "value": null
-    },
-    "MissingInterfaceError": {
-      "class": "Identifier",
-      "name": "MissingInterfaceError",
       "moduleUrl": "asset:angular2/lib/src/core/reflection/reflection_capabilities.dart",
       "prefix": null,
       "value": null

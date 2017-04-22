@@ -141,42 +141,6 @@
     ]
   },
   "type": {
-    "_defaultPositions": {
-      "class": "Identifier",
-      "name": "_defaultPositions",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/paper_tooltip.dart",
-      "prefix": null,
-      "value": []
-    },
-    "getTooltipHandle": {
-      "class": "Factory",
-      "name": "getTooltipHandle",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/paper_tooltip.dart",
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "MaterialPaperTooltipComponent",
-              "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/paper_tooltip.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": false,
-          "isValue": false
-        }
-      ]
-    },
     "MaterialPaperTooltipComponent": {
       "class": "Directive",
       "isComponent": true,
@@ -702,6 +666,42 @@
           "first": true,
           "propertyName": "popupChild",
           "read": null
+        }
+      ]
+    },
+    "_defaultPositions": {
+      "class": "Identifier",
+      "name": "_defaultPositions",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/paper_tooltip.dart",
+      "prefix": null,
+      "value": []
+    },
+    "getTooltipHandle": {
+      "class": "Factory",
+      "name": "getTooltipHandle",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/paper_tooltip.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "MaterialPaperTooltipComponent",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/paper_tooltip.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": false,
+          "isValue": false
         }
       ]
     }

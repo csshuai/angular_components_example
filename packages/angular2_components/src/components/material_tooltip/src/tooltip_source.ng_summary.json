@@ -51,20 +51,6 @@
     "6": "tooltip_source.dart"
   },
   "type": {
-    "tooltipDelay": {
-      "class": "Identifier",
-      "name": "tooltipDelay",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_source.dart",
-      "prefix": null,
-      "value": null
-    },
-    "tooltipCloseDelay": {
-      "class": "Identifier",
-      "name": "tooltipCloseDelay",
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_source.dart",
-      "prefix": null,
-      "value": null
-    },
     "MaterialTooltipSourceDirective": {
       "class": "Directive",
       "isComponent": false,
@@ -147,6 +133,20 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "tooltipCloseDelay": {
+      "class": "Identifier",
+      "name": "tooltipCloseDelay",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_source.dart",
+      "prefix": null,
+      "value": null
+    },
+    "tooltipDelay": {
+      "class": "Identifier",
+      "name": "tooltipDelay",
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_source.dart",
+      "prefix": null,
+      "value": null
     }
   },
   "alias": {}

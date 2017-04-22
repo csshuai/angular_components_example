@@ -13,13 +13,6 @@
     "6": "control_value_accessor.dart"
   },
   "type": {
-    "NG_VALUE_ACCESSOR": {
-      "class": "Identifier",
-      "name": "NG_VALUE_ACCESSOR",
-      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
-      "prefix": null,
-      "value": null
-    },
     "ChangeFunction": {
       "class": "Identifier",
       "name": "ChangeFunction",
@@ -27,16 +20,23 @@
       "prefix": null,
       "value": null
     },
-    "TouchFunction": {
+    "ControlValueAccessor": {
       "class": "Identifier",
-      "name": "TouchFunction",
+      "name": "ControlValueAccessor",
       "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
       "prefix": null,
       "value": null
     },
-    "ControlValueAccessor": {
+    "NG_VALUE_ACCESSOR": {
       "class": "Identifier",
-      "name": "ControlValueAccessor",
+      "name": "NG_VALUE_ACCESSOR",
+      "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
+      "prefix": null,
+      "value": null
+    },
+    "TouchFunction": {
+      "class": "Identifier",
+      "name": "TouchFunction",
       "moduleUrl": "asset:angular2/lib/src/common/forms/directives/control_value_accessor.dart",
       "prefix": null,
       "value": null

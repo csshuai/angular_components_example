@@ -41,16 +41,16 @@
       "prefix": null,
       "value": null
     },
-    "_PendingRequest": {
+    "_Expectation": {
       "class": "Identifier",
-      "name": "_PendingRequest",
+      "name": "_Expectation",
       "moduleUrl": "asset:angular2/lib/src/compiler/xhr_mock.dart",
       "prefix": null,
       "value": null
     },
-    "_Expectation": {
+    "_PendingRequest": {
       "class": "Identifier",
-      "name": "_Expectation",
+      "name": "_PendingRequest",
       "moduleUrl": "asset:angular2/lib/src/compiler/xhr_mock.dart",
       "prefix": null,
       "value": null

@@ -23,6 +23,13 @@
     ]
   },
   "type": {
+    "bindAction": {
+      "class": "Identifier",
+      "name": "bindAction",
+      "moduleUrl": "asset:angular2/lib/src/testing/benchmark_util.dart",
+      "prefix": null,
+      "value": null
+    },
     "getIntParameter": {
       "class": "Identifier",
       "name": "getIntParameter",
@@ -33,13 +40,6 @@
     "getStringParameter": {
       "class": "Identifier",
       "name": "getStringParameter",
-      "moduleUrl": "asset:angular2/lib/src/testing/benchmark_util.dart",
-      "prefix": null,
-      "value": null
-    },
-    "bindAction": {
-      "class": "Identifier",
-      "name": "bindAction",
       "moduleUrl": "asset:angular2/lib/src/testing/benchmark_util.dart",
       "prefix": null,
       "value": null

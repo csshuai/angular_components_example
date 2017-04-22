@@ -160,6 +160,13 @@
     "6": "forms.dart"
   },
   "type": {
+    "FORM_BINDINGS": {
+      "class": "Identifier",
+      "name": "FORM_BINDINGS",
+      "moduleUrl": "asset:angular2/lib/src/common/forms.dart",
+      "prefix": null,
+      "value": null
+    },
     "FORM_PROVIDERS": {
       "class": "Identifier",
       "name": "FORM_PROVIDERS",
@@ -181,13 +188,6 @@
           "value": null
         }
       ]
-    },
-    "FORM_BINDINGS": {
-      "class": "Identifier",
-      "name": "FORM_BINDINGS",
-      "moduleUrl": "asset:angular2/lib/src/common/forms.dart",
-      "prefix": null,
-      "value": null
     }
   },
   "alias": {

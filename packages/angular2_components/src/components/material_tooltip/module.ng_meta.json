@@ -61,6 +61,55 @@
     ]
   },
   "type": {
+    "createTooltipController": {
+      "class": "Factory",
+      "name": "createTooltipController",
+      "prefix": null,
+      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/module.dart",
+      "value": null,
+      "diDeps": [
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "TooltipController",
+              "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_controller.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": true,
+          "isOptional": true,
+          "isValue": false
+        },
+        {
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Identifier",
+              "name": "Disposer",
+              "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
+              "prefix": null,
+              "value": null
+            },
+            "identifierIsInstance": false
+          },
+          "value": null,
+          "isAttribute": false,
+          "isSelf": false,
+          "isHost": false,
+          "isSkipSelf": false,
+          "isOptional": true,
+          "isValue": false
+        }
+      ]
+    },
     "materialTooltipBindings": {
       "class": "Identifier",
       "name": "materialTooltipBindings",
@@ -215,55 +264,6 @@
               "isValue": false
             }
           ]
-        }
-      ]
-    },
-    "createTooltipController": {
-      "class": "Factory",
-      "name": "createTooltipController",
-      "prefix": null,
-      "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/module.dart",
-      "value": null,
-      "diDeps": [
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "TooltipController",
-              "moduleUrl": "asset:angular2_components/lib/src/components/material_tooltip/src/tooltip_controller.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": true,
-          "isOptional": true,
-          "isValue": false
-        },
-        {
-          "token": {
-            "value": null,
-            "identifier": {
-              "class": "Identifier",
-              "name": "Disposer",
-              "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
-              "prefix": null,
-              "value": null
-            },
-            "identifierIsInstance": false
-          },
-          "value": null,
-          "isAttribute": false,
-          "isSelf": false,
-          "isHost": false,
-          "isSkipSelf": false,
-          "isOptional": true,
-          "isValue": false
         }
       ]
     }

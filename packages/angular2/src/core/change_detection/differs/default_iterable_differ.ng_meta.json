@@ -30,16 +30,16 @@
     ]
   },
   "type": {
-    "DefaultIterableCallback": {
+    "CollectionChangeRecord": {
       "class": "Identifier",
-      "name": "DefaultIterableCallback",
+      "name": "CollectionChangeRecord",
       "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_iterable_differ.dart",
       "prefix": null,
       "value": null
     },
-    "TrackByFn": {
+    "DefaultIterableCallback": {
       "class": "Identifier",
-      "name": "TrackByFn",
+      "name": "DefaultIterableCallback",
       "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_iterable_differ.dart",
       "prefix": null,
       "value": null
@@ -51,9 +51,9 @@
       "prefix": null,
       "value": null
     },
-    "CollectionChangeRecord": {
+    "TrackByFn": {
       "class": "Identifier",
-      "name": "CollectionChangeRecord",
+      "name": "TrackByFn",
       "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_iterable_differ.dart",
       "prefix": null,
       "value": null
