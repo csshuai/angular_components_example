@@ -101,7 +101,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "defaultPopupPositions",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/popup/src/popup_service.dart",
               "prefix": null,
               "value": null
             },
@@ -112,7 +112,7 @@
           "useValue": {
             "class": "Identifier",
             "name": "inlinePositions",
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/module.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/popup/module.dart",
             "prefix": null,
             "value": null
           },
@@ -127,7 +127,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "AcxImperativeViewUtils",
-              "moduleUrl": "asset:angular2_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
+              "moduleUrl": "asset:angular_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
               "prefix": null,
               "value": null
             },
@@ -136,7 +136,7 @@
           "useClass": {
             "class": "Type",
             "name": "AcxImperativeViewUtils",
-            "moduleUrl": "asset:angular2_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
+            "moduleUrl": "asset:angular_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -167,7 +167,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "DomService",
-                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/utils/browser/dom_service/dom_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -196,7 +196,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "DomRuler",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/ruler/dom_ruler.dart",
               "prefix": null,
               "value": null
             },
@@ -205,7 +205,7 @@
           "useClass": {
             "class": "Type",
             "name": "DomRuler",
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/ruler/dom_ruler.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -236,7 +236,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "DomService",
-                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/utils/browser/dom_service/dom_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -265,7 +265,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "DomService",
-              "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/utils/browser/dom_service/dom_service.dart",
               "prefix": null,
               "value": null
             },
@@ -278,7 +278,7 @@
             "class": "Factory",
             "name": "createDomService",
             "prefix": null,
-            "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/angular_2.dart",
+            "moduleUrl": "asset:angular_components/lib/src/utils/browser/dom_service/angular_2.dart",
             "value": null,
             "diDeps": [
               {
@@ -287,7 +287,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "DomService",
-                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/utils/browser/dom_service/dom_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -307,7 +307,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "Disposer",
-                    "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/utils/disposer/disposer.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -327,7 +327,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "ManagedZone",
-                    "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -371,7 +371,7 @@
                 "identifier": {
                   "class": "Identifier",
                   "name": "DomService",
-                  "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                  "moduleUrl": "asset:angular_components/lib/src/utils/browser/dom_service/dom_service.dart",
                   "prefix": null,
                   "value": null
                 },
@@ -391,7 +391,7 @@
                 "identifier": {
                   "class": "Identifier",
                   "name": "Disposer",
-                  "moduleUrl": "asset:angular2_components/lib/src/utils/disposer/disposer.dart",
+                  "moduleUrl": "asset:angular_components/lib/src/utils/disposer/disposer.dart",
                   "prefix": null,
                   "value": null
                 },
@@ -411,7 +411,7 @@
                 "identifier": {
                   "class": "Identifier",
                   "name": "ManagedZone",
-                  "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
+                  "moduleUrl": "asset:angular_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
                   "prefix": null,
                   "value": null
                 },
@@ -454,7 +454,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "ManagedZone",
-              "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
+              "moduleUrl": "asset:angular_components/lib/src/utils/angular/managed_zone/src/managed_zone.dart",
               "prefix": null,
               "value": null
             },
@@ -463,7 +463,7 @@
           "useClass": {
             "class": "Type",
             "name": "Angular2ManagedZone",
-            "moduleUrl": "asset:angular2_components/lib/src/utils/angular/managed_zone/angular_2.dart",
+            "moduleUrl": "asset:angular_components/lib/src/utils/angular/managed_zone/angular_2.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -503,7 +503,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "overlayContainerName",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
               "prefix": null,
               "value": null
             },
@@ -516,7 +516,7 @@
             "class": "Factory",
             "name": "getDefaultContainerName",
             "prefix": null,
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/module.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/module.dart",
             "value": null,
             "diDeps": [
               {
@@ -525,7 +525,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlayContainerName",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -551,7 +551,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "overlayContainerToken",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
               "prefix": null,
               "value": null
             },
@@ -564,7 +564,7 @@
             "class": "Factory",
             "name": "getDefaultContainer",
             "prefix": null,
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/module.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/module.dart",
             "value": null,
             "diDeps": [
               {
@@ -573,7 +573,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlayContainerName",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -593,7 +593,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlayContainerParent",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -613,7 +613,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlayContainerToken",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -639,7 +639,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "overlayContainerParent",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
               "prefix": null,
               "value": null
             },
@@ -652,7 +652,7 @@
             "class": "Factory",
             "name": "getOverlayContainerParent",
             "prefix": null,
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/module.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/module.dart",
             "value": null,
             "diDeps": [
               {
@@ -681,7 +681,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlayContainerParent",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -707,7 +707,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "overlaySyncDom",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
               "prefix": null,
               "value": null
             },
@@ -727,7 +727,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "OverlayDomRenderService",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
               "prefix": null,
               "value": null
             },
@@ -736,7 +736,7 @@
           "useClass": {
             "class": "Type",
             "name": "OverlayDomRenderService",
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -747,7 +747,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "OverlayStyleConfig",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -767,7 +767,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlayContainerToken",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -787,7 +787,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlayContainerName",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -807,7 +807,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "DomRuler",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/ruler/dom_ruler.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -827,7 +827,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "DomService",
-                    "moduleUrl": "asset:angular2_components/lib/src/utils/browser/dom_service/dom_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/utils/browser/dom_service/dom_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -847,7 +847,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "AcxImperativeViewUtils",
-                    "moduleUrl": "asset:angular2_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/utils/angular/imperative_view/imperative_view.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -867,7 +867,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlaySyncDom",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -887,7 +887,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "ZIndexer",
-                    "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/css/acux/zindexer.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -916,7 +916,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "OverlayStyleConfig",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
               "prefix": null,
               "value": null
             },
@@ -925,7 +925,7 @@
           "useClass": {
             "class": "Type",
             "name": "OverlayStyleConfig",
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_style_config.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -965,7 +965,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "OverlayService",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/overlay_service.dart",
               "prefix": null,
               "value": null
             },
@@ -974,7 +974,7 @@
           "useClass": {
             "class": "Type",
             "name": "OverlayDomService",
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_dom_service.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/overlay_dom_service.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -1005,7 +1005,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "overlaySyncDom",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -1025,7 +1025,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "OverlayDomRenderService",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/render/overlay_dom_render_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -1045,7 +1045,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "OverlayService",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/overlay_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -1087,7 +1087,7 @@
             "class": "Factory",
             "name": "getDocument",
             "prefix": null,
-            "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
+            "moduleUrl": "asset:angular_components/lib/src/utils/browser/window/module.dart",
             "value": null,
             "diDeps": []
           },
@@ -1114,7 +1114,7 @@
             "class": "Factory",
             "name": "getWindow",
             "prefix": null,
-            "moduleUrl": "asset:angular2_components/lib/src/utils/browser/window/module.dart",
+            "moduleUrl": "asset:angular_components/lib/src/utils/browser/window/module.dart",
             "value": null,
             "diDeps": []
           },
@@ -1128,7 +1128,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "ZIndexer",
-              "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+              "moduleUrl": "asset:angular_components/lib/src/css/acux/zindexer.dart",
               "prefix": null,
               "value": null
             },
@@ -1137,7 +1137,7 @@
           "useClass": {
             "class": "Type",
             "name": "ZIndexer",
-            "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+            "moduleUrl": "asset:angular_components/lib/src/css/acux/zindexer.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -1156,7 +1156,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "DomPopupSourceFactory",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/popup/src/dom_popup_source.dart",
               "prefix": null,
               "value": null
             },
@@ -1165,7 +1165,7 @@
           "useClass": {
             "class": "Type",
             "name": "DomPopupSourceFactory",
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/dom_popup_source.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/popup/src/dom_popup_source.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -1196,7 +1196,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "DomRuler",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/ruler/dom_ruler.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/ruler/dom_ruler.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -1225,7 +1225,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "PopupService",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/popup/src/popup_service.dart",
               "prefix": null,
               "value": null
             },
@@ -1234,7 +1234,7 @@
           "useClass": {
             "class": "Type",
             "name": "PopupService",
-            "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
+            "moduleUrl": "asset:angular_components/lib/src/laminate/popup/src/popup_service.dart",
             "prefix": null,
             "isHost": false,
             "value": null,
@@ -1245,7 +1245,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "defaultPopupPositions",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/popup/src/popup_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -1265,7 +1265,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "OverlayService",
-                    "moduleUrl": "asset:angular2_components/lib/src/laminate/overlay/src/overlay_service.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/laminate/overlay/src/overlay_service.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -1285,7 +1285,7 @@
                   "identifier": {
                     "class": "Identifier",
                     "name": "ZIndexer",
-                    "moduleUrl": "asset:angular2_components/lib/src/css/acux/zindexer.dart",
+                    "moduleUrl": "asset:angular_components/lib/src/css/acux/zindexer.dart",
                     "prefix": null,
                     "value": null
                   },
@@ -1402,7 +1402,7 @@
             "identifier": {
               "class": "Identifier",
               "name": "PopupSizeProvider",
-              "moduleUrl": "asset:angular2_components/lib/src/laminate/popup/src/popup_size_provider.dart",
+              "moduleUrl": "asset:angular_components/lib/src/laminate/popup/src/popup_size_provider.dart",
               "prefix": null,
               "value": null
             },
