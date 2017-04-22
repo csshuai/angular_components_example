@@ -7,7 +7,7 @@
         "5": false
       },
       {
-        "1": "package:angular2_components/angular2_components.dart",
+        "1": "package:angular_components/angular_components.dart",
         "5": false
       }
     ],
@@ -55,7 +55,7 @@
         "4": "i0"
       },
       {
-        "1": "package:angular2_components/angular2_components.template.dart",
+        "1": "package:angular_components/angular_components.template.dart",
         "4": "i1"
       }
     ]
