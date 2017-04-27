@@ -4672,6 +4672,13 @@
       "prefix": null,
       "value": null
     },
+    "DefaultKeyValueDiffer": {
+      "class": "Identifier",
+      "name": "DefaultKeyValueDiffer",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_keyvalue_differ.dart",
+      "prefix": null,
+      "value": null
+    },
     "DefaultValueAccessor": {
       "class": "Directive",
       "isComponent": false,
@@ -7655,6 +7662,13 @@
       "viewProviders": [],
       "queries": [],
       "viewQueries": []
+    },
+    "KeyValueChangeRecord": {
+      "class": "Identifier",
+      "name": "KeyValueChangeRecord",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_keyvalue_differ.dart",
+      "prefix": null,
+      "value": null
     },
     "KeyboardOnlyFocusIndicatorDirective": {
       "class": "Directive",
@@ -21576,6 +21590,13 @@
       "class": "Identifier",
       "name": "_MAX_CONSTRUCTION_COUNTER",
       "moduleUrl": "asset:angular2/lib/src/core/di/reflective_injector.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_MapHandler": {
+      "class": "Identifier",
+      "name": "_MapHandler",
+      "moduleUrl": "asset:angular2/lib/src/core/change_detection/differs/default_keyvalue_differ.dart",
       "prefix": null,
       "value": null
     },
