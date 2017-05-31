@@ -1,98 +1,15 @@
 /*
- * Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file
+ * Copyright (c) 2017, the Dart project authors.  Please see the AUTHORS file
  * for details. All rights reserved. Use of this source code is governed by a
  * BSD-style license that can be found in the LICENSE file.
  */
-.blue {
-  background-color: #2196F3;
-  color: white;
+
+.source-link:link, .source-link:visited, .source-link:active {
+  display: block;
+  padding-bottom: 10px;
 }
 
-.red:not([raised]) {
-  color: #f44336;
-}
-
-.red[raised] {
-  background-color: #f44336;
-  color: white;
-}
-
-.white {
-  background-color: white;
-  color: #4285f4;
-}
-
-.limited-width {
-  width: 50%;
-}
-
-.dark-background {
-  background: #424242;
-  color: white;
-}
-
-.basic-dialog,
-.basic-scrolling-dialog,
-.max-height-dialog,
-.headered-dialog,
-.custom-colors-dialog,
-.no-header-footer-dialog {
-  width: 480px;
-}
-
-.basic-scrolling-dialog {
-  height: 320px;
-}
-
-.basic-scrolling-dialog > div {
-  padding: 8px;
-}
-
-.max-height-dialog {
-  max-height: 40vh;
-}
-
-.dialog-with-error,
-.info-dialog {
-  width: 320px;
-}
-
-.custom-colors-dialog {
-  background-color: #b7e1cd;
-}
-
-.no-header-footer-dialog {
-  height: 6em;
-}
-
-.bordered-list {
-  border: 1px solid #000;
-  border-radius: 8px;
-  display: inline-block;
-  margin: 8px;
-  overflow: hidden;
-}
-
-.example-with-options {
-  display: flex;
-}
-
-.example-pane {
-  flex: 1;
-}
-
-.options-pane {
-  flex: 1;
-  padding: 16px;
-  background: #eee;
-}
-
-.options-pane > material-checkbox {
-  margin-left: 0;
-}
-
-.option-label {
-  display: inline-flex;
-  padding: 10px 0px;
-  width: 50%;
+.source-link:hover {
+  display: block;
+  padding-bottom: 10px;
 }

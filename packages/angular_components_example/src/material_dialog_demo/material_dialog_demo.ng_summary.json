@@ -1,0 +1,84 @@
+{
+  "ngDeps": {
+    "1": "",
+    "3": [
+      {
+        "1": "package:angular2/angular2.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular_components/angular_components.dart",
+        "5": false
+      }
+    ],
+    "5": [
+      {
+        "1": "MaterialDialogDemoComponent",
+        "7": [
+          {
+            "2": "CORE_DIRECTIVES"
+          },
+          {
+            "2": "AutoDismissDirective"
+          },
+          {
+            "2": "AutoFocusDirective"
+          },
+          {
+            "2": "GlyphComponent"
+          },
+          {
+            "2": "MaterialButtonComponent"
+          },
+          {
+            "2": "MaterialDialogComponent"
+          },
+          {
+            "2": "ModalComponent"
+          }
+        ]
+      }
+    ],
+    "6": "material_dialog_demo.dart"
+  },
+  "type": {
+    "MaterialDialogDemoComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-dialog-demo",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialDialogDemoComponent",
+        "moduleUrl": "asset:angular_components_example/lib/src/material_dialog_demo/material_dialog_demo.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 0,
+        "template": "<!--\n  Copyright (c) 2017, the Dart project authors.  Please see the AUTHORS file\n  for details. All rights reserved. Use of this source code is governed by a\n  BSD-style license that can be found in the LICENSE file.\n-->\n<h3>Basic no-frills dialogs</h3>\n\n<!-- Basic Dialog -->\n<material-button (trigger)=\"showBasicDialog = true\"\n                 [disabled]=\"showBasicDialog\"\n                 raised\n                 class=\"blue\">\n  Open Basic\n</material-button>\n\n<modal [visible]=\"showBasicDialog\">\n  <material-dialog class=\"basic-dialog\">\n\n    <h3 header>Dialog title</h3>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum\n      lacus est, eusagittis ligula fermentum vel. Maecenas facilisis leo dolor,\n      quis rhoncus sem imperdiet vel. Vestibulum vitae tristique orci. Ut\n      lobortis varius convallis. Ut nec egestas diam. Nunc in tincidunt erat.\n      Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverra.\n    </p>\n\n    <div footer>\n      <material-button autoFocus\n                       clear-size\n                       (trigger)=\"showBasicDialog = false\"\n                       class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<!-- Basic Scrolling Dialog -->\n<material-button (trigger)=\"showBasicScrollingDialog = true\"\n                 [disabled]=\"showBasicScrollingDialog\"\n                 raised\n                 class=\"blue\">\n  Open Basic Scrolling\n</material-button>\n\n<modal [visible]=\"showBasicScrollingDialog\">\n  <material-dialog class=\"basic-scrolling-dialog\">\n\n    <h3 header>Dialog title</h3>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum\n      lacus est, eu sagittis ligula fermentum vel. Maecenas facilisis leo dolor,\n      quis rhoncus sem imperdiet vel. Vestibulum vitae tristique orci. Ut\n      lobortis varius convallis. Ut nec egestas diam. Nunc in tincidunt erat.\n      Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverra am. Nunc in tincidunt erat. Vivamus\n      porttitor molestie ligula, vitae dictum elit ornare quis. Donec imperdiet\n      venenatis justo ac viverr am. Nunc in tincidunt erat. Vivamus porttitor\n      molestie ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis\n      justo ac viverr am. Nunc in tincidunt erat. Vivamus porttitor molestie\n      ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac\n      viverr am. Nunc in tincidunt erat. Vivamus porttitor molestie ligula,\n      vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac viverr.\n    </p>\n\n    <p>\n      Aenean scelerisque posuere augue, vitae ornare felis ultricies nec.\n      Integer tincidunt libero quis diam congue, ac congue augue posuere.\n      Quisque vel dui a libero finibus imperdiet. Donec ac sapien eget ante\n      volutpat hendrerit. Nunc vel aliquam sapien. Sed dolor libero, posuere a\n      ex eget, fermentum aliquet augue. Phasellus lobortis vitae lorem at\n      egestas. Morbi et ante ultrices ligula dignissim tincidunt non a sem.\n      Morbi tempor posuere sapien sit amet sodales. Praesent ac felis hendrerit,\n      luctus augue et, tristique neque. Nulla scelerisque, urna non iaculis\n      auctor, nisi orci vehicula tellus, sed rhoncus purus eros rhoncus erat.\n      Mauris in mollis nisl. Mauris pretium erat id feugiat mollis. Nam at\n      molestie nisi. Mauris pretium pulvinar neque, sit amet sagittis felis\n      hendrerit suscipit.\n    </p>\n\n    <div footer>\n      <material-button autoFocus\n                       clear-size\n                       (trigger)=\"showBasicScrollingDialog = false\"\n                       class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<!-- Max Height Dialog -->\n<material-button (trigger)=\"showMaxHeightDialog = true\"\n                 [disabled]=\"showMaxHeightDialog\"\n                 raised\n                 class=\"blue\">\n  Open Max Height\n</material-button>\n\n<modal [visible]=\"showMaxHeightDialog\">\n  <material-dialog class=\"max-height-dialog\">\n\n    <h3 header>Dialog title</h3>\n\n    <p *ngFor=\"let maxHeightDialogLine of maxHeightDialogLines\">\n      {{maxHeightDialogLine}}\n    </p>\n\n    <div footer>\n      <material-button (trigger)=\"removeMaxHeightDialogLine()\"\n                       [disabled]=\"maxHeightDialogLines.isEmpty\"\n                       class=\"white\">\n        Remove Some Text\n      </material-button>\n      <material-button (trigger)=\"addMaxHeightDialogLine()\" class=\"white\">\n        Add Some Text\n      </material-button>\n      <material-button autoFocus\n                       (trigger)=\"showMaxHeightDialog = false\"\n                       class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<h3>Headered dialogs</h3>\n<!-- Headered Dialog -->\n<material-button (trigger)=\"showHeaderedDialog = true\"\n                 [disabled]=\"showHeaderedDialog\"\n                 raised\n                 class=\"blue\">\n  Open Headered\n</material-button>\n\n<modal [(visible)]=\"showHeaderedDialog\">\n  <material-dialog headered class=\"headered-dialog\">\n\n    <div header>\n      <h3>Dialog Title</h3>\n      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec\n        fermentum lacus est.\n      </p>\n    </div>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum\n      lacus est, eu sagittis ligula fermentum vel. Maecenas facilisis leo dolor,\n      quis rhoncus sem imperdiet vel. Vestibulum vitae tristique orci. Ut\n      lobortis varius convallis. Ut nec egestas diam. Nunc in tincidunt erat.\n      Vivamus porttitor molestie ligula, vitae dictum elit ornare quis. Donec\n      imperdiet venenatis justo ac viverra am. Nunc in tincidunt erat. Vivamus\n      porttitor molestie ligula, vitae dictum elit ornare quis. Donec imperdiet\n      venenatis justo ac viverr am. Nunc in tincidunt erat. Vivamus porttitor\n      molestie ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis\n      justo ac viverr am. Nunc in tincidunt erat. Vivamus porttitor molestie\n      ligula, vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac\n      viverr am. Nunc in tincidunt erat. Vivamus porttitor molestie ligula,\n      vitae dictum elit ornare quis. Donec imperdiet venenatis justo ac viverr.\n    </p>\n\n    <div footer>\n      <material-button autoFocus\n                       clear-size\n                       (trigger)=\"showHeaderedDialog = false\"\n                       class=\"white\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<!-- Dialog with Error -->\n<material-button (trigger)=\"showDialogWithError = true\"\n                 [disabled]=\"showDialogWithError\"\n                 raised\n                 class=\"blue\">\n  Open dialog with an error\n</material-button>\n\n<modal [(visible)]=\"showDialogWithError\">\n  <material-dialog headered\n                   class=\"dialog-with-error\"\n                   [error]=\"dialogWithErrorErrorMessage\">\n\n    <div header>\n      <h3>Dialog Title</h3>\n    </div>\n\n    <material-button raised\n                     (trigger)=\"toggleErrorMessage()\"\n                     class=\"blue error-button\">\n      {{dialogWithErrorErrorMessage == null ? 'Show' : 'Hide'}} Error Message\n    </material-button>\n\n    <div footer>\n      <material-button autoFocus\n                       class=\"white\"\n                       (trigger)=\"showDialogWithError = false\">\n        Close\n      </material-button>\n    </div>\n\n  </material-dialog>\n</modal>\n\n<h3>Info dialogs</h3>\n<!-- Info Dialog -->\n<material-button (trigger)=\"showInfoDialog = true\"\n                 [disabled]=\"showInfoDialog\"\n                 raised\n                 class=\"blue\">\n  Open Info\n</material-button>\n\n<modal [visible]=\"showInfoDialog\">\n  <material-dialog info class=\"info-dialog\">\n\n    <div header>\n      <material-button icon autoFocus (trigger)=\"showInfoDialog = false\">\n        <glyph icon=\"close\"></glyph>\n      </material-button>\n\n      <h3>Information</h3>\n    </div>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum\n      lacus est, eu sagittis ligula fermentum vel. Maecenas facilisis leo dolor,\n      quis rhoncus sem imperdiet.\n    </p>\n\n  </material-dialog>\n</modal>\n\n<!-- Dialog with auto dismiss -->\n<material-button (trigger)=\"showAutoDismissDialog = true\"\n                 [disabled]=\"showAutoDismissDialog\"\n                 raised\n                 class=\"blue\">\n  Open with auto dismiss\n</material-button>\n\n<modal [(visible)]=\"showAutoDismissDialog\">\n  <material-dialog\n      info\n      class=\"info-dialog\"\n      [autoDismissable]=\"showAutoDismissDialog\"\n      (dismiss)=\"showAutoDismissDialog = false\">\n\n    <div header>\n      <material-button icon autoFocus (trigger)=\"showAutoDismissDialog = false\">\n        <glyph icon=\"close\"></glyph>\n      </material-button>\n\n      <h3>Auto Dismiss</h3>\n    </div>\n\n    <p>Click outside the dialog to dismiss.</p>\n\n  </material-dialog>\n</modal>\n\n<h3>Custom dialogs</h3>\n<!-- Dialog with custom background colors -->\n<material-button (trigger)=\"showCustomColorsDialog = true\"\n                 [disabled]=\"showCustomColorsDialog\"\n                 raised\n                 class=\"blue\">\n  Open custom background colors\n</material-button>\n\n<modal [(visible)]=\"showCustomColorsDialog\">\n  <material-dialog headered info class=\"custom-colors-dialog\">\n\n    <div header>\n      <material-button icon\n                       autoFocus\n                       (trigger)=\"showCustomColorsDialog = false\">\n        <glyph icon=\"close\"></glyph>\n      </material-button>\n\n      <h3>Information</h3>\n    </div>\n\n    <p>\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum\n      lacus est, eu sagittis ligula fermentum vel. Maecenas facilisis leo dolor,\n      quis rhoncus sem imperdiet.\n    </p>\n\n  </material-dialog>\n</modal>\n\n<!-- Dialog with no header and footer -->\n<material-button (trigger)=\"showNoHeaderFooterDialog = true\"\n                 [disabled]=\"showNoHeaderFooterDialog\"\n                 raised\n                 class=\"blue\">\n  Open no header or footer\n</material-button>\n\n<modal [(visible)]=\"showNoHeaderFooterDialog\">\n  <material-dialog class=\"no-header-footer-dialog\"\n                   hideHeader=\"true\"\n                   hideFooter=\"true\">\n    <p>This custom dialog is good for inserting resuable widgets.</p>\n\n    <material-button (trigger)=\"showNoHeaderFooterDialog = false\"\n                     autoFocus\n                     raised\n                     class=\"blue\">\n      Close\n    </material-button>\n  </material-dialog>\n</modal>\n",
+        "templateUrl": "asset:angular_components_example/lib/src/material_dialog_demo/material_dialog_demo.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:angular_components_example/lib/src/material_dialog_demo/material_dialog_demo.css"
+        ],
+        "ngContentSelectors": []
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    }
+  },
+  "alias": {}
+}

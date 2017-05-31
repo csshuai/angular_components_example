@@ -1,0 +1,74 @@
+{
+  "ngDeps": {
+    "1": "",
+    "3": [
+      {
+        "1": "package:angular2/angular2.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular_components/angular_components.dart",
+        "5": false
+      }
+    ],
+    "5": [
+      {
+        "1": "MaterialToggleDemoComponent",
+        "7": [
+          {
+            "2": "MaterialToggleComponent"
+          }
+        ]
+      }
+    ],
+    "6": "material_toggle_demo.dart",
+    "7": [
+      {
+        "1": "package:angular2/angular2.template.dart",
+        "4": "i0"
+      },
+      {
+        "1": "package:angular_components/angular_components.template.dart",
+        "4": "i1"
+      }
+    ]
+  },
+  "type": {
+    "MaterialToggleDemoComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "material-toggle-demo",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "MaterialToggleDemoComponent",
+        "moduleUrl": "asset:angular_components_example/lib/src/material_toggle_demo/material_toggle_demo.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 2,
+        "template": "<!--\n  Copyright (c) 2017, the Dart project authors.  Please see the AUTHORS file\n  for details. All rights reserved. Use of this source code is governed by a\n  BSD-style license that can be found in the LICENSE file.\n-->\n<material-toggle label=\"Unchecked\"></material-toggle>\n<br/>\n<material-toggle [checked]=\"true\" label=\"Checked\"></material-toggle>\n<br/>\n<material-toggle [disabled]=\"true\" label=\"Disabled off\"></material-toggle>\n<br/>\n<material-toggle [disabled]=\"true\"\n                 [checked]=\"true\"\n                 label=\"Disabled on\">\n</material-toggle>\n",
+        "templateUrl": "asset:angular_components_example/lib/src/material_toggle_demo/material_toggle_demo.html",
+        "styles": [],
+        "styleUrls": [],
+        "ngContentSelectors": []
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    }
+  },
+  "alias": {}
+}
