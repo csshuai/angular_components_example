@@ -24784,7 +24784,7 @@ this.ax.appendChild(c0)
 x=S.f(y,"a",this.ax)
 this.aY=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/demo_app")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/demo_app")
 this.aY.setAttribute("target","_blank")
 this.j(this.aY)
 c1=y.createTextNode("\n    Example Source\n  ")
@@ -24839,7 +24839,7 @@ this.aI.appendChild(c7)
 c3=S.f(y,"a",this.aI)
 this.aW=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/glyph_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/glyph_demo")
 this.aW.setAttribute("target","_blank")
 this.j(this.aW)
 c8=y.createTextNode("\n    Example Source\n  ")
@@ -24894,7 +24894,7 @@ this.aX.appendChild(d3)
 x=S.f(y,"a",this.aX)
 this.b6=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_button_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_button_demo")
 this.b6.setAttribute("target","_blank")
 this.j(this.b6)
 d4=y.createTextNode("\n    Example Source\n  ")
@@ -24949,7 +24949,7 @@ this.aZ.appendChild(d9)
 c3=S.f(y,"a",this.aZ)
 this.bb=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_input_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_input_demo")
 this.bb.setAttribute("target","_blank")
 this.j(this.bb)
 e0=y.createTextNode("\n    Example Source\n  ")
@@ -25004,7 +25004,7 @@ this.bc.appendChild(e5)
 x=S.f(y,"a",this.bc)
 this.bo=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_checkbox_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_checkbox_demo")
 this.bo.setAttribute("target","_blank")
 this.j(this.bo)
 e6=y.createTextNode("\n    Example Source\n  ")
@@ -25059,7 +25059,7 @@ this.bJ.appendChild(f1)
 c3=S.f(y,"a",this.bJ)
 this.bq=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_spinner_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_spinner_demo")
 this.bq.setAttribute("target","_blank")
 this.j(this.bq)
 f2=y.createTextNode("\n    Example Source\n  ")
@@ -25114,7 +25114,7 @@ this.br.appendChild(f7)
 x=S.f(y,"a",this.br)
 this.by=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_yes_no_buttons_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_yes_no_buttons_demo")
 this.by.setAttribute("target","_blank")
 this.j(this.by)
 f8=y.createTextNode("\n    Example Source\n  ")
@@ -25169,7 +25169,7 @@ this.bR.appendChild(g3)
 c3=S.f(y,"a",this.bR)
 this.c0=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_chips_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_chips_demo")
 this.c0.setAttribute("target","_blank")
 this.j(this.c0)
 g4=y.createTextNode("\n    Example Source\n  ")
@@ -25224,7 +25224,7 @@ this.cJ.appendChild(g9)
 x=S.f(y,"a",this.cJ)
 this.ck=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_expansionpanel_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_expansionpanel_demo")
 this.ck.setAttribute("target","_blank")
 this.j(this.ck)
 h0=y.createTextNode("\n    Example Source\n  ")
@@ -25279,7 +25279,7 @@ this.cq.appendChild(h5)
 c3=S.f(y,"a",this.cq)
 this.cb=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_progress_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_progress_demo")
 this.cb.setAttribute("target","_blank")
 this.j(this.cb)
 h6=y.createTextNode("\n    Example Source\n  ")
@@ -25334,7 +25334,7 @@ this.cs.appendChild(i1)
 x=S.f(y,"a",this.cs)
 this.c3=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_radio_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_radio_demo")
 this.c3.setAttribute("target","_blank")
 this.j(this.c3)
 i2=y.createTextNode("\n    Example Source\n  ")
@@ -25389,7 +25389,7 @@ this.cB.appendChild(i7)
 c3=S.f(y,"a",this.cB)
 this.bY=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_tab_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_tab_demo")
 this.bY.setAttribute("target","_blank")
 this.j(this.bY)
 i8=y.createTextNode("\n    Example Source\n  ")
@@ -25444,7 +25444,7 @@ this.cO.appendChild(j3)
 x=S.f(y,"a",this.cO)
 this.da=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_toggle_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_toggle_demo")
 this.da.setAttribute("target","_blank")
 this.j(this.da)
 j4=y.createTextNode("\n    Example Source\n  ")
@@ -25499,7 +25499,7 @@ this.cE.appendChild(j9)
 c3=S.f(y,"a",this.cE)
 this.cZ=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/reorder_list_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/reorder_list_demo")
 this.cZ.setAttribute("target","_blank")
 this.j(this.cZ)
 k0=y.createTextNode("\n    Example Source\n  ")
@@ -25554,7 +25554,7 @@ this.cQ.appendChild(k5)
 x=S.f(y,"a",this.cQ)
 this.d0=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/scorecard_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/scorecard_demo")
 this.d0.setAttribute("target","_blank")
 this.j(this.d0)
 k6=y.createTextNode("\n    Example Source\n  ")
@@ -25609,7 +25609,7 @@ this.ek.appendChild(l1)
 c3=S.f(y,"a",this.ek)
 this.ez=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_popup_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_popup_demo")
 this.ez.setAttribute("target","_blank")
 this.j(this.ez)
 l2=y.createTextNode("\n    Example Source\n  ")
@@ -25664,7 +25664,7 @@ this.eo.appendChild(l7)
 x=S.f(y,"a",this.eo)
 this.eS=x
 x.className="source-link"
-x.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_dialog_demo")
+x.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_dialog_demo")
 this.eS.setAttribute("target","_blank")
 this.j(this.eS)
 l8=y.createTextNode("\n    Example Source\n  ")
@@ -25720,7 +25720,7 @@ this.ep.appendChild(m4)
 m0=S.f(y,"a",this.ep)
 this.eV=m0
 m0.className="source-link"
-m0.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_tooltip_demo")
+m0.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_tooltip_demo")
 this.eV.setAttribute("target","_blank")
 this.j(this.eV)
 m5=y.createTextNode("\n    Example Source\n  ")
@@ -25775,7 +25775,7 @@ this.ff.appendChild(n0)
 c3=S.f(y,"a",this.ff)
 this.hM=c3
 c3.className="source-link"
-c3.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_list_demo")
+c3.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_list_demo")
 this.hM.setAttribute("target","_blank")
 this.j(this.hM)
 n1=y.createTextNode("\n    Example Source\n  ")
@@ -25830,7 +25830,7 @@ this.fg.appendChild(n6)
 m0=S.f(y,"a",this.fg)
 this.hP=m0
 m0.className="source-link"
-m0.setAttribute("href","https://github.com/dart-lang/angular_components_examples/tree/master/lib/src/material_select_demo")
+m0.setAttribute("href","https://github.com/dart-lang/angular_components_example/tree/master/lib/src/material_select_demo")
 this.hP.setAttribute("target","_blank")
 this.j(this.hP)
 n7=y.createTextNode("\n    Example Source\n  ")
