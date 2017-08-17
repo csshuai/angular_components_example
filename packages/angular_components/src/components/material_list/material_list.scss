@@ -11,6 +11,7 @@
  * to include CSS generation from SASS files during the build process.
  */
 
+@import 'lib/src/css/shared/compass_polyfills';
 @import 'lib/src/css/material/material';
 @import 'compass/css3/transition',
         'compass/css3/flexbox';
@@ -119,4 +120,3 @@ $x-large: 7;
     @include list-item-base-rtl;
   }
 }
-
