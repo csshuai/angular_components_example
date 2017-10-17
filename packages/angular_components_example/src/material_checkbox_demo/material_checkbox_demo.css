@@ -1,9 +1,27 @@
-/*
- * Copyright (c) 2017, the Dart project authors.  Please see the AUTHORS file
- * for details. All rights reserved. Use of this source code is governed by a
- * BSD-style license that can be found in the LICENSE file.
- */
-
 .limited-width {
-  width: 50%;
+  width: 160px;
+}
+
+::ng-deep .cyan material-checkbox.themeable .icon-container .icon.filled {
+  color: #00bcd4;
+}
+
+::ng-deep .cyan material-checkbox .icon-container .ripple.filled {
+  color: #00bcd4;
+}
+
+::ng-deep .pink material-checkbox.themeable .icon-container .icon.filled {
+  color: #e91e63;
+}
+
+::ng-deep .pink material-checkbox .icon-container .ripple.filled {
+  color: #e91e63;
+}
+
+::ng-deep .yellow material-checkbox.themeable .icon-container .icon.filled {
+  color: #ffeb3b;
+}
+
+::ng-deep .yellow material-checkbox .icon-container .ripple.filled {
+  color: #ffeb3b;
 }

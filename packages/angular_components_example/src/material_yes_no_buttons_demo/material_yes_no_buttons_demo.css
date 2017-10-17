@@ -1,0 +1,26 @@
+::ng-deep material-yes-no-buttons.red-yes .btn-yes[raised],
+::ng-deep material-yes-no-buttons.red-yes .btn-yes.btn:not([disabled]).highlighted[raised] {
+  background-color: #db4437;
+}
+
+::ng-deep material-yes-no-buttons.red-no .btn-no[raised] {
+  background-color: #db4437;
+}
+
+::ng-deep material-yes-no-buttons.red-no .btn-no {
+  color: #fff;
+}
+
+::ng-deep material-yes-no-buttons.red-text-yes .btn-yes {
+  color: #db4437;
+}
+
+.examples {
+  display: inline-flex;
+}
+
+.outline {
+  padding: 8px;
+  border: 1px dashed #9e9e9e;
+  width: 400px;
+}

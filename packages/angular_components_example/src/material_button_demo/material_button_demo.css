@@ -1,19 +1,18 @@
-/*
- * Copyright (c) 2017, the Dart project authors.  Please see the AUTHORS file
- * for details. All rights reserved. Use of this source code is governed by a
- * BSD-style license that can be found in the LICENSE file.
- */
-
-.red:not([raised]):not([disabled]) {
-  color: #f44336;
+:host ::ng-deep material-button[raised].red:not([disabled]) {
+  background-color: #db4437;
 }
-
-.red[raised]:not([disabled]) {
-  background-color: #f44336;
-  color: white;
+:host ::ng-deep material-button[raised].red:not([disabled]):not([icon]):not([raised]):not(.xyzxyz):hover {
+  background-color: #db4437;
 }
-
-.white {
-  background-color: white;
-  color: #4285f4;
+:host ::ng-deep material-button[raised].red:not([disabled]) > .content {
+  color: #fff;
+}
+:host ::ng-deep material-button[raised].red:not([disabled]):hover > .content {
+  color: #fff;
+}
+:host ::ng-deep material-button:not([raised]).red:not([disabled]) > .content {
+  color: #db4437;
+}
+:host ::ng-deep material-button:not([raised]).red:not([disabled]):hover > .content {
+  color: #db4437;
 }

@@ -1,14 +1,8 @@
-/*
- * Copyright (c) 2017, the Dart project authors.  Please see the AUTHORS file
- * for details. All rights reserved. Use of this source code is governed by a
- * BSD-style license that can be found in the LICENSE file.
- */
-
 .bordered-list {
   border: 1px solid #000;
   border-radius: 8px;
   display: inline-block;
-  margin: 8px;
+  margin: 16px;
   overflow: hidden;
 }
 
@@ -23,15 +17,15 @@
 .options-pane {
   flex: 1;
   padding: 16px;
-  background: #eee;
+  background: #eeeeee;
 }
 
-.options-pane > material-checkbox {
-  margin-left: 0;
+.options-pane > material-checkbox ::ng-deep {
+  margin-left: -3px;
 }
 
 .option-label {
   display: inline-flex;
-  padding: 10px 0px;
+  padding: 8px 0px;
   width: 50%;
 }

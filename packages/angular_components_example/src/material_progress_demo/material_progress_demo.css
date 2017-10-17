@@ -1,0 +1,12 @@
+.custom-theme ::ng-deep material-progress .progress-container.indeterminate {
+  background-color: #f4c7c3;
+}
+.custom-theme ::ng-deep material-progress .progress-container.indeterminate > .secondary-progress {
+  background-color: #db4437;
+}
+.custom-theme ::ng-deep material-progress .active-progress {
+  background-color: #db4437;
+}
+.custom-theme ::ng-deep material-progress .secondary-progress {
+  background-color: #eda29b;
+}
