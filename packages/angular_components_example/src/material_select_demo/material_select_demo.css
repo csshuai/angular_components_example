@@ -20,7 +20,7 @@
   background: #eeeeee;
 }
 
-.options-pane > material-checkbox ::ng-deep {
+.options-pane > material-checkbox {
   margin-left: -3px;
 }
 

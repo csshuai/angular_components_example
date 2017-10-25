@@ -1,18 +1,9 @@
 :host ::ng-deep material-button[raised].red:not([disabled]) {
   background-color: #db4437;
 }
-:host ::ng-deep material-button[raised].red:not([disabled]):not([icon]):not([raised]):not(.xyzxyz):hover {
-  background-color: #db4437;
-}
-:host ::ng-deep material-button[raised].red:not([disabled]) > .content {
+:host ::ng-deep material-button[raised].red:not([disabled]):not([icon]) {
   color: #fff;
 }
-:host ::ng-deep material-button[raised].red:not([disabled]):hover > .content {
-  color: #fff;
-}
-:host ::ng-deep material-button:not([raised]).red:not([disabled]) > .content {
-  color: #db4437;
-}
-:host ::ng-deep material-button:not([raised]).red:not([disabled]):hover > .content {
+:host ::ng-deep material-button:not([raised]).red:not([disabled]):not([icon]) {
   color: #db4437;
 }

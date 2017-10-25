@@ -1,12 +1,6 @@
 :host ::ng-deep material-button.blue:not([disabled]) {
   background-color: #4285f4;
 }
-:host ::ng-deep material-button.blue:not([disabled]):not([icon]):not([raised]):not(.xyzxyz):hover {
-  background-color: #4285f4;
-}
-:host ::ng-deep material-button.blue:not([disabled]) > .content {
-  color: #fff;
-}
-:host ::ng-deep material-button.blue:not([disabled]):hover > .content {
+:host ::ng-deep material-button.blue:not([disabled]):not([icon]) {
   color: #fff;
 }

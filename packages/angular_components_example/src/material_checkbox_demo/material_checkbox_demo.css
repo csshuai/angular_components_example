@@ -2,26 +2,14 @@
   width: 160px;
 }
 
-::ng-deep .cyan material-checkbox.themeable .icon-container .icon.filled {
+::ng-deep .cyan material-checkbox.themeable:not(.disabled) .icon-container .icon.filled, ::ng-deep .cyan material-checkbox:not(.disabled) .icon-container .ripple.filled {
   color: #00bcd4;
 }
 
-::ng-deep .cyan material-checkbox .icon-container .ripple.filled {
-  color: #00bcd4;
-}
-
-::ng-deep .pink material-checkbox.themeable .icon-container .icon.filled {
+::ng-deep .pink material-checkbox.themeable:not(.disabled) .icon-container .icon.filled, ::ng-deep .pink material-checkbox:not(.disabled) .icon-container .ripple.filled {
   color: #e91e63;
 }
 
-::ng-deep .pink material-checkbox .icon-container .ripple.filled {
-  color: #e91e63;
-}
-
-::ng-deep .yellow material-checkbox.themeable .icon-container .icon.filled {
-  color: #ffeb3b;
-}
-
-::ng-deep .yellow material-checkbox .icon-container .ripple.filled {
+::ng-deep .yellow material-checkbox.themeable:not(.disabled) .icon-container .icon.filled, ::ng-deep .yellow material-checkbox:not(.disabled) .icon-container .ripple.filled {
   color: #ffeb3b;
 }
