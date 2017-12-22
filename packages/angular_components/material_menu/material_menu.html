@@ -10,12 +10,13 @@
     [disabled]="disabled"
     [materialTooltip]="tooltipText"
     [showTooltipIf]="hasTooltip"
+    class="trigger-button"
     popupSource
     #toggle="popupSource">
-  <glyph
+  <material-icon
       *ngIf="menu.uiIcon != null"
       [icon]="menu.uiIcon">
-  </glyph>
+  </material-icon>
   <span *ngIf="buttonText != null">{{buttonText}}</span>
 </material-button>
 <menu-popup
@@ -24,7 +25,6 @@
     [menu]="menu"
     [popupSource]="toggle"
     [preferredPositions]="preferredPositions"
-    [visible]="isExpanded"
     [width]="width">
   <ng-content></ng-content>
 </menu-popup>

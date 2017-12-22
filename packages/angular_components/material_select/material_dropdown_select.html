@@ -60,7 +60,7 @@
           [attr.id]="activeModel.id(deselectLabel)"
           (mouseenter)="activeModel.activate(deselectLabel)">
       </material-select-dropdown-item>
-      <div *ngFor="let group of options.optionGroups trackBy trackByIndexFn"
+      <div *ngFor="let group of options.optionGroups; trackBy: trackByIndexFn"
           group
           [class.empty]="group.isEmpty && !group.hasEmptyLabel">
         <template [ngIf]="group.isNotEmpty || group.hasEmptyLabel">
@@ -68,8 +68,9 @@
             {{group.uiDisplayName}}
           </span>
           <dynamic-component
-              *ngIf="labelRenderer != null"
-              [componentType]="labelRenderer(group)"
+              *ngIf="labelRenderer != null || labelFactory != null"
+              [componentType]="labelRenderer != null ? labelRenderer(group) : null"
+              [componentFactory]="labelFactory != null ? labelFactory(group) : null"
               [value]="group">
           </dynamic-component>
           <template [ngIf]="group.isNotEmpty">
@@ -77,8 +78,10 @@
                 keyboardOnlyFocusIndicator
                 [itemRenderer]="itemRenderer"
                 [componentRenderer]="componentRenderer"
+                [factoryRenderer]="factoryRenderer"
                 [selection]="selection"
                 [disabled]="isOptionDisabled(item)"
+                [isHidden]="isOptionHidden(item)"
                 [value]="item"
                 [active]="activeModel.isActive(item)"
                 [attr.id]="activeModel.id(item)"
