@@ -1,7 +1,0 @@
-.nounderline ::ng-deep dropdown-button ::ng-deep .button.border {
-  border-bottom: 0;
-  padding-bottom: 0;
-}
-.nounderline ::ng-deep dropdown-button ::ng-deep .button .icon {
-  opacity: initial;
-}
