@@ -3,7 +3,7 @@
   "engine": "v1",
   "file": "main.dart.js_18.part.js",
   "sourceRoot": "",
-  "sources": ["packages/angular_components/model/ui/has_factory.template.dart","packages/angular_components/model/selection/selection_container.template.dart"],
+  "sources": ["../web/packages/angular_components/model/ui/has_factory.template.dart","../web/packages/angular_components/model/selection/selection_container.template.dart"],
   "names": ["initReflector"],
   "mappings": "A;;GAcAA,WACEA,GAAIA,I,CACFA;AAEFA;AAIMA,MACRA,A;GCRAA,WACEA,GAAIA,KACFA;AAEFA;AAEMA;AACAA;AACAA,OACRA,A"
 }

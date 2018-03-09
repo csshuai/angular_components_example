@@ -577,8 +577,10 @@ U.ar.prototype={
 Ee:function(n){return n.a+"Doc"},
 Ed:function(n){return n.a.P(0)+"Demo"},
 mm:function(n,o){return J.UV(document.querySelector(o))},
-v5:function(n){var y=C.f.cl(n,"example")?"https://github.com/dart-lang/angular_components_example/blob/master":"https://github.com/dart-lang/angular_components/blob/master"
-return y+C.f.ek(n,C.f.e9(n,"/"))}}
+v5:function(n){var y,x
+if(C.f.cl(n,"example")){y=n
+x="https://github.com/dart-lang/angular_components_example/blob/master/example/"}else{y=C.f.ek(n,C.f.e9(n,"/"))
+x="https://github.com/dart-lang/angular_components/blob/master"}return x+y}}
 K.Ex.prototype={
 Gf:function(n,o){var y=document.createElement("gallery-component")
 this.e=y
@@ -1371,5 +1373,5 @@ $.d4=null
 $.YD=!1})()
 i([{func:1,ret:[S.a,U.ar],args:[S.a,P.k]},{func:1,v:true,args:[,]},{func:1,ret:S.a,args:[S.a,P.k]},{func:1,ret:[S.a,Z.cB],args:[S.a,P.k]}]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["thXxeD07IGy1QN7OwXkyOj1njxA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["xm558teNb9A2bj1nAzwO7FU/tFE="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_2.part.js.map

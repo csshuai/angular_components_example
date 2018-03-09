@@ -3,7 +3,7 @@
   "engine": "v1",
   "file": "main.dart.js_9.part.js",
   "sourceRoot": "",
-  "sources": ["packages/angular_components/model/selection/selection_options.dart","packages/angular_components/model/collection/labeled_list.dart","packages/angular_components/model/selection/selection_container.dart"],
+  "sources": ["../web/packages/angular_components/model/selection/selection_options.dart","../web/packages/angular_components/model/collection/labeled_list.dart","../web/packages/angular_components/model/selection/selection_container.dart"],
   "names": ["OptionGroup.withLabel","LabeledList.withLabel","SelectionContainer.selection","SelectionContainer.options","SelectionContainer.itemRenderer","SelectionContainer.componentRenderer","SelectionContainer.factoryRenderer","OptionGroup.withLabel.<anonymous function>"],
   "mappings": "A;;GA+BEA;EACkCA,O,CAAWA;ECNrBC,QAAWA;ODKnCD,oBAEmCA,A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IEnBnCE,WAAgCA,OAAGA,OAAUA,A;IAC7CA,YACEA,SACFA,A;IAKAC,cACEA,SACFA,A;IAMAC,WAAiCA,OAAGA,OAAaA,A;IAEjDA,YACEA,SACFA,A;IAMAC,WAAwCA,OAAGA,OAAkBA,A;IAI7DA,YACEA,SACFA,A;IAMAC,WAAoCA,OAAGA,OAAgBA,A;IAEvDA,YACEA,SACFA,A;;;;GFxB6CC,WAAGA,OAAGA,O"
 }

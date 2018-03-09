@@ -3,7 +3,7 @@
   "engine": "v1",
   "file": "main.dart.js_45.part.js",
   "sourceRoot": "",
-  "sources": ["packages/angular_components/model/selection/selection_options.dart","../../../homebrew/Cellar/dart/2.0.0-dev.30.0/libexec/lib/async/stream_controller.dart","../../../homebrew/Cellar/dart/2.0.0-dev.30.0/libexec/lib/async/broadcast_stream_controller.dart"],
+  "sources": ["../web/packages/angular_components/model/selection/selection_options.dart","../../../homebrew/Cellar/dart/2.0.0-dev.30.0/libexec/lib/async/stream_controller.dart","../../../homebrew/Cellar/dart/2.0.0-dev.30.0/libexec/lib/async/broadcast_stream_controller.dart"],
   "names": ["SelectionOptions.fromList","SelectionOptions","StreamController.broadcast","_SyncBroadcastStreamController","_BroadcastStreamController"],
   "mappings": "A;;GA2FEA;AALsBC,OAMMD,SCkDkBE,I;ADnD9CF,WE2QAG,QDxN8CD,UC3C/BE,ED2C+BF;ADxD5CD;SAMwED,A"
 }

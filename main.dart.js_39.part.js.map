@@ -3,7 +3,7 @@
   "engine": "v1",
   "file": "main.dart.js_39.part.js",
   "sourceRoot": "",
-  "sources": ["packages/angular_components/material_select/display_name.template.dart","packages/angular_components/material_select/display_name.dart"],
+  "sources": ["../web/packages/angular_components/material_select/display_name.template.dart","../web/packages/angular_components/material_select/display_name.dart"],
   "names": ["initReflector","_displayNameRenderer.<anonymous function>","_displayNameRenderer"],
   "mappings": "A;;IAeAA,WACEA,GAAIA,K,CACFA;AAEFA;AAEMA;AACAA,OAERA,A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GCRIC,YAAeA,OAASA,AAANA,sBAA2BA,A;;;uKADjDC,WAA2BA,OACvBA,WAA0DA,A"
 }
