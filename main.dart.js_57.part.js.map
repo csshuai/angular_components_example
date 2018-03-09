@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v1",
+  "file": "main.dart.js_57.part.js",
+  "sourceRoot": "",
+  "sources": ["packages/quiver/src/core/hash.dart","../../../homebrew/Cellar/dart/2.0.0-dev.30.0/libexec/lib/_internal/js_runtime/lib/js_number.dart"],
+  "names": ["hash4","JSNumber.hashCode"],
+  "mappings": "A;;IA4BAA,kBAAsBA,OAAGA,KAAQA,KAC7BA,KAASA,KAASA,OAAYA,O,EAAaA,SCqNzBC,6BDpNND,A"
+}

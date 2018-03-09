@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v1",
+  "file": "main.dart.js_26.part.js",
+  "sourceRoot": "",
+  "sources": ["packages/angular_components/utils/angular/properties/properties.dart"],
+  "names": ["getBool"],
+  "mappings": "A;;GA2CAA,YACEA,GAAeA,O,WAAeA;AAE9BA,uBAA0BA,OAAOA;AACjCA,wBAAwBA;UAElBA,wDAERA,A"
+}

@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v1",
+  "file": "main.dart.js_48.part.js",
+  "sourceRoot": "",
+  "sources": ["packages/angular/src/core/linker/app_view_utils.dart"],
+  "names": ["flattenNodes"],
+  "mappings": "A;;GA4EAA;;AAEEA,IAAkCA,G,CAAEA,EAAhBA,MAClBA,SAAcA,KAChBA;AACAA,SACFA,A"
+}

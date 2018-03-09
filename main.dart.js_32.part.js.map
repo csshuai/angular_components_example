@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v1",
+  "file": "main.dart.js_32.part.js",
+  "sourceRoot": "",
+  "sources": ["packages/angular_forms/src/directives/ng_form_control.dart","../../../homebrew/Cellar/dart/2.0.0-dev.30.0/libexec/lib/async/broadcast_stream_controller.dart"],
+  "names": ["NgFormControl.ngAfterChanges","NgFormControl.form","NgFormControl.model","NgFormControl.path","NgFormControl.validator","NgFormControl.control","NgFormControl.viewToModelUpdate","_BroadcastStreamController.add"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GAyGEA;AACEA,GAAIA,M,EACFA;AACAA,KAhCgBC;AAiChBD,cAEFA,GAAIA,QACFA;AACeA;AAAQA;AAAvBA,GAAIA,uBArCYC,AAsCdD;AACAA,OA7BeE,SAgCrBF,A;IAGAG,YAAsBA,SAAKA,A;IAG3BC,WAA0BA,OAAGA,MAAkBA,QAAYA,A;IAG3DC,YAAoBA,OAnDAJ,OAmDOI,A;GAG3BC;AACEA;AACAA;ACwHAC,GAAIA,CAACA,YAAoBA;AACzBA,ODxHFD,A"
+}
