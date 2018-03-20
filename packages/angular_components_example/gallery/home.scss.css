@@ -1,0 +1,35 @@
+:host {
+  display: block;
+  padding: 32px;
+  max-width: 720px;
+}
+:host h1 {
+  color: rgba(0, 0, 0, 0.54);
+  font: 400 34px / 40px Roboto, Noto, sans-serif;
+  letter-spacing: 0em;
+  color: #4285f4;
+}
+:host h2 {
+  color: rgba(0, 0, 0, 0.87);
+  font: 400 24px / 32px Roboto, Noto, sans-serif;
+  letter-spacing: 0em;
+}
+:host h3 {
+  color: rgba(0, 0, 0, 0.87);
+  font: 400 15px / 24px Roboto, Noto, sans-serif;
+  letter-spacing: 0.01em;
+}
+:host .links {
+  list-style-type: none;
+}
+:host .links li > a {
+  color: #3367d6;
+  cursor: pointer;
+  text-decoration: none;
+}
+:host .links li > a:visited {
+  color: #673ab7;
+}
+:host .links li > a:active {
+  color: #c53929;
+}

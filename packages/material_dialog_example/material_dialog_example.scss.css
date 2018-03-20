@@ -1,0 +1,75 @@
+material-button[raised] {
+  background: #4285f4;
+  color: #fff;
+  margin: 0 8px 8px 0;
+}
+
+.basic-dialog,
+.basic-scrolling-dialog,
+.max-height-dialog,
+.headered-dialog {
+  width: 480px;
+}
+.basic-dialog [footer] material-button:not([disabled]),
+.basic-scrolling-dialog [footer] material-button:not([disabled]),
+.max-height-dialog [footer] material-button:not([disabled]),
+.headered-dialog [footer] material-button:not([disabled]) {
+  color: #4285f4;
+}
+
+.basic-scrolling-dialog {
+  height: 320px;
+}
+.basic-scrolling-dialog [footer] {
+  padding-top: 8px;
+}
+
+.max-height-dialog {
+  max-height: 60vh;
+}
+.max-height-dialog [footer] {
+  padding-top: 8px;
+}
+
+.info-dialog {
+  width: 320px;
+}
+
+.dialog-with-error {
+  width: 320px;
+}
+.dialog-with-error material-button {
+  margin: 8px 0;
+}
+.dialog-with-error material-button.close-button {
+  margin: 8px 0 0 0;
+}
+
+.custom-colors-dialog {
+  background-color: #f5f5f5;
+  width: 320px;
+}
+.custom-colors-dialog ::ng-deep .wrapper > header, .custom-colors-dialog[headered] ::ng-deep .wrapper > header {
+  background-color: #fff;
+}
+.custom-colors-dialog ::ng-deep .wrapper > header {
+  /*! @noflip */
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+}
+.custom-colors-dialog [header] h3 {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.no-header-footer-dialog {
+  width: 320px;
+}
+.no-header-footer-dialog ::ng-deep .wrapper > main, .no-header-footer-dialog[headered] ::ng-deep .wrapper > main {
+  padding: 0;
+}
+.no-header-footer-dialog p {
+  margin: 0;
+  padding: 24px;
+}
+.no-header-footer-dialog material-button {
+  margin: 0 0 24px 24px;
+}

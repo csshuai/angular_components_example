@@ -1,0 +1,51 @@
+material-button {
+  background: #4285f4;
+  color: #fff;
+}
+
+p {
+  margin: 0;
+}
+
+.auto-focus-section {
+  height: 80px;
+}
+.auto-focus-section material-button {
+  width: 104px;
+}
+
+.align-with-font-size {
+  font-size: 24px;
+  line-height: 13px;
+}
+
+.align-with-line-height {
+  font-size: 13px;
+  line-height: 24px;
+}
+
+.fill-width {
+  align-items: baseline;
+  border: 1px solid rgba(0, 0, 0, 0.87);
+  display: flex;
+  padding: 8px;
+  width: 800px;
+}
+.fill-width material-input {
+  flex-grow: 1;
+  margin-left: 8px;
+}
+
+.block-width {
+  display: block;
+  width: 320px;
+}
+
+[tooltipTarget] {
+  color: rgba(0, 0, 0, 0.54);
+  cursor: pointer;
+  outline: none;
+}
+[tooltipTarget]:hover, [tooltipTarget]:focus {
+  color: #3367d6;
+}

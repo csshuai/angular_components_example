@@ -1,0 +1,128 @@
+.calendar {
+  height: 400px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.pretty ::ng-deep .highlight.highlight-range::before {
+  background: #d1c4e9;
+}
+
+.pretty ::ng-deep .left.left-range::before {
+  border-left-color: #d1c4e9;
+}
+
+.pretty ::ng-deep .right.right-range::before {
+  border-right-color: #d1c4e9;
+}
+
+.pretty ::ng-deep .boundary.highlight.highlight-range:not(.active):not(.hover)::after {
+  background: #d1c4e9;
+}
+
+.pretty ::ng-deep .boundary.boundary-range.active:not(.hover) {
+  color: white;
+}
+.pretty ::ng-deep .boundary.boundary-range.active:not(.hover)::after {
+  background: #673ab7;
+}
+
+.pretty ::ng-deep .highlight.highlight-comparison::before {
+  background: #f8bbd0;
+}
+
+.pretty ::ng-deep .left.left-comparison::before {
+  border-left-color: #f8bbd0;
+}
+
+.pretty ::ng-deep .right.right-comparison::before {
+  border-right-color: #f8bbd0;
+}
+
+.pretty ::ng-deep .boundary.highlight.highlight-comparison:not(.active):not(.hover)::after {
+  background: #f8bbd0;
+}
+
+.pretty ::ng-deep .boundary.boundary-comparison.active:not(.hover) {
+  color: #fff;
+}
+.pretty ::ng-deep .boundary.boundary-comparison.active:not(.hover)::after {
+  background: #e91e63;
+}
+
+.overlap ::ng-deep .highlight.highlight-range::before {
+  background: #c6dafc;
+}
+
+.overlap ::ng-deep .left.left-range::before {
+  border-left-color: #c6dafc;
+}
+
+.overlap ::ng-deep .right.right-range::before {
+  border-right-color: #c6dafc;
+}
+
+.overlap ::ng-deep .boundary.highlight.highlight-range:not(.active):not(.hover)::after {
+  background: #c6dafc;
+}
+
+.overlap ::ng-deep .boundary.boundary-range.active:not(.hover) {
+  color: #fff;
+}
+.overlap ::ng-deep .boundary.boundary-range.active:not(.hover)::after {
+  background: #4285f4;
+}
+
+.overlap ::ng-deep .highlight.highlight-comparison::before {
+  background: #fce8b2;
+}
+
+.overlap ::ng-deep .left.left-comparison::before {
+  border-left-color: #fce8b2;
+}
+
+.overlap ::ng-deep .right.right-comparison::before {
+  border-right-color: #fce8b2;
+}
+
+.overlap ::ng-deep .boundary.highlight.highlight-comparison:not(.active):not(.hover)::after {
+  background: #fce8b2;
+}
+
+.overlap ::ng-deep .boundary.boundary-comparison.active:not(.hover) {
+  color: rgba(0, 0, 0, 0.87);
+}
+.overlap ::ng-deep .boundary.boundary-comparison.active:not(.hover)::after {
+  background: #f4b400;
+}
+
+.overlap ::ng-deep .highlight.highlight-range.highlight-comparison::before {
+  background: #b7e1cd;
+}
+
+.overlap ::ng-deep .left.left-range.left-comparison::before {
+  border-left-color: #b7e1cd;
+}
+
+.overlap ::ng-deep .right.right-range.right-comparison::before {
+  border-right-color: #b7e1cd;
+}
+
+.overlap ::ng-deep .boundary.highlight.highlight-range.highlight-comparison:not(.active):not(.hover)::after {
+  background: #b7e1cd;
+}
+
+.overlap ::ng-deep .boundary.boundary-range.boundary-comparison.active:not(.hover) {
+  color: #fff;
+}
+.overlap ::ng-deep .boundary.boundary-range.boundary-comparison.active:not(.hover)::after {
+  background: #0f9d58;
+}
+
+.overlap ::ng-deep .today .boundary.boundary-comparison:not(.boundary-range).circle {
+  border: 0;
+  height: inherit;
+  width: inherit;
+}

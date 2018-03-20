@@ -1,13 +1,5 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},R={},K={},V={},Y={},N={},E={},B={},S={},Q={},D={},M={},L={},Z={},A={},F={
-fm:function(){if($.Z8)return
-$.Z8=!0
-E.t()}},T={
-fY:function(){if($.Z9)return
-$.Z9=!0
-K.aL()
-N.bj()
-F.fm()}},O={},U={},X={}
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},R={},K={},V={},Y={},N={},E={},B={},S={},Q={},D={},M={},L={},Z={},A={},F={},T={},O={},U={},X={}
 var z=[C,H,J,P,W,G,R,K,V,Y,N,E,B,S,Q,D,M,L,Z,A,F,T,O,U,X]
 g([C,H,J,P,W,G,R,K,V,Y,N,E,B,S,Q,D,M,L,Z,A,F,T,O,U,X])
 C=h(m[0],C)
@@ -34,9 +26,8 @@ F=h(m[20],F)
 T=h(m[21],T)
 O=h(m[22],O)
 U=h(m[23],U)
-X=h(m[24],X);(function staticFields(){$.Z9=!1
-$.Z8=!1})()
+X=h(m[24],X)
 i([]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["55tJYcV1bIhja3dkjYJo3NIuhvg="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["KQq9OwyJcETe8rpYKRXczg0EU6E="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_18.part.js.map

@@ -1,0 +1,15 @@
+.bordered-list {
+  border: 1px solid #000;
+  border-radius: 8px;
+  margin: 8px;
+  overflow: hidden;
+}
+
+.trigger-box {
+  display: inline-flex;
+  cursor: pointer;
+}
+
+.custom-selected-color ::ng-deep .selected-accent.mixin {
+  background-color: #0f9d58;
+}

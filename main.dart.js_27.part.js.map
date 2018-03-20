@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "engine": "v1",
+  "engine": "v2",
   "file": "main.dart.js_27.part.js",
   "sourceRoot": "",
-  "sources": ["../web/packages/angular_components/model/ui/has_renderer.dart","../../../homebrew/Cellar/dart/2.0.0-dev.30.0/libexec/lib/core/errors.dart"],
-  "names": ["_nullRenderer","StateError"],
-  "mappings": "A;;IA+DAA,YAAoCA,WC0clCC,8C,EDzc6DD,A"
+  "sources": ["../packages/angular_components/utils/angular/properties/properties.dart"],
+  "names": ["getBool"],
+  "mappings": "A;;GA2CKA,YACHA,WAAwBA,UAAUA;AAElCA,uBAA0BA,OAAOA,QAKnCA;AAJEA,wBAAwBA,QAI1BA;AAFEA,UAAUA,uDAEZA,C"
 }

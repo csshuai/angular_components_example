@@ -1,0 +1,7 @@
+.custom-size ::ng-deep .material-icon-i {
+  font-size: 40px;
+}
+
+material-input {
+  width: 250px;
+}

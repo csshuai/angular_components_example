@@ -1,0 +1,116 @@
+div.control-bar {
+  margin: 8px;
+}
+
+::ng-deep material-chip.themeable.my-theme {
+  background-color: #db4437;
+  color: #fff;
+}
+::ng-deep material-chip.themeable.my-theme:hover {
+  background-color: #0f9d58;
+  color: #fff;
+}
+::ng-deep material-chip.themeable.my-theme:focus {
+  background-color: #1c3aa9;
+  color: #fff;
+}
+::ng-deep material-chip.themeable.my-theme[emphasis]:hover {
+  background-color: #0f9d58;
+}
+::ng-deep material-chip.themeable.my-theme[emphasis]:focus {
+  background-color: #1c3aa9;
+}
+::ng-deep material-chip.themeable.my-theme .delete-icon {
+  fill: #fff;
+}
+::ng-deep material-chip.themeable.my-theme .left-icon {
+  color: #fff;
+  fill: #fff;
+}
+::ng-deep material-chip.themeable.my-theme .left-icon {
+  background-color: #097138;
+  border-radius: 50%;
+  height: 32px;
+  margin-left: 0;
+  margin-right: -4px;
+  min-width: 32px;
+  padding: 0;
+  width: 32px;
+}
+
+::ng-deep material-chip.themeable.left-icon-bg {
+  background-color: #757575;
+  color: #fff;
+}
+::ng-deep material-chip.themeable.left-icon-bg:hover {
+  background-color: #616161;
+  color: #fff;
+}
+::ng-deep material-chip.themeable.left-icon-bg:focus {
+  background-color: #616161;
+  color: #fff;
+}
+::ng-deep material-chip.themeable.left-icon-bg[emphasis]:hover {
+  background-color: #616161;
+}
+::ng-deep material-chip.themeable.left-icon-bg[emphasis]:focus {
+  background-color: #616161;
+}
+::ng-deep material-chip.themeable.left-icon-bg .delete-icon {
+  fill: #fff;
+}
+::ng-deep material-chip.themeable.left-icon-bg .left-icon {
+  background-color: #4285f4;
+  border-radius: 50%;
+  height: 32px;
+  margin-left: 0;
+  margin-right: -4px;
+  min-width: 32px;
+  padding: 0;
+  width: 32px;
+}
+
+.left-icon-bg material-icon {
+  color: #fff;
+  fill: #fff;
+}
+
+.clickable material-chip {
+  cursor: pointer;
+}
+.clickable material-chip[emphasis]:hover {
+  background-color: #3367d6;
+}
+.clickable material-chip[emphasis]:focus {
+  background-color: #1c3aa9;
+}
+.clickable material-chip:focus {
+  background-color: #757575;
+  color: #fff;
+  outline: none;
+}
+.clickable material-chip:focus ::ng-deep .delete-icon {
+  fill: #fff;
+}
+.clickable material-chip:hover {
+  background-color: #bdbdbd;
+  color: #fff;
+}
+.clickable material-chip:hover ::ng-deep .delete-icon {
+  fill: #fff;
+}
+
+.dense ::ng-deep material-chip {
+  height: 24px;
+  border-radius: 12px;
+  margin: 2px 4px;
+}
+.dense ::ng-deep material-chip .content {
+  font-size: 13px;
+}
+.dense ::ng-deep material-chip .delete-icon {
+  margin-right: 0;
+}
+.dense ::ng-deep material-chip .left-icon {
+  margin-left: 0;
+}

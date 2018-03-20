@@ -1,0 +1,7 @@
+:host {
+  flex-basis: 100%;
+}
+
+material-progress {
+  display: block;
+}

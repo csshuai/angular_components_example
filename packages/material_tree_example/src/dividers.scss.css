@@ -1,0 +1,11 @@
+.tree-border-expanded ::ng-deep .material-tree-item > .material-tree-shift > .material-tree-border.is-parent.is-expanded {
+  display: block;
+}
+
+.tree-border-parent ::ng-deep .material-tree-item > .material-tree-shift > .material-tree-border.is-parent {
+  display: block;
+}
+
+.tree-border-all ::ng-deep .material-tree-item > .material-tree-shift > .material-tree-border {
+  display: block;
+}

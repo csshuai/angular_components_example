@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "engine": "v1",
+  "engine": "v2",
   "file": "main.dart.js_10.part.js",
   "sourceRoot": "",
-  "sources": ["../web/packages/angular_components/model/ui/has_renderer.dart","../web/packages/angular_components/model/collection/labeled_list.dart","../web/packages/angular_components/src/model/selection/interfaces/selectable.dart"],
-  "names": ["defaultItemRenderer","LabeledList.withLabel.<anonymous function>","SelectableOption.toString"],
-  "mappings": "A;;IA0DAA,YAA0CA,OAAKA,M,CAAMA,A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GChChBC,WAAGA,OAAGA,O;;;;;EChBtCC,0B"
+  "sources": ["../packages/angular_components/model/collection/labeled_list.dart"],
+  "names": ["LabeledList.withLabel.<anonymous function>","LabeledList$withLabel_closure"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GA0BqCA,WAAMA,aAAKA,C;;;GAAXC,0B"
 }

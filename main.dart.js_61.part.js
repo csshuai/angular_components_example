@@ -1,40 +1,72 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={jZ:function jZ(n){this.a=n}},R={},K={},V={},Y={},N={},E={},B={},S={},Q={
-Ut:function(n){var y={}
-y.a=null
-y.b=!0
-y.c=null
-return new Q.R1(y,n)},
-R1:function R1(n,o){this.a=n
-this.b=o}},D={},M={fF:function fF(n,o,p,q){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q},OZ:function OZ(){},lX:function lX(){},xJ:function xJ(){}},L={
-al5:function(n,o){var y=new L.Lo(null,null,P.c(),n,null,null,null)
-y.a=S.d(y,3,C.d,o)
-y.d=$.SC
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},R={},K={},V={},Y={},N={
+awV:function(n,o){var y=new N.RI(null,null,null,P.d(),n,null,null,null)
+y.a=S.c(y,3,C.j,o,null)
 return y},
-al6:function(n,o){var y=new L.Lp(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),n,null,null,null)
-y.a=S.d(y,3,C.i,o)
+am0:function(){if($.a85)return
+$.a85=!0
+$.$get$E().t(0,C.rU,C.dU)
+O.am1()
+E.q()
+K.cu()},
+KO:function KO(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
+_.r=n
+_.x=o
+_.y=p
+_.z=q
+_.Q=r
+_.ch=s
+_.cx=t
+_.cy=u
+_.db=v
+_.dx=w
+_.dy=x
+_.fr=y
+_.fx=a0
+_.fy=a1
+_.go=a2
+_.id=a3
+_.k1=a4
+_.k2=a5
+_.k3=a6
+_.k4=a7
+_.r1=a8
+_.a=a9
+_.b=b0
+_.c=b1
+_.d=b2
+_.e=b3
+_.f=b4},
+RI:function RI(n,o,p,q,r,s,t,u){var _=this
+_.r=n
+_.x=o
+_.a=p
+_.b=q
+_.c=r
+_.d=s
+_.e=t
+_.f=u}},E={},B={kh:function kh(n){this.a=n}},S={},Q={},D={h3:function h3(n,o,p){this.a=n
+this.b=o
+this.c=p}},M={},L={},Z={},A={},F={},T={},O={
+awT:function(n,o){var y=new O.xl(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.T(["$implicit",null]),n,null,null,null)
+y.a=S.c(y,3,C.d,o,null)
+y.d=$.Z_
 return y},
-abY:function(){if($.a_Y)return
-$.a_Y=!0
-$.$get$D().u(0,C.cZ,C.ij)
-E.t()
-V.eh()
-L.cG()
-T.ln()
-U.uZ()
-T.ls()
-D.ei()
-U.di()
-A.eE()
-Y.PZ()
-R.iW()
-K.aL()
-N.bj()},
-te:function te(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8,r9,s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,t0,t1,t2,t3,t4,t5,t6,t7,t8,t9,u0,u1,u2,u3,u4,u5,u6,u7,u8,u9,v0,v1,v2,v3,v4,v5,v6,v7,v8,v9,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9,x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,y0,y1,y2,y3,y4,y5,y6,y7,y8,y9,z0,z1,z2,z3,z4,z5,z6,z7,z8,z9,aa0,aa1,aa2,aa3,aa4,aa5,aa6,aa7,aa8,aa9,ab0,ab1,ab2,ab3,ab4,ab5,ab6,ab7,ab8,ab9,ac0){var _=this
+awU:function(n,o){var y=new O.RH(null,null,null,P.d(),n,null,null,null)
+y.a=S.c(y,3,C.j,o,null)
+return y},
+am1:function(){if($.a86)return
+$.a86=!0
+$.$get$E().t(0,C.fX,C.jb)
+E.q()
+U.acl()
+K.acm()
+M.bN()
+B.jh()
+E.qE()
+M.lv()
+K.bc()},
+uP:function uP(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -63,319 +95,170 @@ _.x1=b2
 _.x2=b3
 _.y1=b4
 _.y2=b5
-_.U=b6
-_.N=b7
-_.T=b8
-_.J=b9
-_.K=c0
+_.T=b6
+_.P=b7
+_.V=b8
+_.K=b9
+_.L=c0
 _.F=c1
-_.V=c2
-_.a_=c3
-_.R=c4
-_.S=c5
-_.M=c6
+_.Y=c2
+_.a6=c3
+_.X=c4
+_.Z=c5
+_.R=c6
 _.ac=c7
-_.a8=c8
-_.ad=c9
-_.af=d0
-_.ag=d1
-_.am=d2
-_.ak=d3
-_.al=d4
-_.O=d5
-_.aq=d6
-_.a6=d7
-_.ah=d8
-_.a4=d9
-_.aE=e0
-_.an=e1
-_.ay=e2
-_.ax=e3
-_.ar=e4
-_.az=e5
-_.at=e6
-_.ap=e7
-_.aA=e8
-_.au=e9
-_.aT=f0
+_.ab=c8
+_.aa=c9
+_.ad=d0
+_.af=d1
+_.ai=d2
+_.ag=d3
+_.an=d4
+_.U=d5
+_.al=d6
+_.ar=d7
+_.a8=d8
+_.ap=d9
+_.ao=e0
+_.aB=e1
+_.aw=e2
+_.aC=e3
+_.at=e4
+_.aI=e5
+_.aN=e6
+_.az=e7
+_.as=e8
+_.aA=e9
+_.aO=f0
 _.aj=f1
-_.aP=f2
-_.bh=f3
-_.aB=f4
-_.aF=f5
-_.bc=f6
-_.bw=f7
-_.ao=f8
-_.aD=f9
-_.aG=g0
-_.b9=g1
-_.aY=g2
-_.av=g3
-_.aw=g4
-_.bV=g5
-_.aC=g6
-_.aZ=g7
-_.b_=g8
-_.ba=g9
-_.aN=h0
-_.aH=h1
-_.bd=h2
-_.b0=h3
-_.aW=h4
-_.aJ=h5
-_.a9=h6
-_.bM=h7
-_.b3=h8
-_.bm=h9
-_.bk=i0
-_.bt=i1
-_.aS=i2
-_.aI=i3
-_.bE=i4
-_.b1=i5
-_.bj=i6
-_.aR=i7
-_.b6=i8
-_.bI=i9
-_.bp=j0
-_.bl=j1
-_.b2=j2
-_.bu=j3
-_.bC=j4
-_.b7=j5
-_.bq=j6
-_.c8=j7
-_.bx=j8
-_.bn=j9
-_.bJ=k0
-_.c_=k1
-_.aU=k2
-_.bK=k3
+_.aK=f2
+_.bt=f3
+_.aE=f4
+_.aG=f5
+_.aY=f6
+_.bM=f7
+_.ax=f8
+_.bn=f9
+_.au=g0
+_.be=g1
+_.b_=g2
+_.aD=g3
+_.aF=g4
+_.ce=g5
+_.aL=g6
+_.b8=g7
+_.b5=g8
+_.bf=g9
+_.aR=h0
+_.aS=h1
+_.b6=h2
+_.bB=h3
+_.aV=h4
+_.bv=h5
+_.ah=h6
+_.bw=h7
+_.b7=h8
+_.bC=h9
+_.bu=i0
+_.bx=i1
+_.b2=i2
+_.aP=i3
+_.aZ=i4
+_.bb=i5
+_.br=i6
+_.b9=i7
+_.bc=i8
+_.bU=i9
+_.bh=j0
+_.bH=j1
+_.ba=j2
+_.bN=j3
+_.bI=j4
+_.bE=j5
+_.bO=j6
+_.c2=j7
+_.bJ=j8
+_.bi=j9
+_.bK=k0
+_.c3=k1
+_.b3=k2
+_.c0=k3
 _.bT=k4
-_.bg=k5
-_.b8=k6
-_.aV=k7
-_.c9=k8
-_.br=k9
-_.c0=l0
-_.bP=l1
-_.aL=l2
-_.bs=l3
-_.c1=l4
-_.cg=l5
-_.bv=l6
-_.cm=l7
-_.bF=l8
-_.bU=l9
-_.cn=m0
-_.c2=m1
-_.by=m2
+_.b4=k5
+_.bs=k6
+_.bm=k7
+_.cq=k8
+_.bF=k9
+_.cc=l0
+_.bV=l1
+_.aQ=l2
+_.bP=l3
+_.co=l4
+_.cr=l5
+_.bz=l6
+_.cu=l7
+_.bQ=l8
+_.bW=l9
+_.cA=m0
+_.bX=m1
+_.bd=m2
 _.bL=m3
-_.c6=m4
-_.c5=m5
-_.c3=m6
-_.bz=m7
-_.cG=m8
-_.bQ=m9
-_.co=n0
-_.bX=n1
-_.cv=n2
-_.cs=n3
-_.bR=n4
-_.ca=n5
-_.cd=n6
-_.bG=n7
-_.cH=n8
-_.cb=n9
-_.ci=o0
-_.ce=o1
-_.cp=o2
-_.cS=o3
+_.c5=m4
+_.c1=m5
+_.c6=m6
+_.bA=m7
+_.cH=m8
+_.bR=m9
+_.cv=n0
+_.cd=n1
+_.cO=n2
+_.cB=n3
+_.c7=n4
+_.ck=n5
+_.cC=n6
+_.c4=n7
+_.cZ=n8
+_.cg=n9
+_.cl=o0
+_.cs=o1
+_.ci=o2
+_.cP=o3
 _.bY=o4
 _.cD=o5
-_.cC=o6
-_.c4=o7
+_.ct=o6
+_.bZ=o7
 _.cw=o8
-_.cK=o9
-_.cE=p0
-_.cF=p1
-_.cT=p2
-_.cP=p3
-_.cQ=p4
-_.cW=p5
-_.cX=p6
-_.d0=p7
-_.dv=p8
-_.da=p9
-_.dg=q0
-_.di=q1
-_.dq=q2
-_.dJ=q3
-_.d5=q4
-_.dK=q5
-_.cI=q6
-_.d6=q7
-_.dw=q8
-_.dm=q9
-_.dL=r0
-_.d1=r1
-_.d7=r2
-_.dA=r3
-_.dM=r4
-_.dR=r5
-_.dr=r6
-_.dE=r7
-_.cq=r8
-_.f6=r9
-_.en=s0
-_.eO=s1
-_.f7=s2
-_.f8=s3
-_.eP=s4
-_.eQ=s5
-_.e7=s6
-_.eR=s7
-_.ds=s8
-_.ef=s9
-_.eA=t0
-_.e1=t1
-_.f9=t2
-_.eg=t3
-_.fa=t4
-_.fb=t5
-_.e2=t6
-_.fs=t7
-_.eS=t8
-_.eh=t9
-_.eo=u0
-_.ft=u1
-_.eB=u2
-_.dS=u3
-_.eC=u4
-_.dn=u5
-_.fN=u6
-_.eT=u7
-_.fu=u8
-_.fO=u9
-_.eD=v0
-_.h3=v1
-_.ep=v2
-_.hR=v3
-_.dt=v4
-_.eU=v5
-_.eq=v6
-_.eV=v7
-_.e8=v8
-_.hv=v9
-_.fv=w0
-_.eE=w1
-_.h4=w2
-_.ei=w3
-_.fj=w4
-_.h5=w5
-_.eW=w6
-_.fw=w7
-_.h6=w8
-_.dT=w9
-_.fk=x0
-_.h7=x1
-_.h8=x2
-_.fz=x3
-_.fA=x4
-_.hS=x5
-_.fP=x6
-_.fl=x7
-_.eF=x8
-_.hw=x9
-_.hT=y0
-_.ij=y1
-_.fB=y2
-_.fQ=y3
-_.iS=y4
-_.fC=y5
-_.fR=y6
-_.hU=y7
-_.iT=y8
-_.eX=y9
-_.fD=z0
-_.h9=z1
-_.iU=z2
-_.fE=z3
-_.fF=z4
-_.iV=z5
-_.jz=z6
-_.ha=z7
-_.ik=z8
-_.kl=z9
-_.il=aa0
-_.lK=aa1
-_.km=aa2
-_.lL=aa3
-_.hx=aa4
-_.lM=aa5
-_.hb=aa6
-_.im=aa7
-_.kn=aa8
-_.lN=aa9
-_.io=ab0
-_.ko=ab1
-_.hc=ab2
-_.lO=ab3
-_.kp=ab4
-_.a=ab5
-_.b=ab6
-_.c=ab7
-_.d=ab8
-_.e=ab9
-_.f=ac0},
-Fi:function Fi(){},
-Fj:function Fj(){},
-Fk:function Fk(){},
-Lo:function Lo(n,o,p,q,r,s,t){var _=this
-_.r=n
-_.a=o
-_.b=p
-_.c=q
-_.d=r
-_.e=s
-_.f=t},
-Lp:function Lp(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.ch=s
-_.cx=t
-_.cy=u
-_.db=v
-_.dx=w
-_.dy=x
-_.fr=y
-_.fx=a0
-_.fy=a1
-_.go=a2
-_.id=a3
-_.k1=a4
-_.k2=a5
-_.k3=a6
-_.a=a7
-_.b=a8
-_.c=a9
-_.d=b0
-_.e=b1
-_.f=b2}},Z={},A={je:function je(){}},F={r_:function r_(n,o){this.a=n
-this.b=o},
-al7:function(n,o){var y=new F.Lq(null,null,null,P.c(),n,null,null,null)
-y.a=S.d(y,3,C.i,o)
-return y},
-abX:function(){if($.a_X)return
-$.a_X=!0
-$.$get$D().u(0,C.pG,C.dS)
-L.abY()
-E.t()
-K.c9()},
-Fl:function Fl(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
+_.cQ=o9
+_.cI=p0
+_.cR=p1
+_.d3=p2
+_.d_=p3
+_.d0=p4
+_.d8=p5
+_.d9=p6
+_.dd=p7
+_.dP=p8
+_.dm=p9
+_.dw=q0
+_.dB=q1
+_.dJ=q2
+_.e2=q3
+_.dh=q4
+_.e3=q5
+_.cW=q6
+_.di=q7
+_.dQ=q8
+_.dE=q9
+_.e4=r0
+_.de=r1
+_.dj=r2
+_.a=r3
+_.b=r4
+_.c=r5
+_.d=r6
+_.e=r7
+_.f=r8},
+xl:function xl(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -396,14 +279,13 @@ _.k1=a4
 _.k2=a5
 _.k3=a6
 _.k4=a7
-_.r1=a8
-_.a=a9
-_.b=b0
-_.c=b1
-_.d=b2
-_.e=b3
-_.f=b4},
-Lq:function Lq(n,o,p,q,r,s,t,u){var _=this
+_.a=a8
+_.b=a9
+_.c=b0
+_.d=b1
+_.e=b2
+_.f=b3},
+RH:function RH(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -411,8 +293,7 @@ _.b=q
 _.c=r
 _.d=s
 _.e=t
-_.f=u}},T={mS:function mS(n,o){this.a=n
-this.$ti=o}},O={},U={},X={}
+_.f=u}},U={},X={}
 var z=[C,H,J,P,W,G,R,K,V,Y,N,E,B,S,Q,D,M,L,Z,A,F,T,O,U,X]
 g([C,H,J,P,W,G,R,K,V,Y,N,E,B,S,Q,D,M,L,Z,A,F,T,O,U,X])
 C=h(m[0],C)
@@ -440,1844 +321,1305 @@ T=h(m[21],T)
 O=h(m[22],O)
 U=h(m[23],U)
 X=h(m[24],X)
-Q.R1.prototype={
-$1:function(n){var y,x
-y=this.a
-if(!y.b){x=y.c
-x=x==null?n!=null:x!==n}else x=!0
-if(x){y.b=!1
-y.c=n
-y.a=this.b.$1(n)}return y.a},
-"call*":"$1",
-$R:1,
-$S:function(){return{func:1,args:[,]}}}
-F.r_.prototype={
-l8:function(n,o){return o*this.a},
-l7:function(n,o){return o*this.b}}
-A.je.prototype={
-du:function(n,o){return this.a.du(0,o)},
-cM:function(n){return this.a.cM(n)},
-gbZ:function(n){var y=this.a
-return y.gbZ(y)},
-gcJ:function(n){var y=this.a
-return y.gcJ(y)},
-gbe:function(){return this.a.gbe()},
-eI:function(n){this.a.fr$.eI(n)},
-ghY:function(){var y=this.a.fr$.a
-return(y==null?y:y.d!=null)===!0},
-ghn:function(){return this.a.ghn()}}
-T.mS.prototype={
-e0:function(n){return!1}}
-G.jZ.prototype={}
-F.Fl.prototype={
-gz5:function(){var y=this.Q
+B.kh.prototype={
+gaW:function(){return this.a}}
+N.KO.prototype={
+gAD:function(){var y=this.Q
 if(y==null){y=window
 this.Q=y}return y},
-gnj:function(){var y=this.ch
+got:function(){var y=this.ch
 if(y==null){y=this.c
-y=T.bd(y.m(C.b,this.a.Q,null),y.m(C.z,this.a.Q,null),y.n(C.e,this.a.Q),this.gz5())
+y=T.b2(y.m(C.b,this.a.Q,null),y.m(C.A,this.a.Q,null),y.n(C.e,this.a.Q),this.gAD())
 this.ch=y}return y},
-gz2:function(){var y=this.cx
-if(y==null){y=new O.aZ(this.c.n(C.U,this.a.Q),this.gnj())
+gAA:function(){var y=this.cx
+if(y==null){y=new O.aH(this.c.n(C.R,this.a.Q),this.got())
 this.cx=y}return y},
-gni:function(){var y=this.cy
+gos:function(){var y=this.cy
 if(y==null){y=document
 this.cy=y}return y},
-gqM:function(){var y=this.db
-if(y==null){y=new K.b_(this.gni(),this.gnj(),P.ba(null))
+gtg:function(){var y=this.db
+if(y==null){y=new K.aI(this.gos(),this.got(),P.aU(null,[P.w,P.j]))
 this.db=y}return y},
-gqN:function(){var y=this.dy
-if(y==null){y=this.c.m(C.x,this.a.Q,null)
+gth:function(){var y=this.dy
+if(y==null){y=this.c.m(C.w,this.a.Q,null)
 if(y==null)y="default"
 this.dy=y}return y},
-gz7:function(){var y,x
-y=this.fr
-if(y==null){y=this.gni()
-x=this.c.m(C.w,this.a.Q,null)
-y=x==null?y.querySelector("body"):x
+gAF:function(){var y=this.fr
+if(y==null){y=G.bg(this.gos(),this.c.m(C.v,this.a.Q,null))
 this.fr=y}return y},
-gz8:function(){var y=this.fx
-if(y==null){y=G.bi(this.gqN(),this.gz7(),this.c.m(C.v,this.a.Q,null))
+gAG:function(){var y=this.fx
+if(y==null){y=G.bb(this.gth(),this.gAF(),this.c.m(C.u,this.a.Q,null))
 this.fx=y}return y},
-gqO:function(){var y=this.fy
+gti:function(){var y=this.fy
 if(y==null){this.fy=!0
 y=!0}return y},
-gz9:function(){var y=this.go
+gAH:function(){var y=this.go
 if(y==null){this.go=!0
 y=!0}return y},
-gz4:function(){var y=this.id
-if(y==null){y=this.gni()
-y=new R.b2(y.querySelector("head"),!1,y)
+gAC:function(){var y=this.id
+if(y==null){y=this.gos()
+y=new R.aJ(y.querySelector("head"),!1,y)
 this.id=y}return y},
-gz6:function(){var y=this.k1
-if(y==null){y=$.a6
-if(y==null){y=new X.b3()
-if(self.acxZIndex==null)self.acxZIndex=1000
-$.a6=y}this.k1=y}return y},
-gz3:function(){var y,x,w,v,u,t,s,r,q
-y=this.k2
-if(y==null){y=this.gz4()
-x=this.gz8()
-w=this.gqN()
-v=this.gqM()
-u=this.gnj()
-t=this.gz2()
-s=this.gqO()
-r=this.gz9()
-q=this.gz6()
-r=new K.aS(x,w,v,u,t,s,r,q,null,0)
-x.setAttribute("name",w)
-y.dk()
-q.toString
-r.y=self.acxZIndex
-this.k2=r
-y=r}return y},
-h:function(){var y,x,w
-y=this.Z(this.e)
-x=K.bX(this,0)
+gAE:function(){var y=this.k1
+if(y==null){y=X.bf()
+this.k1=y}return y},
+gAB:function(){var y=this.k2
+if(y==null){y=K.be(this.gAC(),this.gAG(),this.gth(),this.gtg(),this.got(),this.gAA(),this.gti(),this.gAH(),this.gAE())
+this.k2=y}return y},
+p:function(){var y,x
+y=this.a2(this.e)
+x=K.ce(this,0)
 this.x=x
 x=x.e
 this.r=x
 y.appendChild(x)
-x=new U.ar(null,this.c.n(C.a_,this.a.Q))
+x=new U.aC(null,this.c.n(C.a5,this.a.Q))
 this.y=x
-w=this.x
-w.f=x
-w.a.e=[]
-w.h()
-this.L(C.a,null)
+this.x.k(x,[])
+this.N(C.a,null)
 return},
-G:function(n,o,p){var y,x,w,v
-if(n===C.a0&&0===o)return this.y
-if(n===C.E&&0===o){y=this.z
-if(y==null){this.z=C.y
-y=C.y}return y}if(n===C.F&&0===o)return this.gz5()
-if(n===C.b&&0===o)return this.gnj()
-if(n===C.O&&0===o)return this.gz2()
-if(n===C.K&&0===o)return this.gni()
-if(n===C.P&&0===o)return this.gqM()
-if(n===C.Y&&0===o){y=this.dx
-if(y==null){y=T.bk(this.c.n(C.e,this.a.Q))
-this.dx=y}return y}if(n===C.x&&0===o)return this.gqN()
-if(n===C.w&&0===o)return this.gz7()
-if(n===C.v&&0===o)return this.gz8()
-if(n===C.W&&0===o)return this.gqO()
-if(n===C.B&&0===o)return this.gz9()
-if(n===C.R&&0===o)return this.gz4()
-if(n===C.A&&0===o)return this.gz6()
-if(n===C.Q&&0===o)return this.gz3()
-if(n===C.o&&0===o){y=this.k3
+J:function(n,o,p){var y,x,w,v
+if(n===C.a6&&0===o)return this.y
+if(n===C.D&&0===o){y=this.z
+if(y==null){this.z=C.x
+y=C.x}return y}if(n===C.F&&0===o)return this.gAD()
+if(n===C.b&&0===o)return this.got()
+if(n===C.L&&0===o)return this.gAA()
+if(n===C.I&&0===o)return this.gos()
+if(n===C.M&&0===o)return this.gtg()
+if(n===C.S&&0===o){y=this.dx
+if(y==null){y=T.bd(this.c.n(C.e,this.a.Q))
+this.dx=y}return y}if(n===C.w&&0===o)return this.gth()
+if(n===C.v&&0===o)return this.gAF()
+if(n===C.u&&0===o)return this.gAG()
+if(n===C.T&&0===o)return this.gti()
+if(n===C.C&&0===o)return this.gAH()
+if(n===C.P&&0===o)return this.gAC()
+if(n===C.B&&0===o)return this.gAE()
+if(n===C.O&&0===o)return this.gAB()
+if(n===C.k&&0===o){y=this.k3
 if(y==null){y=this.c
 x=y.n(C.e,this.a.Q)
-w=this.gqO()
-v=this.gz3()
-y.m(C.o,this.a.Q,null)
-v=new X.aT(w,x,v)
+w=this.gti()
+v=this.gAB()
+y.m(C.k,this.a.Q,null)
+v=new X.aG(w,x,v)
 this.k3=v
 y=v}return y}if(n===C.t&&0===o){y=this.k4
-if(y==null){y=new K.b8(this.gqM())
+if(y==null){y=new K.aT(this.gtg())
 this.k4=y}return y}return p},
-p:function(){var y=this.f.a
+q:function(){var y=this.f.a
 if(this.r1!==y){this.y.a=y
-this.r1=y}this.x.k()},
-v:function(){var y=this.x
-if(!(y==null))y.j()},
-$asa:function(){return[G.jZ]}}
-F.Lq.prototype={
-h:function(){var y,x,w
-y=new F.Fl(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
-y.a=S.d(y,3,C.h,0)
-x=document.createElement("material-popup-gallery-section-api")
+this.r1=y}this.x.j()},
+w:function(){var y=this.x
+if(!(y==null))y.i()},
+$asa:function(){return[B.kh]}}
+N.RI.prototype={
+p:function(){var y,x
+y=new N.KO(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.d(),this,null,null,null)
+y.a=S.c(y,3,C.i,0,null)
+x=document.createElement("material-list-gallery-section-api")
 y.e=x
-x=$.WU
-if(x==null){x=$.z.Y("",C.S,C.a)
-$.WU=x}y.W(x)
+x=$.a3p
+if(x==null){x=$.z.a1("",C.V,C.a)
+$.a3p=x}y.a0(x)
 this.r=y
 this.e=y.e
-x=new G.jZ(new R.bJ([new R.aq("MaterialPopupComponent","material-popup","angular_components/lib/material_popup/material_popup.dart",'<p>A popup component with material design look-and-feel.</p>\n<p>Caveats:</p><ul><li>Popups closing and opening are automatically delayed to add animations</li><li>Take advantage of enforceSpaceConstraints defined in\n[PopupInterface].</li></ul>\n<p>This is useful if content size is such that adds scroll to the page.</p><ul><li>\n<p>Even though this component supports [ChangeDetectionStrategy.OnPush]\nfor the cases tested in examples, it does not set ChangeDetectionStrategy.\nThis means that usage of this component within another component in OnPush\nmode is possible but at the implementors discretion since any such\nimplementation would require all it\'s content children to support OnPush\nas well.</p></li><li>\n<p>If the contents change and need to readjust position use\n [trackLayoutChanges] which is also defined in [PopupInterface].</p></li></ul>\n<p><strong>Example use</strong>:</p>\n<pre><code>&lt;button (click)="showPopup = !showPopup"\n        popupSource\n        #source="popupSource"&gt;\n  Toggle\n&lt;/button&gt;\n&lt;material-popup [visible]="showPopup" [source]="source"&gt;\n  Hello World\n&lt;/material-popup&gt;\n</code></pre>\n<p>Material popup also supports deferred/lazy-loaded content:</p>\n<pre><code>&lt;material-popup [visible]="showPopup" [source]="source"&gt;\n  &lt;expensive-component *deferredContent&gt;&lt;/expensive-component&gt;\n&lt;/material-popup&gt;\n</code></pre>\n<p>This component publishes itself as a [DropdownHandle], so its children may\ncontrol its visibility by injecting it:</p>\n<pre><code>class MyComponent {\n  final DropdownHandle _dropdownHandle;\n\n  MyComponent(this._dropdownHandle);\n\n  void onSomethingThatShouldCloseTheDropdown() {\n    _dropdownHandle.close();\n  }\n}\n</code></pre>\n<p><strong>Inputs:</strong></p><ul><li><code>slide: String</code> -- Direction of popup scaling. Valid values are <code>x</code>, <code>y</code>,\nor <code>null</code>.</li></ul>\n')],[new R.am(C.cZ,"MaterialPopupExample","material_popup_example/lib/material_popup_example.dart")],[],[],[],P.c()))
+x=new B.kh(R.cj([],[new R.an(C.fX,"MaterialListDemoComponent","material_list_example/lib/material_list_demo.dart")],[new R.as("MaterialListComponent","material-list","angular_components/lib/material_list/material_list.dart",'<p>Material List is a container component for a set of items with which the\nuser is intended to interact.</p>\n<p>It forms the basis for selection and menu components.\nThe <code>MaterialListComponent</code> class acts as the root node for a list\nproviding styling and the ability to collect item events.</p>\n<p><strong>Example usage:</strong>\n    <material-list size="medium">\n      <material-list-item>Item 1</material-list-item>\n      <material-list-item>Item 2</material-list-item>\n    </material-list></p>\n<h2>List Item Grouping</h2>\n<p>Wrap <code>material-list-item</code> elements in a container with attribute\n<code>group</code> for a divider line between other groupings.</p>\n<pre><code>&lt;material-list&gt;\n  &lt;div group&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;/div&gt;\n  &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;div group&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;/div&gt;\n&lt;material-list&gt;\n</code></pre>\n<h2>List Item Group Labels</h2>\n<p>Denote the label for a list item group using the <code>label</code> attribute.</p>\n<pre><code>&lt;material-list&gt;\n  &lt;div group&gt;\n    &lt;div label&gt;My Menu Group&lt;/div&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;/div&gt;\n&lt;/material-list&gt;\n</code></pre>\n<p><strong>Attributes:</strong></p><ul><li><code>size: string {x-small, small, medium, large, x-large}</code> Sizes for the\nlist, resulting in the width being 64px * {1.5, 3, 5, 6, 7} respectively.\nThe default size is "auto" which sizes the list to its contents.</li><li><code>min-size: string {x-small, small, medium, large, x-large}</code> Minimum size\nfor the list, resulting in the width at least the specified width.</li></ul>\n'),new R.as("MaterialListItemComponent","material-list-item","angular_components/lib/material_list/material_list_item.dart",'<p>Material List Item is a block element intended for user interaction; it has\n<code>:hover</code> styling and emits and <code>trigger</code> event when the user clicks or\npresses <code>enter</code> or <code>space</code> keys.</p>\n<p>See [MaterialListComponent] for item <strong>grouping</strong> and <strong>labelling</strong>.</p>\n<p>Note: If the material-list-item has a [DropdownHandle] in its ancestry, the\ndropdown will be closed on triggering (i.e. clicking or pressing enter/space\non) the list item if [closeOnActivate] is true.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-list&gt;\n  &lt;material-list-item (trigger)="select(1)"&gt;Item 1&lt;/material-list-item&gt;\n  &lt;material-list-item (trigger)="select(2)"&gt;Item 2&lt;/material-list-item&gt;\n&lt;/material-list&gt;\n</code></pre>\n<p><strong>Properties:</strong></p><ul><li><code>disabled:bool</code> -- disables the trigger and gives item a disabled style.</li><li><code>active:bool</code> -- marks item as active from keyboard selection.</li><li><code>closeOnActivate:bool</code> -- causes dropdown to be closed on activation.\nTrue by default.</li></ul>\n<p><strong>Events:</strong></p><ul><li><code>trigger:MouseEvent|KeyboardEvent</code> -- fired when either mouse is clicked\nor <strong>enter</strong> or <strong>space</strong> keys are pressed.</li></ul>\n')],[],P.d(),[]))
 this.x=x
-w=this.a.e
-y.f=x
-y.a.e=w
-y.h()
+y.k(x,this.a.e)
 this.E(this.e)
-return new D.x(this,0,this.e,this.x)},
-p:function(){this.r.k()},
-v:function(){var y=this.r
-if(!(y==null))y.j()},
+return new D.y(this,0,this.e,this.x,[B.kh])},
+q:function(){this.r.j()},
+w:function(){var y=this.r
+if(!(y==null))y.i()},
 $asa:function(){}}
-M.fF.prototype={
-gbA:function(n){return this.a}}
-M.OZ.prototype={
-$1:function(n){return $.$get$Ur().t(0,n)},
-"call*":"$1",
-$R:1,
-$S:function(){return{func:1,args:[K.bc]}}}
-M.lX.prototype={}
-M.xJ.prototype={}
-L.te.prototype={
-h:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4
-y=this.Z(this.e)
+D.h3.prototype={
+gmo:function(){var y=this.a
+return J.d3(y.gbp())?"red":J.bT(y.gbp())},
+y7:function(n){var y=this.b
+if(y.cJ(n))y.em(n)
+else y.du(0,n)},
+ej:function(n){this.a.du(0,n)},
+sK7:function(n){return this.c=n}}
+O.uP.prototype={
+p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3
+y=this.a2(this.e)
 x=document
-w=S.b(x,"h1",y)
+w=S.de(x,y)
 this.r=w
+w.className="colorchanger"
 this.l(w)
-v=x.createTextNode("Material Popup")
+v=x.createTextNode("Use the list to change color")
 this.r.appendChild(v)
 w=S.b(x,"section",y)
 this.x=w
 this.l(w)
-w=S.l(x,this.x)
+w=S.b(x,"h2",this.x)
 this.y=w
-w.className="card"
-this.i(w)
-w=S.b(x,"h2",this.y)
-this.z=w
 this.l(w)
-u=x.createTextNode("Basic Usage")
-this.z.appendChild(u)
-w=S.l(x,this.y)
+u=x.createTextNode("Basic Demo")
+this.y.appendChild(u)
+w=B.dE(this,5)
 this.Q=w
-this.i(w)
-w=U.V(this,7)
-this.cx=w
 w=w.e
-this.ch=w
-this.Q.appendChild(w)
-this.ch.setAttribute("popupSource","")
-this.ch.setAttribute("raised","")
-this.i(this.ch)
+this.z=w
+this.x.appendChild(w)
+this.h(this.z)
+this.ch=new B.cl("auto")
+w=x.createElement("div")
+this.cx=w
+w.setAttribute("group","")
+this.h(this.cx)
+w=E.b9(this,7)
+this.db=w
+w=w.e
+this.cy=w
+this.cx.appendChild(w)
+this.h(this.cy)
 w=this.c
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
-this.cy=t
-this.db=B.T(this.ch,t,this.cx.a.b)
-this.dx=new L.bC(w.n(C.t,this.a.Q),this.ch,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
+t=L.b6(this.cy,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.dx=t
+s=x.createTextNode("Red")
+this.db.k(t,[[s]])
+t=E.b9(this,9)
+this.fr=t
+t=t.e
 this.dy=t
-s=x.createTextNode(" Popup")
-r=this.cx
-r.f=this.db
-r.a.e=[[t,s]]
-r.h()
-r=A.co(this,10)
-this.fx=r
-r=r.e
-this.fr=r
-this.Q.appendChild(r)
-this.i(this.fr)
-this.fy=new V.m(10,6,this,this.fr,null,null,null)
-this.go=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.fx.a.b,this.fy,new Z.bl(this.fr))
-t=x.createElement("div")
+this.cx.appendChild(t)
+this.h(this.dy)
+t=L.b6(this.dy,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.fx=t
+r=x.createTextNode("Green")
+this.fr.k(t,[[r]])
+t=E.b9(this,11)
+this.go=t
+t=t.e
+this.fy=t
+this.h(t)
+t=L.b6(this.fy,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.id=t
+q=x.createTextNode("Coral")
+this.go.k(t,[[q]])
+t=E.b9(this,13)
 this.k2=t
-t.setAttribute("style","height: 200px;")
-this.i(this.k2)
-q=x.createTextNode("Hello, Hello, Hello.")
-this.k2.appendChild(q)
-t=this.fx
-r=this.go
-p=this.k2
-t.f=r
-t.a.e=[C.a,[p],C.a]
-t.h()
-t=S.b(x,"section",y)
+t=t.e
+this.k1=t
+this.h(t)
+t=L.b6(this.k1,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
 this.k3=t
-this.l(t)
-t=S.l(x,this.k3)
+p=x.createTextNode("MediumOrchid")
+this.k2.k(t,[[p]])
+this.Q.k(this.ch,[[this.cx,this.fy,this.k1]])
+t=S.b(x,"section",y)
 this.k4=t
-t.className="flex-column"
-this.i(t)
-t=S.l(x,this.k4)
+this.l(t)
+t=S.b(x,"h2",this.k4)
 this.r1=t
-t.className="flex-row"
-this.i(t)
-t=S.l(x,this.r1)
+this.l(t)
+o=x.createTextNode("Different list sizes")
+this.r1.appendChild(o)
+t=S.b(x,"p",this.k4)
 this.r2=t
-t.className="card"
-this.i(t)
-t=S.b(x,"h2",this.r2)
+this.l(t)
+t=S.b(x,"em",this.r2)
 this.rx=t
 this.l(t)
-o=x.createTextNode("Advanced Positioning")
-this.rx.appendChild(o)
-n=x.createTextNode("Choose Position:")
-this.r2.appendChild(n)
-t=Y.fg(this,20)
-this.x1=t
-t=t.e
+n=x.createTextNode("with borders to demonstrate container size")
+this.rx.appendChild(n)
+t=S.b(x,"p",this.k4)
 this.ry=t
-this.r2.appendChild(t)
-this.i(this.ry)
-t=M.eY(w.m(C.Z,this.a.Q,null),w.m(C.C,this.a.Q,null),w.m(C.a7,this.a.Q,null),null,this.ry)
-this.x2=t
-p=this.x1
-p.f=t
-p.a.e=[C.a,C.a,C.a,C.a,C.a,C.a]
-p.h()
-p=S.l(x,this.r2)
-this.y1=p
-p.className="centered-trigger"
-this.i(p)
-p=U.V(this,22)
-this.U=p
-p=p.e
-this.y2=p
-this.y1.appendChild(p)
-p=this.y2
-p.className="trigger"
-p.setAttribute("popupSource","")
-this.y2.setAttribute("raised","")
-this.i(this.y2)
-p=w.m(C.n,this.a.Q,null)
-t=new F.O(p==null?!1:p)
-this.N=t
-this.T=B.T(this.y2,t,this.U.a.b)
-this.J=new L.bC(w.n(C.t,this.a.Q),this.y2,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.K=t
-a0=x.createTextNode(" Popup")
-r=this.U
-r.f=this.T
-r.a.e=[[t,a0]]
-r.h()
-r=A.co(this,25)
-this.V=r
-r=r.e
-this.F=r
-this.y1.appendChild(r)
-this.i(this.F)
-this.a_=new V.m(25,21,this,this.F,null,null,null)
-this.R=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.V.a.b,this.a_,new Z.bl(this.F))
-t=x.createElement("div")
-this.ac=t
-t.setAttribute("style","height: 200px; padding: 24px;")
-this.i(this.ac)
-t=S.b(x,"p",this.ac)
-this.a8=t
 this.l(t)
-a1=x.createTextNode("Popup Content")
-this.a8.appendChild(a1)
-t=U.V(this,29)
+a0=x.createTextNode("Sizes: x-small, small, medium, large, x-large")
+this.ry.appendChild(a0)
+a1=$.$get$L().cloneNode(!1)
+this.k4.appendChild(a1)
+t=new V.m(23,15,this,a1,null,null,null)
+this.x1=t
+this.x2=new R.ao(t,null,null,null,new D.t(t,O.apI()))
+t=S.b(x,"section",y)
+this.y1=t
+this.l(t)
+t=S.b(x,"h2",this.y1)
+this.y2=t
+this.l(t)
+a2=x.createTextNode("Minimum Width")
+this.y2.appendChild(a2)
+t=S.b(x,"p",this.y1)
+this.T=t
+this.l(t)
+t=S.b(x,"em",this.T)
+this.P=t
+this.l(t)
+a3=x.createTextNode("with borders to demonstrate container width")
+this.P.appendChild(a3)
+t=S.b(x,"p",this.y1)
+this.V=t
+this.l(t)
+t=S.b(x,"input",this.V)
+this.K=t
+this.h(t)
+t=B.dE(this,32)
+this.F=t
+t=t.e
+this.L=t
+this.y1.appendChild(t)
+t=this.L
+t.className="bordered-list"
+t.setAttribute("min-size","small")
+this.h(this.L)
+this.Y=new B.cl("auto")
+t=x.createElement("div")
+this.a6=t
+t.setAttribute("label","")
+this.h(this.a6)
+a4=x.createTextNode("Min Width of medium")
+this.a6.appendChild(a4)
+t=E.b9(this,35)
+this.Z=t
+t=t.e
+this.X=t
+t.setAttribute("disabled","")
+this.h(this.X)
+t=L.b6(this.X,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.R=t
+a5=x.createTextNode("Red")
+this.Z.k(t,[[a5]])
+t=E.b9(this,37)
+this.ab=t
+t=t.e
+this.ac=t
+this.h(t)
+t=L.b6(this.ac,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.aa=t
+a6=x.createTextNode("Green")
+this.ab.k(t,[[a6]])
+t=E.b9(this,39)
 this.af=t
 t=t.e
 this.ad=t
-this.ac.appendChild(t)
-this.ad.setAttribute("raised","")
-this.i(this.ad)
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
-this.ag=t
-t=B.T(this.ad,t,this.af.a.b)
-this.am=t
-a2=x.createTextNode("Close")
-r=this.af
-r.f=t
-r.a.e=[[a2]]
-r.h()
-r=this.V
-t=this.R
-p=this.ac
-r.f=t
-r.a.e=[C.a,[p],C.a]
-r.h()
-r=S.l(x,this.r2)
-this.ak=r
-r.setAttribute("style","height:80px")
-this.i(this.ak)
-r=S.l(x,this.r2)
-this.al=r
-r.className="centered-trigger"
-this.i(r)
-r=U.V(this,33)
-this.aq=r
-r=r.e
-this.O=r
-this.al.appendChild(r)
-r=this.O
-r.className="trigger"
-r.setAttribute("popupSource","")
-this.O.setAttribute("raised","")
-this.i(this.O)
-r=w.m(C.n,this.a.Q,null)
-t=new F.O(r==null?!1:r)
-this.a6=t
-this.ah=B.T(this.O,t,this.aq.a.b)
-this.a4=new L.bC(w.n(C.t,this.a.Q),this.O,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.aE=t
-a3=x.createTextNode(" x-scaling Popup")
-r=this.aq
-r.f=this.ah
-r.a.e=[[t,a3]]
-r.h()
-r=A.co(this,36)
-this.ay=r
-r=r.e
-this.an=r
-this.al.appendChild(r)
-this.an.setAttribute("slide","x")
-this.i(this.an)
-this.ax=new V.m(36,32,this,this.an,null,null,null)
-this.ar=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.ay.a.b,this.ax,new Z.bl(this.an))
-t=x.createElement("div")
-this.ap=t
-t.setAttribute("style","height: 200px; padding: 24px;")
-this.i(this.ap)
-t=S.b(x,"p",this.ap)
-this.aA=t
+this.h(t)
+t=L.b6(this.ad,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.ai=t
+a7=x.createTextNode("")
+this.ag=a7
+this.af.k(t,[[a7]])
+a7=E.b9(this,41)
+this.U=a7
+a7=a7.e
+this.an=a7
+this.h(a7)
+a7=L.b6(this.an,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.al=a7
+a8=x.createTextNode("MediumOrchid")
+this.U.k(a7,[[a8]])
+this.F.k(this.Y,[[this.a6,this.X,this.ac,this.ad,this.an]])
+a7=S.b(x,"section",y)
+this.ar=a7
+a7.className="stretched-list"
+this.l(a7)
+a7=S.b(x,"h2",this.ar)
+this.a8=a7
+this.l(a7)
+a9=x.createTextNode("Stretching to fill Parent")
+this.a8.appendChild(a9)
+a7=S.b(x,"p",this.ar)
+this.ap=a7
+this.l(a7)
+a7=S.b(x,"em",this.ap)
+this.ao=a7
+this.l(a7)
+b0=x.createTextNode("via block-material-list mixin")
+this.ao.appendChild(b0)
+a7=B.dE(this,49)
+this.aw=a7
+a7=a7.e
+this.aB=a7
+this.ar.appendChild(a7)
+a7=this.aB
+a7.className="bordered-list"
+this.h(a7)
+this.aC=new B.cl("auto")
+a7=E.b9(this,50)
+this.aI=a7
+a7=a7.e
+this.at=a7
+a7.setAttribute("disabled","")
+this.h(this.at)
+a7=L.b6(this.at,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.aN=a7
+b1=x.createTextNode("Red")
+this.aI.k(a7,[[b1]])
+a7=E.b9(this,52)
+this.as=a7
+a7=a7.e
+this.az=a7
+this.h(a7)
+a7=L.b6(this.az,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.aA=a7
+b2=x.createTextNode("Green")
+this.as.k(a7,[[b2]])
+a7=E.b9(this,54)
+this.aj=a7
+a7=a7.e
+this.aO=a7
+this.h(a7)
+a7=L.b6(this.aO,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.aK=a7
+b3=x.createTextNode("Coral")
+this.aj.k(a7,[[b3]])
+a7=E.b9(this,56)
+this.aE=a7
+a7=a7.e
+this.bt=a7
+this.h(a7)
+a7=L.b6(this.bt,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.aG=a7
+b4=x.createTextNode("MediumOrchid")
+this.aE.k(a7,[[b4]])
+this.aw.k(this.aC,[[this.at,this.az,this.aO,this.bt]])
+a7=S.b(x,"section",y)
+this.aY=a7
+this.l(a7)
+a7=S.b(x,"h2",this.aY)
+this.bM=a7
+this.l(a7)
+b5=x.createTextNode("Primary and Secondary item content")
+this.bM.appendChild(b5)
+a7=B.dE(this,61)
+this.bn=a7
+a7=a7.e
+this.ax=a7
+this.aY.appendChild(a7)
+a7=this.ax
+a7.className="bordered-list"
+a7.setAttribute("width","3")
+this.h(this.ax)
+this.au=new B.cl("auto")
+a7=E.b9(this,62)
+this.b_=a7
+a7=a7.e
+this.be=a7
+this.h(a7)
+this.aD=L.b6(this.be,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+b6=x.createTextNode("Item with secondary")
+t=x.createElement("span")
+this.aF=t
+t.className="material-list-item-secondary"
 this.l(t)
-a4=x.createTextNode("Popup Content")
-this.aA.appendChild(a4)
-t=U.V(this,40)
-this.aT=t
+b7=x.createTextNode("ctrl+x")
+this.aF.appendChild(b7)
+this.b_.k(this.aD,[[b6,this.aF]])
+t=E.b9(this,66)
+this.aL=t
 t=t.e
-this.au=t
-this.ap.appendChild(t)
-this.au.setAttribute("raised","")
-this.i(this.au)
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
-this.aj=t
-t=B.T(this.au,t,this.aT.a.b)
-this.aP=t
-a5=x.createTextNode("Close")
-r=this.aT
-r.f=t
-r.a.e=[[a5]]
-r.h()
-r=this.ay
-t=this.ar
-p=this.ap
-r.f=t
-r.a.e=[C.a,[p],C.a]
-r.h()
-r=S.l(x,this.r2)
-this.bh=r
-r.setAttribute("style","height:80px")
-this.i(this.bh)
-r=S.l(x,this.r2)
-this.aB=r
-r.className="centered-trigger"
-this.i(r)
-r=U.V(this,44)
-this.bc=r
-r=r.e
-this.aF=r
-this.aB.appendChild(r)
-r=this.aF
-r.className="trigger"
-r.setAttribute("popupSource","")
-this.aF.setAttribute("raised","")
-this.i(this.aF)
-r=w.m(C.n,this.a.Q,null)
-t=new F.O(r==null?!1:r)
-this.bw=t
-this.ao=B.T(this.aF,t,this.bc.a.b)
-this.aD=new L.bC(w.n(C.t,this.a.Q),this.aF,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.aG=t
-a6=x.createTextNode(" y-scaling Popup")
-r=this.bc
-r.f=this.ao
-r.a.e=[[t,a6]]
-r.h()
-r=A.co(this,47)
-this.aY=r
-r=r.e
-this.b9=r
-this.aB.appendChild(r)
-this.b9.setAttribute("slide","y")
-this.i(this.b9)
-this.av=new V.m(47,43,this,this.b9,null,null,null)
-this.aw=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.aY.a.b,this.av,new Z.bl(this.b9))
-t=x.createElement("div")
-this.aZ=t
-t.setAttribute("style","height: 200px; padding: 24px;")
-this.i(this.aZ)
-t=S.b(x,"p",this.aZ)
-this.b_=t
-this.l(t)
-a7=x.createTextNode("Popup Content")
-this.b_.appendChild(a7)
-t=U.V(this,51)
-this.aN=t
+this.ce=t
+this.h(t)
+this.b8=L.b6(this.ce,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+t=M.a0(this,67)
+this.bf=t
 t=t.e
-this.ba=t
-this.aZ.appendChild(t)
-this.ba.setAttribute("raised","")
-this.i(this.ba)
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
-this.aH=t
-t=B.T(this.ba,t,this.aN.a.b)
-this.bd=t
-a8=x.createTextNode("Close")
-r=this.aN
-r.f=t
-r.a.e=[[a8]]
-r.h()
-r=this.aY
-t=this.aw
-p=this.aZ
-r.f=t
-r.a.e=[C.a,[p],C.a]
-r.h()
-r=S.l(x,this.r1)
-this.b0=r
-r.className="card"
-this.i(r)
-r=S.l(x,this.b0)
-this.aW=r
-this.i(r)
-r=S.b(x,"p",this.aW)
-this.aJ=r
-this.l(r)
-a9=x.createTextNode("Comprehensive positions:")
-this.aJ.appendChild(a9)
-r=S.b(x,"pre",this.aW)
-this.a9=r
-this.l(r)
-b0=x.createTextNode("AB  C  DE\nP+-----+F\n |     |\n |     |\nO|     |G\n |     |\n |     |\nN+-----+H\nML  K  JI")
-this.a9.appendChild(b0)
-r=S.b(x,"section",y)
-this.bM=r
-this.l(r)
-r=S.l(x,this.bM)
-this.b3=r
-r.className="card"
-this.i(r)
-r=S.b(x,"h2",this.b3)
-this.bm=r
-this.l(r)
-b1=x.createTextNode("Stacked Popups")
-this.bm.appendChild(b1)
-r=S.b(x,"p",this.b3)
-this.bk=r
-this.l(r)
-b2=x.createTextNode("A tooltip inside a popup")
-this.bk.appendChild(b2)
-r=S.l(x,this.b3)
-this.bt=r
-this.i(r)
-r=U.V(this,66)
-this.aI=r
-r=r.e
-this.aS=r
-this.bt.appendChild(r)
-this.aS.setAttribute("popupSource","")
-this.aS.setAttribute("raised","")
-this.i(this.aS)
-r=w.m(C.n,this.a.Q,null)
-t=new F.O(r==null?!1:r)
-this.bE=t
-this.b1=B.T(this.aS,t,this.aI.a.b)
-this.bj=new L.bC(w.n(C.t,this.a.Q),this.aS,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
+this.b5=t
+t.setAttribute("aria-hidden","true")
+t=this.b5
+t.className="material-list-item-primary"
+t.setAttribute("icon","today")
+this.h(this.b5)
+t=new Y.V(null,this.b5)
 this.aR=t
-b3=x.createTextNode(" Popup")
-r=this.aI
-r.f=this.b1
-r.a.e=[[t,b3]]
-r.h()
-r=A.co(this,69)
-this.bI=r
-r=r.e
-this.b6=r
-this.bt.appendChild(r)
-this.b6.setAttribute("enforceSpaceConstraints","")
-this.i(this.b6)
-this.bp=new V.m(69,65,this,this.b6,null,null,null)
-this.bl=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.bI.a.b,this.bp,new Z.bl(this.b6))
-t=x.createElement("div")
-this.bC=t
-t.className="dont-panic"
-this.i(t)
-t=S.b(x,"p",this.bC)
-this.b7=t
-t.setAttribute("materialTooltip","42")
-this.l(this.b7)
-this.bq=new V.m(71,70,this,this.b7,null,null,null)
-t=w.n(C.t,this.a.Q)
-r=this.bq
-p=this.b7
-b4=this.a
-this.c8=S.dM(t,r,p,r,b4.b,w.n(C.F,b4.Q))
-b5=x.createTextNode("The answer to the ultimate question of life, the universe and everything.")
-this.b7.appendChild(b5)
-b4=this.bI
-r=this.bl
-p=this.bC
-b4.f=r
-b4.a.e=[C.a,[p],C.a]
-b4.h()
-b4=S.b(x,"section",y)
-this.bn=b4
-this.l(b4)
-b4=S.l(x,this.bn)
-this.bJ=b4
-b4.className="card"
-this.i(b4)
-b4=S.b(x,"h2",this.bJ)
-this.c_=b4
-this.l(b4)
-b6=x.createTextNode("PopupSizeProvider")
-this.c_.appendChild(b6)
-b4=S.b(x,"h3",this.bJ)
-this.aU=b4
-this.l(b4)
-b7=x.createTextNode("Using the default")
-this.aU.appendChild(b7)
-b4=S.b(x,"em",this.aU)
-this.bK=b4
-this.l(b4)
-b8=x.createTextNode("PercentagePopupSizeProvider")
-this.bK.appendChild(b8)
-b9=x.createTextNode("to limit max width\n      to be 70% of the viewport width and max height to be 50% of the viewport\n      height.")
-this.aU.appendChild(b9)
-b4=S.l(x,this.bJ)
-this.bT=b4
-this.i(b4)
-b4=U.V(this,83)
-this.b8=b4
-b4=b4.e
-this.bg=b4
-this.bT.appendChild(b4)
-this.bg.setAttribute("popupSource","")
-this.bg.setAttribute("raised","")
-this.i(this.bg)
-b4=w.m(C.n,this.a.Q,null)
-t=new F.O(b4==null?!1:b4)
+this.bf.k(t,[])
+b8=x.createTextNode("Item with primary icon")
+this.aL.k(this.b8,[[this.b5,b8]])
+t=E.b9(this,69)
+this.b6=t
+t=t.e
+this.aS=t
+this.h(t)
+t=L.b6(this.aS,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.bB=t
+b9=x.createTextNode("Item")
+this.b6.k(t,[[b9]])
+t=E.b9(this,71)
+this.bv=t
+t=t.e
 this.aV=t
-this.c9=B.T(this.bg,t,this.b8.a.b)
-this.br=new L.bC(w.n(C.t,this.a.Q),this.bg,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.c0=t
-c0=x.createTextNode(" Popup")
-r=this.b8
-r.f=this.c9
-r.a.e=[[t,c0]]
-r.h()
-r=A.co(this,86)
-this.aL=r
-r=r.e
-this.bP=r
-this.bT.appendChild(r)
-this.bP.setAttribute("defaultPopupSizeProvider","")
-this.bP.setAttribute("enforceSpaceConstraints","")
-this.i(this.bP)
-this.bs=new V.m(86,82,this,this.bP,null,null,null)
-this.c1=new M.lX()
-this.cg=new F.r_(0.7,0.5)
-this.bv=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),this.cg,this.aL.a.b,this.bs,new Z.bl(this.bP))
-t=new V.m(87,86,this,$.$get$L().cloneNode(!1),null,null,null)
-this.bU=t
-r=this.bv
-p=new R.r(null,null,null,null,!0,!1)
-t=new K.de(p,x.createElement("div"),t,null,new D.u(t,L.afi()),!1,!1)
-p.cO(r.gfh().B(t.gfq()))
-this.cn=t
-t=this.aL
-r=this.bv
-p=this.bU
-t.f=r
-t.a.e=[C.a,[p],C.a]
-t.h()
+this.h(t)
+t=L.b6(this.aV,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.ah=t
+c0=x.createTextNode("Item")
+this.bv.k(t,[[c0]])
+this.bn.k(this.au,[[this.be,this.ce,this.aS,this.aV]])
 t=S.b(x,"section",y)
+this.bw=t
+this.l(t)
+t=S.b(x,"h2",this.bw)
+this.b7=t
+this.l(t)
+c1=x.createTextNode("Grouping and dividers")
+this.b7.appendChild(c1)
+t=B.dE(this,76)
+this.bu=t
+t=t.e
+this.bC=t
+this.bw.appendChild(t)
+t=this.bC
+t.className="bordered-list"
+t.setAttribute("width","3")
+this.h(this.bC)
+this.bx=new B.cl("auto")
+t=x.createElement("div")
+this.b2=t
+t.setAttribute("group","")
+this.h(this.b2)
+t=E.b9(this,78)
+this.aZ=t
+t=t.e
+this.aP=t
+this.b2.appendChild(t)
+this.h(this.aP)
+t=L.b6(this.aP,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.bb=t
+c2=x.createTextNode("Item")
+this.aZ.k(t,[[c2]])
+t=E.b9(this,80)
+this.b9=t
+t=t.e
+this.br=t
+this.b2.appendChild(t)
+this.h(this.br)
+t=L.b6(this.br,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.bc=t
+c3=x.createTextNode("Item")
+this.b9.k(t,[[c3]])
+t=E.b9(this,82)
+this.bh=t
+t=t.e
+this.bU=t
+this.b2.appendChild(t)
+this.h(this.bU)
+this.bH=L.b6(this.bU,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+c4=x.createTextNode("Item with secondary")
+t=x.createElement("span")
+this.ba=t
+t.className="material-list-item-secondary"
+this.l(t)
+c5=x.createTextNode("ctrl+x")
+this.ba.appendChild(c5)
+this.bh.k(this.bH,[[c4,this.ba]])
+t=x.createElement("div")
+this.bN=t
+t.setAttribute("group","")
+this.h(this.bN)
+t=E.b9(this,87)
+this.bE=t
+t=t.e
+this.bI=t
+this.bN.appendChild(t)
+this.h(this.bI)
+t=L.b6(this.bI,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.bO=t
+c6=x.createTextNode("Small Group Item")
+this.bE.k(t,[[c6]])
+t=E.b9(this,89)
+this.bJ=t
+t=t.e
 this.c2=t
+this.h(t)
+this.bi=L.b6(this.c2,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+t=M.a0(this,90)
+this.c3=t
+t=t.e
+this.bK=t
+t.setAttribute("aria-hidden","true")
+t=this.bK
+t.className="material-list-item-primary"
+t.setAttribute("icon","today")
+this.h(this.bK)
+t=new Y.V(null,this.bK)
+this.b3=t
+this.c3.k(t,[])
+c7=x.createTextNode("Item with primary icon")
+this.bJ.k(this.bi,[[this.bK,c7]])
+t=E.b9(this,92)
+this.bT=t
+t=t.e
+this.c0=t
+this.h(t)
+t=L.b6(this.c0,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.b4=t
+c8=x.createTextNode("Item")
+this.bT.k(t,[[c8]])
+t=E.b9(this,94)
+this.bm=t
+t=t.e
+this.bs=t
+this.h(t)
+t=L.b6(this.bs,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.cq=t
+c9=x.createTextNode("Item")
+this.bm.k(t,[[c9]])
+this.bu.k(this.bx,[[this.b2,this.bN,this.c2,this.c0,this.bs]])
+t=S.b(x,"section",y)
+this.bF=t
 this.l(t)
-t=S.l(x,this.c2)
-this.by=t
-t.className="card"
-this.i(t)
-t=S.b(x,"h2",this.by)
-this.bL=t
+t=S.b(x,"h2",this.bF)
+this.cc=t
 this.l(t)
-c1=x.createTextNode("Headers and Footers")
-this.bL.appendChild(c1)
-t=S.b(x,"p",this.by)
-this.c6=t
+d0=x.createTextNode("Select Items")
+this.cc.appendChild(d0)
+t=S.b(x,"p",this.bF)
+this.bV=t
 this.l(t)
-c2=x.createTextNode("A popup with a header and a footer and really long content.")
-this.c6.appendChild(c2)
-t=S.l(x,this.by)
-this.c5=t
-this.i(t)
-t=U.V(this,95)
+d1=x.createTextNode("`material-select-item` is a special kind of `material-item` which shows a\n    check icon if the item is marked as selected")
+this.bV.appendChild(d1)
+t=B.dE(this,101)
+this.bP=t
+t=t.e
+this.aQ=t
+this.bF.appendChild(t)
+t=this.aQ
+t.className="bordered-list"
+t.setAttribute("width","3")
+this.h(this.aQ)
+this.co=new B.cl("auto")
+t=M.cb(this,102)
 this.bz=t
 t=t.e
-this.c3=t
-this.c5.appendChild(t)
-this.c3.setAttribute("popupSource","")
-this.c3.setAttribute("raised","")
-this.i(this.c3)
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
-this.cG=t
-this.bQ=B.T(this.c3,t,this.bz.a.b)
-this.co=new L.bC(w.n(C.t,this.a.Q),this.c3,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
+this.cr=t
+this.h(t)
+t=B.ca(this.cr,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),w.m(C.K,this.a.Q,null),this.bz.a.b)
+this.cu=t
+d2=x.createTextNode("Item 1")
+this.bz.k(t,[[d2]])
+t=M.cb(this,104)
+this.bW=t
+t=t.e
+this.bQ=t
+this.h(t)
+t=B.ca(this.bQ,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),w.m(C.K,this.a.Q,null),this.bW.a.b)
+this.cA=t
+d3=x.createTextNode("Item 2")
+this.bW.k(t,[[d3]])
+t=M.cb(this,106)
+this.bd=t
+t=t.e
 this.bX=t
-c3=x.createTextNode(" Popup")
-r=this.bz
-r.f=this.bQ
-r.a.e=[[t,c3]]
-r.h()
-r=A.co(this,98)
-this.cs=r
-r=r.e
-this.cv=r
-this.c5.appendChild(r)
-this.cv.setAttribute("defaultPopupSizeProvider","")
-this.cv.setAttribute("enforceSpaceConstraints","")
-this.i(this.cv)
-this.bR=new V.m(98,94,this,this.cv,null,null,null)
-this.ca=new M.lX()
-this.cd=new F.r_(0.7,0.5)
-this.bG=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),this.cd,this.cs.a.b,this.bR,new Z.bl(this.cv))
-t=x.createElement("div")
-this.ci=t
-t.setAttribute("header","")
-this.ci.setAttribute("style","background: darkred; color: white; font-weight: bold;")
-this.i(this.ci)
-c4=x.createTextNode("This is a Header demo")
-this.ci.appendChild(c4)
-t=x.createElement("div")
-this.ce=t
-t.setAttribute("style","background: lightblue; height: 1000px; width: 150px;")
-this.i(this.ce)
-c5=x.createTextNode("Hello,\n          Hello,\n          Hello.\n          This is a\n          vertically long\n          content\n          that\n          needs\n          a scroll bar\n          because\n          the content\n          is so long.")
-this.ce.appendChild(c5)
-t=x.createElement("div")
-this.cp=t
-t.setAttribute("footer","")
-this.cp.setAttribute("style","background: darkred; color: white; font-weight: bold;")
-this.i(this.cp)
-c6=x.createTextNode("This is a Footer demo")
-this.cp.appendChild(c6)
-t=this.cs
-r=this.bG
-p=this.ci
-b4=this.ce
-c7=this.cp
-t.f=r
-t.a.e=[[p],[b4],[c7]]
-t.h()
+this.h(t)
+t=B.ca(this.bX,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),w.m(C.K,this.a.Q,null),this.bd.a.b)
+this.bL=t
+d4=x.createTextNode("Item 3")
+this.bd.k(t,[[d4]])
+this.bP.k(this.co,[[this.cr,this.bQ,this.bX]])
 t=S.b(x,"section",y)
-this.cS=t
+this.c5=t
 this.l(t)
-t=S.l(x,this.cS)
-this.bY=t
-t.className="card"
-this.i(t)
-t=S.b(x,"h2",this.bY)
-this.cD=t
+t=S.b(x,"h2",this.c5)
+this.c1=t
 this.l(t)
-c8=x.createTextNode("Popup with custom border radius")
-this.cD.appendChild(c8)
-t=S.l(x,this.bY)
-this.cC=t
-this.i(t)
-t=U.V(this,110)
-this.cw=t
+d5=x.createTextNode("Navigate Focus via Keyboard")
+this.c1.appendChild(d5)
+t=S.b(x,"p",this.c5)
+this.c6=t
+this.l(t)
+t=S.b(x,"em",this.c6)
+this.bA=t
+this.l(t)
+d6=x.createTextNode("Use <tab> to focus an item in the list, then use up/down and left/right keys to navigate.")
+this.bA.appendChild(d6)
+t=B.dE(this,114)
+this.bR=t
 t=t.e
+this.cH=t
+this.c5.appendChild(t)
+t=this.cH
+t.className="bordered-list"
+t.setAttribute("focusList","")
+t=this.cH
+t.tabIndex=0
+this.h(t)
+this.cv=new K.rJ(N.a1s(w.n(C.e,this.a.Q),null),null,null,null,!1)
+this.cd=new B.cl("auto")
+t=x.createElement("div")
+this.cB=t
+t.setAttribute("group","")
+this.h(this.cB)
+t=E.b9(this,116)
+this.ck=t
+t=t.e
+this.c7=t
+this.cB.appendChild(t)
+this.c7.setAttribute("focusItem","")
+this.h(this.c7)
+t=this.c7
+a7=[E.fU]
+this.cC=new U.jP(new M.ik("listitem","0",new P.h(null,null,0,null,null,null,null,a7),t),null,null,null,null,!1)
+t=L.b6(t,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
 this.c4=t
-this.cC.appendChild(t)
-this.c4.setAttribute("popupSource","")
-this.c4.setAttribute("raised","")
-this.i(this.c4)
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
-this.cK=t
-this.cE=B.T(this.c4,t,this.cw.a.b)
-this.cF=new L.bC(w.n(C.t,this.a.Q),this.c4,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.cT=t
-c9=x.createTextNode(" Popup")
-r=this.cw
-r.f=this.cE
-r.a.e=[[t,c9]]
-r.h()
-r=A.co(this,113)
-this.cQ=r
-r=r.e
-this.cP=r
-this.cC.appendChild(r)
-r=this.cP
-r.className="custom-border-radius"
-this.i(r)
-this.cW=new V.m(113,109,this,this.cP,null,null,null)
-this.cX=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.cQ.a.b,this.cW,new Z.bl(this.cP))
-t=x.createElement("div")
-this.da=t
-t.setAttribute("style","height: 200px;")
-this.i(this.da)
-d0=x.createTextNode("hello hello hello")
-this.da.appendChild(d0)
-t=this.cQ
-r=this.cX
-p=this.da
-t.f=r
-t.a.e=[C.a,[p],C.a]
-t.h()
-t=S.b(x,"section",y)
-this.dg=t
-this.l(t)
-t=S.l(x,this.dg)
-this.di=t
-t.className="card"
-this.i(t)
-t=S.b(x,"h2",this.di)
-this.dq=t
-this.l(t)
-d1=x.createTextNode("Popup with custom background color")
-this.dq.appendChild(d1)
-t=S.l(x,this.di)
-this.dJ=t
-this.i(t)
-t=U.V(this,121)
-this.dK=t
+this.cZ=this.cC.e
+d7=x.createTextNode("Red")
+this.ck.k(t,[[d7]])
+t=E.b9(this,118)
+this.cl=t
 t=t.e
-this.d5=t
-this.dJ.appendChild(t)
-this.d5.setAttribute("popupSource","")
-this.d5.setAttribute("raised","")
-this.i(this.d5)
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
+this.cg=t
+this.cB.appendChild(t)
+this.cg.setAttribute("focusItem","")
+this.h(this.cg)
+t=this.cg
+this.cs=new U.jP(new M.ik("listitem","0",new P.h(null,null,0,null,null,null,null,a7),t),null,null,null,null,!1)
+t=L.b6(t,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.ci=t
+this.cP=this.cs.e
+d8=x.createTextNode("Green")
+this.cl.k(t,[[d8]])
+t=E.b9(this,120)
+this.cD=t
+t=t.e
+this.bY=t
+t.setAttribute("focusItem","")
+this.h(this.bY)
+t=this.bY
+this.ct=new U.jP(new M.ik("listitem","0",new P.h(null,null,0,null,null,null,null,a7),t),null,null,null,null,!1)
+t=L.b6(t,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.bZ=t
+this.cw=this.ct.e
+d9=x.createTextNode("Coral")
+this.cD.k(t,[[d9]])
+t=E.b9(this,122)
 this.cI=t
-this.d6=B.T(this.d5,t,this.dK.a.b)
-this.dw=new L.bC(w.n(C.t,this.a.Q),this.d5,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.dm=t
-d2=x.createTextNode(" Popup")
-r=this.dK
-r.f=this.d6
-r.a.e=[[t,d2]]
-r.h()
-r=A.co(this,124)
-this.d1=r
-r=r.e
-this.dL=r
-this.dJ.appendChild(r)
-r=this.dL
-r.className="custom-background"
-this.i(r)
-this.d7=new V.m(124,120,this,this.dL,null,null,null)
-this.dA=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.d1.a.b,this.d7,new Z.bl(this.dL))
-t=x.createElement("div")
-this.dr=t
-t.setAttribute("style","height: 200px;")
-this.i(this.dr)
-d3=x.createTextNode("hello hello hello")
-this.dr.appendChild(d3)
-t=this.d1
-r=this.dA
-p=this.dr
-t.f=r
-t.a.e=[C.a,[p],C.a]
-t.h()
-t=S.b(x,"section",y)
-this.dE=t
-this.l(t)
-t=S.l(x,this.dE)
-this.cq=t
-t.className="card"
-this.i(t)
-t=S.b(x,"h2",this.cq)
-this.f6=t
-this.l(t)
-d4=x.createTextNode("Popup inside a scrolling container")
-this.f6.appendChild(d4)
-t=S.l(x,this.cq)
-this.en=t
-t.className="flex-row"
-this.i(t)
-t=S.l(x,this.en)
-this.eO=t
-t.className="flex-column"
-this.i(t)
-t=S.b(x,"code",this.eO)
-this.f7=t
-this.l(t)
-d5=x.createTextNode("overlayRepositionLoop = false")
-this.f7.appendChild(d5)
-t=S.l(x,this.eO)
-this.f8=t
-t.className="scroll-container"
-this.i(t)
-t=S.l(x,this.f8)
-this.eP=t
-t.className="content-container"
-t.setAttribute("dontUseRepositionLoop","")
-this.i(this.eP)
-this.eQ=new M.xJ()
-this.e7=x
-this.eR=window
-t=T.bd(w.m(C.b,this.a.Q,null),w.m(C.z,this.a.Q,null),w.n(C.e,this.a.Q),this.eR)
-this.ds=t
-t=new K.b_(this.e7,t,P.ba(null))
-this.ef=t
-this.eA=new K.b8(t)
-this.e1=!0
-t=this.e7
-this.f9=new R.b2(t.querySelector("head"),!1,t)
-t=w.m(C.x,this.a.Q,null)
-this.eg=t==null?"default":t
-t=this.e7
-r=w.m(C.w,this.a.Q,null)
-t=r==null?t.querySelector("body"):r
-this.fa=t
-this.fb=G.bi(this.eg,t,w.m(C.v,this.a.Q,null))
-this.e2=new O.aZ(w.n(C.U,this.a.Q),this.ds)
-this.fs=!1
-t=$.a6
-if(t==null){t=new X.b3()
-if(self.acxZIndex==null)self.acxZIndex=1000
-$.a6=t}this.eS=t
-r=this.f9
-p=this.fb
-b4=this.eg
-t=new K.aS(p,b4,this.ef,this.ds,this.e2,this.e1,this.fs,t,null,0)
-p.setAttribute("name",b4)
-r.dk()
-t.y=self.acxZIndex
-this.eh=t
-t=w.n(C.e,this.a.Q)
-r=this.e1
-b4=this.eh
-w.m(C.o,this.a.Q,null)
-this.eo=new X.aT(r,t,b4)
-this.ft=C.y
-b4=U.V(this,137)
-this.eC=b4
-b4=b4.e
-this.dS=b4
-this.eP.appendChild(b4)
-this.dS.setAttribute("popupSource","")
-this.dS.setAttribute("raised","")
-this.i(this.dS)
-b4=w.m(C.n,this.a.Q,null)
-t=new F.O(b4==null?!1:b4)
-this.dn=t
-this.fN=B.T(this.dS,t,this.eC.a.b)
-this.eT=new L.bC(this.eA,this.dS,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.fu=t
-d6=x.createTextNode(" Popup")
-r=this.eC
-r.f=this.fN
-r.a.e=[[t,d6]]
-r.h()
-r=A.co(this,140)
-this.eD=r
-r=r.e
-this.fO=r
-this.eP.appendChild(r)
-this.i(this.fO)
-this.h3=new V.m(140,136,this,this.fO,null,null,null)
-this.ep=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),this.eo,this.eS,this.ft,this.fs,w.m(C.C,this.a.Q,null),this.eD.a.b,this.h3,new Z.bl(this.fO))
-t=x.createElement("div")
-this.eU=t
-t.setAttribute("style","height: 200px;")
-this.i(this.eU)
-d7=x.createTextNode("hello hello hello")
-this.eU.appendChild(d7)
-t=this.eD
-r=this.ep
-p=this.eU
-t.f=r
-t.a.e=[C.a,[p],C.a]
-t.h()
-t=S.l(x,this.en)
-this.eq=t
-t.className="flex-column"
-this.i(t)
-t=S.b(x,"code",this.eq)
-this.eV=t
-this.l(t)
-d8=x.createTextNode("overlayRepositionLoop = true")
-this.eV.appendChild(d8)
-t=S.l(x,this.eq)
-this.e8=t
-t.className="scroll-container"
-this.i(t)
-t=S.l(x,this.e8)
-this.hv=t
-t.className="content-container"
-this.i(t)
-t=U.V(this,148)
-this.eE=t
 t=t.e
-this.fv=t
-this.hv.appendChild(t)
-this.fv.setAttribute("popupSource","")
-this.fv.setAttribute("raised","")
-this.i(this.fv)
-t=w.m(C.n,this.a.Q,null)
-t=new F.O(t==null?!1:t)
-this.h4=t
-this.ei=B.T(this.fv,t,this.eE.a.b)
-this.fj=new L.bC(w.n(C.t,this.a.Q),this.fv,w.m(C.p,this.a.Q,null),C.u,C.u,null,null)
-t=x.createTextNode("")
-this.h5=t
-d9=x.createTextNode(" Popup")
-r=this.eE
-r.f=this.ei
-r.a.e=[[t,d9]]
-r.h()
-r=A.co(this,151)
-this.fw=r
-r=r.e
-this.eW=r
-this.hv.appendChild(r)
-this.i(this.eW)
-this.h6=new V.m(151,147,this,this.eW,null,null,null)
-this.dT=G.ck(w.m(C.X,this.a.Q,null),w.m(C.V,this.a.Q,null),null,w.n(C.e,this.a.Q),w.n(C.o,this.a.Q),w.n(C.A,this.a.Q),w.n(C.E,this.a.Q),w.n(C.B,this.a.Q),w.m(C.C,this.a.Q,null),this.fw.a.b,this.h6,new Z.bl(this.eW))
-w=x.createElement("div")
-this.h8=w
-w.setAttribute("style","height: 200px;")
-this.i(this.h8)
-e0=x.createTextNode("hello hello hello")
-this.h8.appendChild(e0)
-w=this.fw
-t=this.dT
-r=this.h8
-w.f=t
-w.a.e=[C.a,[r],C.a]
-w.h()
-w=this.db.b
-e1=new P.i(w,[H.f(w,0)]).B(this.A(this.gN9()))
-w=this.go.f$
-e2=new P.i(w,[H.f(w,0)]).B(this.A(this.gNx()))
-w=this.T.b
-e3=new P.i(w,[H.f(w,0)]).B(this.A(this.gMa()))
-this.hT=Q.Ut(new L.Fi())
-w=this.R.f$
-e4=new P.i(w,[H.f(w,0)]).B(this.A(this.gNL()))
-w=this.am.b
-e5=new P.i(w,[H.f(w,0)]).B(this.A(this.gMg()))
-w=this.ah.b
-e6=new P.i(w,[H.f(w,0)]).B(this.A(this.gMk()))
-this.fC=Q.Ut(new L.Fj())
-w=this.ar.f$
-e7=new P.i(w,[H.f(w,0)]).B(this.A(this.gNN()))
-w=this.aP.b
-e8=new P.i(w,[H.f(w,0)]).B(this.A(this.gMw()))
-w=this.ao.b
-e9=new P.i(w,[H.f(w,0)]).B(this.A(this.gME()))
-this.fD=Q.Ut(new L.Fk())
-w=this.aw.f$
-f0=new P.i(w,[H.f(w,0)]).B(this.A(this.gNT()))
-w=this.bd.b
-f1=new P.i(w,[H.f(w,0)]).B(this.A(this.gMK()))
-w=this.b1.b
-f2=new P.i(w,[H.f(w,0)]).B(this.A(this.gMY()))
-w=this.bl.f$
-f3=new P.i(w,[H.f(w,0)]).B(this.A(this.gNZ()))
-w=this.c9.b
-f4=new P.i(w,[H.f(w,0)]).B(this.A(this.gNd()))
-w=this.bv.f$
-f5=new P.i(w,[H.f(w,0)]).B(this.A(this.gO0()))
-w=this.bQ.b
-f6=new P.i(w,[H.f(w,0)]).B(this.A(this.gNl()))
-w=this.bG.f$
-f7=new P.i(w,[H.f(w,0)]).B(this.A(this.gO4()))
-w=this.cE.b
-f8=new P.i(w,[H.f(w,0)]).B(this.A(this.gLF()))
-w=this.cX.f$
-f9=new P.i(w,[H.f(w,0)]).B(this.A(this.gNz()))
-w=this.d6.b
-g0=new P.i(w,[H.f(w,0)]).B(this.A(this.gLT()))
-w=this.dA.f$
-g1=new P.i(w,[H.f(w,0)]).B(this.A(this.gND()))
-w=this.fN.b
-g2=new P.i(w,[H.f(w,0)]).B(this.A(this.gM2()))
-w=this.ep.f$
-g3=new P.i(w,[H.f(w,0)]).B(this.A(this.gNF()))
-w=this.ei.b
-g4=new P.i(w,[H.f(w,0)]).B(this.A(this.gM6()))
-w=this.dT.f$
-this.L(C.a,[e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,new P.i(w,[H.f(w,0)]).B(this.A(this.gNH()))])
+this.cQ=t
+t.setAttribute("focusItem","")
+this.h(this.cQ)
+t=this.cQ
+this.cR=new U.jP(new M.ik("listitem","0",new P.h(null,null,0,null,null,null,null,a7),t),null,null,null,null,!1)
+t=L.b6(t,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.d3=t
+this.d_=this.cR.e
+e0=x.createTextNode("MediumOrchid")
+this.cI.k(t,[[e0]])
+this.cv.e.sIK([this.cZ,this.cP,this.cw,this.d_])
+this.bR.k(this.cd,[[this.cB,this.bY,this.cQ]])
+t=S.b(x,"section",y)
+this.d0=t
+this.l(t)
+t=S.b(x,"h2",this.d0)
+this.d8=t
+this.l(t)
+e1=x.createTextNode("No focus outline")
+this.d8.appendChild(e1)
+t=B.dE(this,127)
+this.dd=t
+t=t.e
+this.d9=t
+this.d0.appendChild(t)
+this.h(this.d9)
+this.dP=new B.cl("auto")
+t=x.createElement("div")
+this.dm=t
+t.setAttribute("group","")
+this.h(this.dm)
+t=E.b9(this,129)
+this.dB=t
+t=t.e
+this.dw=t
+this.dm.appendChild(t)
+t=this.dw
+t.className="no-outline item"
+this.h(t)
+t=L.b6(this.dw,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.dJ=t
+e2=x.createTextNode("Red")
+this.dB.k(t,[[e2]])
+t=E.b9(this,131)
+this.dh=t
+t=t.e
+this.e2=t
+this.dm.appendChild(t)
+t=this.e2
+t.className="no-outline item"
+this.h(t)
+w=L.b6(this.e2,w.n(C.b,this.a.Q),w.m(C.m,this.a.Q,null),null,null)
+this.e3=w
+e3=x.createTextNode("Green")
+this.dh.k(w,[[e3]])
+this.dd.k(this.dP,[[this.dm]])
+w=this.dx.b
+e4=new P.i(w,[H.e(w,0)]).C(this.A(this.guw()))
+w=this.fx.b
+e5=new P.i(w,[H.e(w,0)]).C(this.A(this.gtF()))
+w=this.id.b
+e6=new P.i(w,[H.e(w,0)]).C(this.A(this.guu()))
+w=this.k3.b
+e7=new P.i(w,[H.e(w,0)]).C(this.A(this.gUI()))
+w=this.K;(w&&C.bB).a5(w,"keypress",this.A(this.gRZ()))
+w=this.R.b
+e8=new P.i(w,[H.e(w,0)]).C(this.A(this.gV_()))
+w=this.aa.b
+e9=new P.i(w,[H.e(w,0)]).C(this.A(this.gV1()))
+w=this.ai.b
+f0=new P.i(w,[H.e(w,0)]).C(this.A(this.gV5()))
+w=this.al.b
+f1=new P.i(w,[H.e(w,0)]).C(this.A(this.gVb()))
+w=this.aN.b
+f2=new P.i(w,[H.e(w,0)]).C(this.A(this.gVl()))
+w=this.aA.b
+f3=new P.i(w,[H.e(w,0)]).C(this.A(this.gVp()))
+w=this.aK.b
+f4=new P.i(w,[H.e(w,0)]).C(this.A(this.gVr()))
+w=this.aG.b
+f5=new P.i(w,[H.e(w,0)]).C(this.A(this.gXQ()))
+w=this.cu.b
+f6=new P.i(w,[H.e(w,0)]).C(this.A(this.gUa()))
+w=this.cA.b
+f7=new P.i(w,[H.e(w,0)]).C(this.A(this.gUc()))
+w=this.bL.b
+f8=new P.i(w,[H.e(w,0)]).C(this.A(this.gUe()))
+J.H(this.c7,"keydown",this.A(this.cC.e.gnp()))
+w=this.c4.b
+f9=new P.i(w,[H.e(w,0)]).C(this.A(this.gUm()))
+J.H(this.cg,"keydown",this.A(this.cs.e.gnp()))
+w=this.ci.b
+g0=new P.i(w,[H.e(w,0)]).C(this.A(this.gUq()))
+J.H(this.bY,"keydown",this.A(this.ct.e.gnp()))
+w=this.bZ.b
+g1=new P.i(w,[H.e(w,0)]).C(this.A(this.gUu()))
+J.H(this.cQ,"keydown",this.A(this.cR.e.gnp()))
+w=this.d3.b
+g2=new P.i(w,[H.e(w,0)]).C(this.A(this.gUy()))
+w=this.dJ.b
+g3=new P.i(w,[H.e(w,0)]).C(this.A(this.gUC()))
+w=this.e3.b
+this.N(C.a,[e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,new P.i(w,[H.e(w,0)]).C(this.A(this.gUE()))])
 return},
-G:function(n,o,p){var y,x,w,v,u,t,s,r
-y=n===C.a6
-if(y&&7<=o&&o<=9)return this.cy
-x=n!==C.a9
-if((!x||n===C.j)&&7<=o&&o<=9)return this.db
-w=n===C.aL
-if(w&&7<=o&&o<=9)return this.dx
-v=n!==C.V
-if((!v||n===C.q||n===C.k)&&10<=o&&o<=12)return this.go
-u=n===C.X
-if(u&&10<=o&&o<=12){y=this.id
-if(y==null){y=this.go
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.id=x
-y=x}return y}t=n===C.a1
-if(t&&10<=o&&o<=12){y=this.k1
-if(y==null){y=this.go.fr
-this.k1=y}return y}if((n===C.bj||n===C.k||n===C.D||n===C.q||n===C.a3||n===C.C||n===C.N)&&20===o)return this.x2
-if(y&&22<=o&&o<=24)return this.N
-if((!x||n===C.j)&&22<=o&&o<=24)return this.T
-if(w&&22<=o&&o<=24)return this.J
-if(y&&29<=o&&o<=30)return this.ag
-if((!x||n===C.j)&&29<=o&&o<=30)return this.am
-if((!v||n===C.q||n===C.k)&&25<=o&&o<=30)return this.R
-if(u&&25<=o&&o<=30){y=this.S
-if(y==null){y=this.R
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.S=x
-y=x}return y}if(t&&25<=o&&o<=30){y=this.M
-if(y==null){y=this.R.fr
-this.M=y}return y}if(y&&33<=o&&o<=35)return this.a6
-if((!x||n===C.j)&&33<=o&&o<=35)return this.ah
-if(w&&33<=o&&o<=35)return this.a4
-if(y&&40<=o&&o<=41)return this.aj
-if((!x||n===C.j)&&40<=o&&o<=41)return this.aP
-if((!v||n===C.q||n===C.k)&&36<=o&&o<=41)return this.ar
-if(u&&36<=o&&o<=41){y=this.az
-if(y==null){y=this.ar
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.az=x
-y=x}return y}if(t&&36<=o&&o<=41){y=this.at
-if(y==null){y=this.ar.fr
-this.at=y}return y}if(y&&44<=o&&o<=46)return this.bw
-if((!x||n===C.j)&&44<=o&&o<=46)return this.ao
-if(w&&44<=o&&o<=46)return this.aD
-if(y&&51<=o&&o<=52)return this.aH
-if((!x||n===C.j)&&51<=o&&o<=52)return this.bd
-if((!v||n===C.q||n===C.k)&&47<=o&&o<=52)return this.aw
-if(u&&47<=o&&o<=52){y=this.bV
-if(y==null){y=this.aw
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.bV=x
-y=x}return y}if(t&&47<=o&&o<=52){y=this.aC
-if(y==null){y=this.aw.fr
-this.aC=y}return y}if(y&&66<=o&&o<=68)return this.bE
-if((!x||n===C.j)&&66<=o&&o<=68)return this.b1
-if(w&&66<=o&&o<=68)return this.bj
-if(n===C.L&&71<=o&&o<=72){y=this.bx
-if(y==null){y=this.c
-y=G.c8(y.m(C.L,this.a.Q,null),y.m(C.z,this.a.Q,null))
-this.bx=y}return y}if((!v||n===C.q||n===C.k)&&69<=o&&o<=72)return this.bl
-if(u&&69<=o&&o<=72){y=this.b2
-if(y==null){y=this.bl
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.b2=x
-y=x}return y}if(t&&69<=o&&o<=72){y=this.bu
-if(y==null){y=this.bl.fr
-this.bu=y}return y}if(y&&83<=o&&o<=85)return this.aV
-if((!x||n===C.j)&&83<=o&&o<=85)return this.c9
-if(w&&83<=o&&o<=85)return this.br
-s=n===C.pp
-if(s&&86<=o&&o<=87)return this.c1
-r=n===C.C
-if(r&&86<=o&&o<=87)return this.cg
-if((!v||n===C.q||n===C.k)&&86<=o&&o<=87)return this.bv
-if(u&&86<=o&&o<=87){y=this.cm
-if(y==null){y=this.bv
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.cm=x
-y=x}return y}if(t&&86<=o&&o<=87){y=this.bF
-if(y==null){y=this.bv.fr
-this.bF=y}return y}if(y&&95<=o&&o<=97)return this.cG
-if((!x||n===C.j)&&95<=o&&o<=97)return this.bQ
-if(w&&95<=o&&o<=97)return this.co
-if(s&&98<=o&&o<=104)return this.ca
-if(r&&98<=o&&o<=104)return this.cd
-if((!v||n===C.q||n===C.k)&&98<=o&&o<=104)return this.bG
-if(u&&98<=o&&o<=104){y=this.cH
-if(y==null){y=this.bG
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.cH=x
-y=x}return y}if(t&&98<=o&&o<=104){y=this.cb
-if(y==null){y=this.bG.fr
-this.cb=y}return y}if(y&&110<=o&&o<=112)return this.cK
-if((!x||n===C.j)&&110<=o&&o<=112)return this.cE
-if(w&&110<=o&&o<=112)return this.cF
-if((!v||n===C.q||n===C.k)&&113<=o&&o<=115)return this.cX
-if(u&&113<=o&&o<=115){y=this.d0
-if(y==null){y=this.cX
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.d0=x
-y=x}return y}if(t&&113<=o&&o<=115){y=this.dv
-if(y==null){y=this.cX.fr
-this.dv=y}return y}if(y&&121<=o&&o<=123)return this.cI
-if((!x||n===C.j)&&121<=o&&o<=123)return this.d6
-if(w&&121<=o&&o<=123)return this.dw
-if((!v||n===C.q||n===C.k)&&124<=o&&o<=126)return this.dA
-if(u&&124<=o&&o<=126){y=this.dM
-if(y==null){y=this.dA
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.dM=x
-y=x}return y}if(t&&124<=o&&o<=126){y=this.dR
-if(y==null){y=this.dA.fr
-this.dR=y}return y}if(y&&137<=o&&o<=139)return this.dn
-if((!x||n===C.j)&&137<=o&&o<=139)return this.fN
-if(w&&137<=o&&o<=139)return this.eT
-if((!v||n===C.q||n===C.k)&&140<=o&&o<=142)return this.ep
-if(u&&140<=o&&o<=142){y=this.hR
-if(y==null){y=this.ep
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.hR=x
-y=x}return y}if(t&&140<=o&&o<=142){y=this.dt
-if(y==null){y=this.ep.fr
-this.dt=y}return y}if(n===C.K&&136<=o&&o<=142)return this.e7
-if(n===C.F&&136<=o&&o<=142)return this.eR
-if(n===C.b&&136<=o&&o<=142)return this.ds
-if(n===C.P&&136<=o&&o<=142)return this.ef
-if(n===C.t&&136<=o&&o<=142)return this.eA
-if(n===C.W&&136<=o&&o<=142)return this.e1
-if(n===C.R&&136<=o&&o<=142)return this.f9
-if(n===C.x&&136<=o&&o<=142)return this.eg
-if(n===C.w&&136<=o&&o<=142)return this.fa
-if(n===C.v&&136<=o&&o<=142)return this.fb
-if(n===C.O&&136<=o&&o<=142)return this.e2
-if(n===C.B&&136<=o&&o<=142)return this.fs
-if(n===C.A&&136<=o&&o<=142)return this.eS
-if(n===C.Q&&136<=o&&o<=142)return this.eh
-if(n===C.o&&136<=o&&o<=142)return this.eo
-if(n===C.E&&136<=o&&o<=142)return this.ft
-if(n===C.Y&&136<=o&&o<=142){y=this.eB
-if(y==null){y=T.bk(this.c.n(C.e,this.a.Q))
-this.eB=y}return y}if(y&&148<=o&&o<=150)return this.h4
-if((!x||n===C.j)&&148<=o&&o<=150)return this.ei
-if(w&&148<=o&&o<=150)return this.fj
-if((!v||n===C.q||n===C.k)&&151<=o&&o<=153)return this.dT
-if(u&&151<=o&&o<=153){y=this.fk
-if(y==null){y=this.dT
-x=y.x
-if(x==null)x=new Z.bo(H.n([],[Z.bB]),null,null)
-y.x=x
-this.fk=x
-y=x}return y}if(t&&151<=o&&o<=153){y=this.h7
-if(y==null){y=this.dT.fr
-this.h7=y}return y}return p},
-p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3
+J:function(n,o,p){var y,x,w
+y=n===C.b4
+if(y&&7<=o&&o<=8)return this.dx
+if(y&&9<=o&&o<=10)return this.fx
+if(y&&11<=o&&o<=12)return this.id
+if(y&&13<=o&&o<=14)return this.k3
+x=n===C.aQ
+if(x&&5<=o&&o<=14)return this.ch
+if(y&&35<=o&&o<=36)return this.R
+if(y&&37<=o&&o<=38)return this.aa
+if(y&&39<=o&&o<=40)return this.ai
+if(y&&41<=o&&o<=42)return this.al
+if(x&&32<=o&&o<=42)return this.Y
+if(y&&50<=o&&o<=51)return this.aN
+if(y&&52<=o&&o<=53)return this.aA
+if(y&&54<=o&&o<=55)return this.aK
+if(y&&56<=o&&o<=57)return this.aG
+if(x&&49<=o&&o<=57)return this.aC
+if(y&&62<=o&&o<=65)return this.aD
+if(y&&66<=o&&o<=68)return this.b8
+if(y&&69<=o&&o<=70)return this.bB
+if(y&&71<=o&&o<=72)return this.ah
+if(x&&61<=o&&o<=72)return this.au
+if(y&&78<=o&&o<=79)return this.bb
+if(y&&80<=o&&o<=81)return this.bc
+if(y&&82<=o&&o<=85)return this.bH
+if(y&&87<=o&&o<=88)return this.bO
+if(y&&89<=o&&o<=91)return this.bi
+if(y&&92<=o&&o<=93)return this.b4
+if(y&&94<=o&&o<=95)return this.cq
+if(x&&76<=o&&o<=95)return this.bx
+w=n!==C.ar
+if((!w||n===C.ad||n===C.E)&&102<=o&&o<=103)return this.cu
+if((!w||n===C.ad||n===C.E)&&104<=o&&o<=105)return this.cA
+if((!w||n===C.ad||n===C.E)&&106<=o&&o<=107)return this.bL
+if(x&&101<=o&&o<=107)return this.co
+if(y&&116<=o&&o<=117)return this.c4
+w=n===C.fJ
+if(w&&116<=o&&o<=117)return this.cZ
+if(y&&118<=o&&o<=119)return this.ci
+if(w&&118<=o&&o<=119)return this.cP
+if(y&&120<=o&&o<=121)return this.bZ
+if(w&&120<=o&&o<=121)return this.cw
+if(y&&122<=o&&o<=123)return this.d3
+if(w&&122<=o&&o<=123)return this.d_
+if(n===C.fH&&114<=o&&o<=123)return this.cv.e
+if(x&&114<=o&&o<=123)return this.cd
+if(y&&129<=o&&o<=130)return this.dJ
+if(y&&131<=o&&o<=132)return this.e3
+if(x&&127<=o&&o<=132)return this.dP
+return p},
+q:function(){var y,x,w,v,u,t,s,r,q,p,o
 y=this.f
 x=this.a.cy===0
-w=this.dx
-v=this.J
-u=this.a4
-t=this.aD
-s=this.bj
-r=this.br
-q=this.co
-p=this.cF
-o=this.dw
-n=this.eT
-a0=this.fj
-if(x){this.db.Q=!0
-a1=!0}else a1=!1
-if(a1)this.cx.a.sq(1)
-a2=this.fA
-if(a2==null?w!=null:a2!==w){this.go.sdY(0,w)
-this.fA=w}a2=y.a
-a3=a2[0]
-a4=this.hS
-if(a4==null?a3!=null:a4!==a3){this.go.sbA(0,a3)
-this.hS=a3}if(x){a4=this.x2
-a5=y.c
-a4.sf_(0,a5)
-a6=P.c()
-a6.u(0,"options",new A.W(null,a5))}else a6=null
-a4=y.b
-a5=a4.a
-a7=J.bt(a5.gbe())
-a8=y.d
-a7=a8.$1(a7)
-a9=this.fP
-if(a9==null?a7!=null:a9!==a7){this.x2.a6$=a7
-if(a6==null)a6=P.al(P.j,A.W)
-a6.u(0,"buttonText",new A.W(a9,a7))
-this.fP=a7}if(this.fl!==a8){this.x2.scY(a8)
-if(a6==null)a6=P.al(P.j,A.W)
-a6.u(0,"itemRenderer",new A.W(this.fl,a8))
-this.fl=a8}if(this.eF!==a4){this.x2.scV(a4)
-if(a6==null)a6=P.al(P.j,A.W)
-a6.u(0,"selection",new A.W(this.eF,a4))
-this.eF=a4}if(a6!=null){a4=this.x2
-a4.toString
-if(a6.cr(0,"disabled")&&a4.a4$){a4.ec(0,!1)
-a4.at$=""}}if(x){this.T.Q=!0
-a1=!0}else a1=!1
-if(a1)this.U.a.sq(1)
-if(x)this.R.J.a.u(0,C.a8,!0)
-a4=J.bt(a5.gbe())
-b0=this.hT.$1(a4)
-a4=this.ij
-if(a4==null?b0!=null:a4!==b0){this.R.J.a.u(0,C.ak,b0)
-this.ij=b0}a4=this.fB
-if(a4==null?v!=null:a4!==v){this.R.sdY(0,v)
-this.fB=v}b1=a2[1]
-a4=this.fQ
-if(a4==null?b1!=null:a4!==b1){this.R.sbA(0,b1)
-this.fQ=b1}if(x){this.am.Q=!0
-a1=!0}else a1=!1
-if(a1)this.af.a.sq(1)
-if(x){this.ah.Q=!0
-a1=!0}else a1=!1
-if(a1)this.aq.a.sq(1)
-if(x){this.ar.J.a.u(0,C.a8,!0)
-a4=this.ar
-a4.toString
-a4.x1=!0?"x":null}a4=J.bt(a5.gbe())
-b2=this.fC.$1(a4)
-a4=this.fR
-if(a4==null?b2!=null:a4!==b2){this.ar.J.a.u(0,C.ak,b2)
-this.fR=b2}a4=this.hU
-if(a4==null?u!=null:a4!==u){this.ar.sdY(0,u)
-this.hU=u}b3=a2[2]
-a4=this.iT
-if(a4==null?b3!=null:a4!==b3){this.ar.sbA(0,b3)
-this.iT=b3}if(x){this.aP.Q=!0
-a1=!0}else a1=!1
-if(a1)this.aT.a.sq(1)
-if(x){this.ao.Q=!0
-a1=!0}else a1=!1
-if(a1)this.bc.a.sq(1)
-if(x){this.aw.J.a.u(0,C.a8,!0)
-a4=this.aw
-a4.toString
-a4.x1=!0?"y":null}a4=J.bt(a5.gbe())
-b4=this.fD.$1(a4)
-a4=this.h9
-if(a4==null?b4!=null:a4!==b4){this.aw.J.a.u(0,C.ak,b4)
-this.h9=b4}a4=this.iU
-if(a4==null?t!=null:a4!==t){this.aw.sdY(0,t)
-this.iU=t}b5=a2[3]
-a4=this.fE
-if(a4==null?b5!=null:a4!==b5){this.aw.sbA(0,b5)
-this.fE=b5}if(x){this.bd.Q=!0
-a1=!0}else a1=!1
-if(a1)this.aN.a.sq(1)
-if(x){this.b1.Q=!0
-a1=!0}else a1=!1
-if(a1)this.aI.a.sq(1)
-if(x)this.bl.J.a.u(0,C.a8,!0)
-a4=this.iV
-if(a4==null?s!=null:a4!==s){this.bl.sdY(0,s)
-this.iV=s}b6=a2[4]
-a4=this.jz
-if(a4==null?b6!=null:a4!==b6){this.bl.sbA(0,b6)
-this.jz=b6}if(x){a4=this.c8
-a4.id="42"
-a4=a4.r1
-if(!(a4==null))a4.r="42"}if(x){a4=this.c8
-if(a4.k3)a4.ff()}if(x){this.c9.Q=!0
-a1=!0}else a1=!1
-if(a1)this.b8.a.sq(1)
-if(x)this.bv.J.a.u(0,C.a8,!0)
-a4=this.ik
-if(a4==null?r!=null:a4!==r){this.bv.sdY(0,r)
-this.ik=r}b7=a2[5]
-a4=this.kl
-if(a4==null?b7!=null:a4!==b7){this.bv.sbA(0,b7)
-this.kl=b7}if(x)this.cn.f=!0
-if(x){this.bQ.Q=!0
-a1=!0}else a1=!1
-if(a1)this.bz.a.sq(1)
-if(x)this.bG.J.a.u(0,C.a8,!0)
-a4=this.lK
-if(a4==null?q!=null:a4!==q){this.bG.sdY(0,q)
-this.lK=q}b8=a2[6]
-a4=this.km
-if(a4==null?b8!=null:a4!==b8){this.bG.sbA(0,b8)
-this.km=b8}if(x){this.cE.Q=!0
-a1=!0}else a1=!1
-if(a1)this.cw.a.sq(1)
-a4=this.hx
-if(a4==null?p!=null:a4!==p){this.cX.sdY(0,p)
-this.hx=p}b9=a2[7]
-a4=this.lM
-if(a4==null?b9!=null:a4!==b9){this.cX.sbA(0,b9)
-this.lM=b9}if(x){this.d6.Q=!0
-a1=!0}else a1=!1
-if(a1)this.dK.a.sq(1)
-a4=this.im
-if(a4==null?o!=null:a4!==o){this.dA.sdY(0,o)
-this.im=o}c0=a2[8]
-a4=this.kn
-if(a4==null?c0!=null:a4!==c0){this.dA.sbA(0,c0)
-this.kn=c0}if(x){this.fN.Q=!0
-a1=!0}else a1=!1
-if(a1)this.eC.a.sq(1)
-a4=this.io
-if(a4==null?n!=null:a4!==n){this.ep.sdY(0,n)
-this.io=n}c1=a2[9]
-a4=this.ko
-if(a4==null?c1!=null:a4!==c1){this.ep.sbA(0,c1)
-this.ko=c1}if(x){this.ei.Q=!0
-a1=!0}else a1=!1
-if(a1)this.eE.a.sq(1)
-a4=this.lO
-if(a4==null?a0!=null:a4!==a0){this.dT.sdY(0,a0)
-this.lO=a0}c2=a2[10]
-a4=this.kp
-if(a4==null?c2!=null:a4!==c2){this.dT.sbA(0,c2)
-this.kp=c2}this.fy.I()
-this.a_.I()
-this.ax.I()
-this.av.I()
-this.bp.I()
-this.bq.I()
-this.bs.I()
-this.bU.I()
-this.bR.I()
-this.cW.I()
-this.d7.I()
-this.h3.I()
-this.h6.I()
-this.cx.w(x)
-c3=Q.M(a2[0]?"Close":"Open")
-if(this.fz!==c3){this.dy.textContent=c3
-this.fz=c3}this.fx.w(x)
-this.U.w(x)
-c4=Q.M(a2[1]?"Close":"Open")
-if(this.hw!==c4){this.K.textContent=c4
-this.hw=c4}this.V.w(x)
-this.af.w(x)
-this.aq.w(x)
-c5=Q.M(a2[2]?"Close":"Open")
-if(this.iS!==c5){this.aE.textContent=c5
-this.iS=c5}this.ay.w(x)
-this.aT.w(x)
-this.bc.w(x)
-c6=Q.M(a2[3]?"Close":"Open")
-if(this.eX!==c6){this.aG.textContent=c6
-this.eX=c6}this.aY.w(x)
-this.aN.w(x)
-this.aI.w(x)
-c7=Q.M(a2[4]?"Close":"Open")
-if(this.fF!==c7){this.aR.textContent=c7
-this.fF=c7}this.bI.w(x)
-this.b8.w(x)
-c8=Q.M(a2[5]?"Close":"Open")
-if(this.ha!==c8){this.c0.textContent=c8
-this.ha=c8}this.aL.w(x)
-this.bz.w(x)
-c9=Q.M(a2[6]?"Close":"Open")
-if(this.il!==c9){this.bX.textContent=c9
-this.il=c9}this.cs.w(x)
-this.cw.w(x)
-d0=Q.M(a2[7]?"Close":"Open")
-if(this.lL!==d0){this.cT.textContent=d0
-this.lL=d0}this.cQ.w(x)
-this.dK.w(x)
-d1=Q.M(a2[8]?"Close":"Open")
-if(this.hb!==d1){this.dm.textContent=d1
-this.hb=d1}this.d1.w(x)
-this.eC.w(x)
-d2=Q.M(a2[9]?"Close":"Open")
-if(this.lN!==d2){this.fu.textContent=d2
-this.lN=d2}this.eD.w(x)
-this.eE.w(x)
-d3=Q.M(a2[10]?"Close":"Open")
-if(this.hc!==d3){this.h5.textContent=d3
-this.hc=d3}this.fw.w(x)
-this.cx.k()
-this.fx.k()
-this.x1.k()
-this.U.k()
-this.V.k()
-this.af.k()
-this.aq.k()
-this.ay.k()
-this.aT.k()
-this.bc.k()
-this.aY.k()
-this.aN.k()
-this.aI.k()
-this.bI.k()
-this.b8.k()
-this.aL.k()
-this.bz.k()
-this.cs.k()
-this.cw.k()
-this.cQ.k()
-this.dK.k()
-this.d1.k()
-this.eC.k()
-this.eD.k()
-this.eE.k()
-this.fw.k()
-if(x)this.dx.ae()
-if(x)this.go.dZ()
-if(x)this.J.ae()
-if(x)this.R.dZ()
-if(x)this.a4.ae()
-if(x)this.ar.dZ()
-if(x)this.aD.ae()
-if(x)this.aw.dZ()
-if(x)this.bj.ae()
-if(x)this.c8.ae()
-if(x)this.bl.dZ()
-if(x)this.br.ae()
-if(x)this.bv.dZ()
-if(x)this.co.ae()
-if(x)this.bG.dZ()
-if(x)this.cF.ae()
-if(x)this.cX.dZ()
-if(x)this.dw.ae()
-if(x)this.dA.dZ()
-if(x)this.eT.ae()
-if(x)this.ep.dZ()
-if(x)this.fj.ae()
-if(x)this.dT.dZ()},
-v:function(){var y,x
-y=this.fy
+y.toString
+if(this.di!==C.bY){this.x2.scp(C.bY)
+this.di=C.bY}this.x2.c9()
+if(x){this.R.d=!0
+w=!0}else w=!1
+if(w)this.Z.a.su(1)
+if(x){this.aN.d=!0
+w=!0}else w=!1
+if(w)this.aI.a.su(1)
+if(x){this.au.scF(0,"3")
+w=!0}else w=!1
+if(w)this.bn.a.su(1)
+if(x){this.aR.sak(0,"today")
+w=!0}else w=!1
+if(w)this.bf.a.su(1)
+if(x){this.bx.scF(0,"3")
+w=!0}else w=!1
+if(w)this.bu.a.su(1)
+if(x){this.b3.sak(0,"today")
+w=!0}else w=!1
+if(w)this.c3.a.su(1)
+if(x){this.co.scF(0,"3")
+w=!0}else w=!1
+if(w)this.bP.a.su(1)
+v=y.b
+u=v.cJ(1)
+if(this.e4!==u){t=this.cu
+t.toString
+t.k4=E.a6(u)
+this.e4=u}s=v.cJ(2)
+if(this.de!==s){t=this.cA
+t.toString
+t.k4=E.a6(s)
+this.de=s}r=v.cJ(3)
+if(this.dj!==r){v=this.bL
+v.toString
+v.k4=E.a6(r)
+this.dj=r}this.x1.I()
+v=y.a
+v=J.d3(v.gbp())?"red":J.bT(v.gbp())
+t=this.cW
+if(t==null?v!=null:t!==v){t=this.r.style
+q=v==null?null:v
+C.J.ev(t,(t&&C.J).eg(t,"color"),q,null)
+this.cW=v}this.Q.B(x)
+this.db.B(x)
+this.fr.B(x)
+this.go.B(x)
+this.k2.B(x)
+p=y.c
+v=this.dQ
+if(v==null?p!=null:v!==p){this.K.value=p
+this.dQ=p}this.F.B(x)
+this.Z.B(x)
+this.ab.B(x)
+this.af.B(x)
+o=y.c
+if(o==null)o=""
+if(this.dE!==o){this.ag.textContent=o
+this.dE=o}this.U.B(x)
+this.aw.B(x)
+this.aI.B(x)
+this.as.B(x)
+this.aj.B(x)
+this.aE.B(x)
+this.bn.B(x)
+this.b_.B(x)
+this.aL.B(x)
+this.b6.B(x)
+this.bv.B(x)
+this.bu.B(x)
+this.aZ.B(x)
+this.b9.B(x)
+this.bh.B(x)
+this.bE.B(x)
+this.bJ.B(x)
+this.bT.B(x)
+this.bm.B(x)
+this.bP.B(x)
+this.bz.B(x)
+this.bW.B(x)
+this.bd.B(x)
+this.cv.dD(this.bR,this.cH)
+this.bR.B(x)
+this.cC.dD(this.ck,this.c7)
+this.ck.B(x)
+this.cs.dD(this.cl,this.cg)
+this.cl.B(x)
+this.ct.dD(this.cD,this.bY)
+this.cD.B(x)
+this.cR.dD(this.cI,this.cQ)
+this.cI.B(x)
+this.dd.B(x)
+this.dB.B(x)
+this.dh.B(x)
+this.Q.j()
+this.db.j()
+this.fr.j()
+this.go.j()
+this.k2.j()
+this.F.j()
+this.Z.j()
+this.ab.j()
+this.af.j()
+this.U.j()
+this.aw.j()
+this.aI.j()
+this.as.j()
+this.aj.j()
+this.aE.j()
+this.bn.j()
+this.b_.j()
+this.aL.j()
+this.bf.j()
+this.b6.j()
+this.bv.j()
+this.bu.j()
+this.aZ.j()
+this.b9.j()
+this.bh.j()
+this.bE.j()
+this.bJ.j()
+this.c3.j()
+this.bT.j()
+this.bm.j()
+this.bP.j()
+this.bz.j()
+this.bW.j()
+this.bd.j()
+this.bR.j()
+this.ck.j()
+this.cl.j()
+this.cD.j()
+this.cI.j()
+this.dd.j()
+this.dB.j()
+this.dh.j()},
+w:function(){var y=this.x1
 if(!(y==null))y.H()
-y=this.a_
-if(!(y==null))y.H()
-y=this.ax
-if(!(y==null))y.H()
-y=this.av
-if(!(y==null))y.H()
-y=this.bp
-if(!(y==null))y.H()
-y=this.bq
-if(!(y==null))y.H()
-y=this.bs
-if(!(y==null))y.H()
-y=this.bU
-if(!(y==null))y.H()
-y=this.bR
-if(!(y==null))y.H()
-y=this.cW
-if(!(y==null))y.H()
-y=this.d7
-if(!(y==null))y.H()
-y=this.h3
-if(!(y==null))y.H()
-y=this.h6
-if(!(y==null))y.H()
-y=this.cx
-if(!(y==null))y.j()
-y=this.fx
-if(!(y==null))y.j()
-y=this.x1
-if(!(y==null))y.j()
-y=this.U
-if(!(y==null))y.j()
-y=this.V
-if(!(y==null))y.j()
+y=this.Q
+if(!(y==null))y.i()
+y=this.db
+if(!(y==null))y.i()
+y=this.fr
+if(!(y==null))y.i()
+y=this.go
+if(!(y==null))y.i()
+y=this.k2
+if(!(y==null))y.i()
+y=this.F
+if(!(y==null))y.i()
+y=this.Z
+if(!(y==null))y.i()
+y=this.ab
+if(!(y==null))y.i()
 y=this.af
-if(!(y==null))y.j()
-y=this.aq
-if(!(y==null))y.j()
-y=this.ay
-if(!(y==null))y.j()
-y=this.aT
-if(!(y==null))y.j()
-y=this.bc
-if(!(y==null))y.j()
-y=this.aY
-if(!(y==null))y.j()
-y=this.aN
-if(!(y==null))y.j()
+if(!(y==null))y.i()
+y=this.U
+if(!(y==null))y.i()
+y=this.aw
+if(!(y==null))y.i()
 y=this.aI
-if(!(y==null))y.j()
-y=this.bI
-if(!(y==null))y.j()
-y=this.b8
-if(!(y==null))y.j()
+if(!(y==null))y.i()
+y=this.as
+if(!(y==null))y.i()
+y=this.aj
+if(!(y==null))y.i()
+y=this.aE
+if(!(y==null))y.i()
+y=this.bn
+if(!(y==null))y.i()
+y=this.b_
+if(!(y==null))y.i()
 y=this.aL
-if(!(y==null))y.j()
+if(!(y==null))y.i()
+y=this.bf
+if(!(y==null))y.i()
+y=this.b6
+if(!(y==null))y.i()
+y=this.bv
+if(!(y==null))y.i()
+y=this.bu
+if(!(y==null))y.i()
+y=this.aZ
+if(!(y==null))y.i()
+y=this.b9
+if(!(y==null))y.i()
+y=this.bh
+if(!(y==null))y.i()
+y=this.bE
+if(!(y==null))y.i()
+y=this.bJ
+if(!(y==null))y.i()
+y=this.c3
+if(!(y==null))y.i()
+y=this.bT
+if(!(y==null))y.i()
+y=this.bm
+if(!(y==null))y.i()
+y=this.bP
+if(!(y==null))y.i()
 y=this.bz
-if(!(y==null))y.j()
-y=this.cs
-if(!(y==null))y.j()
-y=this.cw
-if(!(y==null))y.j()
-y=this.cQ
-if(!(y==null))y.j()
-y=this.dK
-if(!(y==null))y.j()
-y=this.d1
-if(!(y==null))y.j()
-y=this.eC
-if(!(y==null))y.j()
-y=this.eD
-if(!(y==null))y.j()
-y=this.eE
-if(!(y==null))y.j()
-y=this.fw
-if(!(y==null))y.j()
-this.dx.ab()
-this.go.ab()
-y=this.x2
-x=y.cy
-if(!(x==null))x.a7(0)
-y=y.db
-if(!(y==null))y.a7(0)
-this.J.ab()
-this.R.ab()
-this.a4.ab()
-this.ar.ab()
-this.aD.ab()
-this.aw.ab()
-this.bj.ab()
-this.c8.ab()
-this.bl.ab()
-this.br.ab()
-this.cn.ab()
-this.bv.ab()
-this.co.ab()
-this.bG.ab()
-this.cF.ab()
-this.cX.ab()
-this.dw.ab()
-this.dA.ab()
-this.eT.ab()
-this.ep.ab()
-this.fj.ab()
-this.dT.ab()},
-Na:function(n){J.bs(J.aR(this.f),0,!J.c2(J.aR(this.f),0))},
-Ny:function(n){J.bs(J.aR(this.f),0,n)},
-Mb:function(n){J.bs(J.aR(this.f),1,!J.c2(J.aR(this.f),1))},
-NM:function(n){J.bs(J.aR(this.f),1,n)},
-Mh:function(n){J.bs(J.aR(this.f),1,!1)},
-Ml:function(n){J.bs(J.aR(this.f),2,!J.c2(J.aR(this.f),2))},
-NO:function(n){J.bs(J.aR(this.f),2,n)},
-Mx:function(n){J.bs(J.aR(this.f),2,!1)},
-MF:function(n){J.bs(J.aR(this.f),3,!J.c2(J.aR(this.f),3))},
-NU:function(n){J.bs(J.aR(this.f),3,n)},
-ML:function(n){J.bs(J.aR(this.f),3,!1)},
-MZ:function(n){J.bs(J.aR(this.f),4,!J.c2(J.aR(this.f),4))},
-O_:function(n){J.bs(J.aR(this.f),4,n)},
-Ne:function(n){J.bs(J.aR(this.f),5,!J.c2(J.aR(this.f),5))},
-O1:function(n){J.bs(J.aR(this.f),5,n)},
-Nm:function(n){J.bs(J.aR(this.f),6,!J.c2(J.aR(this.f),6))},
-O5:function(n){J.bs(J.aR(this.f),6,n)},
-LG:function(n){J.bs(J.aR(this.f),7,!J.c2(J.aR(this.f),7))},
-NA:function(n){J.bs(J.aR(this.f),7,n)},
-LU:function(n){J.bs(J.aR(this.f),8,!J.c2(J.aR(this.f),8))},
-NE:function(n){J.bs(J.aR(this.f),8,n)},
-M3:function(n){J.bs(J.aR(this.f),9,!J.c2(J.aR(this.f),9))},
-NG:function(n){J.bs(J.aR(this.f),9,n)},
-M7:function(n){J.bs(J.aR(this.f),10,!J.c2(J.aR(this.f),10))},
-NI:function(n){J.bs(J.aR(this.f),10,n)},
-$asa:function(){return[M.fF]}}
-L.Fi.prototype={
-$1:function(n){return[n]},
-$S:function(){return{func:1,args:[,]}}}
-L.Fj.prototype={
-$1:function(n){return[n]},
-$S:function(){return{func:1,args:[,]}}}
-L.Fk.prototype={
-$1:function(n){return[n]},
-$S:function(){return{func:1,args:[,]}}}
-L.Lo.prototype={
-h:function(){var y,x,w
+if(!(y==null))y.i()
+y=this.bW
+if(!(y==null))y.i()
+y=this.bd
+if(!(y==null))y.i()
+y=this.bR
+if(!(y==null))y.i()
+y=this.ck
+if(!(y==null))y.i()
+y=this.cl
+if(!(y==null))y.i()
+y=this.cD
+if(!(y==null))y.i()
+y=this.cI
+if(!(y==null))y.i()
+y=this.dd
+if(!(y==null))y.i()
+y=this.dB
+if(!(y==null))y.i()
+y=this.dh
+if(!(y==null))y.i()
+this.dx.x.D()
+this.fx.x.D()
+this.id.x.D()
+this.k3.x.D()
+this.R.x.D()
+this.aa.x.D()
+this.ai.x.D()
+this.al.x.D()
+this.aN.x.D()
+this.aA.x.D()
+this.aK.x.D()
+this.aG.x.D()
+this.aD.x.D()
+this.b8.x.D()
+this.bB.x.D()
+this.ah.x.D()
+this.bb.x.D()
+this.bc.x.D()
+this.bH.x.D()
+this.bO.x.D()
+this.bi.x.D()
+this.b4.x.D()
+this.cq.x.D()
+this.cu.x.D()
+this.cA.x.D()
+this.bL.x.D()
+this.c4.x.D()
+this.ci.x.D()
+this.bZ.x.D()
+this.d3.x.D()
+this.cv.e.c.D()
+this.dJ.x.D()
+this.e3.x.D()},
+ux:function(n){this.f.ej("red")},
+tG:function(n){this.f.ej("green")},
+uv:function(n){this.f.ej("coral")},
+UJ:function(n){this.f.ej("mediumOrchid")},
+S_:function(n){var y=this.K
+this.f.sK7(y.value)},
+V0:function(n){this.f.ej("red")},
+V2:function(n){this.f.ej("green")},
+V6:function(n){this.f.ej("coral")},
+Vc:function(n){this.f.ej("mediumOrchid")},
+Vm:function(n){this.f.ej("red")},
+Vq:function(n){this.f.ej("green")},
+Vs:function(n){this.f.ej("coral")},
+XR:function(n){this.f.ej("mediumOrchid")},
+Ub:function(n){this.f.y7(1)},
+Ud:function(n){this.f.y7(2)},
+Uf:function(n){this.f.y7(3)},
+Un:function(n){this.f.ej("red")},
+Ur:function(n){this.f.ej("green")},
+Uv:function(n){this.f.ej("coral")},
+Uz:function(n){this.f.ej("mediumOrchid")},
+UD:function(n){this.f.ej("red")},
+UF:function(n){this.f.ej("green")},
+$asa:function(){return[D.h3]}}
+O.xl.prototype={
+p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0
 y=document
 x=y.createElement("div")
 this.r=x
-x.setAttribute("style","background: yellow; height: 1000px; width: 1000px;")
-this.i(this.r)
-w=y.createTextNode("Hello, Hello, Hello.\n          This is a long content that needs a scroll bar because the content\n          is so long. We cap it at 50% of the viewport height as a reasonable\n          default. It is also deferred.")
-this.r.appendChild(w)
-this.E(this.r)
+this.h(x)
+x=B.dE(this,1)
+this.y=x
+x=x.e
+this.x=x
+this.r.appendChild(x)
+x=this.x
+x.className="bordered-list"
+this.h(x)
+this.z=new B.cl("auto")
+x=y.createElement("div")
+this.Q=x
+x.setAttribute("label","")
+this.h(this.Q)
+w=y.createTextNode("List Width ")
+this.Q.appendChild(w)
+x=y.createTextNode("")
+this.ch=x
+this.Q.appendChild(x)
+x=E.b9(this,5)
+this.cy=x
+x=x.e
+this.cx=x
+x.setAttribute("disabled","")
+this.h(this.cx)
+x=this.cx
+v=this.c
+u=v.c
+x=L.b6(x,u.n(C.b,v.a.Q),u.m(C.m,v.a.Q,null),null,null)
+this.db=x
+t=y.createTextNode("Red")
+this.cy.k(x,[[t]])
+x=E.b9(this,7)
+this.dy=x
+x=x.e
+this.dx=x
+this.h(x)
+x=L.b6(this.dx,u.n(C.b,v.a.Q),u.m(C.m,v.a.Q,null),null,null)
+this.fr=x
+s=y.createTextNode("Green")
+this.dy.k(x,[[s]])
+x=E.b9(this,9)
+this.fy=x
+x=x.e
+this.fx=x
+this.h(x)
+x=L.b6(this.fx,u.n(C.b,v.a.Q),u.m(C.m,v.a.Q,null),null,null)
+this.go=x
+r=y.createTextNode("Coral")
+this.fy.k(x,[[r]])
+x=E.b9(this,11)
+this.k1=x
+x=x.e
+this.id=x
+this.h(x)
+v=L.b6(this.id,u.n(C.b,v.a.Q),u.m(C.m,v.a.Q,null),null,null)
+this.k2=v
+q=y.createTextNode("MediumOrchid")
+this.k1.k(v,[[q]])
+this.y.k(this.z,[[this.Q,this.cx,this.dx,this.fx,this.id]])
+v=this.db.b
+p=new P.i(v,[H.e(v,0)]).C(this.A(this.gVx()))
+v=this.fr.b
+o=new P.i(v,[H.e(v,0)]).C(this.A(this.guw()))
+v=this.go.b
+n=new P.i(v,[H.e(v,0)]).C(this.A(this.gtF()))
+v=this.k2.b
+a0=new P.i(v,[H.e(v,0)]).C(this.A(this.guu()))
+this.N([this.r],[p,o,n,a0])
 return},
-$asa:function(){return[M.fF]}}
-L.Lp.prototype={
-gzd:function(){var y=this.z
-if(y==null){y=window
-this.z=y}return y},
-gnl:function(){var y=this.Q
-if(y==null){y=T.bd(this.m(C.b,this.a.Q,null),this.m(C.z,this.a.Q,null),this.n(C.e,this.a.Q),this.gzd())
-this.Q=y}return y},
-gza:function(){var y=this.ch
-if(y==null){y=new O.aZ(this.n(C.U,this.a.Q),this.gnl())
-this.ch=y}return y},
-gnk:function(){var y=this.cx
-if(y==null){y=document
-this.cx=y}return y},
-gqP:function(){var y=this.cy
-if(y==null){y=new K.b_(this.gnk(),this.gnl(),P.ba(null))
-this.cy=y}return y},
-gqQ:function(){var y=this.dx
-if(y==null){y=this.m(C.x,this.a.Q,null)
-if(y==null)y="default"
-this.dx=y}return y},
-gzf:function(){var y,x
+J:function(n,o,p){var y=n===C.b4
+if(y&&5<=o&&o<=6)return this.db
+if(y&&7<=o&&o<=8)return this.fr
+if(y&&9<=o&&o<=10)return this.go
+if(y&&11<=o&&o<=12)return this.k2
+if(n===C.aQ&&1<=o&&o<=12)return this.z
+return p},
+q:function(){var y,x,w,v,u
+y=this.a.cy===0
+x=this.b.v(0,"$implicit")
+w=this.k3
+if(w==null?x!=null:w!==x){this.z.a=x
+this.k3=x
+v=!0}else v=!1
+if(v)this.y.a.su(1)
+if(y){this.db.d=!0
+v=!0}else v=!1
+if(v)this.cy.a.su(1)
+this.y.B(y)
+u=Q.J(x)
+if(this.k4!==u){this.ch.textContent=u
+this.k4=u}this.cy.B(y)
+this.dy.B(y)
+this.fy.B(y)
+this.k1.B(y)
+this.y.j()
+this.cy.j()
+this.dy.j()
+this.fy.j()
+this.k1.j()},
+w:function(){var y=this.y
+if(!(y==null))y.i()
+y=this.cy
+if(!(y==null))y.i()
 y=this.dy
-if(y==null){y=this.gnk()
-x=this.m(C.w,this.a.Q,null)
-y=x==null?y.querySelector("body"):x
-this.dy=y}return y},
-gzg:function(){var y=this.fr
-if(y==null){y=G.bi(this.gqQ(),this.gzf(),this.m(C.v,this.a.Q,null))
-this.fr=y}return y},
-gqR:function(){var y=this.fx
-if(y==null){this.fx=!0
-y=!0}return y},
-gzh:function(){var y=this.fy
-if(y==null){this.fy=!0
-y=!0}return y},
-gzc:function(){var y=this.go
-if(y==null){y=this.gnk()
-y=new R.b2(y.querySelector("head"),!1,y)
-this.go=y}return y},
-gze:function(){var y=this.id
-if(y==null){y=$.a6
-if(y==null){y=new X.b3()
-if(self.acxZIndex==null)self.acxZIndex=1000
-$.a6=y}this.id=y}return y},
-gzb:function(){var y,x,w,v,u,t,s,r,q
+if(!(y==null))y.i()
+y=this.fy
+if(!(y==null))y.i()
 y=this.k1
-if(y==null){y=this.gzc()
-x=this.gzg()
-w=this.gqQ()
-v=this.gqP()
-u=this.gnl()
-t=this.gza()
-s=this.gqR()
-r=this.gzh()
-q=this.gze()
-r=new K.aS(x,w,v,u,t,s,r,q,null,0)
-x.setAttribute("name",w)
-y.dk()
-q.toString
-r.y=self.acxZIndex
-this.k1=r
-y=r}return y},
-h:function(){var y,x,w
-y=new L.te(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
-y.a=S.d(y,1,C.h,0)
-x=document.createElement("material-popup-example")
+if(!(y==null))y.i()
+this.db.x.D()
+this.fr.x.D()
+this.go.x.D()
+this.k2.x.D()},
+Vy:function(n){this.f.ej("red")},
+ux:function(n){this.f.ej("green")},
+tG:function(n){this.f.ej("coral")},
+uv:function(n){this.f.ej("mediumOrchid")},
+$asa:function(){return[D.h3]}}
+O.RH.prototype={
+p:function(){var y,x
+y=new O.uP(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.d(),this,null,null,null)
+y.a=S.c(y,3,C.i,0,null)
+x=document.createElement("material-list-demo")
 y.e=x
-x=$.SC
-if(x==null){x=$.z.Y("",C.m,C.km)
-$.SC=x}y.W(x)
+x=$.Z_
+if(x==null){x=$.z.a1("",C.n,C.oW)
+$.Z_=x}y.a0(x)
 this.r=y
 this.e=y.e
-y=P.RV(11,!1,!1,null)
-x=Z.aN(!1,Z.aO(),[C.cl],null)
-w=$.$get$Ur()
-w=w.gdc(w)
-w=new M.fF(y,new T.mS(x,[null]),F.CK(P.bU(w,!0,H.ah(w,"I",0)),null,null),new M.OZ())
-this.x=w
-x=this.r
-y=this.a.e
-x.f=w
-x.a.e=y
-x.h()
+y=Z.aN(!1,Z.aQ(),C.a,null)
+x=Z.aN(!0,Z.aQ(),C.a,null)
+y=new D.h3(y,x,"Growing item label")
+x.du(0,2)
+this.x=y
+this.r.k(y,this.a.e)
 this.E(this.e)
-return new D.x(this,0,this.e,this.x)},
-G:function(n,o,p){var y,x,w
-if(n===C.cZ&&0===o)return this.x
-if(n===C.E&&0===o){y=this.y
-if(y==null){this.y=C.y
-y=C.y}return y}if(n===C.F&&0===o)return this.gzd()
-if(n===C.b&&0===o)return this.gnl()
-if(n===C.O&&0===o)return this.gza()
-if(n===C.K&&0===o)return this.gnk()
-if(n===C.P&&0===o)return this.gqP()
-if(n===C.Y&&0===o){y=this.db
-if(y==null){y=T.bk(this.n(C.e,this.a.Q))
-this.db=y}return y}if(n===C.x&&0===o)return this.gqQ()
-if(n===C.w&&0===o)return this.gzf()
-if(n===C.v&&0===o)return this.gzg()
-if(n===C.W&&0===o)return this.gqR()
-if(n===C.B&&0===o)return this.gzh()
-if(n===C.R&&0===o)return this.gzc()
-if(n===C.A&&0===o)return this.gze()
-if(n===C.Q&&0===o)return this.gzb()
-if(n===C.o&&0===o){y=this.k2
-if(y==null){y=this.n(C.e,this.a.Q)
-x=this.gqR()
-w=this.gzb()
-this.m(C.o,this.a.Q,null)
-w=new X.aT(x,y,w)
-this.k2=w
-y=w}return y}if(n===C.t&&0===o){y=this.k3
-if(y==null){y=new K.b8(this.gqP())
-this.k3=y}return y}return p},
-p:function(){this.r.k()},
-v:function(){var y=this.r
-if(!(y==null))y.j()},
-$asa:function(){}};(function installTearOffs(){var y
-f(y=A.je.prototype,"gmp",0,1,0,null,["$1"],["du"],function(){return H.bb(function(n){return{func:1,ret:P.w,args:[n]}},this.$receiver,"je")})
-f(y,"gj0",0,0,1,null,["$1"],["cM"],function(){return H.bb(function(n){return{func:1,ret:P.w,args:[n]}},this.$receiver,"je")})
-f(T.mS.prototype,"go3",0,0,0,null,["$1"],["e0"],function(){return H.bb(function(n){return{func:1,ret:P.w,args:[n]}},this.$receiver,"mS")})
-f(F,"afh",1,0,0,null,["$2"],["al7"],1)
-f(L,"afi",1,0,0,null,["$2"],["al5"],2)
-f(L,"afj",1,0,0,null,["$2"],["al6"],1)
-f(y=L.te.prototype,"gN9",0,0,0,null,["$1"],["Na"],0)
-f(y,"gNx",0,0,0,null,["$1"],["Ny"],0)
-f(y,"gMa",0,0,0,null,["$1"],["Mb"],0)
-f(y,"gNL",0,0,0,null,["$1"],["NM"],0)
-f(y,"gMg",0,0,0,null,["$1"],["Mh"],0)
-f(y,"gMk",0,0,0,null,["$1"],["Ml"],0)
-f(y,"gNN",0,0,0,null,["$1"],["NO"],0)
-f(y,"gMw",0,0,0,null,["$1"],["Mx"],0)
-f(y,"gME",0,0,0,null,["$1"],["MF"],0)
-f(y,"gNT",0,0,0,null,["$1"],["NU"],0)
-f(y,"gMK",0,0,0,null,["$1"],["ML"],0)
-f(y,"gMY",0,0,0,null,["$1"],["MZ"],0)
-f(y,"gNZ",0,0,0,null,["$1"],["O_"],0)
-f(y,"gNd",0,0,0,null,["$1"],["Ne"],0)
-f(y,"gO0",0,0,0,null,["$1"],["O1"],0)
-f(y,"gNl",0,0,0,null,["$1"],["Nm"],0)
-f(y,"gO4",0,0,0,null,["$1"],["O5"],0)
-f(y,"gLF",0,0,0,null,["$1"],["LG"],0)
-f(y,"gNz",0,0,0,null,["$1"],["NA"],0)
-f(y,"gLT",0,0,0,null,["$1"],["LU"],0)
-f(y,"gND",0,0,0,null,["$1"],["NE"],0)
-f(y,"gM2",0,0,0,null,["$1"],["M3"],0)
-f(y,"gNF",0,0,0,null,["$1"],["NG"],0)
-f(y,"gM6",0,0,0,null,["$1"],["M7"],0)
-f(y,"gNH",0,0,0,null,["$1"],["NI"],0)})();(function inheritance(){var y=H.aI
-a(Q.R1,y)
-a(M.OZ,y)
-a(L.Fi,y)
-a(L.Fj,y)
-a(L.Fk,y)
-y=P.F
-a(F.r_,y)
-a(A.je,y)
-a(G.jZ,y)
-a(M.fF,y)
-a(M.lX,y)
-a(M.xJ,y)
-a(T.mS,A.je)
+return new D.y(this,0,this.e,this.x,[D.h3])},
+q:function(){this.r.j()},
+w:function(){var y=this.r
+if(!(y==null))y.i()},
+$asa:function(){}};(function installTearOffs(){f(N,"ajO",1,0,0,null,["$2"],["awV"],1)
+f(O,"apI",1,0,0,null,["$2"],["awT"],2)
+f(O,"apJ",1,0,0,null,["$2"],["awU"],1)
+var y
+f(y=O.uP.prototype,"guw",0,0,0,null,["$1"],["ux"],0)
+f(y,"gtF",0,0,0,null,["$1"],["tG"],0)
+f(y,"guu",0,0,0,null,["$1"],["uv"],0)
+f(y,"gUI",0,0,0,null,["$1"],["UJ"],0)
+f(y,"gRZ",0,0,0,null,["$1"],["S_"],0)
+f(y,"gV_",0,0,0,null,["$1"],["V0"],0)
+f(y,"gV1",0,0,0,null,["$1"],["V2"],0)
+f(y,"gV5",0,0,0,null,["$1"],["V6"],0)
+f(y,"gVb",0,0,0,null,["$1"],["Vc"],0)
+f(y,"gVl",0,0,0,null,["$1"],["Vm"],0)
+f(y,"gVp",0,0,0,null,["$1"],["Vq"],0)
+f(y,"gVr",0,0,0,null,["$1"],["Vs"],0)
+f(y,"gXQ",0,0,0,null,["$1"],["XR"],0)
+f(y,"gUa",0,0,0,null,["$1"],["Ub"],0)
+f(y,"gUc",0,0,0,null,["$1"],["Ud"],0)
+f(y,"gUe",0,0,0,null,["$1"],["Uf"],0)
+f(y,"gUm",0,0,0,null,["$1"],["Un"],0)
+f(y,"gUq",0,0,0,null,["$1"],["Ur"],0)
+f(y,"gUu",0,0,0,null,["$1"],["Uv"],0)
+f(y,"gUy",0,0,0,null,["$1"],["Uz"],0)
+f(y,"gUC",0,0,0,null,["$1"],["UD"],0)
+f(y,"gUE",0,0,0,null,["$1"],["UF"],0)
+f(y=O.xl.prototype,"gVx",0,0,0,null,["$1"],["Vy"],0)
+f(y,"guw",0,0,0,null,["$1"],["ux"],0)
+f(y,"gtF",0,0,0,null,["$1"],["tG"],0)
+f(y,"guu",0,0,0,null,["$1"],["uv"],0)})();(function inheritance(){var y=P.G
+a(B.kh,y)
+a(D.h3,y)
 y=S.a
-a(F.Fl,y)
-a(F.Lq,y)
-a(L.te,y)
-a(L.Lo,y)
-a(L.Lp,y)})();(function constants(){C.dS=new D.A("material-popup-gallery-section-api",F.afh(),C.a,[G.jZ])
-C.ha=C.dS
-C.ij=new D.A("material-popup-example",L.afj(),C.a,[M.fF])
-C.mQ=d([".card._ngcontent-%COMP% { margin:8px; padding:8px; display:flex; flex-direction:column; flex:1; box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2); } .card._ngcontent-%COMP% material-dropdown-select._ngcontent-%COMP% { width:200px; padding:16px 0; } .flex-column._ngcontent-%COMP% { display:flex; flex-direction:column; flex:1; } .flex-row._ngcontent-%COMP% { display:flex; flex-direction:row; flex:1; } .centered-trigger._ngcontent-%COMP% { height:80px; display:flex; align-items:center; } .centered-trigger._ngcontent-%COMP% .trigger._ngcontent-%COMP% { margin:0 auto; } .dont-panic._ngcontent-%COMP% { height:160px; padding:8px; width:480px; } .scroll-container._ngcontent-%COMP% { height:400px; width:400px; overflow:auto; } .content-container._ngcontent-%COMP% { height:600px; width:600px; background:radial-gradient(#fff, #fff 8px, #c6dafc 8px, #c6dafc 16px) center repeat; background-size:16px; } .custom-border-radius._ngcontent-%COMP%  .popup-wrapper.mixin { border-radius:24px 16px 32px 40px; } .custom-background._ngcontent-%COMP%  .popup-wrapper.mixin.shadow { background:#4285f4; }"])
-C.km=d([C.mQ])
-C.pp=H.o("lX")
-C.pG=H.o("jZ")
-C.cZ=H.o("fF")})();(function staticFields(){$.WU=null
-$.a_X=!1
-$.SC=null
-$.a_Y=!1})();(function lazyInitializers(){c($,"Ur","$get$Ur",function(){return P.RS([C.cl,"OffsetBottomRight",C.f4,"OffsetBottomLeft",C.f_,"OffsetTopRight",C.f6,"OffsetTopLeft",C.fb,"InlineBottom",C.ck,"InlineBottomLeft",C.f5,"InlineTop",C.cm,"InlineTopLeft",C.fa,"AdjacentTop",C.bE,"AdjacentRight",C.bC,"AdjacentLeft",C.f1,"AdjacentBottom",C.be,"AdjacentTopLeft",C.bF,"AdjacentTopRight",C.f9,"AdjacentRightTop",C.f2,"AdjacentRightBottom",C.bD,"AdjacentBottomRight",C.bf,"AdjacentBottomLeft",C.f3,"AdjacentLeftBottom",C.f8,"AdjacentLeftTop"],K.bc,P.j)})})()
-i([{func:1,v:true,args:[,]},{func:1,ret:S.a,args:[S.a,P.k]},{func:1,ret:[S.a,M.fF],args:[S.a,P.k]}]);(function nativeSupport(){j({})
+a(N.KO,y)
+a(N.RI,y)
+a(O.uP,y)
+a(O.xl,y)
+a(O.RH,y)})();(function constants(){C.dU=new D.B("material-list-gallery-section-api",N.ajO(),C.a,[B.kh])
+C.hQ=C.dU
+C.jb=new D.B("material-list-demo",O.apJ(),C.a,[D.h3])
+C.pz=d([".bordered-list._ngcontent-%COMP% { border:1px solid black; border-radius:8px; margin:8px; overflow:hidden; } :not(.stretched-list)._ngcontent-%COMP% material-list._ngcontent-%COMP% { display:inline-block; }"])
+C.oW=d([C.pz])
+C.rU=H.n("kh")
+C.fX=H.n("h3")})();(function staticFields(){$.a3p=null
+$.a85=!1
+$.Z_=null
+$.a86=!1})()
+i([{func:1,v:true,args:[,]},{func:1,ret:S.a,args:[S.a,P.k]},{func:1,ret:[S.a,D.h3],args:[S.a,P.k]}]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["JU1TWOf8HJbe6ZjmE0zHR/gzMxI="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["RBVVNJ4pGng0aFfqZBWllvBtkwc="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_61.part.js.map
