@@ -1,1 +1,1 @@
-[{"displayName":"App Layout","dartImport":"package:app_layout_example/examples.api.template.dart","componentClass":"AppLayoutGallerySectionApi","docs":["MaterialPersistentDrawerDirective","MaterialTemporaryDrawerComponent"]}]
+[{"displayName":"App Layout","dartImport":"package:app_layout_example/examples.api.template.dart","componentClass":"AppLayoutGallerySectionApi","docs":["package:angular_components/app_layout/README.md","MaterialPersistentDrawerDirective","MaterialTemporaryDrawerComponent"]}]

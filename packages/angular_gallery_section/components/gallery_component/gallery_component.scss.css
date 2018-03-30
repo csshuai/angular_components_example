@@ -60,3 +60,19 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
+
+.comment ::ng-deep table {
+  border-collapse: collapse;
+  margin: 16px 0;
+}
+
+.comment ::ng-deep th {
+  text-align: left;
+}
+
+.comment ::ng-deep th,
+.comment ::ng-deep td {
+  padding: 4px 8px;
+  vertical-align: top;
+  border: 1px solid #bdbdbd;
+}
