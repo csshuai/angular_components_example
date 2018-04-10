@@ -1,1602 +1,1391 @@
-self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={
-j3:function(n,o){var y=new G.KL(null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,1,C.i,o,null)
-y.MO(n,o)
-return y},
-aw_:function(n,o){var y=new G.QV(null,null,null,null,null,null,null,null,P.S(["$implicit",null]),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.Zk
-return y},
-aw0:function(n,o){var y=new G.QW(null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
-return y},
-anf:function(){if($.a9J)return
-$.a9J=!0
-$.$get$E().t(0,C.rU,C.iT)
-E.r()
-Z.ade()
-K.b5()},
-KL:function KL(n,o,p,q,r,s,t,u,v){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.a=q
-_.b=r
-_.c=s
-_.d=t
-_.e=u
-_.f=v},
-QV:function QV(n,o,p,q,r,s,t,u,v,w,x,y,a0){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.ch=s
-_.cx=t
-_.a=u
-_.b=v
-_.c=w
-_.d=x
-_.e=y
-_.f=a0},
-QW:function QW(n,o,p,q,r,s,t,u){var _=this
-_.r=n
-_.x=o
-_.a=p
-_.b=q
-_.c=r
-_.d=s
-_.e=t
-_.f=u},
-a2h:function(){return Z.aS(!0,null,[new G.es("pepperoni"),new G.es("pineapple"),new G.es("peppers"),new G.es("sausage"),new G.es("BACON")],null)},
-YL:function(n){if(n===0)return""
-if(n>=5)return"V"+G.YL(n-5)
-if(n===4)return"IV"
-return"I"+G.YL(n-1)},
-ex:function ex(n,o,p,q,r,s){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q
-_.e=r
-_.f=s},
-DQ:function DQ(){},
-es:function es(n){this.a=n},
-fy:function fy(n,o){this.a=n
-this.b=o}},R={},K={},V={c3:function c3(n,o,p,q,r,s,t,u,v){var _=this
-_.b=n
-_.c=o
-_.d=p
-_.e=q
-_.f=r
-_.r=s
-_.x=t
-_.y=u
-_.a=v}},Y={},N={},E={},M={},B={
-agk:function(n){return n==null?null:J.bc(n)},
-d6:function d6(n,o,p,q,r){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q
-_.e=r},
-DP:function DP(n){this.a=n}},S={},Q={
-aw1:function(n,o){var y=new Q.xh(null,null,null,null,null,null,P.S(["$implicit",null]),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.uB
-return y},
-aw2:function(n,o){var y=new Q.xi(null,null,null,null,null,null,P.S(["$implicit",null]),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.uB
-return y},
-aw3:function(n,o){var y=new Q.xj(null,null,null,null,null,null,null,P.S(["$implicit",null]),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.uB
-return y},
-aw4:function(n,o){var y=new Q.QX(null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
-return y},
-ane:function(){if($.a9I)return
-$.a9I=!0
-$.$get$E().t(0,C.f4,C.iy)
-E.r()
-R.dJ()
-U.dv()
-Z.ade()
-G.anf()
-M.bK()
-X.acW()
-K.b5()
-X.qq()},
-KM:function KM(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.ch=s
-_.cx=t
-_.cy=u
-_.db=v
-_.dx=w
-_.dy=x
-_.fr=y
-_.fx=a0
-_.fy=a1
-_.go=a2
-_.id=a3
-_.k1=a4
-_.k2=a5
-_.k3=a6
-_.k4=a7
-_.r1=a8
-_.r2=a9
-_.rx=b0
-_.ry=b1
-_.x1=b2
-_.x2=b3
-_.y1=b4
-_.y2=b5
-_.T=b6
-_.O=b7
-_.U=b8
-_.J=b9
-_.K=c0
-_.G=c1
-_.Y=c2
-_.a0=c3
-_.W=c4
-_.Z=c5
-_.P=c6
-_.ag=c7
-_.aa=c8
-_.ab=c9
-_.a9=d0
-_.ae=d1
-_.as=d2
-_.ah=d3
-_.ap=d4
-_.X=d5
-_.ak=d6
-_.an=d7
-_.af=d8
-_.ar=d9
-_.az=e0
-_.ax=e1
-_.aD=e2
-_.aJ=e3
-_.ao=e4
-_.aE=e5
-_.b4=e6
-_.au=e7
-_.aO=e8
-_.av=e9
-_.aR=f0
-_.ac=f1
-_.aB=f2
-_.bf=f3
-_.aA=f4
-_.ay=f5
-_.aC=f6
-_.aQ=f7
-_.am=f8
-_.bb=f9
-_.aL=g0
-_.br=g1
-_.b7=g2
-_.aH=g3
-_.aF=g4
-_.cg=g5
-_.aP=g6
-_.bc=g7
-_.b5=g8
-_.aN=g9
-_.aU=h0
-_.aS=h1
-_.bj=h2
-_.bC=h3
-_.bg=h4
-_.bD=h5
-_.ai=h6
-_.bE=h7
-_.bd=h8
-_.bF=h9
-_.bu=i0
-_.bh=i1
-_.b_=i2
-_.aI=i3
-_.aX=i4
-_.b8=i5
-_.bk=i6
-_.b2=i7
-_.b9=i8
-_.bT=i9
-_.bl=j0
-_.bM=j1
-_.be=j2
-_.bN=j3
-_.bH=j4
-_.bA=j5
-_.bU=j6
-_.c2=j7
-_.bI=j8
-_.bq=j9
-_.bJ=k0
-_.c3=k1
-_.a=k2
-_.b=k3
-_.c=k4
-_.d=k5
-_.e=k6
-_.f=k7},
-xh:function xh(n,o,p,q,r,s,t,u,v,w,x){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.a=s
-_.b=t
-_.c=u
-_.d=v
-_.e=w
-_.f=x},
-xi:function xi(n,o,p,q,r,s,t,u,v,w,x){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.a=s
-_.b=t
-_.c=u
-_.d=v
-_.e=w
-_.f=x},
-xj:function xj(n,o,p,q,r,s,t,u,v,w,x,y){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.ch=s
-_.a=t
-_.b=u
-_.c=v
-_.d=w
-_.e=x
-_.f=y},
-QX:function QX(n,o,p,q,r,s,t,u){var _=this
-_.r=n
-_.x=o
-_.a=p
-_.b=q
-_.c=r
-_.d=s
-_.e=t
-_.f=u}},D={},L={
-aw5:function(n,o){var y=new L.QY(null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
-return y},
-and:function(){if($.a9H)return
-$.a9H=!0
-$.$get$E().t(0,C.rI,C.cU)
-Q.ane()
-E.r()
-K.ct()},
-KN:function KN(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.ch=s
-_.cx=t
-_.cy=u
-_.db=v
-_.dx=w
-_.dy=x
-_.fr=y
-_.fx=a0
-_.fy=a1
-_.go=a2
-_.id=a3
-_.k1=a4
-_.k2=a5
-_.k3=a6
-_.k4=a7
-_.r1=a8
-_.a=a9
-_.b=b0
-_.c=b1
-_.d=b2
-_.e=b3
-_.f=b4},
-QY:function QY(n,o,p,q,r,s,t,u){var _=this
-_.r=n
-_.x=o
-_.a=p
-_.b=q
-_.c=r
-_.d=s
-_.e=t
-_.f=u}},Z={
-ei:function(n,o){var y=new Z.KJ(null,null,null,null,null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,1,C.i,o,null)
-y.MN(n,o)
-return y},
-avX:function(n,o){var y=new Z.QS(null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.KK
-return y},
-avY:function(n,o){var y=new Z.QT(null,null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.KK
-return y},
-avZ:function(n,o){var y=new Z.QU(null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
-return y},
-ade:function(){if($.a9K)return
-$.a9K=!0
-$.$get$E().t(0,C.rT,C.ik)
-E.r()
-R.dJ()
-G.bT()
-K.b5()},
-KJ:function KJ(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.ch=s
-_.cx=t
-_.cy=u
-_.a=v
-_.b=w
-_.c=x
-_.d=y
-_.e=a0
-_.f=a1},
-QS:function QS(n,o,p,q,r,s,t){var _=this
-_.r=n
-_.a=o
-_.b=p
-_.c=q
-_.d=r
-_.e=s
-_.f=t},
-QT:function QT(n,o,p,q,r,s,t,u,v,w,x){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.a=s
-_.b=t
-_.c=u
-_.d=v
-_.e=w
-_.f=x},
-QU:function QU(n,o,p,q,r,s,t,u){var _=this
-_.r=n
-_.x=o
-_.a=p
-_.b=q
-_.c=r
-_.d=s
-_.e=t
-_.f=u}},A={},F={},T={k6:function k6(n){this.a=n}},O={},U={},X={}
-var z=[C,H,J,P,W,G,R,K,V,Y,N,E,M,B,S,Q,D,L,Z,A,F,T,O,U,X]
-g([C,H,J,P,W,G,R,K,V,Y,N,E,M,B,S,Q,D,L,Z,A,F,T,O,U,X])
-C=h(m[0],C)
-H=h(m[1],H)
-J=h(m[2],J)
-P=h(m[3],P)
-W=h(m[4],W)
-G=h(m[5],G)
-R=h(m[6],R)
-K=h(m[7],K)
-V=h(m[8],V)
-Y=h(m[9],Y)
-N=h(m[10],N)
-E=h(m[11],E)
-M=h(m[12],M)
-B=h(m[13],B)
-S=h(m[14],S)
-Q=h(m[15],Q)
-D=h(m[16],D)
-L=h(m[17],L)
-Z=h(m[18],Z)
-A=h(m[19],A)
-F=h(m[20],F)
-T=h(m[21],T)
-O=h(m[22],O)
-U=h(m[23],U)
-X=h(m[24],X)
-V.c3.prototype={
-sd5:function(n){this.e=n
-this.jc()},
-gd5:function(){return this.e},
-sa8:function(n,o){this.f=o
-this.jc()},
-ga8:function(n){return this.f},
-jc:function(){var y=this.f
-if(y==null)this.r=null
-else if(this.e!==G.dg())this.r=this.eY(y)},
-gcW:function(n){return this.r},
-gJj:function(n){var y=this.x
-return new P.e_(y,[H.e(y,0)])},
-a4U:function(n){var y=this.b
-if(!(y==null))y.en(this.f)
-this.x.N(0,this.f)
-y=J.F(n)
-y.qP(n)
-y.yC(n)},
-gJO:function(n){var y=this.y
-if(y==null){y=$.$get$a5m().ka()
-this.y=y}return y},
-eY:function(n){return this.gd5().$1(n)},
-aZ:function(n,o){return this.gJj(this).$1(o)},
-ke:function(n){return this.gJj(this).$0()}}
-Z.KJ.prototype={
-MN:function(n,o){var y=document.createElement("material-chip")
-this.e=y
-y.className="themeable"
-y=$.KK
-if(y==null){y=$.z.a3("",C.n,C.ni)
-$.KK=y}this.a2(y)},
-p:function(){var y,x,w,v,u,t
-y=this.a4(this.e)
-x=$.$get$L()
-w=x.cloneNode(!1)
-y.appendChild(w)
-v=new V.m(0,null,this,w,null,null,null)
-this.r=v
-this.x=new K.C(new D.u(v,Z.aoO()),v,!1)
-u=document
-v=S.l(u,y)
-this.y=v
-v.className="content"
-this.h(v)
-v=u.createTextNode("")
-this.z=v
-this.y.appendChild(v)
-this.cJ(this.y,1)
-t=x.cloneNode(!1)
-y.appendChild(t)
-x=new V.m(3,null,this,t,null,null,null)
-this.Q=x
-this.ch=new K.C(new D.u(x,Z.aoP()),x,!1)
-this.M(C.a,null)
-return},
-q:function(){var y,x,w,v
-y=this.f
-this.x.sa1(y.d)
-this.ch.sa1(y.c)
-this.r.I()
-this.Q.I()
-x=y.gJO(y)
-w=this.cx
-if(w==null?x!=null:w!==x){this.y.id=x
-this.cx=x}v=y.r
-if(v==null)v=""
-if(this.cy!==v){this.z.textContent=v
-this.cy=v}},
-w:function(){var y=this.r
-if(!(y==null))y.H()
-y=this.Q
-if(!(y==null))y.H()},
-$asa:function(){return[V.c3]}}
-Z.QS.prototype={
-p:function(){var y=document.createElement("div")
+self.$dart_deferred_initializers$=self.$dart_deferred_initializers$||Object.create(null)
+$dart_deferred_initializers$.current=function($globals$,$){var A=$globals$.A
+var B=$globals$.B
+var C=$globals$.C
+var D=$globals$.D
+var E=$globals$.E
+var F=$globals$.F
+var G=$globals$.G
+var H=$globals$.H
+var J=$globals$.J
+var K=$globals$.K
+var L=$globals$.L
+var M=$globals$.M
+var N=$globals$.N
+var O=$globals$.O
+var P=$globals$.P
+var Q=$globals$.Q
+var R=$globals$.R
+var S=$globals$.S
+var T=$globals$.T
+var U=$globals$.U
+var V=$globals$.V
+var W=$globals$.W
+var X=$globals$.X
+var Y=$globals$.Y
+var Z=$globals$.Z
+var init=$globals$.init
+var setupProgram=$globals$.setupProgram
+var I=$globals$.I
+var dart=[["","",,D,{"^":"",mS:{"^":"d;a8:a<"}}],["","",,N,{"^":"",
+aBn:[function(a,b){var z=new N.aa5(null,null,null,P.e(),a,null,null,null)
+z.a=S.f(z,3,C.h,b,null)
+return z},"$2","amt",8,0,2],
+akv:function(){if($.BM)return
+$.BM=!0
+$.$get$P().t(0,C.qM,C.d8)
+T.akw()
+E.y()
+K.cu()},
+a1y:{"^":"a;r,x,y,z,Q,ch,cx,cy,db,dx,dy,fr,fx,fy,go,id,k1,k2,k3,k4,r1,a,b,c,d,e,f",
+gHq:function(){var z=this.Q
+if(z==null){z=window
+this.Q=z}return z},
+gt6:function(){var z=this.ch
+if(z==null){z=this.c
+z=T.b9(z.m(C.b,this.a.Q,null),z.m(C.y,this.a.Q,null),z.n(C.e,this.a.Q),this.gHq())
+this.ch=z}return z},
+gHn:function(){var z=this.cx
+if(z==null){z=new O.b_(this.c.n(C.O,this.a.Q),this.gt6())
+this.cx=z}return z},
+gt5:function(){var z=this.cy
+if(z==null){z=document
+this.cy=z}return z},
+gy5:function(){var z=this.db
+if(z==null){z=new K.b4(this.gt5(),this.gt6(),P.b0(null,[P.C,P.l]))
+this.db=z}return z},
+gy6:function(){var z=this.dy
+if(z==null){z=this.c.m(C.v,this.a.Q,null)
+if(z==null)z="default"
+this.dy=z}return z},
+gHs:function(){var z=this.fr
+if(z==null){z=G.bo(this.gt5(),this.c.m(C.u,this.a.Q,null))
+this.fr=z}return z},
+gHt:function(){var z=this.fx
+if(z==null){z=G.bj(this.gy6(),this.gHs(),this.c.m(C.t,this.a.Q,null))
+this.fx=z}return z},
+gy7:function(){var z=this.fy
+if(z==null){this.fy=!0
+z=!0}return z},
+gHu:function(){var z=this.go
+if(z==null){this.go=!0
+z=!0}return z},
+gHp:function(){var z=this.id
+if(z==null){z=this.gt5()
+z=new R.b2(z.querySelector("head"),!1,z)
+this.id=z}return z},
+gHr:function(){var z=this.k1
+if(z==null){z=X.bi()
+this.k1=z}return z},
+gHo:function(){var z=this.k2
+if(z==null){z=K.bf(this.gHp(),this.gHt(),this.gy6(),this.gy5(),this.gt6(),this.gHn(),this.gy7(),this.gHu(),this.gHr())
+this.k2=z}return z},
+p:function(){var z,y
+z=this.a4(this.e)
+y=K.cl(this,0)
+this.x=y
+y=y.e
 this.r=y
-y.className="left-icon"
-this.h(y)
-this.cJ(this.r,0)
-this.E(this.r)
+z.appendChild(y)
+y=new U.aS(null,this.c.n(C.a3,this.a.Q))
+this.y=y
+this.x.k(0,y,[])
+this.N(C.a,null)
 return},
-$asa:function(){return[V.c3]}}
-Z.QT.prototype={
-p:function(){var y,x,w
+S:function(a,b,c){var z,y,x,w
+if(a===C.C&&0===b){z=this.z
+if(z==null){this.z=C.w
+z=C.w}return z}if(a===C.D&&0===b)return this.gHq()
+if(a===C.b&&0===b)return this.gt6()
+if(a===C.J&&0===b)return this.gHn()
+if(a===C.I&&0===b)return this.gt5()
+if(a===C.K&&0===b)return this.gy5()
+if(a===C.P&&0===b){z=this.dx
+if(z==null){z=T.ba(this.c.n(C.e,this.a.Q))
+this.dx=z}return z}if(a===C.v&&0===b)return this.gy6()
+if(a===C.u&&0===b)return this.gHs()
+if(a===C.t&&0===b)return this.gHt()
+if(a===C.R&&0===b)return this.gy7()
+if(a===C.A&&0===b)return this.gHu()
+if(a===C.M&&0===b)return this.gHp()
+if(a===C.z&&0===b)return this.gHr()
+if(a===C.L&&0===b)return this.gHo()
+if(a===C.i&&0===b){z=this.k3
+if(z==null){z=this.c
+y=z.n(C.e,this.a.Q)
+x=this.gy7()
+w=this.gHo()
+z.m(C.i,this.a.Q,null)
+w=new X.b1(x,y,w)
+this.k3=w
+z=w}return z}if(a===C.r&&0===b){z=this.k4
+if(z==null){z=new K.bm(this.gy5())
+this.k4=z}return z}return c},
+q:function(){var z,y
+z=this.f.ga8()
+y=this.r1
+if(y==null?z!=null:y!==z){this.y.a=z
+this.r1=z}this.x.j()},
+w:function(){var z=this.x
+if(!(z==null))z.i()},
+$asa:function(){return[D.mS]}},
+aa5:{"^":"a;r,x,a,b,c,d,e,f",
+p:function(){var z,y
+z=new N.a1y(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.e(),this,null,null,null)
+z.a=S.f(z,3,C.f,0,null)
+y=document.createElement("material-checkbox-gallery-section-api")
+z.e=y
+y=$.w0
+if(y==null){y=$.L.a3("",C.T,C.a)
+$.w0=y}z.a2(y)
+this.r=z
+this.e=z.e
+y=new D.mS(R.cp([],[new R.aE(C.eY,"MaterialCheckboxExample","material_checkbox_example/lib/material_checkbox_example.dart")],[new R.aK("MaterialCheckboxComponent","material-checkbox","angular_components/lib/material_checkbox/material_checkbox.dart","<p><code>material-checkbox</code> is a button that can be either checked or unchecked.</p>\n<p>User can tap the checkbox to check or uncheck it.  Usually you use\ncheckboxes to allow user to select multiple options from a set.  If you\nhave a single ON/OFF option, avoid using a single checkbox and use\n<code>material-toggle</code> instead.</p>\n<p>We are not extending ButtonDecorator because we need to override several\nattributes, including role, tabindex, but most importantly because checkbox\nshould only be interactible with SPACE, while button is for both SPACE and\nENTER.</p>\n<p><strong>Properties:</strong></p><ul><li><code>checked: bool</code> -- Whether the checkbox should be selected.</li><li><code>disabled: bool</code> -- Whether the checkbox should not respond to events, and\nhave a style that suggests that interaction is not allowed.</li><li><code>readOnly: bool</code> -- Whether the checkbox can be changed by user\ninteraction.</li><li><code>indeterminate: bool</code> -- Whether the checkbox should be set to mixed\nstate.</li><li><code>indeterminateToChecked: bool</code> -- Whether the checkbox should go to\n checked state or unchecked when toggled from indeterminate state.</li><li><code>label: String</code> -- Label for the checkbox, alternatively use content.</li><li><code>themeColor: String</code> -- Color of the checkbox and ripple when checked.\n Example: '#FF00FF'. By default it is $mat-blue-500.\n Note that the themeColor is applied to the checkbox even when the box is\n unchecked, which deviates from the standard material spec. Use mixin to\n set themeColor unless you want this behavior.</li></ul>\n<p><strong>Attributes:</strong></p><ul><li><code>no-ink</code> -- set this attribute to disable the ripple effect on the chip.</li></ul>\n<p><strong>Events:</strong></p><ul><li><code>change: String</code> -- Published when state changes, i.e. icon changes.</li><li><code>checkedChange: bool</code> -- Published when the check state changes.</li><li><code>indeterminate: bool</code> -- Published when the indeterminate state changes.</li></ul>\n")],[],P.e(),[]))
+this.x=y
+z.k(0,y,this.a.e)
+this.F(this.e)
+return new D.K(this,0,this.e,this.x,[D.mS])},
+q:function(){this.r.j()},
+w:function(){var z=this.r
+if(!(z==null))z.i()},
+$asa:I.D}}],["","",,Z,{"^":"",hZ:{"^":"d;Qn:a<,b,Pg:c<,pJ:d@,Ah:e@,ol:f@,q5:r@,MI:x<,Pf:y<,DL:z@",
+afq:[function(){var z=this.c
+this.a.push(new Z.qn(z.b,!1))
+z.ni("")},"$0","ga2z",0,0,1],
+a8u:function(){var z=this.a
+z=new H.e0(z,new Z.VJ(),[H.h(z,0)])
+return z.gD(z)},
+a9S:[function(){var z=this.y
+this.x=z.b
+z.ni("")},"$0","gRC",0,0,1]},VJ:{"^":"c:0;",
+$1:function(a){return a.glF()!==!0}},qn:{"^":"d;e8:a*,lF:b@"}}],["","",,T,{"^":"",
+aBk:[function(a,b){var z=new T.aa2(null,null,null,null,null,null,null,P.a1(["$implicit",null]),a,null,null,null)
+z.a=S.f(z,3,C.d,b,null)
+z.d=$.oh
+return z},"$2","amu",8,0,3],
+aBl:[function(a,b){var z=new T.aa3(null,null,null,null,null,null,P.a1(["$implicit",null]),a,null,null,null)
+z.a=S.f(z,3,C.d,b,null)
+z.d=$.oh
+return z},"$2","amv",8,0,3],
+aBm:[function(a,b){var z=new T.aa4(null,null,null,P.e(),a,null,null,null)
+z.a=S.f(z,3,C.h,b,null)
+return z},"$2","amw",8,0,2],
+akw:function(){if($.BN)return
+$.BN=!0
+$.$get$P().t(0,C.eY,C.hS)
+E.y()
+U.dt()
+G.jd()
+M.c_()
+Q.cX()
+Q.lW()
+K.cF()},
+a1x:{"^":"a;r,x,y,z,Q,ch,cx,cy,db,dx,dy,fr,fx,fy,go,id,k1,k2,k3,k4,r1,r2,rx,ry,x1,x2,y1,y2,T,O,U,J,K,G,a_,a1,W,V,R,ag,ae,ab,a9,af,at,ai,ao,X,an,aq,ah,ap,aw,aB,aN,aA,ax,aT,aE,aR,aC,aS,aK,ak,aI,bi,ay,au,b_,aW,as,be,aG,bt,bf,aO,aP,cs,aU,bb,b7,aY,b0,b1,bm,bz,bc,bA,al,bD,b9,bE,bq,bn,b4,aQ,b5,bg,bs,b8,bd,c2,bp,bW,bk,bX,bO,bK,c1,c8,bP,bw,bG,c9,ba,ca,bY,bh,by,bH,cA,bQ,cm,c6,b2,bZ,cB,cC,bI,cD,bR,c3,cL,c7,bl,bS,cf,cb,cg,bL,cW,bT,cP,cn,cX,cM,ci,ct,cG,cj,de,co,cu,cz,cr,d0,c4,cN,cE,cc,cH,cZ,cS,d5,di,dj,df,dl,dn,ds,e4,dE,dK,dL,e0,ef,dz,ex,d1,dt,e5,dP,a,b,c,d,e,f",
+p:function(){var z,y,x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3
+z=this.a4(this.e)
 y=document
-x=C.ba.GR(y,"http://www.w3.org/2000/svg","svg")
+z.appendChild(y.createTextNode("\n"))
+x=S.b(y,"section",z)
 this.r=x
-x.setAttribute("buttonDecorator","")
-this.r.setAttribute("class","delete-icon")
-this.r.setAttribute("height","24")
-this.r.setAttribute("viewBox","0 0 24 24")
-this.r.setAttribute("width","24")
-this.r.setAttribute("xmlns","http://www.w3.org/2000/svg")
-this.l(this.r)
-x=this.r
-this.x=new R.cC(new T.c6(new P.h(null,null,0,null,null,null,null,[W.as]),null,"button",!1,!0,null,x),null,null,null,null,null,null,!1)
-x=C.ba.GR(y,"http://www.w3.org/2000/svg","path")
-this.y=x
-this.r.appendChild(x)
-this.y.setAttribute("d","M12 2c-5.53 0-10 4.47-10 10s4.47 10 10 10 10-4.47 10-10-4.47-10-10-10zm5\n               13.59l-1.41 1.41-3.59-3.59-3.59 3.59-1.41-1.41 3.59-3.59-3.59-3.59 1.41-1.41 3.59\n               3.59 3.59-3.59 1.41 1.41-3.59 3.59 3.59 3.59z")
-this.l(this.y)
-J.G(this.r,"click",this.A(this.x.e.gdM()))
-J.G(this.r,"keypress",this.A(this.x.e.gdH()))
-x=this.x.e.b
-w=new P.i(x,[H.e(x,0)]).C(this.A(this.f.ga4T()))
-this.M([this.r],[w])
-return},
-S:function(n,o,p){var y
-if(n===C.l)y=o<=1
-else y=!1
-if(y)return this.x.e
-return p},
-q:function(){var y,x,w,v
-y=this.f
-y.toString
-x=$.$get$v().R("Delete",null,"chipDeleteButtonMessage",null,"Label for a button which removes the item when clicked.")
-w=this.z
-if(w==null?x!=null:w!==x){w=this.r
-this.aq(w,"aria-label",x==null?null:x)
-this.z=x}v=y.gJO(y)
-w=this.Q
-if(w==null?v!=null:w!==v){w=this.r
-this.aq(w,"aria-describedby",v==null?null:v)
-this.Q=v}this.x.dE(this,this.r)},
-$asa:function(){return[V.c3]}}
-Z.QU.prototype={
-p:function(){var y,x
-y=Z.ei(this,0)
-this.r=y
-x=y.e
-this.e=x
-x=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,x)
-this.x=x
-y.k(0,x,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[V.c3])},
-S:function(n,o,p){if(n===C.H&&0===o)return this.x
-return p},
-q:function(){this.r.j()},
-w:function(){var y=this.r
-if(!(y==null))y.i()},
-$asa:function(){}}
-B.d6.prototype={
-sr7:function(n){var y
-this.d=n
-y=this.b
-y.D()
-y.e5(this.d.ghG().C(new B.DP(this)))},
-sd5:function(n){this.e=n}}
-B.DP.prototype={
-$1:function(n){this.a.a.a.bm()},
-"call*":"$1",
-$R:1,
-$S:function(){return{func:1,args:[,]}}}
-G.KL.prototype={
-MO:function(n,o){var y=document.createElement("material-chips")
-this.e=y
-y=$.Zk
-if(y==null){y=$.z.a3("",C.n,C.lZ)
-$.Zk=y}this.a2(y)},
-p:function(){var y,x,w
-y=this.a4(this.e)
-x=$.$get$L().cloneNode(!1)
-y.appendChild(x)
-w=new V.m(0,null,this,x,null,null,null)
-this.r=w
-this.x=new R.ao(w,null,null,null,new D.u(w,G.aoW()))
-this.cJ(y,0)
-this.M(C.a,null)
-return},
-q:function(){var y=this.f.d.gbs()
-if(this.y!==y){this.x.scn(y)
-this.y=y}this.x.c9()
-this.r.I()},
-w:function(){var y=this.r
-if(!(y==null))y.H()},
-$asa:function(){return[B.d6]}}
-G.QV.prototype={
-p:function(){var y=Z.ei(this,0)
-this.x=y
-y=y.e
-this.r=y
-this.h(y)
-y=this.r
-y=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,y)
-this.y=y
-this.x.k(0,y,[C.a,C.a])
-this.E(this.r)
-return},
-S:function(n,o,p){if(n===C.H&&0===o)return this.y
-return p},
-q:function(){var y,x,w,v,u,t,s
-y=this.f
-x=this.b.v(0,"$implicit")
-w=y.d
-if(this.z!==w){this.y.b=w
-this.z=w
-v=!0}else v=!1
-u=y.c
-if(this.Q!==u){this.y.c=u
-this.Q=u
-v=!0}t=y.e
-if(this.ch!==t){s=this.y
-s.e=t
-s.jc()
-this.ch=t
-v=!0}s=this.cx
-if(s==null?x!=null:s!==x){s=this.y
-s.f=x
-s.jc()
-this.cx=x
-v=!0}if(v)this.x.a.su(1)
-this.x.j()},
-w:function(){var y=this.x
-if(!(y==null))y.i()},
-$asa:function(){return[B.d6]}}
-G.QW.prototype={
-p:function(){var y,x
-y=G.j3(this,0)
-this.r=y
-this.e=y.e
-x=new B.d6(y.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-this.x=x
-y.k(0,x,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[B.d6])},
-S:function(n,o,p){if(n===C.H&&0===o)return this.x
-return p},
-q:function(){this.r.j()},
-w:function(){var y=this.r
-if(!(y==null))y.i()
-this.x.b.D()},
-$asa:function(){}}
-T.k6.prototype={
-gaY:function(){return this.a}}
-L.KN.prototype={
-gC3:function(){var y=this.Q
-if(y==null){y=window
-this.Q=y}return y},
-goO:function(){var y=this.ch
-if(y==null){y=this.c
-y=T.aW(y.m(C.b,this.a.Q,null),y.m(C.A,this.a.Q,null),y.n(C.e,this.a.Q),this.gC3())
-this.ch=y}return y},
-gC0:function(){var y=this.cx
-if(y==null){y=new O.aH(this.c.n(C.R,this.a.Q),this.goO())
-this.cx=y}return y},
-goN:function(){var y=this.cy
-if(y==null){y=document
-this.cy=y}return y},
-gtW:function(){var y=this.db
-if(y==null){y=new K.aI(this.goN(),this.goO(),P.aP(null,[P.w,P.j]))
-this.db=y}return y},
-gtX:function(){var y=this.dy
-if(y==null){y=this.c.m(C.x,this.a.Q,null)
-if(y==null)y="default"
-this.dy=y}return y},
-gC5:function(){var y=this.fr
-if(y==null){y=G.b9(this.goN(),this.c.m(C.v,this.a.Q,null))
-this.fr=y}return y},
-gC6:function(){var y=this.fx
-if(y==null){y=G.b4(this.gtX(),this.gC5(),this.c.m(C.u,this.a.Q,null))
-this.fx=y}return y},
-gtY:function(){var y=this.fy
-if(y==null){this.fy=!0
-y=!0}return y},
-gC7:function(){var y=this.go
-if(y==null){this.go=!0
-y=!0}return y},
-gC2:function(){var y=this.id
-if(y==null){y=this.goN()
-y=new R.aJ(y.querySelector("head"),!1,y)
-this.id=y}return y},
-gC4:function(){var y=this.k1
-if(y==null){y=X.b8()
-this.k1=y}return y},
-gC1:function(){var y=this.k2
-if(y==null){y=K.b7(this.gC2(),this.gC6(),this.gtX(),this.gtW(),this.goO(),this.gC0(),this.gtY(),this.gC7(),this.gC4())
-this.k2=y}return y},
-p:function(){var y,x
-y=this.a4(this.e)
-x=K.cd(this,0)
-this.x=x
-x=x.e
-this.r=x
-y.appendChild(x)
-x=new U.az(null,this.c.n(C.a5,this.a.Q))
-this.y=x
-this.x.k(0,x,[])
-this.M(C.a,null)
-return},
-S:function(n,o,p){var y,x,w,v
-if(n===C.D&&0===o){y=this.z
-if(y==null){this.z=C.y
-y=C.y}return y}if(n===C.E&&0===o)return this.gC3()
-if(n===C.b&&0===o)return this.goO()
-if(n===C.M&&0===o)return this.gC0()
-if(n===C.I&&0===o)return this.goN()
-if(n===C.N&&0===o)return this.gtW()
-if(n===C.S&&0===o){y=this.dx
-if(y==null){y=T.b6(this.c.n(C.e,this.a.Q))
-this.dx=y}return y}if(n===C.x&&0===o)return this.gtX()
-if(n===C.v&&0===o)return this.gC5()
-if(n===C.u&&0===o)return this.gC6()
-if(n===C.T&&0===o)return this.gtY()
-if(n===C.C&&0===o)return this.gC7()
-if(n===C.Q&&0===o)return this.gC2()
-if(n===C.B&&0===o)return this.gC4()
-if(n===C.P&&0===o)return this.gC1()
-if(n===C.k&&0===o){y=this.k3
-if(y==null){y=this.c
-x=y.n(C.e,this.a.Q)
-w=this.gtY()
-v=this.gC1()
-y.m(C.k,this.a.Q,null)
-v=new X.aG(w,x,v)
-this.k3=v
-y=v}return y}if(n===C.t&&0===o){y=this.k4
-if(y==null){y=new K.aO(this.gtW())
-this.k4=y}return y}return p},
-q:function(){var y=this.f.a
-if(this.r1!==y){this.y.a=y
-this.r1=y}this.x.j()},
-w:function(){var y=this.x
-if(!(y==null))y.i()},
-$asa:function(){return[T.k6]}}
-L.QY.prototype={
-p:function(){var y,x
-y=new L.KN(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.d(),this,null,null,null)
-y.a=S.c(y,3,C.i,0,null)
-x=document.createElement("material-chips-gallery-section-api")
-y.e=x
-x=$.a3x
-if(x==null){x=$.z.a3("",C.V,C.a)
-$.a3x=x}y.a2(x)
-this.r=y
-this.e=y.e
-x=new T.k6(R.ch([],[new R.an(C.f4,"MaterialChipsDemoComponent","material_chips_example/lib/material_chips_demo.dart")],[new R.ar("MaterialChipsComponent","material-chips","angular_components/lib/material_chips/material_chips.dart",'<p>A <strong>chips</strong> collection widget, displaying a list of objects as Chips.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;!-- Selection Model --&gt;\n&lt;material-chips [selectionModel]="mySelectedChips"&gt;\n&lt;/material-chips&gt;\n</code></pre>\n<pre><code>&lt;!-- Static Chips --&gt;\n&lt;material-chips&gt;\n  &lt;material-chip&gt;My Chip&lt;/material-chip&gt;\n  &lt;material-chip&gt;Another Chip&lt;/material-chip&gt;\n&lt;/material-chips&gt;\n</code></pre>\n<p><strong>Inputs:</strong></p><ul><li><code>itemRenderer: ItemRenderer</code> -- A rendering function to render selection\n models as a string.</li><li><code>removeable</code> -- Whether the chips can be removed.</li><li><code>selectionModel: SelectionModel</code> -- The selection model this component\ncontrols.</li></ul>\n'),new R.ar("MaterialChipComponent","material-chip","angular_components/lib/material_chips/material_chip.dart",'<p>A "chip" widget renders an object in the \'chip\' format - a rounded box with\na shadow, typically used in a horizontal list. Any object implementing the\n<code>HasUIDisplayName</code> interface can be used, or no object at all.</p>\n<p>The delete button is only shown when a selectionModel is set on the widget\nor a removable property is true.\nWhen hasLeftIcon is true, the left-icon content should be set to a\n<code>MaterialIconComponent</code> or an SVG image.\nChip components are rendered in a <code>material-chips</code> component.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;!-- plain chip --&gt;\n&lt;material-chip&gt;Chip Text Here&lt;/material-chip&gt;\n&lt;!-- chip using model--&gt;\n&lt;material-chip model="myChip"&gt;&lt;/material-chip&gt;\n&lt;!-- Chip which can be removed from a selection --&gt;\n&lt;material-chip model="myChip" selectionModel="selectionModel"&gt;&lt;/material-chip&gt;\n&lt;!-- Chip with custom delete action --&gt;\n&lt;material-chip model="myChip" (remove)="myChips.remove(myChip)"&gt;&lt;/material-chip&gt;\n</code></pre>\n')],[],P.d(),[]))
-this.x=x
-y.k(0,x,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[T.k6])},
-q:function(){this.r.j()},
-w:function(){var y=this.r
-if(!(y==null))y.i()},
-$asa:function(){}}
-G.ex.prototype={
-Jn:function(){var y=this.c
-C.c.sF(y,0)
-C.c.cb(y,C.p6)},
-a5c:function(){this.e=G.a2h()},
-Jp:function(){var y=this.d
-C.c.sF(y,0)
-C.c.cb(y,C.lm)},
-hg:function(n,o){P.jp(this.f.$1(o))},
-er:function(n){return this.e.$1(n)},
-ghN:function(n){return this.b},
-ga0g:function(){return this.c},
-gIK:function(){return this.d},
-sbp:function(n){return this.e=n}}
-G.DQ.prototype={
-$1:function(n){return("Star Wars: Episode "+G.YL(n.a)+" "+n.b).toUpperCase()},
-"call*":"$1",
-$R:1,
-$S:function(){return{func:1,args:[G.fy]}}}
-G.es.prototype={$isfZ:1,
-gi6:function(){return this.a}}
-G.fy.prototype={
-gd6:function(n){return this.b}}
-Q.KM.prototype={
-p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7
-y=this.a4(this.e)
-x=document
-w=S.b(x,"section",y)
-this.r=w
-this.l(w)
-w=S.b(x,"h2",this.r)
-this.x=w
-this.l(w)
-v=x.createTextNode("Custom chip content")
-this.x.appendChild(v)
-w=G.j3(this,3)
-this.z=w
-w=w.e
-this.y=w
+this.l(x)
+w=y.createTextNode("\n  ")
 this.r.appendChild(w)
-this.h(this.y)
-this.Q=new B.d6(this.z.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-w=Z.ei(this,4)
-this.cx=w
-w=w.e
-this.ch=w
-this.h(w)
-w=this.ch
-w=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,w)
-this.cy=w
-u=x.createTextNode("Hello, World")
-this.cx.k(0,w,[C.a,[u]])
-w=Z.ei(this,6)
-this.dx=w
-w=w.e
-this.db=w
-this.h(w)
-w=this.db
-w=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,w)
-this.dy=w
-t=x.createTextNode("")
-this.fr=t
-this.dx.k(0,w,[C.a,[t]])
-t=Z.ei(this,8)
-this.fy=t
-t=t.e
-this.fx=t
-t.setAttribute("emphasis","")
-this.h(this.fx)
-t=this.fx
-t=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,t)
-this.go=t
-s=x.createTextNode("With emphasis")
-this.fy.k(0,t,[C.a,[s]])
-t=Z.ei(this,10)
-this.k1=t
-t=t.e
-this.id=t
-this.h(t)
-t=this.id
-t=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,t)
-this.k2=t
-r=x.createTextNode("With attr emphasis")
-this.k1.k(0,t,[C.a,[r]])
-t=Z.ei(this,12)
-this.k4=t
-t=t.e
-this.k3=t
-t.className="my-theme themeable"
-this.h(t)
-t=this.k3
-this.r1=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,t)
-t=M.a_(this,13)
-this.rx=t
-t=t.e
-this.r2=t
-t.setAttribute("icon","add")
-this.r2.setAttribute("left-icon","")
-this.r2.setAttribute("size","large")
-this.h(this.r2)
-t=new Y.V(null,this.r2)
-this.ry=t
-this.rx.k(0,t,[])
-q=x.createTextNode("With custom theme")
-this.k4.k(0,this.r1,[[this.r2],[q]])
-t=Z.ei(this,15)
-this.x2=t
-t=t.e
-this.x1=t
-this.h(t)
-t=this.x1
-this.y1=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,t)
-t=M.a_(this,16)
-this.T=t
-t=t.e
-this.y2=t
-t.setAttribute("icon","link")
-this.y2.setAttribute("left-icon","")
-this.y2.setAttribute("size","large")
-this.h(this.y2)
-t=new Y.V(null,this.y2)
-this.O=t
-this.T.k(0,t,[])
-p=x.createTextNode("With left icon")
-this.x2.k(0,this.y1,[[this.y2],[p]])
-t=Z.ei(this,18)
-this.J=t
-t=t.e
-this.U=t
-t.className="left-icon-bg themeable"
-this.h(t)
-t=this.U
-this.K=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,t)
-t=M.a_(this,19)
-this.Y=t
-t=t.e
-this.G=t
-t.setAttribute("icon","link")
-this.G.setAttribute("left-icon","")
-this.G.setAttribute("size","large")
-this.h(this.G)
-t=new Y.V(null,this.G)
-this.a0=t
-this.Y.k(0,t,[])
-o=x.createTextNode("Left icon with bgcolor")
-this.J.k(0,this.K,[[this.G],[o]])
-this.z.k(0,this.Q,[[this.ch,this.db,this.fx,this.id,this.k3,this.x1,this.U]])
-t=S.b(x,"section",y)
-this.W=t
-this.l(t)
-t=S.b(x,"h2",this.W)
-this.Z=t
-this.l(t)
-n=x.createTextNode("Using a Data Model")
-this.Z.appendChild(n)
-t=S.b(x,"p",this.W)
-this.P=t
-this.l(t)
-a0=x.createTextNode("Here we use a data model which implements the [HasUIDisplayName] interface. Any [ItemRenderer]\n    can be provided to the component to render the value to a string.")
-this.P.appendChild(a0)
-t=S.l(x,this.W)
-this.ag=t
-t.className="control-bar"
-this.h(t)
-t=U.Z(this,27)
-this.ab=t
-t=t.e
-this.aa=t
-this.ag.appendChild(t)
-this.aa.setAttribute("raised","")
-this.h(this.aa)
-t=this.c
-w=t.m(C.p,this.a.Q,null)
-w=new F.T(w==null?!1:w)
-this.a9=w
-w=B.Y(this.aa,w,this.ab.a.b,null)
-this.ae=w
-a1=x.createTextNode("Reset")
-this.ab.k(0,w,[[a1]])
-w=G.j3(this,29)
-this.ah=w
-w=w.e
-this.as=w
-this.W.appendChild(w)
-this.h(this.as)
-this.ap=new B.d6(this.ah.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-w=$.$get$L()
-a2=new V.m(30,29,this,w.cloneNode(!1),null,null,null)
-this.X=a2
-this.ak=new R.ao(a2,null,null,null,new D.u(a2,Q.aoS()))
-this.ah.k(0,this.ap,[[a2]])
-a2=S.b(x,"p",this.W)
-this.an=a2
-this.l(a2)
-a3=x.createTextNode("Using an object and a custom item renderer.")
-this.an.appendChild(a3)
-a2=S.l(x,this.W)
-this.af=a2
-a2.className="control-bar"
-this.h(a2)
-a2=U.Z(this,34)
-this.az=a2
-a2=a2.e
-this.ar=a2
-this.af.appendChild(a2)
-this.ar.setAttribute("raised","")
-this.h(this.ar)
-a2=t.m(C.p,this.a.Q,null)
-a2=new F.T(a2==null?!1:a2)
-this.ax=a2
-a2=B.Y(this.ar,a2,this.az.a.b,null)
-this.aD=a2
-a4=x.createTextNode("Reset")
-this.az.k(0,a2,[[a4]])
-a2=G.j3(this,36)
-this.ao=a2
-a2=a2.e
-this.aJ=a2
-this.W.appendChild(a2)
-this.h(this.aJ)
-this.aE=new B.d6(this.ao.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-a2=new V.m(37,36,this,w.cloneNode(!1),null,null,null)
-this.b4=a2
-this.au=new R.ao(a2,null,null,null,new D.u(a2,Q.aoT()))
-this.ao.k(0,this.aE,[[a2]])
-a2=S.b(x,"section",y)
-this.aO=a2
-this.l(a2)
-a2=S.b(x,"h2",this.aO)
-this.av=a2
-this.l(a2)
-a5=x.createTextNode("SelectionModel Chips")
-this.av.appendChild(a5)
-a2=S.l(x,this.aO)
-this.aR=a2
-a2.className="control-bar"
-this.h(a2)
-a2=U.Z(this,42)
-this.aB=a2
-a2=a2.e
-this.ac=a2
-this.aR.appendChild(a2)
-this.ac.setAttribute("raised","")
-this.h(this.ac)
-a2=t.m(C.p,this.a.Q,null)
-a2=new F.T(a2==null?!1:a2)
-this.bf=a2
-a2=B.Y(this.ac,a2,this.aB.a.b,null)
-this.aA=a2
-a6=x.createTextNode("Reset")
-this.aB.k(0,a2,[[a6]])
-a2=G.j3(this,44)
-this.aC=a2
-a2=a2.e
-this.ay=a2
-this.aO.appendChild(a2)
-this.ay.setAttribute("displayNameRenderer","")
-this.h(this.ay)
-a2=new B.d6(this.aC.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-this.aQ=a2
-this.am=a2
-a2.sd5($.$get$lp())
-this.aC.k(0,this.aQ,[C.a])
-a2=S.b(x,"p",this.aO)
-this.bb=a2
-this.l(a2)
-a7=x.createTextNode("Disable the remove button on chips")
-this.bb.appendChild(a7)
-a2=G.j3(this,47)
-this.br=a2
-a2=a2.e
-this.aL=a2
-this.aO.appendChild(a2)
-this.aL.setAttribute("displayNameRenderer","")
-this.h(this.aL)
-a2=new B.d6(this.br.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-this.b7=a2
-this.aH=a2
-a2.sd5($.$get$lp())
-this.br.k(0,this.b7,[C.a])
-a2=S.b(x,"section",y)
-this.aF=a2
-this.l(a2)
-a2=S.b(x,"h2",this.aF)
-this.cg=a2
-this.l(a2)
-a8=x.createTextNode("With Dense Theme")
-this.cg.appendChild(a8)
-a2=G.j3(this,51)
-this.bc=a2
-a2=a2.e
-this.aP=a2
-this.aF.appendChild(a2)
-a2=this.aP
-a2.className="dense"
-this.h(a2)
-this.b5=new B.d6(this.bc.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-a2=Z.ei(this,52)
-this.aU=a2
-a2=a2.e
-this.aN=a2
-this.h(a2)
-a2=this.aN
-a2=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,a2)
-this.aS=a2
-a9=x.createTextNode("With delete icon")
-this.aU.k(0,a2,[C.a,[a9]])
-a2=Z.ei(this,54)
-this.bC=a2
-a2=a2.e
-this.bj=a2
-this.h(a2)
-a2=this.bj
-a2=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,a2)
-this.bg=a2
-b0=x.createTextNode("Without delete icon")
-this.bC.k(0,a2,[C.a,[b0]])
-a2=Z.ei(this,56)
-this.ai=a2
-a2=a2.e
-this.bD=a2
-this.h(a2)
-a2=this.bD
-this.bE=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,a2)
-a2=M.a_(this,57)
-this.bF=a2
-a2=a2.e
-this.bd=a2
-a2.setAttribute("icon","link")
-this.bd.setAttribute("left-icon","")
-this.bd.setAttribute("size","large")
-this.h(this.bd)
-a2=new Y.V(null,this.bd)
-this.bu=a2
-this.bF.k(0,a2,[])
-b1=x.createTextNode("With left icon")
-this.ai.k(0,this.bE,[[this.bd],[b1]])
-this.bc.k(0,this.b5,[[this.aN,this.bj,this.bD]])
-a2=S.b(x,"p",this.aF)
-this.bh=a2
-this.l(a2)
-b2=x.createTextNode("Using SelectionModel")
-this.bh.appendChild(b2)
-a2=G.j3(this,61)
-this.aI=a2
-a2=a2.e
-this.b_=a2
-this.aF.appendChild(a2)
-a2=this.b_
-a2.className="dense"
-a2.setAttribute("displayNameRenderer","")
-this.h(this.b_)
-a2=new B.d6(this.aI.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-this.aX=a2
-this.b8=a2
-a2.sd5($.$get$lp())
-this.aI.k(0,this.aX,[C.a])
-a2=S.b(x,"section",y)
-this.bk=a2
-this.l(a2)
-a2=S.b(x,"h2",this.bk)
-this.b2=a2
-this.l(a2)
-b3=x.createTextNode("Clickable Chips")
-this.b2.appendChild(b3)
-a2=S.l(x,this.bk)
-this.b9=a2
-a2.className="control-bar"
-this.h(a2)
-a2=U.Z(this,66)
-this.bl=a2
-a2=a2.e
-this.bT=a2
-this.b9.appendChild(a2)
-this.bT.setAttribute("raised","")
-this.h(this.bT)
-t=t.m(C.p,this.a.Q,null)
-t=new F.T(t==null?!1:t)
-this.bM=t
-t=B.Y(this.bT,t,this.bl.a.b,null)
-this.be=t
-b4=x.createTextNode("Reset")
-this.bl.k(0,t,[[b4]])
-t=G.j3(this,68)
-this.bH=t
-t=t.e
-this.bN=t
-this.bk.appendChild(t)
-t=this.bN
-t.className="clickable"
-this.h(t)
-this.bA=new B.d6(this.bH.a.b,new R.t(null,null,null,null,!1,!1),!0,C.ac,B.jn())
-w=new V.m(69,68,this,w.cloneNode(!1),null,null,null)
-this.bU=w
-this.c2=new R.ao(w,null,null,null,new D.u(w,Q.aoU()))
-this.bH.k(0,this.bA,[[w]])
-w=this.ae.b
-b5=new P.i(w,[H.e(w,0)]).C(this.a7(this.f.ga58()))
-w=this.aD.b
-b6=new P.i(w,[H.e(w,0)]).C(this.a7(this.f.gJo()))
-w=this.aA.b
-b7=new P.i(w,[H.e(w,0)]).C(this.a7(this.f.ga5b()))
-w=this.be.b
-this.M(C.a,[b5,b6,b7,new P.i(w,[H.e(w,0)]).C(this.a7(this.f.gJo()))])
-return},
-S:function(n,o,p){var y,x,w
-y=n===C.H
-if(y&&4<=o&&o<=5)return this.cy
-if(y&&6<=o&&o<=7)return this.dy
-if(y&&8<=o&&o<=9)return this.go
-if(y&&10<=o&&o<=11)return this.k2
-if(y&&12<=o&&o<=14)return this.r1
-if(y&&15<=o&&o<=17)return this.y1
-if(y&&18<=o&&o<=20)return this.K
-if(y&&3<=o&&o<=20)return this.Q
-x=n===C.a7
-if(x&&27<=o&&o<=28)return this.a9
-w=n!==C.ah
-if((!w||n===C.l)&&27<=o&&o<=28)return this.ae
-if(y&&29<=o&&o<=30)return this.ap
-if(x&&34<=o&&o<=35)return this.ax
-if((!w||n===C.l)&&34<=o&&o<=35)return this.aD
-if(y&&36<=o&&o<=37)return this.aE
-if(x&&42<=o&&o<=43)return this.bf
-if((!w||n===C.l)&&42<=o&&o<=43)return this.aA
-if(y&&44===o)return this.am
-if(y&&47===o)return this.aH
-if(y&&52<=o&&o<=53)return this.aS
-if(y&&54<=o&&o<=55)return this.bg
-if(y&&56<=o&&o<=58)return this.bE
-if(y&&51<=o&&o<=58)return this.b5
-if(y&&61===o)return this.b8
-if(x&&66<=o&&o<=67)return this.bM
-if((!w||n===C.l)&&66<=o&&o<=67)return this.be
-if(y&&68<=o&&o<=69)return this.bA
-return p},
-q:function(){var y,x,w,v,u,t,s,r,q
-y=this.f
-x=this.a.cy===0
-if(x){this.cy.c=!1
-w=!0}else w=!1
-if(w)this.cx.a.su(1)
-if(x){this.r1.d=!0
-w=!0}else w=!1
-if(w)this.k4.a.su(1)
-if(x){this.ry.saj(0,"add")
-w=!0}else w=!1
-if(w)this.rx.a.su(1)
-if(x){this.y1.d=!0
-w=!0}else w=!1
-if(w)this.x2.a.su(1)
-if(x){this.O.saj(0,"link")
-w=!0}else w=!1
-if(w)this.T.a.su(1)
-if(x){this.K.d=!0
-w=!0}else w=!1
-if(w)this.J.a.su(1)
-if(x){this.a0.saj(0,"link")
-w=!0}else w=!1
-if(w)this.Y.a.su(1)
-if(x){this.ae.ch=!0
-w=!0}else w=!1
-if(w)this.ab.a.su(1)
-if(x)this.ak.scn(y.c)
-this.ak.c9()
-if(x){this.aD.ch=!0
-w=!0}else w=!1
-if(w)this.az.a.su(1)
-if(x)this.au.scn(y.d)
-this.au.c9()
-if(x){this.aA.ch=!0
-w=!0}else w=!1
-if(w)this.aB.a.su(1)
-v=y.e
-if(this.bq!==v){this.aQ.sr7(v)
-this.bq=v
-w=!0}else w=!1
-if(w)this.aC.a.su(1)
-if(x){this.b7.c=!1
-w=!0}else w=!1
-u=y.e
-if(this.bJ!==u){this.b7.sr7(u)
-this.bJ=u
-w=!0}if(w)this.br.a.su(1)
-if(x){this.bg.c=!1
-w=!0}else w=!1
-if(w)this.bC.a.su(1)
-if(x){this.bE.d=!0
-w=!0}else w=!1
-if(w)this.ai.a.su(1)
-if(x){this.bu.saj(0,"link")
-w=!0}else w=!1
-if(w)this.bF.a.su(1)
-t=y.e
-if(this.c3!==t){this.aX.sr7(t)
-this.c3=t
-w=!0}else w=!1
-if(w)this.aI.a.su(1)
-if(x){this.be.ch=!0
-w=!0}else w=!1
-if(w)this.bl.a.su(1)
-if(x)this.c2.scn(y.d)
-this.c2.c9()
-this.X.I()
-this.b4.I()
-this.bU.I()
-s=y.a
-if(this.bI!==s){this.fr.textContent=s
-this.bI=s}if(x){r=this.id
-q=String(!0)
-this.aq(r,"emphasis",q)}this.ab.B(x)
-this.az.B(x)
-this.aB.B(x)
-this.bl.B(x)
-this.z.j()
-this.cx.j()
-this.dx.j()
-this.fy.j()
-this.k1.j()
-this.k4.j()
-this.rx.j()
-this.x2.j()
-this.T.j()
-this.J.j()
-this.Y.j()
-this.ab.j()
-this.ah.j()
-this.az.j()
-this.ao.j()
-this.aB.j()
-this.aC.j()
-this.br.j()
-this.bc.j()
-this.aU.j()
-this.bC.j()
-this.ai.j()
-this.bF.j()
-this.aI.j()
-this.bl.j()
-this.bH.j()},
-w:function(){var y=this.X
-if(!(y==null))y.H()
-y=this.b4
-if(!(y==null))y.H()
-y=this.bU
-if(!(y==null))y.H()
-y=this.z
-if(!(y==null))y.i()
-y=this.cx
-if(!(y==null))y.i()
-y=this.dx
-if(!(y==null))y.i()
-y=this.fy
-if(!(y==null))y.i()
-y=this.k1
-if(!(y==null))y.i()
-y=this.k4
-if(!(y==null))y.i()
-y=this.rx
-if(!(y==null))y.i()
-y=this.x2
-if(!(y==null))y.i()
-y=this.T
-if(!(y==null))y.i()
-y=this.J
-if(!(y==null))y.i()
-y=this.Y
-if(!(y==null))y.i()
-y=this.ab
-if(!(y==null))y.i()
-y=this.ah
-if(!(y==null))y.i()
-y=this.az
-if(!(y==null))y.i()
-y=this.ao
-if(!(y==null))y.i()
-y=this.aB
-if(!(y==null))y.i()
-y=this.aC
-if(!(y==null))y.i()
-y=this.br
-if(!(y==null))y.i()
-y=this.bc
-if(!(y==null))y.i()
-y=this.aU
-if(!(y==null))y.i()
-y=this.bC
-if(!(y==null))y.i()
-y=this.ai
-if(!(y==null))y.i()
-y=this.bF
-if(!(y==null))y.i()
-y=this.aI
-if(!(y==null))y.i()
-y=this.bl
-if(!(y==null))y.i()
-y=this.bH
-if(!(y==null))y.i()
-this.Q.b.D()
-this.ap.b.D()
-this.aE.b.D()
-this.aQ.b.D()
-this.b7.b.D()
-this.b5.b.D()
-this.aX.b.D()
-this.bA.b.D()},
-$asa:function(){return[G.ex]}}
-Q.xh.prototype={
-p:function(){var y,x
-y=Z.ei(this,0)
-this.x=y
-y=y.e
-this.r=y
-y.setAttribute("displayNameRenderer","")
-this.h(this.r)
-y=this.r
-y=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,y)
-this.y=y
-this.z=y
-y.sd5($.$get$lp())
-this.x.k(0,this.y,[C.a,C.a])
-y=this.y.x
-x=new P.e_(y,[H.e(y,0)]).C(this.A(this.gmv()))
-this.M([this.r],[x])
-return},
-S:function(n,o,p){if(n===C.H&&0===o)return this.z
-return p},
-q:function(){var y,x,w
-y=this.a.cy
-x=this.b.v(0,"$implicit")
-if(y===0){this.y.c=!0
-w=!0}else w=!1
-y=this.Q
-if(y==null?x!=null:y!==x){y=this.y
-y.f=x
-y.jc()
+x=S.b(y,"h1",this.r)
+this.x=x
+this.l(x)
+v=y.createTextNode("Todo list:")
+this.x.appendChild(v)
+u=y.createTextNode("\n  ")
+this.r.appendChild(u)
+x=S.b(y,"p",this.r)
+this.y=x
+this.l(x)
+x=S.b(y,"em",this.y)
+this.z=x
+this.l(x)
+t=y.createTextNode("using `ng-model`")
+this.z.appendChild(t)
+s=y.createTextNode("\n  Remaining: ")
+this.r.appendChild(s)
+x=y.createTextNode("")
 this.Q=x
-w=!0}if(w)this.x.a.su(1)
+this.r.appendChild(x)
+r=y.createTextNode("\n  ")
+this.r.appendChild(r)
+x=S.t(y,this.r)
+this.ch=x
+this.h(x)
+q=y.createTextNode("\n    ")
+this.ch.appendChild(q)
+x=$.$get$V()
+p=x.cloneNode(!1)
+this.ch.appendChild(p)
+o=new V.u(14,12,this,p,null,null,null)
+this.cx=o
+this.cy=new R.aH(o,null,null,null,new D.A(o,T.amu()))
+n=y.createTextNode("\n  ")
+this.ch.appendChild(n)
+m=y.createTextNode("\n  ")
+this.r.appendChild(m)
+o=S.t(y,this.r)
+this.db=o
+this.h(o)
+l=y.createTextNode("\n    ")
+this.db.appendChild(l)
+o=Q.ao(this,19)
+this.dy=o
+o=o.e
+this.dx=o
+this.db.appendChild(o)
+this.dx.setAttribute("errorMsg","This input requires a value!")
+this.dx.setAttribute("label","add new todo here")
+this.dx.setAttribute("required","")
+this.dx.setAttribute("type","text")
+this.h(this.dx)
+o=[{func:1,ret:[P.ap,P.l,,],args:[Z.bI]}]
+k=new L.ae(H.x([],o),null)
+this.fr=k
+k=[k]
+this.fx=k
+j=[null]
+k=new T.jY(!1,null,new P.W(null,null,0,null,null,null,null,j),!1,null,null,X.aZ(null),X.aY(k),null)
+this.fy=k
+this.go=k
+k=L.an("text",null,null,k,this.dy.a.b,this.fr)
+this.id=k
+this.k1=k
+i=this.go
+h=new Z.au(new R.z(null,null,null,null,!0,!1),k,i)
+h.bF(k,i)
+this.k2=h
+y.createTextNode("\n    ")
+this.dy.k(0,this.id,[C.a])
+g=y.createTextNode("\n    ")
+this.db.appendChild(g)
+h=U.a8(this,22)
+this.k4=h
+h=h.e
+this.k3=h
+this.db.appendChild(h)
+this.k3.setAttribute("raised","")
+this.h(this.k3)
+h=this.c
+i=h.m(C.n,this.a.Q,null)
+k=new F.a4(i==null?!1:i)
+this.r1=k
+k=B.a6(this.k3,k,this.k4.a.b,null)
+this.r2=k
+f=y.createTextNode("add it")
+this.k4.k(0,k,[[f]])
+e=y.createTextNode("\n  ")
+this.db.appendChild(e)
+d=y.createTextNode("\n  ")
+this.r.appendChild(d)
+k=S.t(y,this.r)
+this.rx=k
+J.w(k,"debug-info")
+this.h(this.rx)
+c=y.createTextNode("\n    Form entry = ")
+this.rx.appendChild(c)
+k=y.createTextNode("")
+this.ry=k
+this.rx.appendChild(k)
+k=S.b(y,"br",this.rx)
+this.x1=k
+this.l(k)
+b=y.createTextNode("\n    Model dump:\n    ")
+this.rx.appendChild(b)
+k=S.b(y,"ul",this.rx)
+this.x2=k
+this.h(k)
+a=y.createTextNode("\n      ")
+this.x2.appendChild(a)
+a0=x.cloneNode(!1)
+this.x2.appendChild(a0)
+x=new V.u(33,31,this,a0,null,null,null)
+this.y1=x
+this.y2=new R.aH(x,null,null,null,new D.A(x,T.amv()))
+a1=y.createTextNode("\n    ")
+this.x2.appendChild(a1)
+a2=y.createTextNode("\n  ")
+this.rx.appendChild(a2)
+a3=y.createTextNode("\n")
+this.r.appendChild(a3)
+z.appendChild(y.createTextNode("\n"))
+x=S.b(y,"hr",z)
+this.T=x
+this.l(x)
+z.appendChild(y.createTextNode("\n"))
+x=S.b(y,"section",z)
+this.O=x
+this.l(x)
+a4=y.createTextNode("\n  ")
+this.O.appendChild(a4)
+x=S.b(y,"h1",this.O)
+this.U=x
+this.l(x)
+a5=y.createTextNode("Custom:")
+this.U.appendChild(a5)
+a6=y.createTextNode("\n  ")
+this.O.appendChild(a6)
+x=S.b(y,"p",this.O)
+this.J=x
+this.l(x)
+x=S.b(y,"em",this.J)
+this.K=x
+this.l(x)
+a7=y.createTextNode("Tab Index")
+this.K.appendChild(a7)
+a8=y.createTextNode("\n  ")
+this.O.appendChild(a8)
+x=S.t(y,this.O)
+this.G=x
+this.h(x)
+a9=y.createTextNode("\n    ")
+this.G.appendChild(a9)
+x=G.b7(this,51)
+this.a1=x
+x=x.e
+this.a_=x
+this.G.appendChild(x)
+this.a_.setAttribute("label","Custom tab index")
+this.a_.setAttribute("no-ink","")
+x=this.a_
+x.tabIndex=2
+this.h(x)
+x=B.b6(this.a_,this.a1.a.b,null,"2",null)
+this.W=x
+b0=y.createTextNode("\n    ")
+this.a1.k(0,x,[[b0]])
+b1=y.createTextNode("\n  ")
+this.G.appendChild(b1)
+b2=y.createTextNode("\n  ")
+this.O.appendChild(b2)
+x=S.b(y,"p",this.O)
+this.V=x
+this.l(x)
+x=S.b(y,"em",this.V)
+this.R=x
+this.l(x)
+b3=y.createTextNode("no ripple on click, using events and properties")
+this.R.appendChild(b3)
+b4=y.createTextNode("\n  ")
+this.O.appendChild(b4)
+x=S.t(y,this.O)
+this.ag=x
+this.h(x)
+b5=y.createTextNode("\n    ")
+this.ag.appendChild(b5)
+x=G.b7(this,61)
+this.ab=x
+x=x.e
+this.ae=x
+this.ag.appendChild(x)
+this.ae.setAttribute("no-ink","")
+this.h(this.ae)
+x=B.b6(this.ae,this.ab.a.b,null,null,null)
+this.a9=x
+b6=y.createTextNode("\n    ")
+this.ab.k(0,x,[[b6]])
+b7=y.createTextNode("\n  ")
+this.ag.appendChild(b7)
+b8=y.createTextNode("\n  ")
+this.O.appendChild(b8)
+x=S.t(y,this.O)
+this.af=x
+this.h(x)
+b9=y.createTextNode("\n    ")
+this.af.appendChild(b9)
+x=Q.ao(this,67)
+this.ai=x
+x=x.e
+this.at=x
+this.af.appendChild(x)
+this.at.setAttribute("label","enter new label here")
+this.at.setAttribute("type","text")
+this.h(this.at)
+o=new L.ae(H.x([],o),null)
+this.ao=o
+o=[o]
+this.X=o
+x=new T.jY(!1,null,new P.W(null,null,0,null,null,null,null,j),!1,null,null,X.aZ(null),X.aY(o),null)
+this.an=x
+this.aq=x
+x=L.an("text",null,null,x,this.ai.a.b,this.ao)
+this.ah=x
+this.ap=x
+o=this.aq
+k=new Z.au(new R.z(null,null,null,null,!0,!1),x,o)
+k.bF(x,o)
+this.aw=k
+y.createTextNode("\n    ")
+this.ai.k(0,this.ah,[C.a])
+c0=y.createTextNode("\n    ")
+this.af.appendChild(c0)
+k=U.a8(this,70)
+this.aN=k
+k=k.e
+this.aB=k
+this.af.appendChild(k)
+this.aB.setAttribute("raised","")
+this.h(this.aB)
+h=h.m(C.n,this.a.Q,null)
+x=new F.a4(h==null?!1:h)
+this.aA=x
+x=B.a6(this.aB,x,this.aN.a.b,null)
+this.ax=x
+c1=y.createTextNode("update label")
+this.aN.k(0,x,[[c1]])
+x=S.b(y,"br",this.af)
+this.aT=x
+this.l(x)
+c2=y.createTextNode("\n    ")
+this.af.appendChild(c2)
+x=Q.cD(this,74)
+this.aR=x
+x=x.e
+this.aE=x
+this.af.appendChild(x)
+this.h(this.aE)
+x=[P.J]
+o=new D.bX(null,!1,!1,new P.W(null,null,0,null,null,null,null,x),null,null,1,!1,!1)
+this.aC=o
+c3=y.createTextNode("\n    ")
+this.aR.k(0,o,[[c3]])
+o=S.b(y,"br",this.af)
+this.aS=o
+this.l(o)
+c4=y.createTextNode("\n    ")
+this.af.appendChild(c4)
+o=Q.cD(this,78)
+this.ak=o
+o=o.e
+this.aK=o
+this.af.appendChild(o)
+this.h(this.aK)
+o=new D.bX(null,!1,!1,new P.W(null,null,0,null,null,null,null,x),null,null,1,!1,!1)
+this.aI=o
+c5=y.createTextNode("\n    ")
+this.ak.k(0,o,[[c5]])
+o=S.b(y,"br",this.af)
+this.bi=o
+this.l(o)
+c6=y.createTextNode("\n    ")
+this.af.appendChild(c6)
+o=Q.cD(this,82)
+this.au=o
+o=o.e
+this.ay=o
+this.af.appendChild(o)
+this.h(this.ay)
+x=new D.bX(null,!1,!1,new P.W(null,null,0,null,null,null,null,x),null,null,1,!1,!1)
+this.b_=x
+c7=y.createTextNode("\n    ")
+this.au.k(0,x,[[c7]])
+x=S.b(y,"br",this.af)
+this.aW=x
+this.l(x)
+c8=y.createTextNode("\n  ")
+this.af.appendChild(c8)
+c9=y.createTextNode("\n  ")
+this.O.appendChild(c9)
+x=S.t(y,this.O)
+this.as=x
+J.w(x,"debug-info")
+this.h(this.as)
+d0=y.createTextNode("\n    new label = ")
+this.as.appendChild(d0)
+x=y.createTextNode("")
+this.be=x
+this.as.appendChild(x)
+x=S.b(y,"br",this.as)
+this.aG=x
+this.l(x)
+d1=y.createTextNode("\n    current label = ")
+this.as.appendChild(d1)
+x=y.createTextNode("")
+this.bt=x
+this.as.appendChild(x)
+x=S.b(y,"br",this.as)
+this.bf=x
+this.l(x)
+d2=y.createTextNode("\n    status = ")
+this.as.appendChild(d2)
+x=y.createTextNode("")
+this.aO=x
+this.as.appendChild(x)
+x=S.b(y,"br",this.as)
+this.aP=x
+this.l(x)
+d3=y.createTextNode("\n    checked = ")
+this.as.appendChild(d3)
+x=y.createTextNode("")
+this.cs=x
+this.as.appendChild(x)
+x=S.b(y,"br",this.as)
+this.aU=x
+this.l(x)
+d4=y.createTextNode("\n    disabled = ")
+this.as.appendChild(d4)
+x=y.createTextNode("")
+this.bb=x
+this.as.appendChild(x)
+x=S.b(y,"br",this.as)
+this.b7=x
+this.l(x)
+d5=y.createTextNode("\n    indeterminate = ")
+this.as.appendChild(d5)
+x=y.createTextNode("")
+this.aY=x
+this.as.appendChild(x)
+x=S.b(y,"br",this.as)
+this.b0=x
+this.l(x)
+d6=y.createTextNode("\n    indeterminateToChecked = ")
+this.as.appendChild(d6)
+x=y.createTextNode("")
+this.b1=x
+this.as.appendChild(x)
+x=S.b(y,"br",this.as)
+this.bm=x
+this.l(x)
+d7=y.createTextNode("\n  ")
+this.as.appendChild(d7)
+d8=y.createTextNode("\n")
+this.O.appendChild(d8)
+z.appendChild(y.createTextNode("\n"))
+x=S.b(y,"hr",z)
+this.bz=x
+this.l(x)
+z.appendChild(y.createTextNode("\n"))
+x=S.b(y,"section",z)
+this.bc=x
+this.l(x)
+d9=y.createTextNode("\n  ")
+this.bc.appendChild(d9)
+x=S.b(y,"h1",this.bc)
+this.bA=x
+this.l(x)
+e0=y.createTextNode("Various states:")
+this.bA.appendChild(e0)
+e1=y.createTextNode("\n  ")
+this.bc.appendChild(e1)
+x=S.t(y,this.bc)
+this.al=x
+this.h(x)
+e2=y.createTextNode("\n    ")
+this.al.appendChild(e2)
+x=S.b(y,"h3",this.al)
+this.bD=x
+this.l(x)
+e3=y.createTextNode("No label")
+this.bD.appendChild(e3)
+e4=y.createTextNode("\n    ")
+this.al.appendChild(e4)
+x=G.b7(this,124)
+this.bE=x
+x=x.e
+this.b9=x
+this.al.appendChild(x)
+this.h(this.b9)
+x=B.b6(this.b9,this.bE.a.b,null,null,null)
+this.bq=x
+this.bE.k(0,x,[C.a])
+e5=y.createTextNode("\n    ")
+this.al.appendChild(e5)
+x=S.b(y,"h3",this.al)
+this.bn=x
+this.l(x)
+e6=y.createTextNode("Unchecked")
+this.bn.appendChild(e6)
+e7=y.createTextNode("\n    ")
+this.al.appendChild(e7)
+x=G.b7(this,129)
+this.aQ=x
+x=x.e
+this.b4=x
+this.al.appendChild(x)
+this.b4.setAttribute("label","plain unchecked")
+this.h(this.b4)
+x=B.b6(this.b4,this.aQ.a.b,null,null,null)
+this.b5=x
+this.aQ.k(0,x,[C.a])
+e8=y.createTextNode("\n    ")
+this.al.appendChild(e8)
+x=S.b(y,"h3",this.al)
+this.bg=x
+this.l(x)
+e9=y.createTextNode("Checked")
+this.bg.appendChild(e9)
+f0=y.createTextNode("\n    ")
+this.al.appendChild(f0)
+x=G.b7(this,134)
+this.b8=x
+x=x.e
+this.bs=x
+this.al.appendChild(x)
+this.bs.setAttribute("label","plain checked")
+this.h(this.bs)
+x=B.b6(this.bs,this.b8.a.b,null,null,null)
+this.bd=x
+this.b8.k(0,x,[C.a])
+f1=y.createTextNode("\n    ")
+this.al.appendChild(f1)
+x=S.b(y,"h3",this.al)
+this.c2=x
+this.l(x)
+f2=y.createTextNode("Indeterminate")
+this.c2.appendChild(f2)
+f3=y.createTextNode("\n    ")
+this.al.appendChild(f3)
+x=G.b7(this,139)
+this.bW=x
+x=x.e
+this.bp=x
+this.al.appendChild(x)
+this.bp.setAttribute("label","work in progress")
+this.h(this.bp)
+x=B.b6(this.bp,this.bW.a.b,null,null,null)
+this.bk=x
+this.bW.k(0,x,[C.a])
+f4=y.createTextNode("\n    ")
+this.al.appendChild(f4)
+x=S.b(y,"h3",this.al)
+this.bX=x
+this.l(x)
+f5=y.createTextNode("Disabled")
+this.bX.appendChild(f5)
+f6=y.createTextNode("\n    ")
+this.al.appendChild(f6)
+x=G.b7(this,144)
+this.bK=x
+x=x.e
+this.bO=x
+this.al.appendChild(x)
+this.bO.setAttribute("label","mission impossible")
+this.h(this.bO)
+x=B.b6(this.bO,this.bK.a.b,null,null,null)
+this.c1=x
+this.bK.k(0,x,[C.a])
+f7=y.createTextNode("\n    ")
+this.al.appendChild(f7)
+x=S.b(y,"h3",this.al)
+this.c8=x
+this.l(x)
+f8=y.createTextNode("Checked and disabled")
+this.c8.appendChild(f8)
+f9=y.createTextNode("\n    ")
+this.al.appendChild(f9)
+x=G.b7(this,149)
+this.bw=x
+x=x.e
+this.bP=x
+this.al.appendChild(x)
+this.bP.setAttribute("label","done and done")
+this.h(this.bP)
+x=B.b6(this.bP,this.bw.a.b,null,null,null)
+this.bG=x
+g0=y.createTextNode("\n    ")
+this.bw.k(0,x,[[g0]])
+g1=y.createTextNode("\n    ")
+this.al.appendChild(g1)
+x=S.b(y,"h3",this.al)
+this.c9=x
+this.l(x)
+g2=y.createTextNode("Indeterminate and disabled")
+this.c9.appendChild(g2)
+g3=y.createTextNode("\n    ")
+this.al.appendChild(g3)
+x=G.b7(this,155)
+this.ca=x
+x=x.e
+this.ba=x
+this.al.appendChild(x)
+this.ba.setAttribute("label","done and done")
+this.h(this.ba)
+x=B.b6(this.ba,this.ca.a.b,null,null,null)
+this.bY=x
+g4=y.createTextNode("\n    ")
+this.ca.k(0,x,[[g4]])
+g5=y.createTextNode("\n    ")
+this.al.appendChild(g5)
+x=S.b(y,"h3",this.al)
+this.bh=x
+this.l(x)
+g6=y.createTextNode("Checked and indeterminate = indeterminate")
+this.bh.appendChild(g6)
+g7=y.createTextNode("\n    ")
+this.al.appendChild(g7)
+x=G.b7(this,161)
+this.bH=x
+x=x.e
+this.by=x
+this.al.appendChild(x)
+this.by.setAttribute("label","indeterminate?")
+this.h(this.by)
+x=B.b6(this.by,this.bH.a.b,null,null,null)
+this.cA=x
+g8=y.createTextNode("\n    ")
+this.bH.k(0,x,[[g8]])
+g9=y.createTextNode("\n    ")
+this.al.appendChild(g9)
+x=S.b(y,"h3",this.al)
+this.bQ=x
+this.l(x)
+h0=y.createTextNode("Programmatically set checkbox color")
+this.bQ.appendChild(h0)
+h1=y.createTextNode("\n    ")
+this.al.appendChild(h1)
+x=G.b7(this,167)
+this.c6=x
+x=x.e
+this.cm=x
+this.al.appendChild(x)
+this.cm.setAttribute("label","A red checkbox")
+this.cm.setAttribute("themeColor","#FF0000")
+this.h(this.cm)
+x=B.b6(this.cm,this.c6.a.b,null,null,null)
+this.b2=x
+h2=y.createTextNode("\n    ")
+this.c6.k(0,x,[[h2]])
+h3=y.createTextNode("\n    ")
+this.al.appendChild(h3)
+x=G.b7(this,170)
+this.cB=x
+x=x.e
+this.bZ=x
+this.al.appendChild(x)
+this.bZ.setAttribute("label","A magenta checkbox")
+this.bZ.setAttribute("themeColor","#FF00FF")
+this.h(this.bZ)
+x=B.b6(this.bZ,this.cB.a.b,null,null,null)
+this.cC=x
+h4=y.createTextNode("\n    ")
+this.cB.k(0,x,[[h4]])
+h5=y.createTextNode("\n    ")
+this.al.appendChild(h5)
+x=S.b(y,"h3",this.al)
+this.bI=x
+this.l(x)
+h6=y.createTextNode("Label wrapped if width limit is enforced")
+this.bI.appendChild(h6)
+h7=y.createTextNode("\n    ")
+this.al.appendChild(h7)
+x=G.b7(this,176)
+this.bR=x
+x=x.e
+this.cD=x
+this.al.appendChild(x)
+x=this.cD
+x.className="limited-width themeable"
+x.setAttribute("label","long label is bad label, but internationalisation has its own opinions")
+this.h(this.cD)
+x=B.b6(this.cD,this.bR.a.b,null,null,null)
+this.c3=x
+h8=y.createTextNode("\n    ")
+this.bR.k(0,x,[[h8]])
+h9=y.createTextNode("\n    ")
+this.al.appendChild(h9)
+x=S.b(y,"h3",this.al)
+this.cL=x
+this.l(x)
+i0=y.createTextNode("Custom content; align top")
+this.cL.appendChild(i0)
+i1=y.createTextNode("\n    ")
+this.al.appendChild(i1)
+x=G.b7(this,182)
+this.bl=x
+x=x.e
+this.c7=x
+this.al.appendChild(x)
+x=this.c7
+x.className="top themeable"
+this.h(x)
+this.bS=B.b6(this.c7,this.bl.a.b,null,null,null)
+i2=y.createTextNode("\n      ")
+x=y.createElement("div")
+this.cf=x
+x.className="custom"
+this.h(x)
+i3=y.createTextNode("\n        Your feedback ")
+this.cf.appendChild(i3)
+x=S.b(y,"a",this.cf)
+this.cb=x
+J.H(x,"href","http://google.com")
+J.H(this.cb,"target","_blank")
+this.h(this.cb)
+i4=y.createTextNode("more info")
+this.cb.appendChild(i4)
+i5=y.createTextNode("\n        ")
+this.cf.appendChild(i5)
+x=M.aa(this,189)
+this.bL=x
+x=x.e
+this.cg=x
+this.cf.appendChild(x)
+this.cg.setAttribute("baseline","")
+x=this.cg
+x.className="help-icon"
+x.setAttribute("icon","help")
+this.h(this.cg)
+x=new Y.a7(null,this.cg)
+this.cW=x
+this.bL.k(0,x,[])
+x=S.b(y,"br",this.cf)
+this.bT=x
+this.l(x)
+i6=y.createTextNode("\n        ")
+this.cf.appendChild(i6)
+x=S.b(y,"textarea",this.cf)
+this.cP=x
+J.H(x,"cols","40")
+J.H(this.cP,"rows","2")
+this.h(this.cP)
+i7=y.createTextNode("\n      ")
+this.cf.appendChild(i7)
+i8=y.createTextNode("\n    ")
+this.bl.k(0,this.bS,[[i2,this.cf,i8]])
+i9=y.createTextNode("\n  ")
+this.al.appendChild(i9)
+j0=y.createTextNode("\n")
+this.bc.appendChild(j0)
+z.appendChild(y.createTextNode("\n"))
+x=S.b(y,"section",z)
+this.cn=x
+J.w(x,"custom-theme")
+this.l(this.cn)
+j1=y.createTextNode("\n  ")
+this.cn.appendChild(j1)
+x=S.b(y,"h1",this.cn)
+this.cX=x
+this.l(x)
+j2=y.createTextNode("Custom theme:")
+this.cX.appendChild(j2)
+j3=y.createTextNode("\n  ")
+this.cn.appendChild(j3)
+x=S.t(y,this.cn)
+this.cM=x
+this.h(x)
+j4=y.createTextNode("\n    ")
+this.cM.appendChild(j4)
+x=S.b(y,"h3",this.cM)
+this.ci=x
+this.l(x)
+x=S.b(y,"em",this.ci)
+this.ct=x
+this.l(x)
+j5=y.createTextNode("material-checkbox-theme($primary-color: $mat-teal-500)")
+this.ct.appendChild(j5)
+j6=y.createTextNode("\n    ")
+this.cM.appendChild(j6)
+x=G.b7(this,209)
+this.cj=x
+x=x.e
+this.cG=x
+this.cM.appendChild(x)
+this.cG.setAttribute("label","Themed!")
+this.h(this.cG)
+x=B.b6(this.cG,this.cj.a.b,null,null,null)
+this.de=x
+this.cj.k(0,x,[C.a])
+j7=y.createTextNode("\n  ")
+this.cM.appendChild(j7)
+j8=y.createTextNode("\n")
+this.cn.appendChild(j8)
+z.appendChild(y.createTextNode("\n"))
+x=S.b(y,"section",z)
+this.co=x
+this.l(x)
+j9=y.createTextNode("\n  ")
+this.co.appendChild(j9)
+x=S.b(y,"h1",this.co)
+this.cu=x
+this.l(x)
+k0=y.createTextNode("Custom mixins:")
+this.cu.appendChild(k0)
+k1=y.createTextNode("\n  ")
+this.co.appendChild(k1)
+x=S.t(y,this.co)
+this.cz=x
+this.h(x)
+k2=y.createTextNode("\n    ")
+this.cz.appendChild(k2)
+x=S.b(y,"h3",this.cz)
+this.cr=x
+this.l(x)
+k3=y.createTextNode("checkbox-no-left-margin")
+this.cr.appendChild(k3)
+k4=y.createTextNode("\n    ")
+this.cz.appendChild(k4)
+x=G.b7(this,223)
+this.c4=x
+x=x.e
+this.d0=x
+this.cz.appendChild(x)
+x=this.d0
+x.className="material-checkbox-no-left-margin themeable"
+this.h(x)
+x=B.b6(this.d0,this.c4.a.b,null,null,null)
+this.cN=x
+this.c4.k(0,x,[C.a])
+k5=y.createTextNode("\n  ")
+this.cz.appendChild(k5)
+k6=y.createTextNode("\n")
+this.co.appendChild(k6)
+z.appendChild(y.createTextNode("\n"))
+y=this.r2.b
+k7=new P.q(y,[H.h(y,0)]).C(this.a7(this.f.ga2z()))
+y=this.a9.f
+k8=new P.q(y,[H.h(y,0)]).C(this.A(this.gWQ()))
+y=this.a9.r
+k9=new P.q(y,[H.h(y,0)]).C(this.A(this.gXz()))
+y=this.a9.x
+l0=new P.q(y,[H.h(y,0)]).C(this.A(this.gWt()))
+y=this.ax.b
+l1=new P.q(y,[H.h(y,0)]).C(this.a7(this.f.gRC()))
+y=this.aC.d
+l2=new P.q(y,[H.h(y,0)]).C(this.A(this.gWT()))
+y=this.aI.d
+l3=new P.q(y,[H.h(y,0)]).C(this.A(this.gWV()))
+y=this.b_.d
+this.N(C.a,[k7,k8,k9,l0,l1,l2,l3,new P.q(y,[H.h(y,0)]).C(this.A(this.gWY()))])
+return},
+S:function(a,b,c){var z,y,x,w,v,u,t,s,r
+z=a===C.ab
+if(z&&19<=b&&b<=20)return this.fr
+y=a===C.ad
+if(y&&19<=b&&b<=20)return this.fx
+x=a===C.bt
+if(x&&19<=b&&b<=20)return this.fy
+w=a===C.an
+if(w&&19<=b&&b<=20)return this.go
+v=a!==C.ag
+if((!v||a===C.o||a===C.m)&&19<=b&&b<=20)return this.id
+u=a===C.aa
+if(u&&19<=b&&b<=20)return this.k1
+t=a===C.as
+if(t&&19<=b&&b<=20)return this.k2
+s=a===C.a7
+if(s&&22<=b&&b<=23)return this.r1
+r=a!==C.af
+if((!r||a===C.j)&&22<=b&&b<=23)return this.r2
+if(z&&67<=b&&b<=68)return this.ao
+if(y&&67<=b&&b<=68)return this.X
+if(x&&67<=b&&b<=68)return this.an
+if(w&&67<=b&&b<=68)return this.aq
+if((!v||a===C.o||a===C.m)&&67<=b&&b<=68)return this.ah
+if(u&&67<=b&&b<=68)return this.ap
+if(t&&67<=b&&b<=68)return this.aw
+if(s&&70<=b&&b<=71)return this.aA
+if((!r||a===C.j)&&70<=b&&b<=71)return this.ax
+return c},
+q:function(){var z,y,x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
+z=this.f
+y=this.a.cy===0
+x=z.gQn()
+if(this.cc!==x){this.cy.scv(x)
+this.cc=x}this.cy.cl()
+w=z.gPg()
+if(this.cH!==w){v=this.fy
+v.f=w
+v.e=!0
+this.cH=w
+u=!0}else u=!1
+if(u)this.fy.c_()
+if(y){v=this.id
+v.dy="add new todo here"
+v.db="This input requires a value!"
+v.hv()
+this.id.sej(0,!0)
+u=!0}else u=!1
+if(u)this.dy.a.sv(1)
+if(y){this.r2.ch=!0
+u=!0}else u=!1
+if(u)this.k4.a.sv(1)
+t=z.gQn()
+if(this.cS!==t){this.y2.scv(t)
+this.cS=t}this.y2.cl()
+if(y){this.W.fx="Custom tab index"
+u=!0}else u=!1
+if(u)this.a1.a.sv(1)
+s=z.gq5()
+v=this.d5
+if(v==null?s!=null:v!==s){this.a9.y=s
+this.d5=s
+u=!0}else u=!1
+r=z.gpJ()
+v=this.di
+if(v==null?r!=null:v!==r){this.a9.z=r
+this.di=r
+u=!0}q=z.gMI()
+v=this.dj
+if(v==null?q!=null:v!==q){this.a9.fx=q
+this.dj=q
+u=!0}p=z.gAh()
+v=this.df
+if(v==null?p!=null:v!==p){this.a9.scO(0,p)
+this.df=p
+u=!0}o=z.gol()
+v=this.dl
+if(v==null?o!=null:v!==o){this.a9.sir(0,o)
+this.dl=o
+u=!0}if(u)this.ab.a.sv(1)
+n=z.gPf()
+if(this.dn!==n){v=this.an
+v.f=n
+v.e=!0
+this.dn=n
+u=!0}else u=!1
+if(u)this.an.c_()
+if(y){this.ah.dy="enter new label here"
+u=!0}else u=!1
+if(u)this.ai.a.sv(1)
+if(y){this.ax.ch=!0
+u=!0}else u=!1
+if(u)this.aN.a.sv(1)
+v=z.gpJ()===!0?"enable":"disable"
+m="Tap to "+v
+if(this.ds!==m){this.aC.e=m
+this.ds=m
+u=!0}else u=!1
+l=z.gpJ()
+v=this.e4
+if(v==null?l!=null:v!==l){v=this.aC
+v.c=l
+v.cT()
+this.e4=l
+u=!0}if(u)this.aR.a.sv(1)
+v=z.gol()===!0?"unset indeterminate":"set indeterminate"
+k="Tap to "+v
+if(this.dE!==k){this.aI.e=k
+this.dE=k
+u=!0}else u=!1
+j=z.gol()
+v=this.dK
+if(v==null?j!=null:v!==j){v=this.aI
+v.c=j
+v.cT()
+this.dK=j
+u=!0}if(u)this.ak.a.sv(1)
+v=z.gq5()===!0?"go from indeterminate to unchecked":"go from indeterminate to checked"
+i="Tap to "+v
+if(this.dL!==i){this.b_.e=i
+this.dL=i
+u=!0}else u=!1
+h=z.gq5()
+v=this.e0
+if(v==null?h!=null:v!==h){v=this.b_
+v.c=h
+v.cT()
+this.e0=h
+u=!0}if(u)this.au.a.sv(1)
+if(y){this.b5.fx="plain unchecked"
+u=!0}else u=!1
+if(u)this.aQ.a.sv(1)
+if(y){v=this.bd
+v.fx="plain checked"
+v.scO(0,!0)
+u=!0}else u=!1
+if(u)this.b8.a.sv(1)
+if(y){v=this.bk
+v.fx="work in progress"
+v.sir(0,!0)
+u=!0}else u=!1
+if(u)this.bW.a.sv(1)
+if(y){v=this.c1
+v.z=!0
+v.fx="mission impossible"
+u=!0}else u=!1
+if(u)this.bK.a.sv(1)
+if(y){v=this.bG
+v.z=!0
+v.fx="done and done"
+v.scO(0,!0)
+u=!0}else u=!1
+if(u)this.bw.a.sv(1)
+if(y){v=this.bY
+v.z=!0
+v.fx="done and done"
+v.sir(0,!0)
+u=!0}else u=!1
+if(u)this.ca.a.sv(1)
+if(y){v=this.cA
+v.fx="indeterminate?"
+v.scO(0,!0)
+this.cA.sir(0,!0)
+u=!0}else u=!1
+if(u)this.bH.a.sv(1)
+if(y){v=this.b2
+v.fr="#FF0000"
+v.fx="A red checkbox"
+u=!0}else u=!1
+if(u)this.c6.a.sv(1)
+if(y){v=this.cC
+v.fr="#FF00FF"
+v.fx="A magenta checkbox"
+u=!0}else u=!1
+if(u)this.cB.a.sv(1)
+if(y){this.c3.fx="long label is bad label, but internationalisation has its own opinions"
+u=!0}else u=!1
+if(u)this.bR.a.sv(1)
+if(y){this.cW.sam(0,"help")
+u=!0}else u=!1
+if(u)this.bL.a.sv(1)
+if(y){v=this.de
+v.fx="Themed!"
+v.scO(0,!0)
+u=!0}else u=!1
+if(u)this.cj.a.sv(1)
+this.cx.I()
+this.y1.I()
+g=Q.U(z.a8u())
+if(this.cE!==g){this.Q.textContent=g
+this.cE=g}this.k4.B(y)
+f=Q.U(z.gPg().b)
+if(this.cZ!==f){this.ry.textContent=f
+this.cZ=f}this.a1.B(y)
+this.ab.B(y)
+this.aN.B(y)
+e=Q.U(z.gPf().b)
+if(this.ef!==e){this.be.textContent=e
+this.ef=e}d=z.gMI()
+if(d==null)d=""
+if(this.dz!==d){this.bt.textContent=d
+this.dz=d}c=z.gDL()
+if(c==null)c=""
+if(this.ex!==c){this.aO.textContent=c
+this.ex=c}b=Q.U(z.gAh())
+if(this.d1!==b){this.cs.textContent=b
+this.d1=b}a=Q.U(z.gpJ())
+if(this.dt!==a){this.bb.textContent=a
+this.dt=a}a0=Q.U(z.gol())
+if(this.e5!==a0){this.aY.textContent=a0
+this.e5=a0}a1=Q.U(z.gq5())
+if(this.dP!==a1){this.b1.textContent=a1
+this.dP=a1}this.bE.B(y)
+this.aQ.B(y)
+this.b8.B(y)
+this.bW.B(y)
+this.bK.B(y)
+this.bw.B(y)
+this.ca.B(y)
+this.bH.B(y)
+this.c6.B(y)
+this.cB.B(y)
+this.bR.B(y)
+this.bl.B(y)
+this.cj.B(y)
+this.c4.B(y)
+this.dy.j()
+this.k4.j()
+this.a1.j()
+this.ab.j()
+this.ai.j()
+this.aN.j()
+this.aR.j()
+this.ak.j()
+this.au.j()
+this.bE.j()
+this.aQ.j()
+this.b8.j()
+this.bW.j()
+this.bK.j()
+this.bw.j()
+this.ca.j()
+this.bH.j()
+this.c6.j()
+this.cB.j()
+this.bR.j()
+this.bl.j()
+this.bL.j()
+this.cj.j()
+this.c4.j()
+if(y)this.id.a5()
+if(y)this.ah.a5()
+if(y)this.aC.cT()
+if(y)this.aI.cT()
+if(y)this.b_.cT()},
+w:function(){var z=this.cx
+if(!(z==null))z.H()
+z=this.y1
+if(!(z==null))z.H()
+z=this.dy
+if(!(z==null))z.i()
+z=this.k4
+if(!(z==null))z.i()
+z=this.a1
+if(!(z==null))z.i()
+z=this.ab
+if(!(z==null))z.i()
+z=this.ai
+if(!(z==null))z.i()
+z=this.aN
+if(!(z==null))z.i()
+z=this.aR
+if(!(z==null))z.i()
+z=this.ak
+if(!(z==null))z.i()
+z=this.au
+if(!(z==null))z.i()
+z=this.bE
+if(!(z==null))z.i()
+z=this.aQ
+if(!(z==null))z.i()
+z=this.b8
+if(!(z==null))z.i()
+z=this.bW
+if(!(z==null))z.i()
+z=this.bK
+if(!(z==null))z.i()
+z=this.bw
+if(!(z==null))z.i()
+z=this.ca
+if(!(z==null))z.i()
+z=this.bH
+if(!(z==null))z.i()
+z=this.c6
+if(!(z==null))z.i()
+z=this.cB
+if(!(z==null))z.i()
+z=this.bR
+if(!(z==null))z.i()
+z=this.bl
+if(!(z==null))z.i()
+z=this.bL
+if(!(z==null))z.i()
+z=this.cj
+if(!(z==null))z.i()
+z=this.c4
+if(!(z==null))z.i()
+z=this.id
+z.b3()
+z.K=null
+z.G=null
+this.k2.a.E()
+z=this.ah
+z.b3()
+z.K=null
+z.G=null
+this.aw.a.E()},
+aav:[function(a){this.f.sDL(a)},"$1","gWt",4,0,0],
+aaS:[function(a){this.f.sAh(a)},"$1","gWQ",4,0,0],
+abB:[function(a){this.f.sol(a)},"$1","gXz",4,0,0],
+aaV:[function(a){this.f.spJ(a)},"$1","gWT",4,0,0],
+aaX:[function(a){this.f.sol(a)},"$1","gWV",4,0,0],
+ab_:[function(a){this.f.sq5(a)},"$1","gWY",4,0,0],
+$asa:function(){return[Z.hZ]}},
+aa2:{"^":"a;r,x,y,z,Q,ch,a,b,c,d,e,f",
+p:function(){var z,y,x
+z=G.b7(this,0)
+this.x=z
+z=z.e
+this.r=z
+this.h(z)
+z=new U.bn(null,null,null,!1,null,null,X.aZ(null),X.aY(null),null)
+z.dh(null)
+this.y=z
+this.z=z
+z=B.b6(this.r,this.x.a.b,z,null,null)
+this.Q=z
+y=document.createTextNode("\n    ")
+this.x.k(0,z,[[y]])
+z=this.y.f
+z.toString
+x=new P.q(z,[H.h(z,0)]).C(this.A(this.ga_M()))
+this.N([this.r],[x])
+return},
+S:function(a,b,c){var z
+if(a===C.ao)z=b<=1
+else z=!1
+if(z)return this.y
+if(a===C.an)z=b<=1
+else z=!1
+if(z)return this.z
+return c},
+q:function(){var z,y,x,w,v
+z=this.a.cy===0
+y=this.b.u(0,"$implicit")
+this.y.sa8(y.glF())
+this.y.c_()
+if(z)this.y.a0()
+x=J.kB(y)
+w=this.ch
+if(w==null?x!=null:w!==x){this.Q.fx=x
+this.ch=x
+v=!0}else v=!1
+if(v)this.x.a.sv(1)
+this.x.B(z)
 this.x.j()},
-w:function(){var y=this.x
-if(!(y==null))y.i()},
-mw:function(n){var y=this.b.v(0,"$implicit")
-C.c.aZ(this.f.ga0g(),y)},
-$asa:function(){return[G.ex]}}
-Q.xi.prototype={
-p:function(){var y,x
-y=Z.ei(this,0)
-this.x=y
-y=y.e
+w:function(){var z=this.x
+if(!(z==null))z.i()},
+aen:[function(a){this.b.u(0,"$implicit").slF(a)},"$1","ga_M",4,0,0],
+$asa:function(){return[Z.hZ]}},
+aa3:{"^":"a;r,x,y,z,Q,a,b,c,d,e,f",
+p:function(){var z,y,x
+z=document
+y=z.createElement("li")
 this.r=y
-this.h(y)
-y=this.r
-y=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,y)
+this.l(y)
+y=z.createTextNode("")
+this.x=y
+this.r.appendChild(y)
+x=z.createTextNode(": ")
+this.r.appendChild(x)
+y=z.createTextNode("")
 this.y=y
-this.x.k(0,y,[C.a,C.a])
-y=this.y.x
-x=new P.e_(y,[H.e(y,0)]).C(this.A(this.gmv()))
-this.M([this.r],[x])
+this.r.appendChild(y)
+this.F(this.r)
 return},
-S:function(n,o,p){if(n===C.H&&0===o)return this.y
-return p},
-q:function(){var y,x,w,v,u
-y=this.f
-x=this.a.cy
-w=this.b.v(0,"$implicit")
-if(x===0){this.y.c=!0
-v=!0}else v=!1
-u=y.f
-if(this.z!==u){x=this.y
-x.e=u
-x.jc()
-this.z=u
-v=!0}x=this.Q
-if(x==null?w!=null:x!==w){x=this.y
-x.f=w
-x.jc()
-this.Q=w
-v=!0}if(v)this.x.a.su(1)
-this.x.j()},
-w:function(){var y=this.x
-if(!(y==null))y.i()},
-mw:function(n){var y=this.b.v(0,"$implicit")
-C.c.aZ(this.f.gIK(),y)},
-$asa:function(){return[G.ex]}}
-Q.xj.prototype={
-p:function(){var y,x,w
-y=Z.ei(this,0)
-this.x=y
-y=y.e
-this.r=y
-y.setAttribute("buttonDecorator","")
-this.h(this.r)
-y=this.r
-this.y=new R.cC(new T.c6(new P.h(null,null,0,null,null,null,null,[W.as]),null,"button",!1,!0,null,y),null,null,null,null,null,null,!1)
-y=new V.c3(null,!0,!1,G.dg(),null,null,P.be(null,null,null,null,!0,null),null,y)
-this.z=y
-this.x.k(0,y,[C.a,C.a])
-J.G(this.r,"click",this.A(this.y.e.gdM()))
-J.G(this.r,"keypress",this.A(this.y.e.gdH()))
-y=this.y.e.b
-x=new P.i(y,[H.e(y,0)]).C(this.A(this.gU_()))
-y=this.z.x
-w=new P.e_(y,[H.e(y,0)]).C(this.A(this.gmv()))
-this.M([this.r],[x,w])
-return},
-S:function(n,o,p){if(n===C.l&&0===o)return this.y.e
-if(n===C.H&&0===o)return this.z
-return p},
-q:function(){var y,x,w,v,u
-y=this.f
-x=this.a.cy
-w=this.b.v(0,"$implicit")
-if(x===0){this.z.c=!0
-v=!0}else v=!1
-u=y.f
-if(this.Q!==u){x=this.z
-x.e=u
-x.jc()
-this.Q=u
-v=!0}x=this.ch
-if(x==null?w!=null:x!==w){x=this.z
-x.f=w
-x.jc()
-this.ch=w
-v=!0}if(v)this.x.a.su(1)
-this.y.dE(this.x,this.r)
-this.x.j()},
-w:function(){var y=this.x
-if(!(y==null))y.i()},
-mw:function(n){var y=this.b.v(0,"$implicit")
-C.c.aZ(this.f.gIK(),y)},
-U0:function(n){var y=this.b.v(0,"$implicit")
-J.af1(this.f,y)},
-$asa:function(){return[G.ex]}}
-Q.QX.prototype={
-p:function(){var y,x
-y=new Q.KM(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.d(),this,null,null,null)
-y.a=S.c(y,3,C.i,0,null)
-x=document.createElement("material-chips-demo")
-y.e=x
-x=$.uB
-if(x==null){x=$.z.a3("",C.n,C.lz)
-$.uB=x}y.a2(x)
-this.r=y
-this.e=y.e
-y=new G.ex("My Text",!0,H.q([],[G.es]),H.q([],[G.fy]),G.a2h(),new G.DQ())
-y.Jn()
-y.Jp()
-this.x=y
-this.r.k(0,y,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[G.ex])},
+q:function(){var z,y,x
+z=this.b.u(0,"$implicit")
+y=Q.U(J.kB(z))
+if(this.z!==y){this.x.textContent=y
+this.z=y}x=Q.U(z.glF())
+if(this.Q!==x){this.y.textContent=x
+this.Q=x}},
+$asa:function(){return[Z.hZ]}},
+aa4:{"^":"a;r,x,a,b,c,d,e,f",
+p:function(){var z,y,x,w
+z=new T.a1x(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.e(),this,null,null,null)
+z.a=S.f(z,3,C.f,0,null)
+y=document.createElement("material-checkbox-example")
+z.e=y
+y=$.oh
+if(y==null){y=$.L.a3("",C.k,C.lU)
+$.oh=y}z.a2(y)
+this.r=z
+this.e=z.e
+z=[null]
+y=[P.l]
+x=[null]
+w=new Z.hc(null,null,null,"",new P.W(null,null,0,null,null,null,null,z),new P.W(null,null,0,null,null,null,null,y),null,null,!0,!1,null,x)
+w.kr(!1,!0)
+z=new Z.hc(null,null,null,"",new P.W(null,null,0,null,null,null,null,z),new P.W(null,null,0,null,null,null,null,y),null,null,!0,!1,null,x)
+z.kr(!1,!0)
+z=new Z.hZ(null,null,w,!1,!1,!1,!1,"custom label",z,"???")
+z.a=[new Z.qn("learn angular",!0),new Z.qn("build an angular app",!1),new Z.qn("profit!",!1)]
+this.x=z
+this.r.k(0,z,this.a.e)
+this.F(this.e)
+return new D.K(this,0,this.e,this.x,[Z.hZ])},
 q:function(){this.r.j()},
-w:function(){var y=this.r
-if(!(y==null))y.i()},
-$asa:function(){}};(function installTearOffs(){f(V.c3.prototype,"ga4T",0,0,0,null,["$1"],["a4U"],0)
-f(Z,"aoO",1,0,0,null,["$2"],["avX"],4)
-f(Z,"aoP",1,0,0,null,["$2"],["avY"],4)
-f(Z,"aoQ",1,0,0,null,["$2"],["avZ"],1)
-f(B,"jn",1,0,1,null,["$1"],["agk"],5)
-f(G,"aoW",1,0,0,null,["$2"],["aw_"],6)
-f(G,"aoX",1,0,0,null,["$2"],["aw0"],1)
-f(L,"aoR",1,0,0,null,["$2"],["aw5"],1)
-var y
-f(y=G.ex.prototype,"ga58",0,0,0,null,["$0"],["Jn"],2)
-f(y,"ga5b",0,0,0,null,["$0"],["a5c"],2)
-f(y,"gJo",0,0,0,null,["$0"],["Jp"],2)
-f(Q,"aoS",1,0,0,null,["$2"],["aw1"],3)
-f(Q,"aoT",1,0,0,null,["$2"],["aw2"],3)
-f(Q,"aoU",1,0,0,null,["$2"],["aw3"],3)
-f(Q,"aoV",1,0,0,null,["$2"],["aw4"],1)
-f(Q.xh.prototype,"gmv",0,0,0,null,["$1"],["mw"],0)
-f(Q.xi.prototype,"gmv",0,0,0,null,["$1"],["mw"],0)
-f(y=Q.xj.prototype,"gmv",0,0,0,null,["$1"],["mw"],0)
-f(y,"gU_",0,0,0,null,["$1"],["U0"],0)})();(function inheritance(){a(V.c3,E.eG)
-var y=S.a
-a(Z.KJ,y)
-a(Z.QS,y)
-a(Z.QT,y)
-a(Z.QU,y)
-a(G.KL,y)
-a(G.QV,y)
-a(G.QW,y)
-a(L.KN,y)
-a(L.QY,y)
-a(Q.KM,y)
-a(Q.xh,y)
-a(Q.xi,y)
-a(Q.xj,y)
-a(Q.QX,y)
-y=P.H
-a(B.d6,y)
-a(T.k6,y)
-a(G.ex,y)
-a(G.es,y)
-a(G.fy,y)
-y=H.aN
-a(B.DP,y)
-a(G.DQ,y)})();(function constants(){C.cU=new D.B("material-chips-gallery-section-api",L.aoR(),C.a,[T.k6])
-C.ha=C.cU
-C.ik=new D.B("material-chip",Z.aoQ(),C.a,[V.c3])
-C.iy=new D.B("material-chips-demo",Q.aoV(),C.a,[G.ex])
-C.iT=new D.B("material-chips",G.aoX(),C.a,[B.d6])
-C.qX=new G.fy(1,"The Phantom Menace")
-C.qT=new G.fy(2,"Attack of the Clones")
-C.qS=new G.fy(3,"Revenge of the Sith")
-C.qY=new G.fy(4,"A New Hope")
-C.qV=new G.fy(5,"The Empire Strikes Back")
-C.qW=new G.fy(6,"Return of the Jedi")
-C.qU=new G.fy(7,"The Force Awakens")
-C.lm=d([C.qX,C.qT,C.qS,C.qY,C.qV,C.qW,C.qU])
-C.nG=d(["div.control-bar._ngcontent-%COMP% { margin:8px; }  material-chip.themeable.my-theme { background-color:#db4437; color:#fff; }  material-chip.themeable.my-theme:hover { background-color:#0f9d58; color:#fff; }  material-chip.themeable.my-theme:focus { background-color:#1c3aa9; color:#fff; }  material-chip.themeable.my-theme[emphasis]:hover { background-color:#0f9d58; }  material-chip.themeable.my-theme[emphasis]:focus { background-color:#1c3aa9; }  material-chip.themeable.my-theme .delete-icon { fill:#fff; }  material-chip.themeable.my-theme .left-icon { color:#fff; fill:#fff; }  material-chip.themeable.my-theme .left-icon { background-color:#097138; border-radius:50%; height:32px; margin-left:0; margin-right:-4px; min-width:32px; padding:0; width:32px; }  material-chip.themeable.left-icon-bg { background-color:#757575; color:#fff; }  material-chip.themeable.left-icon-bg:hover { background-color:#616161; color:#fff; }  material-chip.themeable.left-icon-bg:focus { background-color:#616161; color:#fff; }  material-chip.themeable.left-icon-bg[emphasis]:hover { background-color:#616161; }  material-chip.themeable.left-icon-bg[emphasis]:focus { background-color:#616161; }  material-chip.themeable.left-icon-bg .delete-icon { fill:#fff; }  material-chip.themeable.left-icon-bg .left-icon { background-color:#4285f4; border-radius:50%; height:32px; margin-left:0; margin-right:-4px; min-width:32px; padding:0; width:32px; } .left-icon-bg._ngcontent-%COMP% material-icon._ngcontent-%COMP% { color:#fff; fill:#fff; } .clickable._ngcontent-%COMP% material-chip._ngcontent-%COMP% { cursor:pointer; } .clickable._ngcontent-%COMP% material-chip[emphasis]:hover._ngcontent-%COMP% { background-color:#3367d6; } .clickable._ngcontent-%COMP% material-chip[emphasis]:focus._ngcontent-%COMP% { background-color:#1c3aa9; } .clickable._ngcontent-%COMP% material-chip:focus._ngcontent-%COMP% { background-color:#757575; color:#fff; outline:none; } .clickable._ngcontent-%COMP% material-chip:focus._ngcontent-%COMP%  .delete-icon { fill:#fff; } .clickable._ngcontent-%COMP% material-chip:hover._ngcontent-%COMP% { background-color:#bdbdbd; color:#fff; } .clickable._ngcontent-%COMP% material-chip:hover._ngcontent-%COMP%  .delete-icon { fill:#fff; } .dense._ngcontent-%COMP%  material-chip { height:24px; border-radius:12px; margin:2px 4px; } .dense._ngcontent-%COMP%  material-chip .content { font-size:13px; } .dense._ngcontent-%COMP%  material-chip .delete-icon { margin-right:0; } .dense._ngcontent-%COMP%  material-chip .left-icon { margin-left:0; }"])
-C.lz=d([C.nG])
-C.n0=d(["._nghost-%COMP% { display:flex; flex-wrap:wrap; justify-content:flex-start; flex-direction:row; align-items:center; align-content:space-around; margin:0; padding:0; position:relative; vertical-align:top; } material-chip:last-of-type._ngcontent-%COMP% { margin-right:16px; }"])
-C.lZ=d([C.n0])
-C.l5=d(["._nghost-%COMP% { background-color:#e0e0e0; color:black; display:flex; align-items:center; border-radius:16px; height:32px; margin:4px; overflow:hidden; } .content._ngcontent-%COMP% { margin:0 12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; } .left-icon._ngcontent-%COMP% { color:#9e9e9e; fill:#9e9e9e; display:flex; align-items:center; justify-content:center; margin-right:-8px; margin-left:4px; padding:3px; } .delete-icon._ngcontent-%COMP% { display:flex; background-size:19px 19px; border:0; cursor:pointer; height:19px; margin-left:-8px; margin-right:4px; min-width:19px; padding:3px; width:19px; fill:#9e9e9e; } .delete-icon:focus._ngcontent-%COMP% { fill:#fff; outline:none; } ._nghost-%COMP%[emphasis] { background-color:#4285f4; color:#fff; } ._nghost-%COMP%[emphasis] .left-icon._ngcontent-%COMP% { color:#fff; fill:#fff; } ._nghost-%COMP%[emphasis] .delete-icon._ngcontent-%COMP% { fill:#fff; }"])
-C.ni=d([C.l5])
-C.hw=new G.es("science")
-C.hv=new G.es("math")
-C.hy=new G.es("wizardry")
-C.hx=new G.es("technology")
-C.hu=new G.es("engineering")
-C.p6=d([C.hw,C.hv,C.hy,C.hx,C.hu])
-C.rI=H.p("k6")
-C.rT=H.p("c3")
-C.rU=H.p("d6")
-C.f4=H.p("ex")})();(function staticFields(){$.KK=null
-$.a9K=!1
-$.Zk=null
-$.a9J=!1
-$.a3x=null
-$.a9H=!1
-$.uB=null
-$.a9I=!1})();(function lazyInitializers(){c($,"a5m","$get$a5m",function(){return R.a2L()})})()
-i([{func:1,v:true,args:[,]},{func:1,ret:S.a,args:[S.a,P.k]},{func:1,v:true},{func:1,ret:[S.a,G.ex],args:[S.a,P.k]},{func:1,ret:[S.a,V.c3],args:[S.a,P.k]},{func:1,ret:P.j,args:[P.H]},{func:1,ret:[S.a,B.d6],args:[S.a,P.k]}]);(function nativeSupport(){j({})
-k({})})()}
-$__dart_deferred_initializers__["41fhXJML67V08KGfImnrxEtsGXQ="] = $__dart_deferred_initializers__.current
-//# sourceMappingURL=main.dart.js_39.part.js.map
+w:function(){var z=this.r
+if(!(z==null))z.i()},
+$asa:I.D}}]]
+setupProgram(dart,init.metadata.length,init.types.length)
+var deferredMetadata=[]
+var deferredTypes=[{func:1,v:true,args:[,]},{func:1,v:true},{func:1,ret:S.a,args:[S.a,P.n]},{func:1,ret:[S.a,Z.hZ],args:[S.a,P.n]}]
+init.metadata.push.apply(init.metadata,deferredMetadata)
+init.types.push.apply(init.types,deferredTypes)
+C.d8=new D.N("material-checkbox-gallery-section-api",N.amt(),C.a,[D.mS])
+C.h6=C.d8
+C.hS=new D.N("material-checkbox-example",T.amw(),C.a,[Z.hZ])
+C.m9=I.o(['._nghost-%COMP% { font-family:Roboto, "Helvetica Neue", Arial, Helvetica, sans-serif; } .limited-width._ngcontent-%COMP% { width:160px; } .debug-info._ngcontent-%COMP% { background:#eee; } .help-icon._ngcontent-%COMP% { margin:0 4px; } material-checkbox.top._ngcontent-%COMP% { align-items:flex-start; }  .custom-theme material-checkbox.themeable:not(.disabled) .icon-container .icon.filled, .custom-theme material-checkbox:not(.disabled) .icon-container .ripple.filled { color:#009688; } .material-checkbox-no-left-margin._ngcontent-%COMP% { margin-left:-3px; }'])
+C.lU=I.o([C.m9])
+C.qM=H.v("mS")
+C.eY=H.v("hZ")
+$.w0=null
+$.BM=!1
+$.oh=null
+$.BN=!1}
+$dart_deferred_initializers$["UmlR478G9mx0//ZH0nJ7K0Kpphg="]=$dart_deferred_initializers$.current
