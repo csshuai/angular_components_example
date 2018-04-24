@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_14.part.js",
+  "sourceRoot": "",
+  "sources": ["../packages/angular_components/utils/id_generator/id_generator.dart","../packages/convert/src/hex/encoder.dart","../packages/uuid/uuid_util.dart","../packages/uuid/uuid.dart","../packages/convert/src/hex.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/_internal/js_runtime/lib/linked_hash_map.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/convert/codec.dart"],
+  "names": ["SequentialIdGenerator.fromUUID","_convert","UuidUtil.mathRNG","Uuid","SequentialIdGenerator.nextId","HexCodec.encoder","HexEncoder.convert","JsLinkedHashMap","Codec.encode","Uuid.v4","Uuid.unparse","Uuid.v4[function-entry$0]","SequentialIdGenerator._uuid"],
+  "mappings": "A;8EAkC0CA;IAAxCA,uCAA8CA,OAA9CA,AAAmDA,C;;;ICe9CC,gBAIDA;;AAQSA,0BADbA,SACaA;AACXA;AAKkBA;AAA8BA;AAAhDA;AACkBA;AAAwBA;AAA1CA,uBAGFA,gBAAkCA,OAAWA,cAY/CA;AATEA,iBACaA;AACPA;cAAaA,YAAcA;AAC/BA,UAAUA,sBACUA,uBAA6BA,MAALA,sBAI9CA,wBACFA,C;;ICzEmBC,YACXA;AAAcA;;;AAGlBA,yBACOA;AAALA,SAC4CA,SAAfA,OAAnBA;AAEHA,wBAGTA,QACFA,C;ICUAC;;QAoBAA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GHfOC,WAAYA,2BAAqBA,C;;IIbzBC,WAAWA,WAAUA,C;;AHHDC;GAA5BA,YAA4BA,0BAAgCA,C;;;;GEWnEH,WAAOA;AACYA;;;;AACAA;AEQnBI;AFLEJ,yBACgBA;AACdA;AGfiBK,qBAAQA;AHiBzBL,wBAIoBA;AAAtBA;AAGAA;AAGAA,4BACFA,C;IA2JAM,gBACMA;AEtKNF;AF0KwBE,gCAAqCA;AAC1CA,2BAAqDA,KAArBA;AACtCA,qBAAmCA,KAAMA,kBAAsDA;AAG9FA,wBAA6BA;AAG9BA;AAAXA,SAAeA,KAAJA;AACXA,SAAeA,KAAJA;AASXA,OA3IUC,WAAWA,WAAeA,WAAWA,WACrCA,WAAWA,WAAeA,WAAWA,eACrCA,WAAWA,WAAeA,WAAWA,eACrCA,WAAWA,WAAeA,WAAWA,eACrCA,WAAWA,WAAeA,WAAWA,eACrCA,WAAWA,YAAeA,WAAWA,YACrCA,WAAWA,YAAeA,WAAWA,YACrCA,WAAWA,YAAeA,WAAWA,WAqIjDD,C;GAxBAE,wC;;;;;oEHhMYC,kBAAYA,OAAZA,C"
+}

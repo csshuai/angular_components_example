@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_47.part.js",
+  "sourceRoot": "",
+  "sources": ["/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/_internal/js_runtime/lib/js_helper.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/_internal/js_runtime/lib/core_patch.dart"],
+  "names": ["Primitives.parseDouble","checkString","double.parse","double.tryParse"],
+  "mappings": "A;;IAg0BgBA,YAAWA;AAw7BzBC,uBAAsBA,IAAMA;qFA36BxBD,MAWJA;AARMA;aACYA;AACdA,qCACEA,QAKNA;AAHIA,MAGJA,CADEA,QACFA,C;GC5pBcE,cAUMC;AAPlBD,WAAmBA,QAGrBA;AAFEA,WAAqBA,OAAOA,OAE9BA;AADEA,UAAUA,8BACZA,C"
+}

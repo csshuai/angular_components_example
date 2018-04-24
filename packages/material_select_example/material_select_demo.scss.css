@@ -10,6 +10,6 @@
   cursor: pointer;
 }
 
-.custom-selected-color ::ng-deep .selected-accent.mixin {
-  background-color: #0f9d58;
+.custom-selected-color ::ng-deep .selected-accent.mixin.mixin {
+  background: #0f9d58;
 }

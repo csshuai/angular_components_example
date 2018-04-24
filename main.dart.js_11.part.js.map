@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_11.part.js",
+  "sourceRoot": "",
+  "sources": ["../packages/angular_components/model/ui/has_renderer.dart","../packages/angular_components/src/model/selection/interfaces/selectable.dart"],
+  "names": ["defaultItemRenderer","SelectableOption.toString"],
+  "mappings": "A;8EA0D+CA;IAAxCA,YAAsCA,aAAQA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EChDhDC,yBAAgDA,C"
+}

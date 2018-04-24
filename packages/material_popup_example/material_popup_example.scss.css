@@ -55,6 +55,9 @@
 .custom-border-radius ::ng-deep .popup-wrapper.mixin {
   border-radius: 24px 16px 32px 40px;
 }
+.custom-border-radius ::ng-deep .popup-wrapper.mixin .popup {
+  border-radius: 24px 16px 32px 40px;
+}
 
 .custom-background ::ng-deep .popup-wrapper.mixin.shadow {
   background: #4285f4;
