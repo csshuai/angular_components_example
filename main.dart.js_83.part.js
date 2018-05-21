@@ -1,51 +1,51 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={
-adC:function(){if($.a8k)return
-$.a8k=!0
-V.a0x()
-V.a0x()}},R={},K={dQ:function dQ(n,o,p,q){var _=this
+adx:function(){if($.a8f)return
+$.a8f=!0
+V.a0r()
+V.a0r()}},R={},K={dN:function dN(n,o,p,q){var _=this
 _.a=n
 _.b=o
 _.c=p
-_.d=q}},V={l2:function l2(n){this.a=n}},N={
-b4:function(n,o){var y=new N.MR(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,1,C.i,o,null)
-y.NZ(n,o)
+_.d=q}},V={kS:function kS(n){this.a=n}},N={
+b0:function(n,o){var y=new N.MP(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,1,C.j,o,null)
+y.O6(n,o)
 return y},
-aAf:function(n,o){var y=new N.UE(null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.mZ
+aAt:function(n,o){var y=new N.UI(null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.mR
 return y},
-aAg:function(n,o){var y=new N.UF(null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.mZ
+aAu:function(n,o){var y=new N.UJ(null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.mR
 return y},
-aAh:function(n,o){var y=new N.UG(null,null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.mZ
+aAv:function(n,o){var y=new N.UK(null,null,null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.mR
 return y},
-aAi:function(n,o){var y=new N.UH(null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.mZ
+aAw:function(n,o){var y=new N.UL(null,null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.mR
 return y},
-aAj:function(n,o){var y=new N.UI(null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.mZ
+aAx:function(n,o){var y=new N.UM(null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.mR
 return y},
-aAk:function(n,o){var y=new N.UJ(null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
+aAy:function(n,o){var y=new N.UN(null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.k,o,null)
 return y},
-adB:function(){if($.a89)return
-$.a89=!0
-$.$get$E().t(0,C.th,C.it)
-E.r()
-R.hI()
-M.bJ()
-L.nw()
-V.dg()
-V.fM()
-Y.adC()},
-MR:function MR(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6){var _=this
+adw:function(){if($.a84)return
+$.a84=!0
+$.$get$D().u(0,C.tf,C.it)
+E.q()
+R.ht()
+M.bH()
+L.nm()
+V.dd()
+V.fD()
+Y.adx()},
+MP:function MP(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -75,7 +75,7 @@ _.c=b3
 _.d=b4
 _.e=b5
 _.f=b6},
-UE:function UE(n,o,p,q,r,s,t,u,v){var _=this
+UI:function UI(n,o,p,q,r,s,t,u,v){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -85,7 +85,7 @@ _.c=s
 _.d=t
 _.e=u
 _.f=v},
-UF:function UF(n,o,p,q,r,s,t,u,v){var _=this
+UJ:function UJ(n,o,p,q,r,s,t,u,v){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -95,7 +95,7 @@ _.c=s
 _.d=t
 _.e=u
 _.f=v},
-UG:function UG(n,o,p,q,r,s,t,u,v,w,x){var _=this
+UK:function UK(n,o,p,q,r,s,t,u,v,w,x){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -107,7 +107,7 @@ _.c=u
 _.d=v
 _.e=w
 _.f=x},
-UH:function UH(n,o,p,q,r,s,t,u,v,w){var _=this
+UL:function UL(n,o,p,q,r,s,t,u,v,w){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -118,7 +118,7 @@ _.c=t
 _.d=u
 _.e=v
 _.f=w},
-UI:function UI(n,o,p,q,r,s,t,u,v){var _=this
+UM:function UM(n,o,p,q,r,s,t,u,v){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -128,7 +128,7 @@ _.c=s
 _.d=t
 _.e=u
 _.f=v},
-UJ:function UJ(n,o,p,q,r,s,t,u){var _=this
+UN:function UN(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -137,27 +137,27 @@ _.c=r
 _.d=s
 _.e=t
 _.f=u}},E={
-aAl:function(n,o){var y=new E.xG(null,null,null,null,null,null,P.S(["$implicit",null]),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.MS
+aAz:function(n,o){var y=new E.xB(null,null,null,null,null,null,P.Z(["$implicit",null]),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.MQ
 return y},
-aAm:function(n,o){var y=new E.xH(null,null,null,null,null,null,P.S(["$implicit",null]),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.MS
+aAA:function(n,o){var y=new E.xC(null,null,null,null,null,null,P.Z(["$implicit",null]),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.MQ
 return y},
-aAn:function(n,o){var y=new E.UK(null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
+aAB:function(n,o){var y=new E.UO(null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.k,o,null)
 return y},
-anE:function(){if($.a7Z)return
-$.a7Z=!0
-$.$get$E().t(0,C.fm,C.jj)
-E.r()
-U.lF()
-N.WM()
-U.anF()
-N.adB()
-K.cu()},
-n_:function n_(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8,r9,s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,t0,t1,t2,t3,t4,t5,t6,t7,t8,t9,u0,u1,u2,u3,u4,u5,u6,u7,u8,u9,v0,v1,v2,v3,v4,v5,v6,v7,v8,v9,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9,x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,y0,y1,y2,y3,y4,y5,y6,y7,y8,y9,z0,z1,z2,z3,z4,z5,z6,z7,z8,z9,aa0,aa1,aa2,aa3){var _=this
+ans:function(){if($.a7U)return
+$.a7U=!0
+$.$get$D().u(0,C.fp,C.jj)
+E.q()
+U.lt()
+N.WP()
+U.ant()
+N.adw()
+K.cr()},
+mS:function mS(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8,r9,s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,t0,t1,t2,t3,t4,t5,t6,t7,t8,t9,u0,u1,u2,u3,u4,u5,u6,u7,u8,u9,v0,v1,v2,v3,v4,v5,v6,v7,v8,v9,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9,x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,y0,y1,y2,y3,y4,y5,y6,y7,y8,y9,z0,z1,z2,z3,z4,z5,z6,z7,z8,z9,aa0,aa1,aa2,aa3){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -186,257 +186,257 @@ _.x1=b2
 _.x2=b3
 _.y1=b4
 _.y2=b5
-_.R=b6
+_.T=b6
 _.O=b7
-_.S=b8
-_.J=b9
-_.K=c0
-_.G=c1
-_.Y=c2
-_.a_=c3
-_.W=c4
+_.U=b8
+_.K=b9
+_.L=c0
+_.H=c1
+_.a_=c2
+_.a2=c3
+_.V=c4
 _.Z=c5
-_.P=c6
-_.ad=c7
-_.aa=c8
+_.S=c6
+_.ac=c7
+_.ab=c8
 _.a9=c9
-_.ab=d0
-_.ae=d1
+_.aa=d0
+_.ad=d1
 _.al=d2
 _.ah=d3
-_.ao=d4
-_.X=d5
-_.aq=d6
+_.ak=d4
+_.Y=d5
+_.ap=d6
 _.ar=d7
 _.af=d8
-_.aj=d9
+_.an=d9
 _.au=e0
-_.az=e1
-_.aF=e2
-_.aB=e3
-_.at=e4
-_.aM=e5
+_.aD=e1
+_.aA=e2
+_.aL=e3
+_.av=e4
+_.aw=e5
 _.aN=e6
-_.aO=e7
-_.aQ=e8
-_.av=e9
-_.aZ=f0
-_.ac=f1
-_.aE=f2
-_.aS=f3
+_.aM=e7
+_.aH=e8
+_.aE=e9
+_.aV=f0
+_.as=f1
+_.aB=f2
+_.aG=f3
 _.ax=f4
-_.aC=f5
-_.aU=f6
-_.bh=f7
-_.am=f8
-_.aI=f9
-_.ay=g0
-_.b8=g1
-_.b4=g2
-_.aH=g3
-_.aG=g4
-_.cf=g5
+_.aq=f5
+_.aW=f6
+_.b4=f7
+_.ay=f8
+_.bb=f9
+_.aF=g0
+_.ae=g1
+_.aQ=g2
+_.az=g3
+_.aK=g4
+_.c5=g5
 _.aP=g6
-_.bi=g7
-_.ba=g8
-_.bl=g9
-_.aV=h0
-_.aA=h1
-_.bm=h2
-_.bv=h3
-_.bd=h4
-_.bD=h5
-_.ai=h6
-_.bE=h7
-_.be=h8
-_.bF=h9
-_.bt=i0
-_.bw=i1
-_.b3=i2
-_.aL=i3
-_.b_=i4
-_.b0=i5
-_.bq=i6
-_.b6=i7
-_.bb=i8
-_.bR=i9
-_.bf=j0
-_.bA=j1
-_.bc=j2
-_.bN=j3
-_.bH=j4
-_.bB=j5
-_.bV=j6
-_.c3=j7
-_.bI=j8
-_.br=j9
-_.bJ=k0
-_.c4=k1
-_.b7=k2
-_.c_=k3
-_.bS=k4
-_.bg=k5
-_.bs=k6
-_.by=k7
-_.co=k8
-_.bK=k9
-_.cb=l0
-_.bW=l1
-_.aT=l2
-_.bO=l3
-_.cp=l4
-_.cq=l5
-_.bz=l6
-_.cu=l7
-_.bP=l8
-_.bX=l9
-_.cz=m0
-_.bY=m1
-_.bk=m2
-_.bL=m3
-_.c5=m4
-_.c0=m5
-_.c6=m6
-_.bC=m7
-_.cK=m8
-_.bQ=m9
-_.cE=n0
-_.cc=n1
-_.cM=n2
-_.cA=n3
-_.c7=n4
-_.ci=n5
-_.cB=n6
-_.c8=n7
-_.d_=n8
-_.ce=n9
-_.cj=o0
-_.cr=o1
-_.ck=o2
-_.cO=o3
-_.bZ=o4
-_.cC=o5
-_.cs=o6
-_.c1=o7
-_.cv=o8
-_.cN=o9
-_.cI=p0
-_.cS=p1
-_.d5=p2
-_.d2=p3
-_.d0=p4
-_.d9=p5
-_.da=p6
-_.dd=p7
-_.dQ=p8
-_.dl=p9
-_.ds=q0
-_.dz=q1
-_.dP=q2
-_.e5=q3
-_.dh=q4
-_.eb=q5
-_.cT=q6
-_.di=q7
-_.dR=q8
-_.dF=q9
-_.e6=r0
-_.de=r1
-_.dj=r2
-_.dS=r3
-_.ec=r4
-_.el=r5
-_.dJ=r6
-_.dV=r7
-_.cD=r8
-_.fz=r9
-_.eS=s0
-_.fg=s1
-_.fA=s2
-_.fB=s3
-_.fh=s4
-_.fi=s5
-_.ew=s6
-_.fj=s7
-_.dK=s8
-_.eK=s9
-_.f2=t0
-_.ep=t1
-_.fC=t2
-_.eL=t3
-_.fD=t4
-_.fE=t5
-_.ex=t6
-_.fZ=t7
-_.fk=t8
-_.eM=t9
-_.eT=u0
-_.h_=u1
-_.f3=u2
-_.ed=u3
-_.f4=u4
-_.dG=u5
-_.hu=u6
-_.fF=u7
-_.h0=u8
-_.hv=u9
-_.f5=v0
-_.hQ=v1
-_.eU=v2
-_.iT=v3
-_.dL=v4
-_.fl=v5
-_.eV=v6
-_.fm=v7
-_.ey=v8
-_.is=v9
-_.h1=w0
-_.f6=w1
-_.hR=w2
-_.eN=w3
-_.h2=w4
-_.hS=w5
-_.fn=w6
-_.h3=w7
-_.hT=w8
-_.ee=w9
-_.fM=x0
-_.hU=x1
-_.hV=x2
-_.h4=x3
-_.h5=x4
-_.iU=x5
-_.hw=x6
-_.fN=x7
-_.f7=x8
-_.it=x9
-_.iV=y0
-_.jn=y1
-_.h6=y2
-_.hx=y3
-_.k5=y4
-_.h7=y5
-_.hy=y6
-_.iW=y7
-_.k6=y8
-_.fo=y9
-_.h8=z0
-_.hW=z1
-_.k7=z2
-_.h9=z3
-_.ha=z4
-_.k8=z5
-_.kN=z6
-_.hX=z7
+_.br=g7
+_.bi=g8
+_.bj=g9
+_.aR=h0
+_.bc=h1
+_.bk=h2
+_.aS=h3
+_.b6=h4
+_.bQ=h5
+_.aj=h6
+_.bl=h7
+_.bm=h8
+_.bR=h9
+_.bx=i0
+_.b7=i1
+_.b8=i2
+_.b3=i3
+_.b1=i4
+_.aT=i5
+_.bp=i6
+_.bq=i7
+_.be=i8
+_.bt=i9
+_.b9=j0
+_.bL=j1
+_.ba=j2
+_.bF=j3
+_.bz=j4
+_.bY=j5
+_.bM=j6
+_.bN=j7
+_.bA=j8
+_.bu=j9
+_.bB=k0
+_.cb=k1
+_.bf=k2
+_.c4=k3
+_.bC=k4
+_.b2=k5
+_.bv=k6
+_.c_=k7
+_.bT=k8
+_.bG=k9
+_.cd=l0
+_.bZ=l1
+_.aJ=l2
+_.bD=l3
+_.cU=l4
+_.cr=l5
+_.bh=l6
+_.c7=l7
+_.c8=l8
+_.c0=l9
+_.c9=m0
+_.bO=m1
+_.bH=m2
+_.bg=m3
+_.bJ=m4
+_.bW=m5
+_.ci=m6
+_.bP=m7
+_.cs=m8
+_.bI=m9
+_.cZ=n0
+_.cj=n1
+_.cw=n2
+_.cI=n3
+_.cc=n4
+_.cz=n5
+_.cm=n6
+_.bX=n7
+_.d5=n8
+_.cn=n9
+_.ck=o0
+_.ce=o1
+_.cA=o2
+_.cL=o3
+_.c1=o4
+_.ct=o5
+_.cD=o6
+_.c2=o7
+_.cB=o8
+_.cE=o9
+_.cl=p0
+_.cM=p1
+_.cO=p2
+_.cX=p3
+_.cY=p4
+_.cV=p5
+_.cP=p6
+_.cW=p7
+_.ds=p8
+_.d2=p9
+_.d6=q0
+_.dm=q1
+_.dt=q2
+_.dR=q3
+_.dc=q4
+_.dS=q5
+_.cQ=q6
+_.d7=q7
+_.dK=q8
+_.dn=q9
+_.dT=r0
+_.dd=r1
+_.d8=r2
+_.dF=r3
+_.dX=r4
+_.e1=r5
+_.dO=r6
+_.dY=r7
+_.cF=r8
+_.fM=r9
+_.eZ=s0
+_.fd=s1
+_.fN=s2
+_.fO=s3
+_.fo=s4
+_.fp=s5
+_.ez=s6
+_.fq=s7
+_.dP=s8
+_.eQ=s9
+_.f_=t0
+_.ej=t1
+_.fP=t2
+_.eA=t3
+_.fs=t4
+_.fQ=t5
+_.eB=t6
+_.hh=t7
+_.ft=t8
+_.eR=t9
+_.eS=u0
+_.hi=u1
+_.f0=u2
+_.e2=u3
+_.ek=u4
+_.dL=u5
+_.fe=u6
+_.ff=u7
+_.fu=u8
+_.eC=u9
+_.eD=v0
+_.fR=v1
+_.el=v2
+_.hz=v3
+_.dM=v4
+_.fv=v5
+_.f1=v6
+_.f2=v7
+_.eE=v8
+_.hA=v9
+_.hj=w0
+_.f3=w1
+_.hB=w2
+_.em=w3
+_.h0=w4
+_.hY=w5
+_.fw=w6
+_.fz=w7
+_.h1=w8
+_.dZ=w9
+_.fg=x0
+_.h2=x1
+_.h3=x2
+_.fA=x3
+_.fB=x4
+_.hC=x5
+_.fS=x6
+_.f4=x7
+_.eF=x8
+_.hk=x9
+_.hD=y0
+_.hZ=y1
+_.fC=y2
+_.fT=y3
+_.it=y4
+_.fD=y5
+_.fU=y6
+_.hE=y7
+_.iu=y8
+_.eT=y9
+_.fE=z0
+_.h4=z1
+_.iv=z2
+_.hl=z3
+_.hm=z4
+_.k0=z5
+_.kJ=z6
+_.i_=z7
 _.a=z8
 _.b=z9
 _.c=aa0
 _.d=aa1
 _.e=aa2
 _.f=aa3},
-MT:function MT(){},
-MU:function MU(){},
-xG:function xG(n,o,p,q,r,s,t,u,v,w,x){var _=this
+MR:function MR(){},
+MS:function MS(){},
+xB:function xB(n,o,p,q,r,s,t,u,v,w,x){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -448,7 +448,7 @@ _.c=u
 _.d=v
 _.e=w
 _.f=x},
-xH:function xH(n,o,p,q,r,s,t,u,v,w,x){var _=this
+xC:function xC(n,o,p,q,r,s,t,u,v,w,x){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -460,7 +460,7 @@ _.c=u
 _.d=v
 _.e=w
 _.f=x},
-UK:function UK(n,o,p,q,r,s,t,u,v){var _=this
+UO:function UO(n,o,p,q,r,s,t,u,v){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -469,7 +469,7 @@ _.b=r
 _.c=s
 _.d=t
 _.e=u
-_.f=v}},M={},B={},S={},Q={},D={},L={am:function am(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6){var _=this
+_.f=v}},M={},B={},S={},Q={},D={},L={ak:function ak(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6){var _=this
 _.c=n
 _.d=o
 _.e=p
@@ -489,16 +489,16 @@ _.fr=a3
 _.fx=a4
 _.a=a5
 _.b=a6}},Z={},A={
-aAo:function(n,o){var y=new A.UL(null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
+aAC:function(n,o){var y=new A.UP(null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.k,o,null)
 return y},
-anx:function(){if($.a7O)return
-$.a7O=!0
-$.$get$E().t(0,C.ti,C.cV)
-E.r()
-K.cj()
-E.anE()},
-MV:function MV(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
+anl:function(){if($.a7J)return
+$.a7J=!0
+$.$get$D().u(0,C.tg,C.cT)
+E.q()
+K.cf()
+E.ans()},
+MT:function MT(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -526,7 +526,7 @@ _.c=b1
 _.d=b2
 _.e=b3
 _.f=b4},
-UL:function UL(n,o,p,q,r,s,t,u){var _=this
+UP:function UP(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -535,11 +535,11 @@ _.c=r
 _.d=s
 _.e=t
 _.f=u},
-anK:function(){if($.ac5)return
-$.ac5=!0
-E.r()
-U.lF()
-R.nx()}},T={tN:function tN(n,o,p,q,r,s,t,u,v,w,x){var _=this
+any:function(){if($.ac0)return
+$.ac0=!0
+E.q()
+U.lt()
+R.nn()}},T={tD:function tD(n,o,p,q,r,s,t,u,v,w,x){var _=this
 _.a=n
 _.b=o
 _.c=p
@@ -550,34 +550,34 @@ _.r=t
 _.x=u
 _.y=v
 _.z=w
-_.Q=x},Ib:function Ib(n){this.a=n},Ic:function Ic(n){this.a=n},Ie:function Ie(n){this.a=n},If:function If(n){this.a=n},Id:function Id(n){this.a=n},Ia:function Ia(n){this.a=n},I9:function I9(){}},O={},U={
-dG:function(n,o){var y=new U.MP(!0,null,null,null,null,null,null,null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,1,C.i,o,null)
-y.NY(n,o)
+_.Q=x},I3:function I3(n){this.a=n},I4:function I4(n){this.a=n},I6:function I6(n){this.a=n},I7:function I7(n){this.a=n},I5:function I5(n){this.a=n},I2:function I2(n){this.a=n},I1:function I1(){}},O={},U={
+dD:function(n,o){var y=new U.MN(!0,null,null,null,null,null,null,null,null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,1,C.j,o,null)
+y.O5(n,o)
 return y},
-aAc:function(n,o){var y=new U.UB(null,null,null,null,null,null,null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.MQ
+aAq:function(n,o){var y=new U.UF(null,null,null,null,null,null,null,null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.MO
 return y},
-aAd:function(n,o){var y=new U.UC(null,null,null,null,null,null,null,null,null,null,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.d,o,null)
-y.d=$.MQ
+aAr:function(n,o){var y=new U.UG(null,null,null,null,null,null,null,null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.e,o,null)
+y.d=$.MO
 return y},
-aAe:function(n,o){var y=new U.UD(null,null,!0,null,P.d(),n,null,null,null)
-y.a=S.c(y,3,C.j,o,null)
+aAs:function(n,o){var y=new U.UH(null,null,!0,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.k,o,null)
 return y},
-anF:function(){if($.aar)return
-$.aar=!0
-$.$get$E().t(0,C.tg,C.iN)
-E.r()
-U.du()
-M.bJ()
-K.b7()
-A.anK()
-R.nx()
-Y.adC()
-N.adB()},
-MP:function MP(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4){var _=this
+ant:function(){if($.aam)return
+$.aam=!0
+$.$get$D().u(0,C.te,C.iN)
+E.q()
+U.dc()
+M.bH()
+K.b4()
+A.any()
+R.nn()
+Y.adx()
+N.adw()},
+MN:function MN(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -595,7 +595,7 @@ _.c=a1
 _.d=a2
 _.e=a3
 _.f=a4},
-UB:function UB(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3){var _=this
+UF:function UF(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -612,7 +612,7 @@ _.c=a0
 _.d=a1
 _.e=a2
 _.f=a3},
-UC:function UC(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3){var _=this
+UG:function UG(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -629,7 +629,7 @@ _.c=a0
 _.d=a1
 _.e=a2
 _.f=a3},
-UD:function UD(n,o,p,q,r,s,t,u,v){var _=this
+UH:function UH(n,o,p,q,r,s,t,u,v){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -638,7 +638,11 @@ _.b=r
 _.c=s
 _.d=t
 _.e=u
-_.f=v}},X={},F={r_:function r_(){},bP:function bP(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4){var _=this
+_.f=v}},X={},F={qK:function qK(){},
+dz:function(n,o,p){var y=new F.f_(new R.u(null,null,null,null,!0,!1),new R.u(null,null,null,null,!1,!1),p,o,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.ey,!1,!1,!1)
+y.MU(n,o,p)
+return y},
+f_:function f_(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4){var _=this
 _.a=n
 _.b=o
 _.c=p
@@ -655,23 +659,30 @@ _.cx=a0
 _.cy=a1
 _.db=a2
 _.dx=a3
-_.dy=a4},I8:function I8(n){this.a=n},I7:function I7(n,o){this.a=n
-this.b=o},I5:function I5(){},I6:function I6(n,o,p){this.a=n
-this.b=o
-this.c=p},I4:function I4(n,o,p){this.a=n
-this.b=o
-this.c=p},I3:function I3(n,o,p){this.a=n
-this.b=o
-this.c=p},l1:function l1(n,o){this.a=n
+_.dy=a4},
+I0:function I0(n){this.a=n},
+I_:function I_(n,o){this.a=n
 this.b=o},
-a2M:function(n){return P.hV(n,new F.Ig(),!0,null)},
-fw:function fw(n,o,p,q,r){var _=this
+HY:function HY(){},
+HZ:function HZ(n,o,p){this.a=n
+this.b=o
+this.c=p},
+HX:function HX(n,o,p){this.a=n
+this.b=o
+this.c=p},
+HW:function HW(n,o,p){this.a=n
+this.b=o
+this.c=p},
+kR:function kR(n,o){this.a=n
+this.b=o},
+a2D:function(n){return P.lY(n,new F.I8(),!0,null)},
+fs:function fs(n,o,p,q,r){var _=this
 _.a=n
 _.b=o
 _.c=p
 _.d=q
 _.e=r},
-Ig:function Ig(){}}
+I8:function I8(){}}
 var z=[C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F])
 C=h(m[0],C)
@@ -699,146 +710,147 @@ O=h(m[21],O)
 U=h(m[22],U)
 X=h(m[23],X)
 F=h(m[24],F)
-F.r_.prototype={
-nR:function(n){var y
+F.qK.prototype={
+nK:function(n){var y
 if(n.b==null){y=n.ch
-y=!(y==null||C.h.nP(y).length===0)}else y=!1
-if(y)return P.S(["check-integer",$.$get$v().U("Enter an integer",null,null,null,"Error message when input number is not an integer.")])
+y=!(y==null||C.h.nJ(y).length===0)}else y=!1
+if(y)return P.Z(["check-integer",$.$get$v().W("Enter an integer",null,null,null,"Error message when input number is not an integer.")])
 return},
-$isuh:1}
-F.bP.prototype={
-gns:function(){if(this.db){var y=this.r
-y=y==null?null:y.gns()
+$isuc:1}
+F.f_.prototype={
+gno:function(){if(this.db){var y=this.r
+y=y==null?null:y.gno()
 if(y==null)y=!1}else y=!1
 return y},
-sfb:function(n){this.f=n
-if(this.Q)P.cw(this.gFy())},
-a0:function(){switch(this.cy){case C.ew:case C.bP:case C.ex:this.e=Z.aR(!1,null,null,null)
+MU:function(n,o,p){this.z=!0},
+sfj:function(n){this.f=n
+if(this.Q)P.c8(this.gFp())},
+E:function(){switch(this.cy){case C.ez:case C.bO:case C.eA:this.e=Z.ba(!1,null,null,null)
 break
-case C.cn:this.e=Z.aR(!0,null,null,null)
+case C.cl:this.e=Z.ba(!0,null,null,null)
 break
-default:this.e=new Z.pK(!1,!1,!0,!1,C.a,[null])
+default:this.e=new Z.pt(!1,!1,!0,!1,null,C.a,[null])
 break}if(!this.Q){this.Q=!0
-P.cw(this.gFy())}},
-sKm:function(n){var y
+P.c8(this.gFp())}},
+sKA:function(n){var y
 this.r=n
 y=n.a
-this.a.e8(new P.i(y,[H.e(y,0)]).C(new F.I8(this)))},
-o_:function(){this.r.o_()
-this.vy()},
-o0:function(){this.r.o0()
-this.vy()},
-vx:function(){var y,x,w
+this.a.e9(new P.h(y,[H.e(y,0)]).B(new F.I0(this)))},
+nT:function(){this.r.nT()
+this.vk()},
+nU:function(){this.r.nU()
+this.vk()},
+vj:function(){var y,x,w
 if(this.db){y=this.r
 x=y==null
 w=x?null:y.z===0
 this.ch=w==null?!1:w
-y=x?null:y.gGT()
+y=x?null:y.gGJ()
 this.cx=y==null?!1:y
-this.c.a.bj()
-if(this.db)this.vy()}},
-vy:function(){var y,x,w,v,u,t,s,r
+this.c.a.aY()
+if(this.db)this.vk()}},
+vk:function(){var y,x,w,v,u,t,s,r
 for(y=this.f,x=y.length,w=0;w<y.length;y.length===x||(0,H.ap)(y),++w){v=y[w]
-u=v.gfX()
-t=this.dy?C.I.d4(u.offsetTop)+C.I.d4(u.offsetHeight):C.I.d4(u.offsetLeft)
+u=v.ghf()
+t=this.dy?C.K.da(u.offsetTop)+C.K.da(u.offsetHeight):C.K.da(u.offsetLeft)
 u=this.r
 s=Math.abs(u.z)
 r=u.f?u.c.parentElement.clientHeight:u.c.parentElement.clientWidth
-if(t<s+r-u.Q&&t>s)v.gfX().tabIndex=0
-else v.gfX().tabIndex=-1}},
-Zn:function(){var y,x,w,v,u,t,s
+if(t<s+r-u.Q&&t>s)v.ghf().tabIndex=0
+else v.ghf().tabIndex=-1}},
+ZX:function(){var y,x,w,v,u,t,s
 y=this.b
 y.D()
-if(this.z)this.Xt()
+if(this.z)this.XN()
 for(x=this.f,w=x.length,v=0;v<x.length;x.length===w||(0,H.ap)(x),++v){u=x[v]
 t=this.cy
-u.spS(t===C.ex?u.gpS():t!==C.am)
-u.gOv().a.bj()
-t=J.Y6(u)
-if(t)this.e.dq(0,u)
-t=u.ga_j()
-y.e8(new P.i(t,[H.e(t,0)]).ik(new F.I7(this,u),null,null,!1))}if(this.cy===C.bP){y=this.e
-y=y.gcd(y)}else y=!1
+u.spK(t===C.eA?u.gpK():t!==C.ey)
+u.ga_S().a.aY()
+t=J.Y3(u)
+if(t)this.e.dw(0,u)
+t=u.ga_V()
+y.e9(new P.h(t,[H.e(t,0)]).ij(new F.I_(this,u),null,null,!1))}if(this.cy===C.bO){y=this.e
+y=y.gcv(y)}else y=!1
 if(y){y=this.e
 x=this.f
-y.dq(0,(x&&C.c).gaR(x))}this.GB()
+y.dw(0,(x&&C.d).gaZ(x))}this.Gs()
 if(this.db){y=this.r
-if(!(y==null))y.JM(0)}if(this.cy===C.cn)for(y=this.f,x=y.length,s=0,v=0;v<y.length;y.length===x||(0,H.ap)(y),++v){u=y[v]
-if(u.gms()==null)u.sms(C.pQ[s%12]);++s}this.vx()},
-Xt:function(){var y,x,w
+if(!(y==null))y.JC(0)}if(this.cy===C.cl)for(y=this.f,x=y.length,s=0,v=0;v<y.length;y.length===x||(0,H.ap)(y),++v){u=y[v]
+if(u.gmo()==null)u.smo(C.pM[s%12]);++s}this.vj()},
+XN:function(){var y,x,w
 y={}
 x=this.f
 x.toString
-w=new H.cG(x,new F.I5(),[H.e(x,0),null]).dv(0)
+w=new H.ck(x,new F.HY(),[H.e(x,0),null]).dv(0)
 y.a=0
-this.a.e8(this.d.eF(new F.I6(y,this,w)))},
-GB:function(){var y,x,w,v
+this.a.e9(this.d.eK(new F.HZ(y,this,w)))},
+Gs:function(){var y,x,w,v
 for(y=this.f,x=y.length,w=0;w<y.length;y.length===x||(0,H.ap)(y),++w){v=y[w]
-if(v.gpS())J.Yd(v,this.e.cQ(v))}},
-gcG:function(n){return this.cy}}
-F.I8.prototype={
-$1:function(n){return this.a.vx()},
+if(v.gpK())J.Ya(v,this.e.dh(v))}},
+gcJ:function(n){return this.cy}}
+F.I0.prototype={
+$1:function(n){return this.a.vj()},
 "call*":"$1",
 $R:1,
 $S:function(){return{func:1,args:[,]}}}
-F.I7.prototype={
+F.I_.prototype={
 $1:function(n){var y,x
 y=this.a
 x=this.b
-if(y.e.cQ(x)){if(y.cy!==C.bP)y.e.eo(x)}else y.e.dq(0,x)
-y.GB()
+if(y.e.dh(x)){if(y.cy!==C.bO)y.e.es(x)}else y.e.dw(0,x)
+y.Gs()
 return},
 "call*":"$1",
 $R:1,
 $S:function(){return{func:1,args:[,]}}}
-F.I5.prototype={
+F.HY.prototype={
 $1:function(n){return n.y},
 "call*":"$1",
 $R:1,
-$S:function(){return{func:1,args:[L.am]}}}
-F.I6.prototype={
+$S:function(){return{func:1,args:[L.ak]}}}
+F.HZ.prototype={
 $0:function(){var y,x,w
-for(y=this.c,x=y.length,w=0;w<y.length;y.length===x||(0,H.ap)(y),++w)J.a1f(J.Y7(y[w]),"")
+for(y=this.c,x=y.length,w=0;w<y.length;y.length===x||(0,H.ap)(y),++w)J.a1b(J.Y4(y[w]),"")
 x=this.b
-x.a.e8(x.d.fU(new F.I4(this.a,x,y)))},
+x.a.e9(x.d.fY(new F.HX(this.a,x,y)))},
 $S:function(){return{func:1}}}
-F.I4.prototype={
+F.HX.prototype={
 $0:function(){var y,x,w,v,u,t,s,r
-for(y=this.c,x=y.length,w=this.a,v=0;v<y.length;y.length===x||(0,H.ap)(y),++v){u=J.yz(y[v]).width
-t=P.cI("[^0-9.]",!0,!1)
-s=H.ik(u,t,"")
-r=s.length===0?0:P.Wm(s,null)
+for(y=this.c,x=y.length,w=this.a,v=0;v<y.length;y.length===x||(0,H.ap)(y),++v){u=J.yu(y[v]).width
+t=P.cC("[^0-9.]",!0,!1)
+s=H.id(u,t,"")
+r=s.length===0?0:P.Wq(s,null)
 if(r>w.a)w.a=r}w.a=w.a+1
 x=this.b
-x.a.e8(x.d.eF(new F.I3(w,x,y)))},
+x.a.e9(x.d.eK(new F.HW(w,x,y)))},
 $S:function(){return{func:1}}}
-F.I3.prototype={
+F.HW.prototype={
 $0:function(){var y,x,w,v
-for(y=this.c,x=y.length,w=this.a,v=0;v<y.length;y.length===x||(0,H.ap)(y),++v)J.a1f(J.Y7(y[v]),H.m(w.a)+"px")
-this.b.vx()},
+for(y=this.c,x=y.length,w=this.a,v=0;v<y.length;y.length===x||(0,H.ap)(y),++v)J.a1b(J.Y4(y[v]),H.o(w.a)+"px")
+this.b.vj()},
 $S:function(){return{func:1}}}
-F.l1.prototype={
-L:function(n){return this.b},
-gem:function(n){return this.a}}
-U.MP.prototype={
-NY:function(n,o){var y=document.createElement("acx-scoreboard")
+F.kR.prototype={
+M:function(n){return this.b},
+geo:function(n){return this.a}}
+U.MN.prototype={
+O5:function(n,o){var y=document.createElement("acx-scoreboard")
 this.e=y
-y=$.MQ
-if(y==null){y=$.z.a3("",C.m,C.lE)
-$.MQ=y}this.a1(y)},
+y=$.MO
+if(y==null){y=$.A.a5("",C.n,C.pl)
+$.MO=y}this.a3(y)},
 p:function(){var y,x,w,v,u,t
-y=this.a4(this.e)
+y=this.a6(this.e)
 x=document
 w=S.l(x,y)
 this.x=w
 w.className="acx-scoreboard"
 this.h(w)
-w=$.$get$K()
+w=$.$get$J()
 v=w.cloneNode(!1)
 this.x.appendChild(v)
-v=new V.n(1,0,this,v,null,null,null)
+v=new V.m(1,0,this,v,null,null,null)
 this.y=v
-this.z=new K.D(new D.u(v,U.atO()),v,!1)
+this.z=new K.z(new D.t(v,U.atO()),v,!1)
 v=S.l(x,this.x)
 this.Q=v
 v.className="scorecard-bar"
@@ -847,168 +859,166 @@ this.h(this.Q)
 v=this.c
 u=v.n(C.b,this.a.Q)
 t=this.Q
-v=v.m(C.af,this.a.Q,null)
-u=new T.tN(new P.H(null,null,0,null,null,null,null,[P.x]),new R.t(null,null,null,null,!0,!1),t,u,null,null,null,null,null,0,0)
+v=v.m(C.ah,this.a.Q,null)
+u=new T.tD(new P.L(null,null,0,null,null,null,null,[P.w]),new R.u(null,null,null,null,!0,!1),t,u,null,null,null,null,null,0,0)
 u.e=v==null?!1:v
 this.ch=u
-this.cF(this.Q,0)
+this.cG(this.Q,0)
 w=w.cloneNode(!1)
 this.x.appendChild(w)
-w=new V.n(3,0,this,w,null,null,null)
+w=new V.m(3,0,this,w,null,null,null)
 this.cx=w
-this.cy=new K.D(new D.u(w,U.atP()),w,!1)
-this.f.sKm(this.ch)
-this.M(C.a,null)
+this.cy=new K.z(new D.t(w,U.atP()),w,!1)
+this.f.sKA(this.ch)
+this.N(C.a,null)
 return},
 q:function(){var y,x,w,v,u
 y=this.f
 x=this.a.cy
-this.z.sa5(y.gns())
+this.z.sa0(y.gno())
 w=y.dy
 if(this.dy!==w){this.ch.f=w
-this.dy=w}if(x===0)this.ch.a0()
-this.cy.sa5(y.gns())
-this.y.I()
-this.cx.I()
+this.dy=w}if(x===0)this.ch.E()
+this.cy.sa0(y.gno())
+this.y.J()
+this.cx.J()
 v=!y.dy
-if(this.db!==v){this.aD(this.x,"acx-scoreboard-horizontal",v)
+if(this.db!==v){this.aI(this.x,"acx-scoreboard-horizontal",v)
 this.db=v}u=y.dy
-if(this.dx!==u){this.aD(this.x,"acx-scoreboard-vertical",u)
-this.dx=u}this.ch.Bk()},
+if(this.dx!==u){this.aI(this.x,"acx-scoreboard-vertical",u)
+this.dx=u}this.ch.Be()},
 w:function(){var y=this.y
-if(!(y==null))y.H()
+if(!(y==null))y.I()
 y=this.cx
-if(!(y==null))y.H()
+if(!(y==null))y.I()
 this.ch.b.D()},
-$asa:function(){return[F.bP]}}
-U.UB.prototype={
+$asa:function(){return[F.f_]}}
+U.UF.prototype={
 p:function(){var y,x
-y=U.Y(this,0)
+y=U.U(this,0)
 this.x=y
 y=y.e
 this.r=y
 y.className="scroll-button scroll-back-button"
 this.h(y)
 y=this.c
-y=y.c.m(C.p,y.a.Q,null)
-y=new F.R(y==null?!1:y)
+y=F.Q(y.c.m(C.q,y.a.Q,null))
 this.y=y
-this.z=B.X(this.r,y,this.x.a.b,null)
-y=M.a_(this,1)
+this.z=B.T(this.r,y,this.x.a.b,null)
+y=M.Y(this,1)
 this.ch=y
 y=y.e
 this.Q=y
 this.h(y)
-y=new Y.V(null,this.Q)
+y=new Y.R(null,this.Q)
 this.cx=y
 this.ch.k(0,y,[])
 this.x.k(0,this.z,[[this.Q]])
 y=this.z.b
-x=new P.i(y,[H.e(y,0)]).C(this.a7(this.f.gyv()))
-this.M([this.r],[x])
+x=new P.h(y,[H.e(y,0)]).B(this.a8(this.f.gyl()))
+this.N([this.r],[x])
 return},
-T:function(n,o,p){var y
+P:function(n,o,p){var y
 if(n===C.a7)y=o<=1
 else y=!1
 if(y)return this.y
-if(n===C.ah||n===C.l)y=o<=1
+if(n===C.aa||n===C.l||n===C.c)y=o<=1
 else y=!1
 if(y)return this.z
 return p},
-q:function(){var y,x,w,v,u,t
+q:function(){var y,x,w,v,u,t,s
 y=this.f
-x=this.a.cy
+x=this.a.cy===0
+if(x)this.z.E()
 w=y.dy?"expand_less":y.x
-if(this.dx!==w){this.cx.sak(0,w)
+if(this.dx!==w){this.cx.sai(0,w)
 this.dx=w
 v=!0}else v=!1
-if(v)this.ch.a.su(1)
+if(v)this.ch.a.st(1)
 u=y.ch
 if(this.cy!==u){this.bo(this.r,"hide",u)
-this.cy=u}this.x.B(x===0)
+this.cy=u}this.x.A(x)
 y.toString
-t=$.$get$v().U("Scroll scorecard bar backward",null,"scrollScorecardBarBack",null,null)
-x=this.db
-if(x==null?t!=null:x!==t){x=this.Q
-this.an(x,"aria-label",t==null?null:t)
+t=$.$get$v().W("Scroll scorecard bar backward",null,"scrollScorecardBarBack",null,null)
+s=this.db
+if(s==null?t!=null:s!==t){s=this.Q
+this.am(s,"aria-label",t==null?null:t)
 this.db=t}this.x.j()
 this.ch.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()
 y=this.ch
 if(!(y==null))y.i()},
-$asa:function(){return[F.bP]}}
-U.UC.prototype={
+$asa:function(){return[F.f_]}}
+U.UG.prototype={
 p:function(){var y,x
-y=U.Y(this,0)
+y=U.U(this,0)
 this.x=y
 y=y.e
 this.r=y
 y.className="scroll-button scroll-forward-button"
 this.h(y)
 y=this.c
-y=y.c.m(C.p,y.a.Q,null)
-y=new F.R(y==null?!1:y)
+y=F.Q(y.c.m(C.q,y.a.Q,null))
 this.y=y
-this.z=B.X(this.r,y,this.x.a.b,null)
-y=M.a_(this,1)
+this.z=B.T(this.r,y,this.x.a.b,null)
+y=M.Y(this,1)
 this.ch=y
 y=y.e
 this.Q=y
 this.h(y)
-y=new Y.V(null,this.Q)
+y=new Y.R(null,this.Q)
 this.cx=y
 this.ch.k(0,y,[])
 this.x.k(0,this.z,[[this.Q]])
 y=this.z.b
-x=new P.i(y,[H.e(y,0)]).C(this.a7(this.f.gyw()))
-this.M([this.r],[x])
+x=new P.h(y,[H.e(y,0)]).B(this.a8(this.f.gym()))
+this.N([this.r],[x])
 return},
-T:function(n,o,p){var y
+P:function(n,o,p){var y
 if(n===C.a7)y=o<=1
 else y=!1
 if(y)return this.y
-if(n===C.ah||n===C.l)y=o<=1
+if(n===C.aa||n===C.l||n===C.c)y=o<=1
 else y=!1
 if(y)return this.z
 return p},
-q:function(){var y,x,w,v,u,t
+q:function(){var y,x,w,v,u,t,s
 y=this.f
-x=this.a.cy
+x=this.a.cy===0
+if(x)this.z.E()
 w=y.dy?"expand_more":y.y
-if(this.dx!==w){this.cx.sak(0,w)
+if(this.dx!==w){this.cx.sai(0,w)
 this.dx=w
 v=!0}else v=!1
-if(v)this.ch.a.su(1)
+if(v)this.ch.a.st(1)
 u=y.cx
 if(this.cy!==u){this.bo(this.r,"hide",u)
-this.cy=u}this.x.B(x===0)
+this.cy=u}this.x.A(x)
 y.toString
-t=$.$get$v().U("Scroll scorecard bar forward",null,"scrollScorecardBarForward",null,null)
-x=this.db
-if(x==null?t!=null:x!==t){x=this.Q
-this.an(x,"aria-label",t==null?null:t)
+t=$.$get$v().W("Scroll scorecard bar forward",null,"scrollScorecardBarForward",null,null)
+s=this.db
+if(s==null?t!=null:s!==t){s=this.Q
+this.am(s,"aria-label",t==null?null:t)
 this.db=t}this.x.j()
 this.ch.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()
 y=this.ch
 if(!(y==null))y.i()},
-$asa:function(){return[F.bP]}}
-U.UD.prototype={
-p:function(){var y=U.dG(this,0)
+$asa:function(){return[F.f_]}}
+U.UH.prototype={
+p:function(){var y=U.dD(this,0)
 this.r=y
 this.e=y.e
-y=this.n(C.b,this.a.Q)
-y=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.r.a.b,y,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-y.z=!0
+y=F.dz(null,this.n(C.b,this.a.Q),this.r.a.b)
 this.x=y
-y.sfb([])
+y.sfj([])
 this.r.k(0,this.x,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[F.bP])},
+this.F(this.e)
+return new D.y(this,0,this.e,this.x,[F.f_])},
 q:function(){var y=this.a.cy
-if(y===0)this.x.a0()
+if(y===0)this.x.E()
 this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()
@@ -1016,8 +1026,8 @@ y=this.x
 y.a.D()
 y.b.D()},
 $asa:function(){}}
-L.am.prototype={
-se9:function(n){this.f=!1
+L.ak.prototype={
+seb:function(n){this.f=!1
 this.e=!1
 this.d=!1
 switch(n.toUpperCase()){case"POSITIVE":this.d=!0
@@ -1026,57 +1036,59 @@ case"NEGATIVE":this.e=!0
 break
 case"NEUTRAL":this.f=!0
 break
-default:throw H.f(P.dP(n,"changeType",null))}},
-ga32:function(){return this.d},
-ga31:function(){return this.e},
-go2:function(){return this.r},
-ga0o:function(){if(this.fr){var y=this.fx
-y=y==null?null:y.gIE()
-if(y==null)y=C.cR.gIE()}else y="inherit"
+default:throw H.f(P.dM(n,"changeType",null))}},
+ga3F:function(){return this.d},
+ga3E:function(){return this.e},
+gyo:function(){return this.r},
+gnk:function(){return this.r?0:null},
+ga3i:function(){return this.r?"button":null},
+ga11:function(){if(this.fr){var y=this.fx
+y=y==null?null:y.gIt()
+if(y==null)y=C.cP.gIt()}else y="inherit"
 return y},
-Is:function(){this.i_()
+qk:function(){this.i3()
 if(this.r){var y=!this.fr
 this.fr=y
-this.c.N(0,y)}},
-a2l:function(n){var y,x
+this.c.R(0,y)}},
+a2U:function(n){var y,x
 y=n.keyCode
-if(this.r)x=y===13||Z.ii(n)
+if(this.r)x=y===13||Z.ib(n)
 else x=!1
 if(x){n.preventDefault()
-this.Is()}},
-ga_j:function(){return this.c},
-gpS:function(){return this.r},
-gOv:function(){return this.x},
-gfX:function(){return this.y},
-gcU:function(n){return this.z},
-ga6:function(n){return this.Q},
-gi9:function(){return this.ch},
-ga1y:function(){return this.dy},
+this.qk()}},
+ga_V:function(){return this.c},
+gpK:function(){return this.r},
+ga_S:function(){return this.x},
+ghf:function(){return this.y},
+gd_:function(n){return this.z},
+ga7:function(n){return this.Q},
+gib:function(){return this.ch},
+ga28:function(){return this.dy},
 geg:function(n){return this.fr},
-gms:function(){return this.fx},
-spS:function(n){return this.r=n},
-scU:function(n,o){return this.z=o},
-sa6:function(n,o){return this.Q=o},
-si9:function(n){return this.ch=n},
+gmo:function(){return this.fx},
+spK:function(n){return this.r=n},
+sd_:function(n,o){return this.z=o},
+sa7:function(n,o){return this.Q=o},
+sib:function(n){return this.ch=n},
 seg:function(n,o){return this.fr=o},
-sms:function(n){return this.fx=n}}
-N.MR.prototype={
-NZ:function(n,o){var y=document.createElement("acx-scorecard")
+smo:function(n){return this.fx=n}}
+N.MP.prototype={
+O6:function(n,o){var y=document.createElement("acx-scorecard")
 this.e=y
 y.className="themeable"
-y=$.mZ
-if(y==null){y=$.z.a3("",C.m,C.nP)
-$.mZ=y}this.a1(y)},
+y=$.mR
+if(y==null){y=$.A.a5("",C.n,C.pg)
+$.mR=y}this.a3(y)},
 p:function(){var y,x,w,v,u,t
 y=this.f
 x=this.e
-w=this.a4(x)
-v=$.$get$K()
+w=this.a6(x)
+v=$.$get$J()
 u=v.cloneNode(!1)
 w.appendChild(u)
-u=new V.n(0,null,this,u,null,null,null)
+u=new V.m(0,null,this,u,null,null,null)
 this.r=u
-this.x=new K.D(new D.u(u,N.atV()),u,!1)
+this.x=new K.z(new D.t(u,N.atV()),u,!1)
 t=document
 u=S.b(t,"h3",w)
 this.y=u
@@ -1084,51 +1096,54 @@ this.l(u)
 u=t.createTextNode("")
 this.z=u
 this.y.appendChild(u)
-this.cF(this.y,0)
+this.cG(this.y,0)
 u=S.b(t,"h2",w)
 this.Q=u
 this.l(u)
 u=t.createTextNode("")
 this.ch=u
 this.Q.appendChild(u)
-this.cF(this.Q,1)
+this.cG(this.Q,1)
 u=v.cloneNode(!1)
 w.appendChild(u)
-u=new V.n(5,null,this,u,null,null,null)
+u=new V.m(5,null,this,u,null,null,null)
 this.cx=u
-this.cy=new K.D(new D.u(u,N.atW()),u,!1)
+this.cy=new K.z(new D.t(u,N.atW()),u,!1)
+w.appendChild(t.createTextNode("\n"))
 u=v.cloneNode(!1)
 w.appendChild(u)
-u=new V.n(6,null,this,u,null,null,null)
+u=new V.m(7,null,this,u,null,null,null)
 this.db=u
-this.dx=new K.D(new D.u(u,N.atX()),u,!1)
+this.dx=new K.z(new D.t(u,N.atX()),u,!1)
+w.appendChild(t.createTextNode("\n"))
 v=v.cloneNode(!1)
 w.appendChild(v)
-v=new V.n(7,null,this,v,null,null,null)
+v=new V.m(9,null,this,v,null,null,null)
 this.dy=v
-this.fr=new K.D(new D.u(v,N.atZ()),v,!1)
-this.cF(w,3)
-this.M(C.a,null)
-v=y.gdO()
-u=J.F(x)
-u.a2(x,"keyup",this.a7(v))
-u.a2(x,"blur",this.a7(v))
-u.a2(x,"mousedown",this.a7(y.gdZ()))
-u.a2(x,"click",this.a7(y.gdM()))
-u.a2(x,"keypress",this.A(y.ga2k()))
+this.fr=new K.z(new D.t(v,N.atZ()),v,!1)
+w.appendChild(t.createTextNode("\n"))
+this.cG(w,3)
+this.N(C.a,null)
+v=y.ge4()
+u=J.E(x)
+u.a4(x,"keyup",this.a8(v))
+u.a4(x,"blur",this.a8(v))
+u.a4(x,"mousedown",this.a8(y.ge3()))
+u.a4(x,"click",this.a8(y.gdG()))
+u.a4(x,"keypress",this.v(y.ga2T()))
 return},
 q:function(){var y,x,w,v,u
 y=this.f
-this.x.sa5(y.r)
+this.x.sa0(y.r)
 x=this.cy
 y.cy
-x.sa5(!1)
-this.dx.sa5(y.db!=null)
-this.fr.sa5(y.dx!=null)
-this.r.I()
-this.cx.I()
-this.db.I()
-this.dy.I()
+x.sa0(!1)
+this.dx.sa0(y.db!=null)
+this.fr.sa0(y.dx!=null)
+this.r.J()
+this.cx.J()
+this.db.J()
+this.dy.J()
 w=y.z
 if(w==null)w=""
 if(this.fx!==w){this.z.textContent=w
@@ -1140,55 +1155,55 @@ if(u==null)u=""
 if(this.go!==u){this.ch.textContent=u
 this.go=u}},
 w:function(){var y=this.r
-if(!(y==null))y.H()
+if(!(y==null))y.I()
 y=this.cx
-if(!(y==null))y.H()
+if(!(y==null))y.I()
 y=this.db
-if(!(y==null))y.H()
+if(!(y==null))y.I()
 y=this.dy
-if(!(y==null))y.H()},
-B:function(n){var y,x,w,v,u,t,s,r,q
-y=this.f.go2()?0:null
-x=this.id
-if(x==null?y!=null:x!==y){x=this.e
-this.an(x,"tabindex",y==null?null:C.f.L(y))
-this.id=y}w=this.f.go2()?"button":null
-x=this.k1
-if(x==null?w!=null:x!==w){x=this.e
-this.an(x,"role",w==null?null:w)
-this.k1=w}v=this.f.ga32()
-if(this.k2!==v){this.bo(this.e,"is-change-positive",v)
-this.k2=v}u=this.f.ga31()
-if(this.k3!==u){this.bo(this.e,"is-change-negative",u)
-this.k3=u}t=this.f.go2()
-if(this.k4!==t){this.bo(this.e,"selectable",t)
-this.k4=t}s=this.f.ga0o()
-if(this.r1!==s){x=this.e.style
-C.G.e1(x,(x&&C.G).dU(x,"background"),s,null)
-this.r1=s}r=this.f.ga1y()
+if(!(y==null))y.I()},
+A:function(n){var y,x,w,v,u,t,s,r,q
+y=this.f.ga3F()
+if(this.id!==y){this.bo(this.e,"is-change-positive",y)
+this.id=y}x=this.f.ga3E()
+if(this.k1!==x){this.bo(this.e,"is-change-negative",x)
+this.k1=x}w=this.f.gyo()
+if(this.k2!==w){this.bo(this.e,"selectable",w)
+this.k2=w}v=this.f.gnk()
+u=this.k3
+if(u==null?v!=null:u!==v){u=this.e
+this.am(u,"tabindex",v==null?null:J.bd(v))
+this.k3=v}t=this.f.ga3i()
+u=this.k4
+if(u==null?t!=null:u!==t){u=this.e
+this.am(u,"role",t==null?null:t)
+this.k4=t}s=this.f.ga11()
+if(this.r1!==s){u=this.e.style
+C.I.e7(u,(u&&C.I).dW(u,"background"),s,null)
+this.r1=s}r=this.f.ga28()
 if(this.r2!==r){this.bo(this.e,"extra-big",r)
-this.r2=r}q=J.Y6(this.f)
-x=this.rx
-if(x==null?q!=null:x!==q){this.bo(this.e,"selected",q)
+this.r2=r}q=J.Y3(this.f)
+u=this.rx
+if(u==null?q!=null:u!==q){this.bo(this.e,"selected",q)
 this.rx=q}},
-$asa:function(){return[L.am]}}
-N.UE.prototype={
-p:function(){var y=L.mR(this,0)
+$asa:function(){return[L.ak]}}
+N.UI.prototype={
+p:function(){var y=L.mJ(this,0)
 this.x=y
 y=y.e
 this.r=y
 this.h(y)
-y=B.mj(this.r)
+y=B.m9(this.r)
 this.y=y
 this.x.k(0,y,[])
-this.E(this.r)
+this.F(this.r)
 return},
 q:function(){this.x.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()
-this.y.V()},
-$asa:function(){return[L.am]}}
-N.UF.prototype={
+this.y.X()},
+$asa:function(){return[L.ak]}}
+N.UJ.prototype={
 p:function(){var y,x
 y=document
 x=y.createElement("span")
@@ -1198,70 +1213,70 @@ this.l(x)
 x=y.createTextNode("")
 this.x=x
 this.r.appendChild(x)
-this.E(this.r)
+this.F(this.r)
 return},
 q:function(){this.f.cy
 if(this.y!==""){this.x.textContent=""
 this.y=""}},
-$asa:function(){return[L.am]}}
-N.UG.prototype={
+$asa:function(){return[L.ak]}}
+N.UK.prototype={
 p:function(){var y,x,w,v
 y=document
 x=y.createElement("span")
 this.r=x
 x.className="description"
 this.l(x)
-x=$.$get$K().cloneNode(!1)
+x=$.$get$J().cloneNode(!1)
 this.r.appendChild(x)
-x=new V.n(1,0,this,x,null,null,null)
+x=new V.m(1,0,this,x,null,null,null)
 this.x=x
-this.y=new K.D(new D.u(x,N.atY()),x,!1)
-w=y.createTextNode("\n   ")
+this.y=new K.z(new D.t(x,N.atY()),x,!1)
+w=y.createTextNode(" ")
 this.r.appendChild(w)
 x=y.createTextNode("")
 this.z=x
 this.r.appendChild(x)
-v=y.createTextNode(" \n  ")
+v=y.createTextNode("  ")
 this.r.appendChild(v)
-this.cF(this.r,2)
-this.E(this.r)
+this.cG(this.r,2)
+this.F(this.r)
 return},
 q:function(){var y,x,w
 y=this.f
 x=this.y
-x.sa5(y.cx&&y.db!==""&&!y.f)
-this.x.I()
+x.sa0(y.cx&&y.db!==""&&!y.f)
+this.x.J()
 w=y.db
 if(w==null)w=""
 if(this.Q!==w){this.z.textContent=w
 this.Q=w}},
 w:function(){var y=this.x
-if(!(y==null))y.H()},
-$asa:function(){return[L.am]}}
-N.UH.prototype={
-p:function(){var y=M.a_(this,0)
+if(!(y==null))y.I()},
+$asa:function(){return[L.ak]}}
+N.UL.prototype={
+p:function(){var y=M.Y(this,0)
 this.x=y
 y=y.e
 this.r=y
 y.className="change-glyph"
 y.setAttribute("size","small")
 this.h(this.r)
-y=new Y.V(null,this.r)
+y=new Y.R(null,this.r)
 this.y=y
 this.x.k(0,y,[])
-this.E(this.r)
+this.F(this.r)
 return},
 q:function(){var y,x
 y=this.f.d?"arrow_upward":"arrow_downward"
-if(this.z!==y){this.y.sak(0,y)
+if(this.z!==y){this.y.sai(0,y)
 this.z=y
 x=!0}else x=!1
-if(x)this.x.a.su(1)
+if(x)this.x.a.st(1)
 this.x.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()},
-$asa:function(){return[L.am]}}
-N.UI.prototype={
+$asa:function(){return[L.ak]}}
+N.UM.prototype={
 p:function(){var y,x
 y=document
 x=y.createElement("span")
@@ -1271,105 +1286,105 @@ this.l(x)
 x=y.createTextNode("")
 this.x=x
 this.r.appendChild(x)
-this.E(this.r)
+this.F(this.r)
 return},
 q:function(){var y=this.f.dx
 if(y==null)y=""
 if(this.y!==y){this.x.textContent=y
 this.y=y}},
-$asa:function(){return[L.am]}}
-N.UJ.prototype={
+$asa:function(){return[L.ak]}}
+N.UN.prototype={
 p:function(){var y,x,w
-y=N.b4(this,0)
+y=N.b0(this,0)
 this.r=y
 x=y.e
 this.e=x
 y=y.a.b
 w=this.n(C.b,this.a.Q)
-y=new L.am(new P.h(null,null,0,null,null,null,null,[P.x]),!1,!1,!0,!1,y,x,null,null,null,!1,null,null,null,!1,!1,null,x,w)
+y=new L.ak(new P.i(null,null,0,null,null,null,null,[P.w]),!1,!1,!0,!1,y,x,null,null,null,!1,null,null,null,!1,!1,null,x,w)
 this.x=y
 this.r.k(0,y,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[L.am])},
+this.F(this.e)
+return new D.y(this,0,this.e,this.x,[L.ak])},
 q:function(){var y=this.a.cy
-this.r.B(y===0)
+this.r.A(y===0)
 this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
 $asa:function(){}}
-T.tN.prototype={
-a0:function(){var y,x
+T.tD.prototype={
+E:function(){var y,x
 y=this.b
 x=this.d
-y.e8(x.fU(this.gZI()))
-y.e8(x.a5Y(new T.Ib(this),new T.Ic(this),!0))},
-gns:function(){var y,x
+y.e9(x.fY(this.ga_g()))
+y.e9(x.a6v(new T.I3(this),new T.I4(this),!0))},
+gno:function(){var y,x
 y=this.r
 if(y!=null){x=this.x
 y=x!=null&&y<x}else y=!1
 return y},
-gGT:function(){var y=this.r
+gGJ:function(){var y=this.r
 return y!=null&&Math.abs(this.z)+y>=this.x},
-gHg:function(){var y=this.c
+gH5:function(){var y=this.c
 return this.f?y.parentElement.clientHeight:y.parentElement.clientWidth},
-o_:function(){this.b.e8(this.d.fU(new T.Ie(this)))},
-o0:function(){this.b.e8(this.d.fU(new T.If(this)))},
-JM:function(n){if(this.z!==0){this.z=0
-this.vT()}this.b.e8(this.d.fU(new T.Id(this)))},
-vT:function(){this.b.e8(this.d.eF(new T.Ia(this)))},
-vw:function(n){var y,x,w,v
-this.r=this.gHg()
+nT:function(){this.b.e9(this.d.fY(new T.I6(this)))},
+nU:function(){this.b.e9(this.d.fY(new T.I7(this)))},
+JC:function(n){if(this.z!==0){this.z=0
+this.vG()}this.b.e9(this.d.fY(new T.I5(this)))},
+vG:function(){this.b.e9(this.d.eK(new T.I2(this)))},
+vi:function(n){var y,x,w,v
+this.r=this.gH5()
 y=this.c
-this.x=this.f?C.I.d4(y.scrollHeight):C.I.d4(y.scrollWidth)
-if(n&&!this.gns()&&this.z!==0){this.JM(0)
-return}this.Bk()
-x=new W.vw(y,y.children)
-x=!x.gcd(x)&&this.x>0
+this.x=this.f?C.K.da(y.scrollHeight):C.K.da(y.scrollWidth)
+if(n&&!this.gno()&&this.z!==0){this.JC(0)
+return}this.Be()
+x=new W.vn(y,y.children)
+x=!x.gcv(x)&&this.x>0
 w=this.r
 if(x){v=this.x/y.children.length
-this.y=C.I.js(C.aG.js((w-this.Q*2)/v)*v)}else this.y=w},
-pN:function(){return this.vw(!1)},
-Bk:function(){var y,x,w,v,u,t,s
-if(this.Q===0){y=new W.lk(this.c.parentElement.querySelectorAll(".scroll-button"),[null])
-for(x=new H.ev(y,y.gF(y),0,null,[null]);x.ag();){w=x.d
+this.y=C.K.k5(C.aG.k5((w-this.Q*2)/v)*v)}else this.y=w},
+pF:function(){return this.vi(!1)},
+Be:function(){var y,x,w,v,u,t,s
+if(this.Q===0){y=new W.l9(this.c.parentElement.querySelectorAll(".scroll-button"),[null])
+for(x=new H.et(y,y.gG(y),0,null,[null]);x.ag();){w=x.d
 v=this.f?"height":"width"
-u=J.yz(w)
-t=u.getPropertyValue((u&&C.G).dU(u,v))
+u=J.yu(w)
+t=u.getPropertyValue((u&&C.I).dW(u,v))
 s=t==null?"":t
-if(s!=="auto"){x=P.cI("[^0-9.]",!0,!1)
-this.Q=J.a0Y(P.Wm(H.ik(s,x,""),new T.I9()))
+if(s!=="auto"){x=P.cC("[^0-9.]",!0,!1)
+this.Q=J.a0R(P.Wq(H.id(s,x,""),new T.I1()))
 break}}}}}
-T.Ib.prototype={
+T.I3.prototype={
 $0:function(){var y,x,w
 y=this.a
-x=J.bg(y.gHg())+" "
+x=J.bd(y.gH5())+" "
 w=y.c
-return x+C.f.L(y.f?C.I.d4(w.scrollHeight):C.I.d4(w.scrollWidth))},
+return x+C.i.M(y.f?C.K.da(w.scrollHeight):C.K.da(w.scrollWidth))},
 "call*":"$0",
 $R:0,
 $S:function(){return{func:1}}}
-T.Ic.prototype={
+T.I4.prototype={
 $1:function(n){var y=this.a
-y.vw(!0)
-y.a.N(0,!0)},
+y.vi(!0)
+y.a.R(0,!0)},
 $S:function(){return{func:1,args:[,]}}}
-T.Ie.prototype={
+T.I6.prototype={
 $0:function(){var y,x,w,v
 y=this.a
-y.pN()
+y.pF()
 x=y.y
-if(y.gGT())x-=y.Q
+if(y.gGJ())x-=y.Q
 w=y.z
 v=Math.abs(w)
 if(v-x<0)x=v
 if(y.f||!y.e)y.z=w+x
 else y.z=w-x
-y.vT()},
+y.vG()},
 $S:function(){return{func:1}}}
-T.If.prototype={
+T.I7.prototype={
 $0:function(){var y,x,w,v,u
 y=this.a
-y.pN()
+y.pF()
 x=y.y
 w=y.z
 if(w===0)x-=y.Q
@@ -1378,166 +1393,165 @@ u=y.r
 if(v<x+u)x=v-u
 if(y.f||!y.e)y.z=w-x
 else y.z=w+x
-y.vT()},
+y.vG()},
 $S:function(){return{func:1}}}
-T.Id.prototype={
+T.I5.prototype={
 $0:function(){var y=this.a
-y.pN()
-y.a.N(0,!0)},
+y.pF()
+y.a.R(0,!0)},
 $S:function(){return{func:1}}}
-T.Ia.prototype={
+T.I2.prototype={
 $0:function(){var y,x
 y=this.a
-x=y.c.style;(x&&C.G).mt(x,"transform","translate"+(y.f?"Y":"X")+"("+y.z+"px)","")
-y.a.N(0,!0)},
+x=y.c.style;(x&&C.I).mp(x,"transform","translate"+(y.f?"Y":"X")+"("+y.z+"px)","")
+y.a.R(0,!0)},
 $S:function(){return{func:1}}}
-T.I9.prototype={
+T.I1.prototype={
 $1:function(n){return 0},
 $S:function(){return{func:1,args:[,]}}}
-K.dQ.prototype={
-gIE:function(){var y,x
-y="#"+C.h.es(C.f.j4(C.f.i8(this.a),16),2,"0")+C.h.es(C.f.j4(C.f.i8(this.b),16),2,"0")+C.h.es(C.f.j4(C.f.i8(this.c),16),2,"0")
+K.dN.prototype={
+gIt:function(){var y,x
+y="#"+C.h.ep(C.i.j4(C.i.iH(this.a),16),2,"0")+C.h.ep(C.i.j4(C.i.iH(this.b),16),2,"0")+C.h.ep(C.i.j4(C.i.iH(this.c),16),2,"0")
 x=this.d
-return y+(x===1?"":C.h.es(C.f.j4(C.f.i8(255*x),16),2,"0"))},
-L:function(n){var y,x,w,v
+return y+(x===1?"":C.h.ep(C.i.j4(C.i.iH(255*x),16),2,"0"))},
+M:function(n){var y,x,w,v
 y=this.d
 x=this.a
 w=this.b
 v=this.c
 if(y===1)y="rgb("+x+","+w+","+v+")"
 else{x="rgba("+x+","+w+","+v+","
-y=x+(y<0.01?"0":C.f.a5L(y,2))+")"}return y},
-b5:function(n,o){var y
+y=x+(y<0.01?"0":C.i.a6j(y,2))+")"}return y},
+bw:function(n,o){var y
 if(o==null)return!1
-if(this!==o)y=o instanceof K.dQ&&this.a===o.a&&this.b===o.b&&this.c===o.c&&Math.abs(this.d-o.d)<0.01
+if(this!==o)y=o instanceof K.dN&&this.a===o.a&&this.b===o.b&&this.c===o.c&&Math.abs(this.d-o.d)<0.01
 else y=!0
 return y},
-gc9:function(n){return X.acw(this.a,this.b,this.c,this.d)}}
-V.l2.prototype={
-gaW:function(){return this.a}}
-A.MV.prototype={
-gzm:function(){var y=this.Q
+gcf:function(n){return X.acr(this.a,this.b,this.c,this.d)}}
+V.kS.prototype={
+gb_:function(){return this.a}}
+A.MT.prototype={
+gze:function(){var y=this.Q
 if(y==null){y=window
 this.Q=y}return y},
-gof:function(){var y=this.ch
+go8:function(){var y=this.ch
 if(y==null){y=this.c
-y=T.aS(y.m(C.b,this.a.Q,null),y.m(C.A,this.a.Q,null),y.n(C.e,this.a.Q),this.gzm())
+y=T.aS(y.m(C.b,this.a.Q,null),y.m(C.B,this.a.Q,null),y.n(C.f,this.a.Q),this.gze())
 this.ch=y}return y},
-gz9:function(){var y=this.cx
-if(y==null){y=new O.aG(this.c.n(C.Q,this.a.Q),this.gof())
+gz1:function(){var y=this.cx
+if(y==null){y=new O.aE(this.c.n(C.R,this.a.Q),this.go8())
 this.cx=y}return y},
-goc:function(){var y=this.cy
+go5:function(){var y=this.cy
 if(y==null){y=document
 this.cy=y}return y},
-grv:function(){var y=this.db
-if(y==null){y=new K.aH(this.goc(),this.gof(),P.aO(null,[P.w,P.j]))
+grk:function(){var y=this.db
+if(y==null){y=new K.aF(this.go5(),this.go8(),P.aP(null,[P.x,P.j]))
 this.db=y}return y},
-gvs:function(){var y=this.dy
-if(y==null){y=this.c.m(C.x,this.a.Q,null)
-if(y==null)y="default"
+gve:function(){var y=this.dy
+if(y==null){y=G.b2(this.c.m(C.y,this.a.Q,null))
 this.dy=y}return y},
-gFC:function(){var y=this.fr
-if(y==null){y=G.b6(this.goc(),this.c.m(C.w,this.a.Q,null))
+gFt:function(){var y=this.fr
+if(y==null){y=G.b3(this.go5(),this.c.m(C.x,this.a.Q,null))
 this.fr=y}return y},
-gFE:function(){var y=this.fx
-if(y==null){y=G.aW(this.gvs(),this.gFC(),this.c.m(C.v,this.a.Q,null))
+gFv:function(){var y=this.fx
+if(y==null){y=G.aU(this.gve(),this.gFt(),this.c.m(C.w,this.a.Q,null))
 this.fx=y}return y},
-gvu:function(){var y=this.fy
+gvg:function(){var y=this.fy
 if(y==null){this.fy=!0
 y=!0}return y},
-gFG:function(){var y=this.go
+gFx:function(){var y=this.go
 if(y==null){this.go=!0
 y=!0}return y},
-gzg:function(){var y=this.id
-if(y==null){y=this.goc()
+gz8:function(){var y=this.id
+if(y==null){y=this.go5()
 y=new R.aI(y.querySelector("head"),!1,y)
 this.id=y}return y},
-gzo:function(){var y=this.k1
-if(y==null){y=X.b5()
+gzg:function(){var y=this.k1
+if(y==null){y=X.b1()
 this.k1=y}return y},
-gze:function(){var y=this.k2
-if(y==null){y=K.b1(this.gzg(),this.gFE(),this.gvs(),this.grv(),this.gof(),this.gz9(),this.gvu(),this.gFG(),this.gzo())
+gz6:function(){var y=this.k2
+if(y==null){y=K.aY(this.gz8(),this.gFv(),this.gve(),this.grk(),this.go8(),this.gz1(),this.gvg(),this.gFx(),this.gzg())
 this.k2=y}return y},
 p:function(){var y,x
-y=this.a4(this.e)
-x=K.ca(this,0)
+y=this.a6(this.e)
+x=K.c4(this,0)
 this.x=x
 x=x.e
 this.r=x
 y.appendChild(x)
-x=new U.aw(null,this.c.n(C.a4,this.a.Q))
+x=new U.aw(null,this.c.n(C.a6,this.a.Q))
 this.y=x
 this.x.k(0,x,[])
-this.M(C.a,null)
+this.N(C.a,null)
 return},
-T:function(n,o,p){var y,x,w,v
-if(n===C.D&&0===o){y=this.z
-if(y==null){this.z=C.y
-y=C.y}return y}if(n===C.E&&0===o)return this.gzm()
-if(n===C.b&&0===o)return this.gof()
-if(n===C.L&&0===o)return this.gz9()
-if(n===C.K&&0===o)return this.goc()
-if(n===C.M&&0===o)return this.grv()
-if(n===C.R&&0===o){y=this.dx
-if(y==null){y=T.aZ(this.c.n(C.e,this.a.Q))
-this.dx=y}return y}if(n===C.x&&0===o)return this.gvs()
-if(n===C.w&&0===o)return this.gFC()
-if(n===C.v&&0===o)return this.gFE()
-if(n===C.T&&0===o)return this.gvu()
-if(n===C.C&&0===o)return this.gFG()
-if(n===C.O&&0===o)return this.gzg()
-if(n===C.B&&0===o)return this.gzo()
-if(n===C.N&&0===o)return this.gze()
-if(n===C.k&&0===o){y=this.k3
+P:function(n,o,p){var y,x,w,v
+if(n===C.E&&0===o){y=this.z
+if(y==null){this.z=C.z
+y=C.z}return y}if(n===C.F&&0===o)return this.gze()
+if(n===C.b&&0===o)return this.go8()
+if(n===C.M&&0===o)return this.gz1()
+if(n===C.L&&0===o)return this.go5()
+if(n===C.N&&0===o)return this.grk()
+if(n===C.S&&0===o){y=this.dx
+if(y==null){y=T.aV(this.c.n(C.f,this.a.Q))
+this.dx=y}return y}if(n===C.y&&0===o)return this.gve()
+if(n===C.x&&0===o)return this.gFt()
+if(n===C.w&&0===o)return this.gFv()
+if(n===C.U&&0===o)return this.gvg()
+if(n===C.D&&0===o)return this.gFx()
+if(n===C.P&&0===o)return this.gz8()
+if(n===C.C&&0===o)return this.gzg()
+if(n===C.O&&0===o)return this.gz6()
+if(n===C.m&&0===o){y=this.k3
 if(y==null){y=this.c
-x=y.n(C.e,this.a.Q)
-w=this.gvu()
-v=this.gze()
-y.m(C.k,this.a.Q,null)
-v=new X.aE(w,x,v)
+x=y.n(C.f,this.a.Q)
+w=this.gvg()
+v=this.gz6()
+y.m(C.m,this.a.Q,null)
+v=new X.aD(w,x,v)
 this.k3=v
-y=v}return y}if(n===C.u&&0===o){y=this.k4
-if(y==null){y=new K.aN(this.grv())
+y=v}return y}if(n===C.v&&0===o){y=this.k4
+if(y==null){y=new K.aM(this.grk())
 this.k4=y}return y}return p},
 q:function(){var y=this.f.a
 if(this.r1!==y){this.y.a=y
 this.r1=y}this.x.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()},
-$asa:function(){return[V.l2]}}
-A.UL.prototype={
+$asa:function(){return[V.kS]}}
+A.UP.prototype={
 p:function(){var y,x
-y=new A.MV(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.d(),this,null,null,null)
-y.a=S.c(y,3,C.i,0,null)
+y=new A.MT(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y.a=S.d(y,3,C.j,0,null)
 x=document.createElement("scorecard-gallery-section-api")
 y.e=x
-x=$.a4N
-if(x==null){x=$.z.a3("",C.U,C.a)
-$.a4N=x}y.a1(x)
+x=$.a4E
+if(x==null){x=$.A.a5("",C.V,C.a)
+$.a4E=x}y.a3(x)
 this.r=y
 this.e=y.e
-x=new V.l2(R.cg([],[new R.ak(C.fm,"ScorecardDemoComponent","scorecard_example/lib/scorecard_demo.dart")],[new R.ao("ScorecardComponent","acx-scorecard","angular_components/lib/scorecard/scorecard.dart",'<p>ACUX standalone scorecard component.</p>\n<p>This component is meant to be reused/embedded in larger components.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code> &lt;acx-scorecard\n     label="Estimated earnings"\n     value="$158.22"\n     description="+$24.20 (15%)"\n     suggestionAfter="of last quarter"\n     changeType="POSITIVE"&gt;\n &lt;/acx-scorecard&gt;\n</code></pre>\n<p>To make a scorecard <code>selectable</code>, simply flip on the flag. Then [selected]\ncan be used to change and be notified of changes to the selection state:</p>\n<pre><code>&lt;acx-scorecard\n    selectable\n    label="Estimated earnings"\n    value="$158.22"\n    [(selected)]="isSelected"&gt;\n&lt;/acx-scorecard&gt;\n</code></pre>\n<p>To right-align the text in a scorecard add the CSS class \'right-align\':</p>\n<pre><code>&lt;acx-scorecard class="right-align"&gt;&lt;/acx-scorecard&gt;\n</code></pre>\n<p>Content projection can also be used with the <name> element to insert custom\ncontent into the label area, with <value> to insert custom content into\nthe value area, or with <description> to insert custom content into the\ndescription area:</p>\n<pre><code>&lt;acx-scorecard ...&gt;\n  &lt;name&gt;Estimated earnings &lt;i&gt;(NEW)&lt;/i&gt;&lt;/name&gt;\n  &lt;value&gt;&lt;glyph icon="mode_edit"&gt;&lt;/glyph&gt;&lt;/value&gt;\n  &lt;description&gt;&lt;b&gt;On track&lt;/b&gt;&lt;/description&gt;\n&lt;/acx-scorecard&gt;\n</code></pre>\n<p><strong>Inputs:</strong></p><ul><li><code>label: String</code> -- The title of the scorecard.</li><li><code>value: String</code> -- The value of the scorecard.</li><li><code>description: String</code> -- Short description of the scorecard.</li><li><code>changeGlyph: bool</code> -- Whether to display a small change arrow glyph in\nthe description.</li><li><code>suggestionBefore: String</code> -- Suggestion text before the description.</li><li><code>suggestionAfter: String</code> -- Suggestion text after the description.</li><li><code>extraBig: bool</code> -- Whether to use a larger class style.</li><li><code>changeType: String</code> -- The type of change: POSITIVE, NEGATIVE, NEUTRAL.</li><li><code>selectable: bool</code> -- Whether a scorecard is selectable.</li><li><code>selected: bool</code> -- Whether the scorecard is selected.</li><li><code>selectedColor: Color</code> -- Color to apply to the selected scorecard.</li></ul>\n<p><strong>Outputs:</strong></p><ul><li><code>selectedChange</code> -- Fired when selection state changes.</li></ul>\n'),new R.ao("ScoreboardComponent","acx-scoreboard","angular_components/lib/scorecard/scoreboard.dart",'<p>ACUX Scoreboard component</p>\n<p>This component manages a row of scorecards.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code> &lt;acx-scoreboard scrollable [type]="toggle"&gt;\n   &lt;acx-scorecard\n       label="Estimated earnings"\n       value="$158.22"\n       description="+$24.20 (15%)"\n       changeType="positive"&gt;\n   &lt;/acx-scorecard&gt;\n   &lt;acx-scorecard\n       label="Ad RPM"\n       value="$0.58"\n       description="-$0.02 (3%)"\n       changeType="negative"&gt;\n   &lt;/acx-scorecard&gt;\n &lt;/acx-scoreboard&gt;\n</code></pre>\n<p><strong>Inputs:</strong></p><ul><li><code>type: ScoreboardType</code> -- Type of scoreboard, e.g., standard, selectable,\nradio, toggle.</li><li><code>enableUniformWidths: bool</code> -- Whether scorecards in the scoreboard\nshould have uniform widths.</li><li><code>scrollable: bool</code> -- Whether the scoreboard is scrollable.</li><li><code>resetOnCardChanges</code> -- Whether to reset the card selection when there are\ncard changes.</li><li><code>isVertical: bool</code> -- Whether the scorecard is displayed vertically.\nDefaults to false.</li></ul>\n')],[],P.d(),[]))
+x=new V.kS(R.ca([],[new R.ai(C.fp,"ScorecardDemoComponent","scorecard_example/lib/scorecard_demo.dart")],[new R.an("ScorecardComponent","acx-scorecard","angular_components/lib/scorecard/scorecard.dart",'<p>ACUX standalone scorecard component.</p>\n<p>This component is meant to be reused/embedded in larger components.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code> &lt;acx-scorecard\n     label="Estimated earnings"\n     value="$158.22"\n     description="+$24.20 (15%)"\n     suggestionAfter="of last quarter"\n     changeType="POSITIVE"&gt;\n &lt;/acx-scorecard&gt;\n</code></pre>\n<p>To make a scorecard <code>selectable</code>, simply flip on the flag. Then [selected]\ncan be used to change and be notified of changes to the selection state:</p>\n<pre><code>&lt;acx-scorecard\n    selectable\n    label="Estimated earnings"\n    value="$158.22"\n    [(selected)]="isSelected"&gt;\n&lt;/acx-scorecard&gt;\n</code></pre>\n<p>To right-align the text in a scorecard add the CSS class \'right-align\':</p>\n<pre><code>&lt;acx-scorecard class="right-align"&gt;&lt;/acx-scorecard&gt;\n</code></pre>\n<p>Content projection can also be used with the <name> element to insert custom\ncontent into the label area, with <value> to insert custom content into\nthe value area, or with <description> to insert custom content into the\ndescription area:</p>\n<pre><code>&lt;acx-scorecard ...&gt;\n  &lt;name&gt;Estimated earnings &lt;i&gt;(NEW)&lt;/i&gt;&lt;/name&gt;\n  &lt;value&gt;&lt;glyph icon="mode_edit"&gt;&lt;/glyph&gt;&lt;/value&gt;\n  &lt;description&gt;&lt;b&gt;On track&lt;/b&gt;&lt;/description&gt;\n&lt;/acx-scorecard&gt;\n</code></pre>\n<p><strong>Inputs:</strong></p><ul><li><code>label: String</code> -- The title of the scorecard.</li><li><code>value: String</code> -- The value of the scorecard.</li><li><code>description: String</code> -- Short description of the scorecard.</li><li><code>changeGlyph: bool</code> -- Whether to display a small change arrow glyph in\nthe description.</li><li><code>suggestionBefore: String</code> -- Suggestion text before the description.</li><li><code>suggestionAfter: String</code> -- Suggestion text after the description.</li><li><code>extraBig: bool</code> -- Whether to use a larger class style.</li><li><code>changeType: String</code> -- The type of change: POSITIVE, NEGATIVE, NEUTRAL.</li><li><code>selectable: bool</code> -- Whether a scorecard is selectable.</li><li><code>selected: bool</code> -- Whether the scorecard is selected.</li><li><code>selectedColor: Color</code> -- Color to apply to the selected scorecard.</li></ul>\n<p><strong>Outputs:</strong></p><ul><li><code>selectedChange</code> -- Fired when selection state changes.</li></ul>\n'),new R.an("ScoreboardComponent","acx-scoreboard","angular_components/lib/scorecard/scoreboard.dart",'<p>ACUX Scoreboard component</p>\n<p>This component manages a row of scorecards.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code> &lt;acx-scoreboard scrollable [type]="toggle"&gt;\n   &lt;acx-scorecard\n       label="Estimated earnings"\n       value="$158.22"\n       description="+$24.20 (15%)"\n       changeType="positive"&gt;\n   &lt;/acx-scorecard&gt;\n   &lt;acx-scorecard\n       label="Ad RPM"\n       value="$0.58"\n       description="-$0.02 (3%)"\n       changeType="negative"&gt;\n   &lt;/acx-scorecard&gt;\n &lt;/acx-scoreboard&gt;\n</code></pre>\n<p><strong>Inputs:</strong></p><ul><li><code>type: ScoreboardType</code> -- Type of scoreboard, e.g., standard, selectable,\nradio, toggle.</li><li><code>enableUniformWidths: bool</code> -- Whether scorecards in the scoreboard\nshould have uniform widths.</li><li><code>scrollable: bool</code> -- Whether the scoreboard is scrollable.</li><li><code>resetOnCardChanges</code> -- Whether to reset the card selection when there are\ncard changes.</li><li><code>isVertical: bool</code> -- Whether the scorecard is displayed vertically.\nDefaults to false.</li></ul>\n')],[],P.c(),[]))
 this.x=x
 y.k(0,x,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[V.l2])},
+this.F(this.e)
+return new D.y(this,0,this.e,this.x,[V.kS])},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
 $asa:function(){}}
-F.fw.prototype={
-sxK:function(n){if(n==null||n<=0)return
+F.fs.prototype={
+sxA:function(n){if(n==null||n<=0)return
 this.e=n
-this.d=F.a2M(n)},
-go2:function(){return this.a},
-gdD:function(){return this.d},
-sdD:function(n){return this.d=n}}
-F.Ig.prototype={
+this.d=F.a2D(n)},
+gyo:function(){return this.a},
+gdJ:function(){return this.d},
+sdJ:function(n){return this.d=n}}
+F.I8.prototype={
 $1:function(n){return n+1},
 $S:function(){return{func:1,args:[,]}}}
-E.n_.prototype={
+E.mS.prototype={
 p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8,r9,s0,s1
-y=this.a4(this.e)
+y=this.a6(this.e)
 x=document
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"h2",y)
@@ -1546,7 +1560,7 @@ this.l(w)
 v=x.createTextNode("Single Scorecards")
 this.r.appendChild(v)
 y.appendChild(x.createTextNode("\n"))
-w=N.b4(this,4)
+w=N.b0(this,4)
 this.y=w
 w=w.e
 this.x=w
@@ -1560,13 +1574,13 @@ w=this.y.a.b
 u=this.x
 t=this.c
 s=t.n(C.b,this.a.Q)
-r=[P.x]
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+r=[P.w]
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.z=w
 q=x.createTextNode("\n")
 this.y.k(0,w,[C.a,C.a,C.a,[q]])
 y.appendChild(x.createTextNode("\n"))
-w=N.b4(this,7)
+w=N.b0(this,7)
 this.ch=w
 w=w.e
 this.Q=w
@@ -1579,27 +1593,26 @@ this.h(this.Q)
 w=this.ch.a.b
 u=this.Q
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.cx=w
 p=x.createTextNode("\n")
 this.ch.k(0,w,[C.a,C.a,C.a,[p]])
 y.appendChild(x.createTextNode("\n"))
-w=N.b4(this,10)
+w=N.b0(this,10)
 this.db=w
 w=w.e
 this.cy=w
 y.appendChild(w)
 this.cy.setAttribute("changeType","POSITIVE")
-w=this.cy
-w.className="right-align themeable"
-w.setAttribute("description","+$24.20 (15%)")
+this.cy.className=Q.bp("","right-align"," ","themeable","")
+this.cy.setAttribute("description","+$24.20 (15%)")
 this.cy.setAttribute("label","Right aligned")
 this.cy.setAttribute("value","$158.22")
 this.h(this.cy)
 w=this.db.a.b
 u=this.cy
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.dx=w
 o=x.createTextNode("\n")
 this.db.k(0,w,[C.a,C.a,C.a,[o]])
@@ -1616,18 +1629,15 @@ this.l(w)
 a0=x.createTextNode("Standard")
 this.fr.appendChild(a0)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,19)
+w=U.dD(this,19)
 this.fy=w
 w=w.e
 this.fx=w
 y.appendChild(w)
 this.h(this.fx)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.fy.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.go=w
+this.go=F.dz(null,t.n(C.b,this.a.Q),this.fy.a.b)
 a1=x.createTextNode("\n  ")
-w=N.b4(this,21)
+w=N.b0(this,21)
 this.k2=w
 w=w.e
 this.k1=w
@@ -1639,12 +1649,12 @@ this.h(this.k1)
 w=this.k2.a.b
 u=this.k1
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.k3=w
 a2=x.createTextNode("\n  ")
 this.k2.k(0,w,[C.a,C.a,C.a,[a2]])
 a3=x.createTextNode("\n  ")
-w=N.b4(this,24)
+w=N.b0(this,24)
 this.r1=w
 w=w.e
 this.k4=w
@@ -1656,12 +1666,12 @@ this.h(this.k4)
 w=this.r1.a.b
 u=this.k4
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.r2=w
 a4=x.createTextNode("\n  ")
 this.r1.k(0,w,[C.a,C.a,C.a,[a4]])
 a5=x.createTextNode("\n  ")
-w=N.b4(this,27)
+w=N.b0(this,27)
 this.ry=w
 w=w.e
 this.rx=w
@@ -1672,12 +1682,12 @@ this.h(this.rx)
 w=this.ry.a.b
 u=this.rx
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.x1=w
 a6=x.createTextNode("\n  ")
 this.ry.k(0,w,[C.a,C.a,C.a,[a6]])
 a7=x.createTextNode("\n")
-this.go.sfb([this.k3,this.r2,this.x1])
+this.go.sfj([this.k3,this.r2,this.x1])
 this.fy.k(0,this.go,[[a1,this.k1,a3,this.k4,a5,this.rx,a7]])
 y.appendChild(x.createTextNode("\n\n"))
 w=S.b(x,"h3",y)
@@ -1686,88 +1696,82 @@ this.l(w)
 a8=x.createTextNode("Selectable")
 this.x2.appendChild(a8)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,34)
+w=U.dD(this,34)
 this.y2=w
 w=w.e
 this.y1=w
 y.appendChild(w)
 this.h(this.y1)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.y2.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.R=w
+this.T=F.dz(null,t.n(C.b,this.a.Q),this.y2.a.b)
 a9=x.createTextNode("\n  ")
-w=N.b4(this,36)
-this.J=w
-w=w.e
-this.S=w
-w.setAttribute("changeType","POSITIVE")
-this.S.setAttribute("description","+$24.20 (15%)")
-this.S.setAttribute("label","Estimated earnings")
-this.S.setAttribute("value","$158.22")
-this.h(this.S)
-w=this.J.a.b
-u=this.S
-s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=N.b0(this,36)
 this.K=w
-b0=x.createTextNode("\n  ")
-this.J.k(0,w,[C.a,C.a,C.a,[b0]])
-b1=x.createTextNode("\n  ")
-w=N.b4(this,39)
-this.Y=w
 w=w.e
-this.G=w
-w.setAttribute("changeType","NEGATIVE")
-this.G.setAttribute("description","-$0.02 (3%)")
-this.G.setAttribute("label","Ad RPM")
-this.G.setAttribute("value","$0.58")
-this.h(this.G)
-w=this.Y.a.b
-u=this.G
+this.U=w
+w.setAttribute("changeType","POSITIVE")
+this.U.setAttribute("description","+$24.20 (15%)")
+this.U.setAttribute("label","Estimated earnings")
+this.U.setAttribute("value","$158.22")
+this.h(this.U)
+w=this.K.a.b
+u=this.U
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.L=w
+b0=x.createTextNode("\n  ")
+this.K.k(0,w,[C.a,C.a,C.a,[b0]])
+b1=x.createTextNode("\n  ")
+w=N.b0(this,39)
 this.a_=w
+w=w.e
+this.H=w
+w.setAttribute("changeType","NEGATIVE")
+this.H.setAttribute("description","-$0.02 (3%)")
+this.H.setAttribute("label","Ad RPM")
+this.H.setAttribute("value","$0.58")
+this.h(this.H)
+w=this.a_.a.b
+u=this.H
+s=t.n(C.b,this.a.Q)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.a2=w
 b2=x.createTextNode("\n  ")
-this.Y.k(0,w,[C.a,C.a,C.a,[b2]])
+this.a_.k(0,w,[C.a,C.a,C.a,[b2]])
 b3=x.createTextNode("\n  ")
-w=N.b4(this,42)
+w=N.b0(this,42)
 this.Z=w
 w=w.e
-this.W=w
+this.V=w
 w.setAttribute("description","Suggestions to add")
-this.W.setAttribute("label","Keywords")
-this.W.setAttribute("value","412")
-this.h(this.W)
+this.V.setAttribute("label","Keywords")
+this.V.setAttribute("value","412")
+this.h(this.V)
 w=this.Z.a.b
-u=this.W
+u=this.V
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.P=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.S=w
 b4=x.createTextNode("\n  ")
 this.Z.k(0,w,[C.a,C.a,C.a,[b4]])
 b5=x.createTextNode("\n")
-this.R.sfb([this.K,this.a_,this.P])
-this.y2.k(0,this.R,[[a9,this.S,b1,this.G,b3,this.W,b5]])
+this.T.sfj([this.L,this.a2,this.S])
+this.y2.k(0,this.T,[[a9,this.U,b1,this.H,b3,this.V,b5]])
 y.appendChild(x.createTextNode("\n\n"))
 w=S.b(x,"h3",y)
-this.ad=w
+this.ac=w
 this.l(w)
 b6=x.createTextNode("Toggle")
-this.ad.appendChild(b6)
+this.ac.appendChild(b6)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,49)
+w=U.dD(this,49)
 this.a9=w
 w=w.e
-this.aa=w
-y.appendChild(w)
-this.h(this.aa)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.a9.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
 this.ab=w
+y.appendChild(w)
+this.h(this.ab)
+this.aa=F.dz(null,t.n(C.b,this.a.Q),this.a9.a.b)
 b7=x.createTextNode("\n  ")
-w=N.b4(this,51)
+w=N.b0(this,51)
 this.ah=w
 w=w.e
 this.al=w
@@ -1779,66 +1783,63 @@ this.h(this.al)
 w=this.ah.a.b
 u=this.al
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.ao=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.ak=w
 b8=x.createTextNode("\n  ")
 this.ah.k(0,w,[C.a,C.a,C.a,[b8]])
 b9=x.createTextNode("\n  ")
-w=N.b4(this,54)
-this.aq=w
+w=N.b0(this,54)
+this.ap=w
 w=w.e
-this.X=w
+this.Y=w
 w.setAttribute("changeType","NEGATIVE")
-this.X.setAttribute("description","-$0.02 (3%)")
-this.X.setAttribute("label","Ad RPM")
-this.X.setAttribute("value","$0.58")
-this.h(this.X)
-w=this.aq.a.b
-u=this.X
+this.Y.setAttribute("description","-$0.02 (3%)")
+this.Y.setAttribute("label","Ad RPM")
+this.Y.setAttribute("value","$0.58")
+this.h(this.Y)
+w=this.ap.a.b
+u=this.Y
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.ar=w
 c0=x.createTextNode("\n  ")
-this.aq.k(0,w,[C.a,C.a,C.a,[c0]])
+this.ap.k(0,w,[C.a,C.a,C.a,[c0]])
 c1=x.createTextNode("\n  ")
-w=N.b4(this,57)
-this.aj=w
+w=N.b0(this,57)
+this.an=w
 w=w.e
 this.af=w
 w.setAttribute("description","Suggestions to add")
 this.af.setAttribute("label","Keywords")
 this.af.setAttribute("value","412")
 this.h(this.af)
-w=this.aj.a.b
+w=this.an.a.b
 u=this.af
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 this.au=w
 c2=x.createTextNode("\n  ")
-this.aj.k(0,w,[C.a,C.a,C.a,[c2]])
+this.an.k(0,w,[C.a,C.a,C.a,[c2]])
 c3=x.createTextNode("\n")
-this.ab.sfb([this.ao,this.ar,this.au])
-this.a9.k(0,this.ab,[[b7,this.al,b9,this.X,c1,this.af,c3]])
+this.aa.sfj([this.ak,this.ar,this.au])
+this.a9.k(0,this.aa,[[b7,this.al,b9,this.Y,c1,this.af,c3]])
 y.appendChild(x.createTextNode("\n\n"))
 w=S.b(x,"h3",y)
-this.az=w
+this.aD=w
 this.l(w)
 c4=x.createTextNode("Radio")
-this.az.appendChild(c4)
+this.aD.appendChild(c4)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,64)
-this.aB=w
+w=U.dD(this,64)
+this.aL=w
 w=w.e
-this.aF=w
+this.aA=w
 y.appendChild(w)
-this.h(this.aF)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.aB.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.at=w
+this.h(this.aA)
+this.av=F.dz(null,t.n(C.b,this.a.Q),this.aL.a.b)
 c5=x.createTextNode("\n  ")
-w=N.b4(this,66)
-this.aO=w
+w=N.b0(this,66)
+this.aM=w
 w=w.e
 this.aN=w
 w.setAttribute("changeType","POSITIVE")
@@ -1846,1070 +1847,1033 @@ this.aN.setAttribute("description","+$24.20 (15%)")
 this.aN.setAttribute("label","Estimated earnings")
 this.aN.setAttribute("value","$158.22")
 this.h(this.aN)
-w=this.aO.a.b
+w=this.aM.a.b
 u=this.aN
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.aQ=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.aH=w
 c6=x.createTextNode("\n  ")
-this.aO.k(0,w,[C.a,C.a,C.a,[c6]])
+this.aM.k(0,w,[C.a,C.a,C.a,[c6]])
 c7=x.createTextNode("\n  ")
-w=N.b4(this,69)
-this.aZ=w
-w=w.e
-this.av=w
-w.setAttribute("changeType","NEGATIVE")
-this.av.setAttribute("description","-$0.02 (3%)")
-this.av.setAttribute("label","Ad RPM")
-this.av.setAttribute("value","$0.58")
-this.h(this.av)
-w=this.aZ.a.b
-u=this.av
-s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.ac=w
-c8=x.createTextNode("\n  ")
-this.aZ.k(0,w,[C.a,C.a,C.a,[c8]])
-c9=x.createTextNode("\n  ")
-w=N.b4(this,72)
-this.aS=w
+w=N.b0(this,69)
+this.aV=w
 w=w.e
 this.aE=w
-w.setAttribute("description","Suggestions to add")
-this.aE.setAttribute("label","Keywords")
-this.aE.setAttribute("value","412")
+w.setAttribute("changeType","NEGATIVE")
+this.aE.setAttribute("description","-$0.02 (3%)")
+this.aE.setAttribute("label","Ad RPM")
+this.aE.setAttribute("value","$0.58")
 this.h(this.aE)
-w=this.aS.a.b
+w=this.aV.a.b
 u=this.aE
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.ax=w
-d0=x.createTextNode("\n  ")
-this.aS.k(0,w,[C.a,C.a,C.a,[d0]])
-d1=x.createTextNode("\n")
-this.at.sfb([this.aQ,this.ac,this.ax])
-this.aB.k(0,this.at,[[c5,this.aN,c7,this.av,c9,this.aE,d1]])
-y.appendChild(x.createTextNode("\n\n"))
-w=S.b(x,"h3",y)
-this.aC=w
-this.l(w)
-d2=x.createTextNode("Vertical")
-this.aC.appendChild(d2)
-y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,79)
-this.bh=w
-w=w.e
-this.aU=w
-y.appendChild(w)
-this.aU.setAttribute("isVertical","")
-this.h(this.aU)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.bh.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.am=w
-d3=x.createTextNode("\n  ")
-w=N.b4(this,81)
-this.b8=w
-w=w.e
-this.ay=w
-w.setAttribute("changeType","POSITIVE")
-this.ay.setAttribute("description","+$24.20 (15%)")
-this.ay.setAttribute("label","Estimated earnings")
-this.ay.setAttribute("value","$158.22")
-this.h(this.ay)
-w=this.b8.a.b
-u=this.ay
-s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.b4=w
-d4=x.createTextNode("\n  ")
-this.b8.k(0,w,[C.a,C.a,C.a,[d4]])
-d5=x.createTextNode("\n  ")
-w=N.b4(this,84)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.as=w
+c8=x.createTextNode("\n  ")
+this.aV.k(0,w,[C.a,C.a,C.a,[c8]])
+c9=x.createTextNode("\n  ")
+w=N.b0(this,72)
 this.aG=w
 w=w.e
-this.aH=w
-w.setAttribute("changeType","NEGATIVE")
-this.aH.setAttribute("description","-$0.02 (3%)")
-this.aH.setAttribute("label","Ad RPM")
-this.aH.setAttribute("value","$0.58")
-this.h(this.aH)
+this.aB=w
+w.setAttribute("description","Suggestions to add")
+this.aB.setAttribute("label","Keywords")
+this.aB.setAttribute("value","412")
+this.h(this.aB)
 w=this.aG.a.b
-u=this.aH
+u=this.aB
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.cf=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.ax=w
+d0=x.createTextNode("\n  ")
+this.aG.k(0,w,[C.a,C.a,C.a,[d0]])
+d1=x.createTextNode("\n")
+this.av.sfj([this.aH,this.as,this.ax])
+this.aL.k(0,this.av,[[c5,this.aN,c7,this.aE,c9,this.aB,d1]])
+y.appendChild(x.createTextNode("\n\n"))
+w=S.b(x,"h3",y)
+this.aq=w
+this.l(w)
+d2=x.createTextNode("Vertical")
+this.aq.appendChild(d2)
+y.appendChild(x.createTextNode("\n"))
+w=U.dD(this,79)
+this.b4=w
+w=w.e
+this.aW=w
+y.appendChild(w)
+this.aW.setAttribute("isVertical","")
+this.h(this.aW)
+this.ay=F.dz(null,t.n(C.b,this.a.Q),this.b4.a.b)
+d3=x.createTextNode("\n  ")
+w=N.b0(this,81)
+this.ae=w
+w=w.e
+this.aF=w
+w.setAttribute("changeType","POSITIVE")
+this.aF.setAttribute("description","+$24.20 (15%)")
+this.aF.setAttribute("label","Estimated earnings")
+this.aF.setAttribute("value","$158.22")
+this.h(this.aF)
+w=this.ae.a.b
+u=this.aF
+s=t.n(C.b,this.a.Q)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.aQ=w
+d4=x.createTextNode("\n  ")
+this.ae.k(0,w,[C.a,C.a,C.a,[d4]])
+d5=x.createTextNode("\n  ")
+w=N.b0(this,84)
+this.aK=w
+w=w.e
+this.az=w
+w.setAttribute("changeType","NEGATIVE")
+this.az.setAttribute("description","-$0.02 (3%)")
+this.az.setAttribute("label","Ad RPM")
+this.az.setAttribute("value","$0.58")
+this.h(this.az)
+w=this.aK.a.b
+u=this.az
+s=t.n(C.b,this.a.Q)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.c5=w
 d6=x.createTextNode("\n  ")
-this.aG.k(0,w,[C.a,C.a,C.a,[d6]])
+this.aK.k(0,w,[C.a,C.a,C.a,[d6]])
 d7=x.createTextNode("\n  ")
-w=N.b4(this,87)
-this.bi=w
+w=N.b0(this,87)
+this.br=w
 w=w.e
 this.aP=w
 w.setAttribute("description","Suggestions to add")
 this.aP.setAttribute("label","Keywords")
 this.aP.setAttribute("value","412")
 this.h(this.aP)
-w=this.bi.a.b
+w=this.br.a.b
 u=this.aP
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.ba=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.bi=w
 d8=x.createTextNode("\n  ")
-this.bi.k(0,w,[C.a,C.a,C.a,[d8]])
+this.br.k(0,w,[C.a,C.a,C.a,[d8]])
 d9=x.createTextNode("\n")
-this.am.sfb([this.b4,this.cf,this.ba])
-this.bh.k(0,this.am,[[d3,this.ay,d5,this.aH,d7,this.aP,d9]])
+this.ay.sfj([this.aQ,this.c5,this.bi])
+this.b4.k(0,this.ay,[[d3,this.aF,d5,this.az,d7,this.aP,d9]])
 y.appendChild(x.createTextNode("\n\n"))
 w=S.b(x,"h3",y)
-this.bl=w
+this.bj=w
 this.l(w)
 e0=x.createTextNode("Scrollable")
-this.bl.appendChild(e0)
+this.bj.appendChild(e0)
 y.appendChild(x.createTextNode("\n\n"))
 w=Q.aa(this,94)
-this.aA=w
+this.bc=w
 w=w.e
-this.aV=w
+this.aR=w
 y.appendChild(w)
-this.aV.setAttribute("checkInteger","")
-this.aV.setAttribute("checkPositive","")
-this.aV.setAttribute("floatingLabel","")
-this.aV.setAttribute("keypressUpdate","")
-this.aV.setAttribute("label","Number of scorecards")
-this.aV.setAttribute("type","number")
-this.h(this.aV)
-w=new L.a1(H.q([],[{func:1,ret:[P.ab,P.j,,],args:[Z.b9]}]),null)
-this.bm=w
-u=new F.r_()
-this.bv=u
-s=new T.oO(!0)
-this.bd=s
+this.aR.setAttribute("checkInteger","")
+this.aR.setAttribute("checkPositive","")
+this.aR.setAttribute("floatingLabel","")
+this.aR.setAttribute("keypressUpdate","")
+this.aR.setAttribute("label","Number of scorecards")
+this.aR.setAttribute("type","number")
+this.h(this.aR)
+w=new L.a1(H.r([],[{func:1,ret:[P.ad,P.j,,],args:[Z.b7]}]),null)
+this.bk=w
+u=new F.qK()
+this.aS=u
+s=new T.oE(!0)
+this.b6=s
 s=[w,u,s]
-this.bD=s
-s=new U.aQ(null,null,null,!1,null,null,X.aL(null),X.aJ(s),null)
-s.d1(null)
-this.ai=s
-this.bE=s
-s=L.a9("number",null,null,s,this.aA.a.b,this.bm)
-this.be=s
-this.bF=s
-this.bt=F.h9(s,this.bE,t.m(C.aE,this.a.Q,null),null,"","",null)
-this.aA.k(0,this.be,[C.a])
+this.bQ=s
+s=U.b8(s,null)
+this.aj=s
+this.bl=s
+s=L.a9("number",null,null,s,this.bc.a.b,this.bk)
+this.bm=s
+this.bR=s
+this.bx=F.fY(s,this.bl,t.m(C.aE,this.a.Q,null),null,"","",null)
+this.bc.k(0,this.bm,[C.a,C.a])
 y.appendChild(x.createTextNode("\n\n"))
-s=U.dG(this,96)
-this.b3=s
+s=U.dD(this,96)
+this.b8=s
 s=s.e
-this.bw=s
+this.b7=s
 y.appendChild(s)
-this.bw.setAttribute("scrollable","")
-this.h(this.bw)
-s=t.n(C.b,this.a.Q)
-s=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.b3.a.b,s,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-s.z=!0
-this.aL=s
+this.b7.setAttribute("scrollable","")
+this.h(this.b7)
+this.b3=F.dz(null,t.n(C.b,this.a.Q),this.b8.a.b)
 e1=x.createTextNode("\n  ")
-s=$.$get$K()
-u=new V.n(98,96,this,s.cloneNode(!1),null,null,null)
-this.b0=u
-this.bq=new R.al(u,null,null,null,new D.u(u,E.atS()))
+s=$.$get$J()
+u=new V.m(98,96,this,s.cloneNode(!1),null,null,null)
+this.aT=u
+this.bp=new R.aj(u,null,null,null,new D.t(u,E.atS()))
 e2=x.createTextNode("\n")
-this.b3.k(0,this.aL,[[e1,u,e2]])
+this.b8.k(0,this.b3,[[e1,u,e2]])
 y.appendChild(x.createTextNode("\n\n"))
 u=S.b(x,"section",y)
-this.b6=u
+this.bq=u
 u.className="vertical-scoreboard-container"
 this.l(u)
 e3=x.createTextNode("\n  ")
-this.b6.appendChild(e3)
-u=U.dG(this,103)
-this.bR=u
+this.bq.appendChild(e3)
+u=U.dD(this,103)
+this.bt=u
 u=u.e
-this.bb=u
-this.b6.appendChild(u)
-this.bb.setAttribute("isVertical","")
-this.bb.setAttribute("scrollable","")
-this.h(this.bb)
-u=t.n(C.b,this.a.Q)
-u=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.bR.a.b,u,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-u.z=!0
-this.bf=u
+this.be=u
+this.bq.appendChild(u)
+this.be.setAttribute("isVertical","")
+this.be.setAttribute("scrollable","")
+this.h(this.be)
+this.b9=F.dz(null,t.n(C.b,this.a.Q),this.bt.a.b)
 e4=x.createTextNode("\n    ")
-s=new V.n(105,103,this,s.cloneNode(!1),null,null,null)
-this.bc=s
-this.bN=new R.al(s,null,null,null,new D.u(s,E.atT()))
+s=new V.m(105,103,this,s.cloneNode(!1),null,null,null)
+this.ba=s
+this.bF=new R.aj(s,null,null,null,new D.t(s,E.atT()))
 e5=x.createTextNode("\n  ")
-this.bR.k(0,this.bf,[[e4,s,e5]])
+this.bt.k(0,this.b9,[[e4,s,e5]])
 e6=x.createTextNode("\n")
-this.b6.appendChild(e6)
+this.bq.appendChild(e6)
 y.appendChild(x.createTextNode("\n\n"))
 s=S.b(x,"h3",y)
-this.bH=s
+this.bz=s
 this.l(s)
 e7=x.createTextNode("Customization")
-this.bH.appendChild(e7)
+this.bz.appendChild(e7)
 y.appendChild(x.createTextNode("\n"))
 s=S.b(x,"p",y)
-this.bB=s
+this.bY=s
 this.l(s)
 e8=x.createTextNode("\n  Using the ")
-this.bB.appendChild(e8)
-s=S.b(x,"em",this.bB)
-this.bV=s
+this.bY.appendChild(e8)
+s=S.b(x,"em",this.bY)
+this.bM=s
 this.l(s)
 e9=x.createTextNode("acx-scorecard-apply-change-color-on-primary")
-this.bV.appendChild(e9)
+this.bM.appendChild(e9)
 f0=x.createTextNode(" mixin:\n")
-this.bB.appendChild(f0)
+this.bY.appendChild(f0)
 y.appendChild(x.createTextNode("\n"))
 s=S.l(x,y)
-this.c3=s
+this.bN=s
 s.className="customize"
 this.h(s)
 f1=x.createTextNode("\n  ")
-this.c3.appendChild(f1)
-s=U.dG(this,120)
-this.br=s
+this.bN.appendChild(f1)
+s=U.dD(this,120)
+this.bu=s
 s=s.e
-this.bI=s
-this.c3.appendChild(s)
-this.h(this.bI)
-s=t.n(C.b,this.a.Q)
-s=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.br.a.b,s,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-s.z=!0
-this.bJ=s
+this.bA=s
+this.bN.appendChild(s)
+this.h(this.bA)
+this.bB=F.dz(null,t.n(C.b,this.a.Q),this.bu.a.b)
 f2=x.createTextNode("\n    ")
-s=N.b4(this,122)
-this.c_=s
+s=N.b0(this,122)
+this.c4=s
 s=s.e
-this.b7=s
+this.bf=s
 s.setAttribute("changeType","POSITIVE")
-this.b7.setAttribute("description","+$24.20 (15%)")
-this.b7.setAttribute("label","Estimated earnings")
-this.b7.setAttribute("value","$158.22")
-this.h(this.b7)
-s=this.c_.a.b
-u=this.b7
+this.bf.setAttribute("description","+$24.20 (15%)")
+this.bf.setAttribute("label","Estimated earnings")
+this.bf.setAttribute("value","$158.22")
+this.h(this.bf)
+s=this.c4.a.b
+u=this.bf
 w=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,s,u,null,null,null,!1,null,null,null,!1,!1,null,u,w)
-this.bS=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,s,u,null,null,null,!1,null,null,null,!1,!1,null,u,w)
+this.bC=w
 f3=x.createTextNode("\n    ")
-this.c_.k(0,w,[C.a,C.a,C.a,[f3]])
+this.c4.k(0,w,[C.a,C.a,C.a,[f3]])
 f4=x.createTextNode("\n    ")
-w=N.b4(this,125)
-this.bs=w
+w=N.b0(this,125)
+this.bv=w
 w=w.e
-this.bg=w
+this.b2=w
 w.setAttribute("changeType","NEGATIVE")
-this.bg.setAttribute("description","-$0.02 (3%)")
-this.bg.setAttribute("label","Ad RPM")
-this.bg.setAttribute("value","$0.58")
-this.h(this.bg)
-w=this.bs.a.b
-u=this.bg
+this.b2.setAttribute("description","-$0.02 (3%)")
+this.b2.setAttribute("label","Ad RPM")
+this.b2.setAttribute("value","$0.58")
+this.h(this.b2)
+w=this.bv.a.b
+u=this.b2
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.by=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.c_=w
 f5=x.createTextNode("\n    ")
-this.bs.k(0,w,[C.a,C.a,C.a,[f5]])
+this.bv.k(0,w,[C.a,C.a,C.a,[f5]])
 f6=x.createTextNode("\n    ")
-w=N.b4(this,128)
-this.bK=w
+w=N.b0(this,128)
+this.bG=w
 w=w.e
-this.co=w
+this.bT=w
 w.setAttribute("description","Suggestions to add")
-this.co.setAttribute("label","Keywords")
-this.co.setAttribute("value","412")
-this.h(this.co)
-w=this.bK.a.b
-u=this.co
+this.bT.setAttribute("label","Keywords")
+this.bT.setAttribute("value","412")
+this.h(this.bT)
+w=this.bG.a.b
+u=this.bT
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.cb=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.cd=w
 f7=x.createTextNode("\n    ")
-this.bK.k(0,w,[C.a,C.a,C.a,[f7]])
+this.bG.k(0,w,[C.a,C.a,C.a,[f7]])
 f8=x.createTextNode("\n  ")
-this.bJ.sfb([this.bS,this.by,this.cb])
-this.br.k(0,this.bJ,[[f2,this.b7,f4,this.bg,f6,this.co,f8]])
+this.bB.sfj([this.bC,this.c_,this.cd])
+this.bu.k(0,this.bB,[[f2,this.bf,f4,this.b2,f6,this.bT,f8]])
 f9=x.createTextNode("\n")
-this.c3.appendChild(f9)
+this.bN.appendChild(f9)
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.bW=w
+this.bZ=w
 this.l(w)
 g0=x.createTextNode("\n  Using the ")
-this.bW.appendChild(g0)
-w=S.b(x,"em",this.bW)
-this.aT=w
+this.bZ.appendChild(g0)
+w=S.b(x,"em",this.bZ)
+this.aJ=w
 this.l(w)
 g1=x.createTextNode("acx-scorecard-title")
-this.aT.appendChild(g1)
+this.aJ.appendChild(g1)
 g2=x.createTextNode(" and ")
-this.bW.appendChild(g2)
-w=S.b(x,"em",this.bW)
-this.bO=w
+this.bZ.appendChild(g2)
+w=S.b(x,"em",this.bZ)
+this.bD=w
 this.l(w)
 g3=x.createTextNode("acx-scorecard-value")
-this.bO.appendChild(g3)
+this.bD.appendChild(g3)
 g4=x.createTextNode(" mixins:\n")
-this.bW.appendChild(g4)
+this.bZ.appendChild(g4)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,142)
-this.cq=w
+w=U.dD(this,142)
+this.cr=w
 w=w.e
-this.cp=w
+this.cU=w
 y.appendChild(w)
-w=this.cp
+w=this.cU
 w.className="custom-rule"
 this.h(w)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.cq.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.bz=w
+this.bh=F.dz(null,t.n(C.b,this.a.Q),this.cr.a.b)
 g5=x.createTextNode("\n  ")
-w=N.b4(this,144)
-this.bX=w
-w=w.e
-this.bP=w
-w.setAttribute("changeType","POSITIVE")
-this.bP.setAttribute("description","+$24.20 (15%)")
-this.bP.setAttribute("label","Estimated earnings")
-this.bP.setAttribute("value","$158.22")
-this.h(this.bP)
-w=this.bX.a.b
-u=this.bP
-s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.cz=w
-g6=x.createTextNode("\n  ")
-this.bX.k(0,w,[C.a,C.a,C.a,[g6]])
-g7=x.createTextNode("\n  ")
-w=N.b4(this,147)
-this.bk=w
-w=w.e
-this.bY=w
-w.setAttribute("changeType","NEGATIVE")
-this.bY.setAttribute("description","-$0.02 (3%)")
-this.bY.setAttribute("label","Ad RPM")
-this.bY.setAttribute("value","$0.58")
-this.h(this.bY)
-w=this.bk.a.b
-u=this.bY
-s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.bL=w
-g8=x.createTextNode("\n  ")
-this.bk.k(0,w,[C.a,C.a,C.a,[g8]])
-g9=x.createTextNode("\n  ")
-w=N.b4(this,150)
+w=N.b0(this,144)
 this.c0=w
 w=w.e
-this.c5=w
-w.setAttribute("description","Suggestions to add")
-this.c5.setAttribute("label","Keywords")
-this.c5.setAttribute("value","412")
-this.h(this.c5)
+this.c8=w
+w.setAttribute("changeType","POSITIVE")
+this.c8.setAttribute("description","+$24.20 (15%)")
+this.c8.setAttribute("label","Estimated earnings")
+this.c8.setAttribute("value","$158.22")
+this.h(this.c8)
 w=this.c0.a.b
-u=this.c5
+u=this.c8
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.c6=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.c9=w
+g6=x.createTextNode("\n  ")
+this.c0.k(0,w,[C.a,C.a,C.a,[g6]])
+g7=x.createTextNode("\n  ")
+w=N.b0(this,147)
+this.bH=w
+w=w.e
+this.bO=w
+w.setAttribute("changeType","NEGATIVE")
+this.bO.setAttribute("description","-$0.02 (3%)")
+this.bO.setAttribute("label","Ad RPM")
+this.bO.setAttribute("value","$0.58")
+this.h(this.bO)
+w=this.bH.a.b
+u=this.bO
+s=t.n(C.b,this.a.Q)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.bg=w
+g8=x.createTextNode("\n  ")
+this.bH.k(0,w,[C.a,C.a,C.a,[g8]])
+g9=x.createTextNode("\n  ")
+w=N.b0(this,150)
+this.bW=w
+w=w.e
+this.bJ=w
+w.setAttribute("description","Suggestions to add")
+this.bJ.setAttribute("label","Keywords")
+this.bJ.setAttribute("value","412")
+this.h(this.bJ)
+w=this.bW.a.b
+u=this.bJ
+s=t.n(C.b,this.a.Q)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.ci=w
 h0=x.createTextNode("\n  ")
-this.c0.k(0,w,[C.a,C.a,C.a,[h0]])
+this.bW.k(0,w,[C.a,C.a,C.a,[h0]])
 h1=x.createTextNode("\n")
-this.bz.sfb([this.cz,this.bL,this.c6])
-this.cq.k(0,this.bz,[[g5,this.bP,g7,this.bY,g9,this.c5,h1]])
+this.bh.sfj([this.c9,this.bg,this.ci])
+this.cr.k(0,this.bh,[[g5,this.c8,g7,this.bO,g9,this.bJ,h1]])
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.bC=w
+this.bP=w
 this.l(w)
 h2=x.createTextNode("\n  Using the ")
-this.bC.appendChild(h2)
-w=S.b(x,"em",this.bC)
-this.cK=w
+this.bP.appendChild(h2)
+w=S.b(x,"em",this.bP)
+this.cs=w
 this.l(w)
 h3=x.createTextNode("acx-scorecard-description-color")
-this.cK.appendChild(h3)
+this.cs.appendChild(h3)
 h4=x.createTextNode(" mixin:\n")
-this.bC.appendChild(h4)
+this.bP.appendChild(h4)
 y.appendChild(x.createTextNode("\n"))
 w=S.l(x,y)
-this.bQ=w
+this.bI=w
 w.className="customize-description-color"
 this.h(w)
 h5=x.createTextNode("\n  ")
-this.bQ.appendChild(h5)
-w=U.dG(this,162)
-this.cc=w
+this.bI.appendChild(h5)
+w=U.dD(this,162)
+this.cj=w
 w=w.e
-this.cE=w
-this.bQ.appendChild(w)
-this.h(this.cE)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.cc.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.cM=w
+this.cZ=w
+this.bI.appendChild(w)
+this.h(this.cZ)
+this.cw=F.dz(null,t.n(C.b,this.a.Q),this.cj.a.b)
 h6=x.createTextNode("\n    ")
-w=N.b4(this,164)
-this.ci=w
+w=N.b0(this,164)
+this.cz=w
 w=w.e
-this.c7=w
+this.cc=w
 w.setAttribute("changeType","POSITIVE")
-this.c7.setAttribute("description","+$24.20 (15%)")
-this.c7.setAttribute("label","Estimated earnings")
-this.c7.setAttribute("value","$158.22")
-this.h(this.c7)
-w=this.ci.a.b
-u=this.c7
+this.cc.setAttribute("description","+$24.20 (15%)")
+this.cc.setAttribute("label","Estimated earnings")
+this.cc.setAttribute("value","$158.22")
+this.h(this.cc)
+w=this.cz.a.b
+u=this.cc
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.cB=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.cm=w
 h7=x.createTextNode("\n    ")
-this.ci.k(0,w,[C.a,C.a,C.a,[h7]])
+this.cz.k(0,w,[C.a,C.a,C.a,[h7]])
 h8=x.createTextNode("\n  ")
-this.cM.sfb([this.cB])
-this.cc.k(0,this.cM,[[h6,this.c7,h8]])
+this.cw.sfj([this.cm])
+this.cj.k(0,this.cw,[[h6,this.cc,h8]])
 h9=x.createTextNode("\n")
-this.bQ.appendChild(h9)
+this.bI.appendChild(h9)
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.c8=w
+this.bX=w
 this.l(w)
 i0=x.createTextNode("\n  Using the ")
-this.c8.appendChild(i0)
-w=S.b(x,"em",this.c8)
-this.d_=w
+this.bX.appendChild(i0)
+w=S.b(x,"em",this.bX)
+this.d5=w
 this.l(w)
 i1=x.createTextNode("acx-scorecard-description-positive-negative-colors")
-this.d_.appendChild(i1)
+this.d5.appendChild(i1)
 i2=x.createTextNode(" mixin:\n")
-this.c8.appendChild(i2)
+this.bX.appendChild(i2)
 y.appendChild(x.createTextNode("\n"))
 w=S.l(x,y)
-this.ce=w
+this.cn=w
 w.className="customize-positive-negative-colors"
 this.h(w)
 i3=x.createTextNode("\n  ")
-this.ce.appendChild(i3)
-w=U.dG(this,177)
-this.cr=w
+this.cn.appendChild(i3)
+w=U.dD(this,177)
+this.ce=w
 w=w.e
-this.cj=w
-this.ce.appendChild(w)
-this.h(this.cj)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.cr.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
 this.ck=w
+this.cn.appendChild(w)
+this.h(this.ck)
+this.cA=F.dz(null,t.n(C.b,this.a.Q),this.ce.a.b)
 i4=x.createTextNode("\n    ")
-w=N.b4(this,179)
-this.cC=w
-w=w.e
-this.bZ=w
-w.setAttribute("changeType","POSITIVE")
-this.bZ.setAttribute("description","+$24.20 (15%)")
-this.bZ.setAttribute("label","Estimated earnings")
-this.bZ.setAttribute("value","$158.22")
-this.h(this.bZ)
-w=this.cC.a.b
-u=this.bZ
-s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.cs=w
-i5=x.createTextNode("\n    ")
-this.cC.k(0,w,[C.a,C.a,C.a,[i5]])
-i6=x.createTextNode("\n    ")
-w=N.b4(this,182)
-this.cv=w
+w=N.b0(this,179)
+this.ct=w
 w=w.e
 this.c1=w
-w.setAttribute("changeType","NEGATIVE")
-this.c1.setAttribute("description","-$24.20 (15%)")
+w.setAttribute("changeType","POSITIVE")
+this.c1.setAttribute("description","+$24.20 (15%)")
 this.c1.setAttribute("label","Estimated earnings")
 this.c1.setAttribute("value","$158.22")
 this.h(this.c1)
-w=this.cv.a.b
+w=this.ct.a.b
 u=this.c1
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.cN=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.cD=w
+i5=x.createTextNode("\n    ")
+this.ct.k(0,w,[C.a,C.a,C.a,[i5]])
+i6=x.createTextNode("\n    ")
+w=N.b0(this,182)
+this.cB=w
+w=w.e
+this.c2=w
+w.setAttribute("changeType","NEGATIVE")
+this.c2.setAttribute("description","-$24.20 (15%)")
+this.c2.setAttribute("label","Estimated earnings")
+this.c2.setAttribute("value","$158.22")
+this.h(this.c2)
+w=this.cB.a.b
+u=this.c2
+s=t.n(C.b,this.a.Q)
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.cE=w
 i7=x.createTextNode("\n    ")
-this.cv.k(0,w,[C.a,C.a,C.a,[i7]])
+this.cB.k(0,w,[C.a,C.a,C.a,[i7]])
 i8=x.createTextNode("\n  ")
-this.ck.sfb([this.cs,this.cN])
-this.cr.k(0,this.ck,[[i4,this.bZ,i6,this.c1,i8]])
+this.cA.sfj([this.cD,this.cE])
+this.ce.k(0,this.cA,[[i4,this.c1,i6,this.c2,i8]])
 i9=x.createTextNode("\n")
-this.ce.appendChild(i9)
+this.cn.appendChild(i9)
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.cI=w
+this.cl=w
 this.l(w)
 j0=x.createTextNode("\n  Using the ")
-this.cI.appendChild(j0)
-w=S.b(x,"em",this.cI)
-this.cS=w
+this.cl.appendChild(j0)
+w=S.b(x,"em",this.cl)
+this.cM=w
 this.l(w)
 j1=x.createTextNode("acx-scorecard-suggestion-color")
-this.cS.appendChild(j1)
+this.cM.appendChild(j1)
 j2=x.createTextNode(" mixin:\n")
-this.cI.appendChild(j2)
+this.cl.appendChild(j2)
 y.appendChild(x.createTextNode("\n"))
 w=S.l(x,y)
-this.d5=w
+this.cO=w
 w.className="customize-suggestion-color"
 this.h(w)
 j3=x.createTextNode("\n  ")
-this.d5.appendChild(j3)
-w=U.dG(this,195)
-this.d0=w
+this.cO.appendChild(j3)
+w=U.dD(this,195)
+this.cY=w
 w=w.e
-this.d2=w
-this.d5.appendChild(w)
-this.h(this.d2)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.d0.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.d9=w
+this.cX=w
+this.cO.appendChild(w)
+this.h(this.cX)
+this.cV=F.dz(null,t.n(C.b,this.a.Q),this.cY.a.b)
 j4=x.createTextNode("\n    ")
-w=N.b4(this,197)
-this.dQ=w
+w=N.b0(this,197)
+this.ds=w
 w=w.e
-this.dd=w
+this.cW=w
 w.setAttribute("label","Estimated earnings")
-this.dd.setAttribute("suggestionAfter","Suggestions to add")
-this.dd.setAttribute("value","$158.22")
-this.h(this.dd)
-w=this.dQ.a.b
-u=this.dd
+this.cW.setAttribute("suggestionAfter","Suggestions to add")
+this.cW.setAttribute("value","$158.22")
+this.h(this.cW)
+w=this.ds.a.b
+u=this.cW
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.dl=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.d2=w
 j5=x.createTextNode("\n    ")
-this.dQ.k(0,w,[C.a,C.a,C.a,[j5]])
+this.ds.k(0,w,[C.a,C.a,C.a,[j5]])
 j6=x.createTextNode("\n  ")
-this.d9.sfb([this.dl])
-this.d0.k(0,this.d9,[[j4,this.dd,j6]])
+this.cV.sfj([this.d2])
+this.cY.k(0,this.cV,[[j4,this.cW,j6]])
 j7=x.createTextNode("\n")
-this.d5.appendChild(j7)
+this.cO.appendChild(j7)
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.ds=w
+this.d6=w
 this.l(w)
 j8=x.createTextNode("\n  Using the ")
-this.ds.appendChild(j8)
-w=S.b(x,"em",this.ds)
-this.dz=w
+this.d6.appendChild(j8)
+w=S.b(x,"em",this.d6)
+this.dm=w
 this.l(w)
 j9=x.createTextNode("acx-scorecard-suggestion-to-separate-line")
-this.dz.appendChild(j9)
+this.dm.appendChild(j9)
 k0=x.createTextNode(" mixin:\n")
-this.ds.appendChild(k0)
+this.d6.appendChild(k0)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,208)
-this.e5=w
+w=U.dD(this,208)
+this.dR=w
 w=w.e
-this.dP=w
+this.dt=w
 y.appendChild(w)
-w=this.dP
+w=this.dt
 w.className="customize-suggestion-to-separate-line"
 this.h(w)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.e5.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.dh=w
+this.dc=F.dz(null,t.n(C.b,this.a.Q),this.dR.a.b)
 k1=x.createTextNode("\n  ")
-w=N.b4(this,210)
-this.di=w
+w=N.b0(this,210)
+this.d7=w
 w=w.e
-this.cT=w
+this.cQ=w
 w.setAttribute("changeType","POSITIVE")
-this.cT.setAttribute("description","+$24.20 (15%)")
-this.cT.setAttribute("label","Estimated earnings")
-this.cT.setAttribute("suggestionAfter","suggestion in separate line")
-this.cT.setAttribute("value","$158.22")
-this.h(this.cT)
-w=this.di.a.b
-u=this.cT
+this.cQ.setAttribute("description","+$24.20 (15%)")
+this.cQ.setAttribute("label","Estimated earnings")
+this.cQ.setAttribute("suggestionAfter","suggestion in separate line")
+this.cQ.setAttribute("value","$158.22")
+this.h(this.cQ)
+w=this.d7.a.b
+u=this.cQ
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.dR=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.dK=w
 k2=x.createTextNode("\n  ")
-this.di.k(0,w,[C.a,C.a,C.a,[k2]])
+this.d7.k(0,w,[C.a,C.a,C.a,[k2]])
 k3=x.createTextNode("\n")
-this.dh.sfb([this.dR])
-this.e5.k(0,this.dh,[[k1,this.cT,k3]])
+this.dc.sfj([this.dK])
+this.dR.k(0,this.dc,[[k1,this.cQ,k3]])
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.dF=w
+this.dn=w
 this.l(w)
 k4=x.createTextNode("\n  Using the ")
-this.dF.appendChild(k4)
-w=S.b(x,"em",this.dF)
-this.e6=w
+this.dn.appendChild(k4)
+w=S.b(x,"em",this.dn)
+this.dT=w
 this.l(w)
 k5=x.createTextNode("acx-scorecard-vertical-align")
-this.e6.appendChild(k5)
+this.dT.appendChild(k5)
 k6=x.createTextNode(" mixin to top align scorecards:\n")
-this.dF.appendChild(k6)
+this.dn.appendChild(k6)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,220)
-this.dj=w
+w=U.dD(this,220)
+this.d8=w
 w=w.e
-this.de=w
+this.dd=w
 y.appendChild(w)
-w=this.de
+w=this.dd
 w.className="vertically-align-scorecard-top"
 this.h(w)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.dj.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.dS=w
+this.dF=F.dz(null,t.n(C.b,this.a.Q),this.d8.a.b)
 k7=x.createTextNode("\n  ")
-w=N.b4(this,222)
-this.dJ=w
+w=N.b0(this,222)
+this.dO=w
 w=w.e
-this.el=w
+this.e1=w
 w.setAttribute("description","+$24.20 (15%)")
-this.el.setAttribute("label","Estimated earnings")
-this.el.setAttribute("value","$158.22")
-this.h(this.el)
-w=this.dJ.a.b
-u=this.el
+this.e1.setAttribute("label","Estimated earnings")
+this.e1.setAttribute("value","$158.22")
+this.h(this.e1)
+w=this.dO.a.b
+u=this.e1
 s=t.n(C.b,this.a.Q)
-this.dV=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.dY=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 k8=x.createTextNode("\n    ")
 w=x.createElement("div")
-this.cD=w
+this.cF=w
 this.h(w)
 k9=x.createTextNode("\n      This")
-this.cD.appendChild(k9)
-w=S.b(x,"br",this.cD)
-this.fz=w
+this.cF.appendChild(k9)
+w=S.b(x,"br",this.cF)
+this.fM=w
 this.l(w)
 l0=x.createTextNode("\n      injected")
-this.cD.appendChild(l0)
-w=S.b(x,"br",this.cD)
-this.eS=w
+this.cF.appendChild(l0)
+w=S.b(x,"br",this.cF)
+this.eZ=w
 this.l(w)
 l1=x.createTextNode("\n      content")
-this.cD.appendChild(l1)
-w=S.b(x,"br",this.cD)
-this.fg=w
+this.cF.appendChild(l1)
+w=S.b(x,"br",this.cF)
+this.fd=w
 this.l(w)
 l2=x.createTextNode("\n      takes")
-this.cD.appendChild(l2)
-w=S.b(x,"br",this.cD)
-this.fA=w
+this.cF.appendChild(l2)
+w=S.b(x,"br",this.cF)
+this.fN=w
 this.l(w)
 l3=x.createTextNode("\n      up")
-this.cD.appendChild(l3)
-w=S.b(x,"br",this.cD)
-this.fB=w
+this.cF.appendChild(l3)
+w=S.b(x,"br",this.cF)
+this.fO=w
 this.l(w)
 l4=x.createTextNode("\n      a")
-this.cD.appendChild(l4)
-w=S.b(x,"br",this.cD)
-this.fh=w
+this.cF.appendChild(l4)
+w=S.b(x,"br",this.cF)
+this.fo=w
 this.l(w)
 l5=x.createTextNode("\n      lot")
-this.cD.appendChild(l5)
-w=S.b(x,"br",this.cD)
-this.fi=w
+this.cF.appendChild(l5)
+w=S.b(x,"br",this.cF)
+this.fp=w
 this.l(w)
 l6=x.createTextNode("\n      of")
-this.cD.appendChild(l6)
-w=S.b(x,"br",this.cD)
-this.ew=w
+this.cF.appendChild(l6)
+w=S.b(x,"br",this.cF)
+this.ez=w
 this.l(w)
 l7=x.createTextNode("\n      lines")
-this.cD.appendChild(l7)
-w=S.b(x,"br",this.cD)
-this.fj=w
+this.cF.appendChild(l7)
+w=S.b(x,"br",this.cF)
+this.fq=w
 this.l(w)
 l8=x.createTextNode("\n    ")
-this.cD.appendChild(l8)
+this.cF.appendChild(l8)
 l9=x.createTextNode("\n  ")
-this.dJ.k(0,this.dV,[C.a,C.a,C.a,[k8,this.cD,l9]])
+this.dO.k(0,this.dY,[C.a,C.a,C.a,[k8,this.cF,l9]])
 m0=x.createTextNode("\n  ")
-w=N.b4(this,246)
-this.eK=w
+w=N.b0(this,246)
+this.eQ=w
 w=w.e
-this.dK=w
+this.dP=w
 w.setAttribute("description","-$39.63 (15%)")
-this.dK.setAttribute("label","Estimated cost")
-this.dK.setAttribute("value","$264.23")
-this.h(this.dK)
-w=this.eK.a.b
-u=this.dK
+this.dP.setAttribute("label","Estimated cost")
+this.dP.setAttribute("value","$264.23")
+this.h(this.dP)
+w=this.eQ.a.b
+u=this.dP
 s=t.n(C.b,this.a.Q)
-this.f2=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.f_=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 m1=x.createTextNode("\n    ")
 w=x.createElement("div")
-this.ep=w
+this.ej=w
 this.h(w)
 m2=x.createTextNode("\n      This")
-this.ep.appendChild(m2)
-w=S.b(x,"br",this.ep)
-this.fC=w
+this.ej.appendChild(m2)
+w=S.b(x,"br",this.ej)
+this.fP=w
 this.l(w)
 m3=x.createTextNode("\n      has")
-this.ep.appendChild(m3)
-w=S.b(x,"br",this.ep)
-this.eL=w
+this.ej.appendChild(m3)
+w=S.b(x,"br",this.ej)
+this.eA=w
 this.l(w)
 m4=x.createTextNode("\n      less")
-this.ep.appendChild(m4)
-w=S.b(x,"br",this.ep)
-this.fD=w
+this.ej.appendChild(m4)
+w=S.b(x,"br",this.ej)
+this.fs=w
 this.l(w)
 m5=x.createTextNode("\n      lines")
-this.ep.appendChild(m5)
-w=S.b(x,"br",this.ep)
-this.fE=w
+this.ej.appendChild(m5)
+w=S.b(x,"br",this.ej)
+this.fQ=w
 this.l(w)
 m6=x.createTextNode("\n    ")
-this.ep.appendChild(m6)
+this.ej.appendChild(m6)
 m7=x.createTextNode("\n  ")
-this.eK.k(0,this.f2,[C.a,C.a,C.a,[m1,this.ep,m7]])
+this.eQ.k(0,this.f_,[C.a,C.a,C.a,[m1,this.ej,m7]])
 m8=x.createTextNode("\n")
-this.dS.sfb([this.dV,this.f2])
-this.dj.k(0,this.dS,[[k7,this.el,m0,this.dK,m8]])
+this.dF.sfj([this.dY,this.f_])
+this.d8.k(0,this.dF,[[k7,this.e1,m0,this.dP,m8]])
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.ex=w
+this.eB=w
 this.l(w)
 m9=x.createTextNode("\n  Using the ")
-this.ex.appendChild(m9)
-w=S.b(x,"em",this.ex)
-this.fZ=w
+this.eB.appendChild(m9)
+w=S.b(x,"em",this.eB)
+this.hh=w
 this.l(w)
 n0=x.createTextNode("acx-scorecard-vertical-align")
-this.fZ.appendChild(n0)
+this.hh.appendChild(n0)
 n1=x.createTextNode(" mixin to bottom align scorecards:\n")
-this.ex.appendChild(n1)
+this.eB.appendChild(n1)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,267)
-this.eM=w
+w=U.dD(this,267)
+this.eR=w
 w=w.e
-this.fk=w
+this.ft=w
 y.appendChild(w)
-w=this.fk
+w=this.ft
 w.className="vertically-align-scorecard-bottom"
 this.h(w)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.eM.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.eT=w
+this.eS=F.dz(null,t.n(C.b,this.a.Q),this.eR.a.b)
 n2=x.createTextNode("\n  ")
-w=N.b4(this,269)
-this.ed=w
+w=N.b0(this,269)
+this.e2=w
 w=w.e
-this.f3=w
+this.f0=w
 w.setAttribute("description","+$24.20 (15%)")
-this.f3.setAttribute("label","Estimated earnings")
-this.f3.setAttribute("value","$158.22")
-this.h(this.f3)
-w=this.ed.a.b
-u=this.f3
+this.f0.setAttribute("label","Estimated earnings")
+this.f0.setAttribute("value","$158.22")
+this.h(this.f0)
+w=this.e2.a.b
+u=this.f0
 s=t.n(C.b,this.a.Q)
-this.f4=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.ek=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 n3=x.createTextNode("\n    ")
 w=x.createElement("div")
-this.dG=w
+this.dL=w
 this.h(w)
 n4=x.createTextNode("\n      This")
-this.dG.appendChild(n4)
-w=S.b(x,"br",this.dG)
-this.hu=w
+this.dL.appendChild(n4)
+w=S.b(x,"br",this.dL)
+this.fe=w
 this.l(w)
 n5=x.createTextNode("\n      injected")
-this.dG.appendChild(n5)
-w=S.b(x,"br",this.dG)
-this.fF=w
+this.dL.appendChild(n5)
+w=S.b(x,"br",this.dL)
+this.ff=w
 this.l(w)
 n6=x.createTextNode("\n      content")
-this.dG.appendChild(n6)
-w=S.b(x,"br",this.dG)
-this.h0=w
+this.dL.appendChild(n6)
+w=S.b(x,"br",this.dL)
+this.fu=w
 this.l(w)
 n7=x.createTextNode("\n      takes")
-this.dG.appendChild(n7)
-w=S.b(x,"br",this.dG)
-this.hv=w
+this.dL.appendChild(n7)
+w=S.b(x,"br",this.dL)
+this.eC=w
 this.l(w)
 n8=x.createTextNode("\n      up")
-this.dG.appendChild(n8)
-w=S.b(x,"br",this.dG)
-this.f5=w
+this.dL.appendChild(n8)
+w=S.b(x,"br",this.dL)
+this.eD=w
 this.l(w)
 n9=x.createTextNode("\n      a")
-this.dG.appendChild(n9)
-w=S.b(x,"br",this.dG)
-this.hQ=w
+this.dL.appendChild(n9)
+w=S.b(x,"br",this.dL)
+this.fR=w
 this.l(w)
 o0=x.createTextNode("\n      lot")
-this.dG.appendChild(o0)
-w=S.b(x,"br",this.dG)
-this.eU=w
+this.dL.appendChild(o0)
+w=S.b(x,"br",this.dL)
+this.el=w
 this.l(w)
 o1=x.createTextNode("\n      of")
-this.dG.appendChild(o1)
-w=S.b(x,"br",this.dG)
-this.iT=w
+this.dL.appendChild(o1)
+w=S.b(x,"br",this.dL)
+this.hz=w
 this.l(w)
 o2=x.createTextNode("\n      lines")
-this.dG.appendChild(o2)
-w=S.b(x,"br",this.dG)
-this.dL=w
+this.dL.appendChild(o2)
+w=S.b(x,"br",this.dL)
+this.dM=w
 this.l(w)
 o3=x.createTextNode("\n    ")
-this.dG.appendChild(o3)
+this.dL.appendChild(o3)
 o4=x.createTextNode("\n  ")
-this.ed.k(0,this.f4,[C.a,C.a,C.a,[n3,this.dG,o4]])
+this.e2.k(0,this.ek,[C.a,C.a,C.a,[n3,this.dL,o4]])
 o5=x.createTextNode("\n  ")
-w=N.b4(this,293)
-this.eV=w
+w=N.b0(this,293)
+this.f1=w
 w=w.e
-this.fl=w
+this.fv=w
 w.setAttribute("description","-$39.63 (15%)")
-this.fl.setAttribute("label","Estimated cost")
-this.fl.setAttribute("value","$264.23")
-this.h(this.fl)
-w=this.eV.a.b
-u=this.fl
+this.fv.setAttribute("label","Estimated cost")
+this.fv.setAttribute("value","$264.23")
+this.h(this.fv)
+w=this.f1.a.b
+u=this.fv
 s=t.n(C.b,this.a.Q)
-this.fm=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.f2=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 o6=x.createTextNode("\n    ")
 w=x.createElement("div")
-this.ey=w
+this.eE=w
 this.h(w)
 o7=x.createTextNode("\n      This")
-this.ey.appendChild(o7)
-w=S.b(x,"br",this.ey)
-this.is=w
+this.eE.appendChild(o7)
+w=S.b(x,"br",this.eE)
+this.hA=w
 this.l(w)
 o8=x.createTextNode("\n      has")
-this.ey.appendChild(o8)
-w=S.b(x,"br",this.ey)
-this.h1=w
+this.eE.appendChild(o8)
+w=S.b(x,"br",this.eE)
+this.hj=w
 this.l(w)
 o9=x.createTextNode("\n      less")
-this.ey.appendChild(o9)
-w=S.b(x,"br",this.ey)
-this.f6=w
+this.eE.appendChild(o9)
+w=S.b(x,"br",this.eE)
+this.f3=w
 this.l(w)
 p0=x.createTextNode("\n      lines")
-this.ey.appendChild(p0)
-w=S.b(x,"br",this.ey)
-this.hR=w
+this.eE.appendChild(p0)
+w=S.b(x,"br",this.eE)
+this.hB=w
 this.l(w)
 p1=x.createTextNode("\n    ")
-this.ey.appendChild(p1)
+this.eE.appendChild(p1)
 p2=x.createTextNode("\n  ")
-this.eV.k(0,this.fm,[C.a,C.a,C.a,[o6,this.ey,p2]])
+this.f1.k(0,this.f2,[C.a,C.a,C.a,[o6,this.eE,p2]])
 p3=x.createTextNode("\n")
-this.eT.sfb([this.f4,this.fm])
-this.eM.k(0,this.eT,[[n2,this.f3,o5,this.fl,p3]])
+this.eS.sfj([this.ek,this.f2])
+this.eR.k(0,this.eS,[[n2,this.f0,o5,this.fv,p3]])
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.eN=w
+this.em=w
 this.l(w)
 p4=x.createTextNode("\n  Using the ")
-this.eN.appendChild(p4)
-w=S.b(x,"em",this.eN)
-this.h2=w
+this.em.appendChild(p4)
+w=S.b(x,"em",this.em)
+this.h0=w
 this.l(w)
 p5=x.createTextNode("acx-scorecard-description-min-height")
-this.h2.appendChild(p5)
+this.h0.appendChild(p5)
 p6=x.createTextNode(" mixin to add a min height to description\n  to ensure injected content is aligned if description is optional (Description has to be '', not\n  null to ensure it shows up correctly):\n")
-this.eN.appendChild(p6)
+this.em.appendChild(p6)
 y.appendChild(x.createTextNode("\n"))
-w=U.dG(this,314)
-this.fn=w
+w=U.dD(this,314)
+this.fw=w
 w=w.e
-this.hS=w
+this.hY=w
 y.appendChild(w)
-w=this.hS
+w=this.hY
 w.className="vertically-align-scorecard-top"
 this.h(w)
-w=t.n(C.b,this.a.Q)
-w=new F.bP(new R.t(null,null,null,null,!0,!1),new R.t(null,null,null,null,!1,!1),this.fn.a.b,w,null,null,null,"chevron_left","chevron_right",null,!1,!1,!1,C.am,!1,!1,!1)
-w.z=!0
-this.h3=w
+this.fz=F.dz(null,t.n(C.b,this.a.Q),this.fw.a.b)
 p7=x.createTextNode("\n  ")
-w=N.b4(this,316)
-this.fM=w
+w=N.b0(this,316)
+this.fg=w
 w=w.e
-this.ee=w
+this.dZ=w
 w.setAttribute("description","+$24.20 (15%)")
-this.ee.setAttribute("label","Scorecard with description")
-this.ee.setAttribute("value","$158.22")
-this.h(this.ee)
-w=this.fM.a.b
-u=this.ee
+this.dZ.setAttribute("label","Scorecard with description")
+this.dZ.setAttribute("value","$158.22")
+this.h(this.dZ)
+w=this.fg.a.b
+u=this.dZ
 s=t.n(C.b,this.a.Q)
-this.hU=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.h2=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 p8=x.createTextNode("\n    ")
 w=x.createElement("div")
-this.hV=w
+this.h3=w
 this.h(w)
 p9=x.createTextNode("\n      Some injected content.\n    ")
-this.hV.appendChild(p9)
+this.h3.appendChild(p9)
 q0=x.createTextNode("\n  ")
-this.fM.k(0,this.hU,[C.a,C.a,C.a,[p8,this.hV,q0]])
+this.fg.k(0,this.h2,[C.a,C.a,C.a,[p8,this.h3,q0]])
 q1=x.createTextNode("\n  ")
-w=N.b4(this,322)
-this.h5=w
+w=N.b0(this,322)
+this.fB=w
 w=w.e
-this.h4=w
+this.fA=w
 w.setAttribute("description","")
-this.h4.setAttribute("label","Scorecard without description")
-this.h4.setAttribute("value","$264.23")
-this.h(this.h4)
-w=this.h5.a.b
-u=this.h4
+this.fA.setAttribute("label","Scorecard without description")
+this.fA.setAttribute("value","$264.23")
+this.h(this.fA)
+w=this.fB.a.b
+u=this.fA
 s=t.n(C.b,this.a.Q)
-this.iU=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.hC=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 q2=x.createTextNode("\n    ")
 w=x.createElement("div")
-this.hw=w
+this.fS=w
 this.h(w)
 q3=x.createTextNode("\n      Some injected content.\n    ")
-this.hw.appendChild(q3)
+this.fS.appendChild(q3)
 q4=x.createTextNode("\n  ")
-this.h5.k(0,this.iU,[C.a,C.a,C.a,[q2,this.hw,q4]])
+this.fB.k(0,this.hC,[C.a,C.a,C.a,[q2,this.fS,q4]])
 q5=x.createTextNode("\n  ")
-w=N.b4(this,328)
-this.f7=w
+w=N.b0(this,328)
+this.eF=w
 w=w.e
-this.fN=w
-w.className="description-with-min-height themeable"
-w.setAttribute("description","")
-this.fN.setAttribute("label","Scorecard without description with min-height mixin")
-this.fN.setAttribute("value","$264.23")
-this.h(this.fN)
-w=this.f7.a.b
-u=this.fN
+this.f4=w
+w.className=Q.bp("","description-with-min-height"," ","themeable","")
+this.f4.setAttribute("description","")
+this.f4.setAttribute("label","Scorecard without description with min-height mixin")
+this.f4.setAttribute("value","$264.23")
+this.h(this.f4)
+w=this.eF.a.b
+u=this.f4
 s=t.n(C.b,this.a.Q)
-this.it=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.hk=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 q6=x.createTextNode("\n    ")
 w=x.createElement("div")
-this.iV=w
+this.hD=w
 this.h(w)
 q7=x.createTextNode("\n      Some injected content.\n    ")
-this.iV.appendChild(q7)
+this.hD.appendChild(q7)
 q8=x.createTextNode("\n  ")
-this.f7.k(0,this.it,[C.a,C.a,C.a,[q6,this.iV,q8]])
+this.eF.k(0,this.hk,[C.a,C.a,C.a,[q6,this.hD,q8]])
 q9=x.createTextNode("\n")
-this.h3.sfb([this.hU,this.iU,this.it])
-this.fn.k(0,this.h3,[[p7,this.ee,q1,this.h4,q5,this.fN,q9]])
+this.fz.sfj([this.h2,this.hC,this.hk])
+this.fw.k(0,this.fz,[[p7,this.dZ,q1,this.fA,q5,this.f4,q9]])
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.jn=w
+this.hZ=w
 this.l(w)
 r0=x.createTextNode("\n  Using the ng-content directive to inject other components into the scorecard.\n")
-this.jn.appendChild(r0)
+this.hZ.appendChild(r0)
 y.appendChild(x.createTextNode("\n"))
-w=N.b4(this,338)
-this.hx=w
+w=N.b0(this,338)
+this.fT=w
 w=w.e
-this.h6=w
+this.fC=w
 y.appendChild(w)
-this.h6.setAttribute("changeType","POSITIVE")
-this.h6.setAttribute("description","+$24.20 (15%)")
-this.h6.setAttribute("label","Estimated earnings")
-this.h6.setAttribute("value","$158.22")
-this.h(this.h6)
-w=this.hx.a.b
-u=this.h6
+this.fC.setAttribute("changeType","POSITIVE")
+this.fC.setAttribute("description","+$24.20 (15%)")
+this.fC.setAttribute("label","Estimated earnings")
+this.fC.setAttribute("value","$158.22")
+this.h(this.fC)
+w=this.fT.a.b
+u=this.fC
 s=t.n(C.b,this.a.Q)
-this.k5=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.it=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
 r1=x.createTextNode("\n  ")
 w=x.createElement("name")
-this.h7=w
+this.fD=w
 w.className="injected-div"
 this.l(w)
 r2=x.createTextNode("This div was injected after the label")
-this.h7.appendChild(r2)
+this.fD.appendChild(r2)
 r3=x.createTextNode("\n  ")
 w=x.createElement("value")
-this.hy=w
+this.fU=w
 w.className="injected-div"
 this.l(w)
 r4=x.createTextNode("This div was injected after the value")
-this.hy.appendChild(r4)
+this.fU.appendChild(r4)
 r5=x.createTextNode("\n  ")
 w=x.createElement("div")
-this.iW=w
+this.hE=w
 w.className="injected-div"
 this.h(w)
 r6=x.createTextNode("This div was injected under the scorecard")
-this.iW.appendChild(r6)
+this.hE.appendChild(r6)
 r7=x.createTextNode("\n")
-this.hx.k(0,this.k5,[[this.h7],[this.hy],C.a,[r1,r3,r5,this.iW,r7]])
+this.fT.k(0,this.it,[[this.fD],[this.fU],C.a,[r1,r3,r5,this.hE,r7]])
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.k6=w
+this.iu=w
 this.l(w)
 r8=x.createTextNode("\n  Using the extraBig input to display a bigger version of the scorecard,\n  with margins, instead of padding.\n")
-this.k6.appendChild(r8)
+this.iu.appendChild(r8)
 y.appendChild(x.createTextNode("\n"))
-w=N.b4(this,353)
-this.h8=w
+w=N.b0(this,353)
+this.fE=w
 w=w.e
-this.fo=w
+this.eT=w
 y.appendChild(w)
-this.fo.setAttribute("changeType","POSITIVE")
-this.fo.setAttribute("description","+$24.20 (15%)")
-this.fo.setAttribute("extraBig","")
-this.fo.setAttribute("label","Estimated earnings")
-this.fo.setAttribute("value","$158.22")
-this.h(this.fo)
-w=this.h8.a.b
-u=this.fo
+this.eT.setAttribute("changeType","POSITIVE")
+this.eT.setAttribute("description","+$24.20 (15%)")
+this.eT.setAttribute("extraBig","")
+this.eT.setAttribute("label","Estimated earnings")
+this.eT.setAttribute("value","$158.22")
+this.h(this.eT)
+w=this.fE.a.b
+u=this.eT
 s=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
-this.hW=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,s)
+this.h4=w
 r9=x.createTextNode("\n")
-this.h8.k(0,w,[C.a,C.a,C.a,[r9]])
+this.fE.k(0,w,[C.a,C.a,C.a,[r9]])
 y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"p",y)
-this.k7=w
+this.iv=w
 this.l(w)
 s0=x.createTextNode("\n  Using the changeGlyph input to display an arrow glyph next to the description,\n  which depends on the changeType set.\n")
-this.k7.appendChild(s0)
+this.iv.appendChild(s0)
 y.appendChild(x.createTextNode("\n"))
-w=N.b4(this,359)
-this.ha=w
+w=N.b0(this,359)
+this.hm=w
 w=w.e
-this.h9=w
+this.hl=w
 y.appendChild(w)
-this.h9.setAttribute("changeType","POSITIVE")
-this.h9.setAttribute("description","$24.20 (15%)")
-this.h9.setAttribute("label","Estimated earnings")
-this.h9.setAttribute("value","$158.22")
-this.h(this.h9)
-w=this.ha.a.b
-u=this.h9
+this.hl.setAttribute("changeType","POSITIVE")
+this.hl.setAttribute("description","$24.20 (15%)")
+this.hl.setAttribute("label","Estimated earnings")
+this.hl.setAttribute("value","$158.22")
+this.h(this.hl)
+w=this.hm.a.b
+u=this.hl
 t=t.n(C.b,this.a.Q)
-w=new L.am(new P.h(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,t)
-this.k8=w
+w=new L.ak(new P.i(null,null,0,null,null,null,null,r),!1,!1,!0,!1,w,u,null,null,null,!1,null,null,null,!1,!1,null,u,t)
+this.k0=w
 s1=x.createTextNode("\n")
-this.ha.k(0,w,[C.a,C.a,C.a,[s1]])
+this.hm.k(0,w,[C.a,C.a,C.a,[s1]])
 y.appendChild(x.createTextNode("\n"))
-x=this.ai.f
+x=this.aj.f
 x.toString
-this.M(C.a,[new P.i(x,[H.e(x,0)]).C(this.A(this.gTk()))])
+this.N(C.a,[new P.h(x,[H.e(x,0)]).B(this.v(this.gTA()))])
 return},
-T:function(n,o,p){if(n===C.ab&&94===o)return this.bm
-if(n===C.r7&&94===o)return this.bv
-if(n===C.fj&&94===o)return this.bd
-if(n===C.ae&&94===o)return this.bD
-if(n===C.ap&&94===o)return this.ai
-if(n===C.an&&94===o)return this.bE
-if((n===C.ai||n===C.q||n===C.o)&&94===o)return this.be
-if(n===C.aa&&94===o)return this.bF
-if(n===C.bS&&94===o)return this.bt
+P:function(n,o,p){if(n===C.ad&&94===o)return this.bk
+if(n===C.r5&&94===o)return this.aS
+if(n===C.fm&&94===o)return this.b6
+if(n===C.ag&&94===o)return this.bQ
+if(n===C.ap&&94===o)return this.aj
+if(n===C.an&&94===o)return this.bl
+if((n===C.aj||n===C.r||n===C.p||n===C.c)&&94===o)return this.bm
+if(n===C.ac&&94===o)return this.bR
+if(n===C.bR&&94===o)return this.bx
 return p},
 q:function(){var y,x,w,v,u,t
 y=this.f
@@ -2918,366 +2882,366 @@ if(x){w=this.z
 w.z="Embed me!"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.y.a.su(1)
+if(v)this.y.a.st(1)
 if(x){w=this.cx
 w.z="Selected"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
 w.fr=!0
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.ch.a.su(1)
+if(v)this.ch.a.st(1)
 if(x){w=this.dx
 w.z="Right aligned"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.db.a.su(1)
-if(x)this.go.a0()
+if(v)this.db.a.st(1)
+if(x)this.go.E()
 if(x){w=this.k3
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.k2.a.su(1)
+if(v)this.k2.a.st(1)
 if(x){w=this.r2
 w.z="Ad RPM"
 w.Q="$0.58"
 w.db="-$0.02 (3%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.r1.a.su(1)
+if(v)this.r1.a.st(1)
 if(x){w=this.x1
 w.z="Keywords"
 w.Q="412"
 w.db="Suggestions to add"
 v=!0}else v=!1
-if(v)this.ry.a.su(1)
-if(x){this.R.cy=y.a
+if(v)this.ry.a.st(1)
+if(x){this.T.cy=y.a
 v=!0}else v=!1
-if(v)this.y2.a.su(1)
-if(x)this.R.a0()
-if(x){w=this.K
+if(v)this.y2.a.st(1)
+if(x)this.T.E()
+if(x){w=this.L
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.J.a.su(1)
-if(x){w=this.a_
+if(v)this.K.a.st(1)
+if(x){w=this.a2
 w.z="Ad RPM"
 w.Q="$0.58"
 w.db="-$0.02 (3%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.Y.a.su(1)
-if(x){w=this.P
+if(v)this.a_.a.st(1)
+if(x){w=this.S
 w.z="Keywords"
 w.Q="412"
 w.db="Suggestions to add"
 v=!0}else v=!1
-if(v)this.Z.a.su(1)
-if(x){this.ab.cy=y.b
+if(v)this.Z.a.st(1)
+if(x){this.aa.cy=y.b
 v=!0}else v=!1
-if(v)this.a9.a.su(1)
-if(x)this.ab.a0()
-if(x){w=this.ao
+if(v)this.a9.a.st(1)
+if(x)this.aa.E()
+if(x){w=this.ak
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.ah.a.su(1)
+if(v)this.ah.a.st(1)
 if(x){w=this.ar
 w.z="Ad RPM"
 w.Q="$0.58"
 w.db="-$0.02 (3%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.aq.a.su(1)
+if(v)this.ap.a.st(1)
 if(x){w=this.au
 w.z="Keywords"
 w.Q="412"
 w.db="Suggestions to add"
 v=!0}else v=!1
-if(v)this.aj.a.su(1)
-if(x){this.at.cy=y.c
+if(v)this.an.a.st(1)
+if(x){this.av.cy=y.c
 v=!0}else v=!1
-if(v)this.aB.a.su(1)
-if(x)this.at.a0()
-if(x){w=this.aQ
+if(v)this.aL.a.st(1)
+if(x)this.av.E()
+if(x){w=this.aH
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.aO.a.su(1)
-if(x){w=this.ac
+if(v)this.aM.a.st(1)
+if(x){w=this.as
 w.z="Ad RPM"
 w.Q="$0.58"
 w.db="-$0.02 (3%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.aZ.a.su(1)
+if(v)this.aV.a.st(1)
 if(x){w=this.ax
 w.z="Keywords"
 w.Q="412"
 w.db="Suggestions to add"
 v=!0}else v=!1
-if(v)this.aS.a.su(1)
-if(x){this.am.dy=!0
+if(v)this.aG.a.st(1)
+if(x){this.ay.dy=!0
 v=!0}else v=!1
-if(v)this.bh.a.su(1)
-if(x)this.am.a0()
-if(x){w=this.b4
+if(v)this.b4.a.st(1)
+if(x)this.ay.E()
+if(x){w=this.aQ
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.b8.a.su(1)
-if(x){w=this.cf
+if(v)this.ae.a.st(1)
+if(x){w=this.c5
 w.z="Ad RPM"
 w.Q="$0.58"
 w.db="-$0.02 (3%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.aG.a.su(1)
-if(x){w=this.ba
+if(v)this.aK.a.st(1)
+if(x){w=this.bi
 w.z="Keywords"
 w.Q="412"
 w.db="Suggestions to add"
 v=!0}else v=!1
-if(v)this.bi.a.su(1)
-if(x)this.bd.a=!0
-this.ai.saW(y.e)
-this.ai.b1()
-if(x)this.ai.a0()
-if(x){w=this.be
-w.dy="Number of scorecards"
-w.rx=!0
+if(v)this.br.a.st(1)
+if(x)this.b6.a=!0
+this.aj.sb_(y.e)
+this.aj.b5()
+if(x)this.aj.E()
+if(x){w=this.bm
+w.fr="Number of scorecards"
+w.ry=!0
 v=!0}else v=!1
-if(v)this.aA.a.su(1)
-if(x){w=this.aL
+if(v)this.bc.a.st(1)
+if(x){w=this.b3
 w.cy=y.b
 w.db=!0
 v=!0}else v=!1
-if(v)this.b3.a.su(1)
-if(x)this.aL.a0()
+if(v)this.b8.a.st(1)
+if(x)this.b3.E()
 u=y.d
-w=this.kN
-if(w==null?u!=null:w!==u){this.bq.scl(u)
-this.kN=u}this.bq.ca()
-if(x){w=this.bf
+w=this.kJ
+if(w==null?u!=null:w!==u){this.bp.sco(u)
+this.kJ=u}this.bp.ca()
+if(x){w=this.b9
 w.cy=y.b
 w.db=!0
 w.dy=!0
 v=!0}else v=!1
-if(v)this.bR.a.su(1)
-if(x)this.bf.a0()
+if(v)this.bt.a.st(1)
+if(x)this.b9.E()
 t=y.d
-w=this.hX
-if(w==null?t!=null:w!==t){this.bN.scl(t)
-this.hX=t}this.bN.ca()
-if(x)this.bJ.a0()
-if(x){w=this.bS
+w=this.i_
+if(w==null?t!=null:w!==t){this.bF.sco(t)
+this.i_=t}this.bF.ca()
+if(x)this.bB.E()
+if(x){w=this.bC
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.c_.a.su(1)
-if(x){w=this.by
+if(v)this.c4.a.st(1)
+if(x){w=this.c_
 w.z="Ad RPM"
 w.Q="$0.58"
 w.db="-$0.02 (3%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.bs.a.su(1)
-if(x){w=this.cb
+if(v)this.bv.a.st(1)
+if(x){w=this.cd
 w.z="Keywords"
 w.Q="412"
 w.db="Suggestions to add"
 v=!0}else v=!1
-if(v)this.bK.a.su(1)
-if(x)this.bz.a0()
-if(x){w=this.cz
+if(v)this.bG.a.st(1)
+if(x)this.bh.E()
+if(x){w=this.c9
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.bX.a.su(1)
-if(x){w=this.bL
+if(v)this.c0.a.st(1)
+if(x){w=this.bg
 w.z="Ad RPM"
 w.Q="$0.58"
 w.db="-$0.02 (3%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.bk.a.su(1)
-if(x){w=this.c6
+if(v)this.bH.a.st(1)
+if(x){w=this.ci
 w.z="Keywords"
 w.Q="412"
 w.db="Suggestions to add"
 v=!0}else v=!1
-if(v)this.c0.a.su(1)
-if(x)this.cM.a0()
-if(x){w=this.cB
+if(v)this.bW.a.st(1)
+if(x)this.cw.E()
+if(x){w=this.cm
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.cx=!0
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.ci.a.su(1)
-if(x)this.ck.a0()
-if(x){w=this.cs
+if(v)this.cz.a.st(1)
+if(x)this.cA.E()
+if(x){w=this.cD
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.cx=!0
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.cC.a.su(1)
-if(x){w=this.cN
+if(v)this.ct.a.st(1)
+if(x){w=this.cE
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.cx=!0
 w.db="-$24.20 (15%)"
-w.se9("NEGATIVE")
+w.seb("NEGATIVE")
 v=!0}else v=!1
-if(v)this.cv.a.su(1)
-if(x)this.d9.a0()
-if(x){w=this.dl
+if(v)this.cB.a.st(1)
+if(x)this.cV.E()
+if(x){w=this.d2
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.dx="Suggestions to add"
 v=!0}else v=!1
-if(v)this.dQ.a.su(1)
-if(x)this.dh.a0()
-if(x){w=this.dR
+if(v)this.ds.a.st(1)
+if(x)this.dc.E()
+if(x){w=this.dK
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
 w.dx="suggestion in separate line"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.di.a.su(1)
-if(x)this.dS.a0()
-if(x){w=this.dV
+if(v)this.d7.a.st(1)
+if(x)this.dF.E()
+if(x){w=this.dY
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
 v=!0}else v=!1
-if(v)this.dJ.a.su(1)
+if(v)this.dO.a.st(1)
+if(x){w=this.f_
+w.z="Estimated cost"
+w.Q="$264.23"
+w.db="-$39.63 (15%)"
+v=!0}else v=!1
+if(v)this.eQ.a.st(1)
+if(x)this.eS.E()
+if(x){w=this.ek
+w.z="Estimated earnings"
+w.Q="$158.22"
+w.db="+$24.20 (15%)"
+v=!0}else v=!1
+if(v)this.e2.a.st(1)
 if(x){w=this.f2
 w.z="Estimated cost"
 w.Q="$264.23"
 w.db="-$39.63 (15%)"
 v=!0}else v=!1
-if(v)this.eK.a.su(1)
-if(x)this.eT.a0()
-if(x){w=this.f4
-w.z="Estimated earnings"
-w.Q="$158.22"
-w.db="+$24.20 (15%)"
-v=!0}else v=!1
-if(v)this.ed.a.su(1)
-if(x){w=this.fm
-w.z="Estimated cost"
-w.Q="$264.23"
-w.db="-$39.63 (15%)"
-v=!0}else v=!1
-if(v)this.eV.a.su(1)
-if(x)this.h3.a0()
-if(x){w=this.hU
+if(v)this.f1.a.st(1)
+if(x)this.fz.E()
+if(x){w=this.h2
 w.z="Scorecard with description"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
 v=!0}else v=!1
-if(v)this.fM.a.su(1)
-if(x){w=this.iU
+if(v)this.fg.a.st(1)
+if(x){w=this.hC
 w.z="Scorecard without description"
 w.Q="$264.23"
 w.db=""
 v=!0}else v=!1
-if(v)this.h5.a.su(1)
-if(x){w=this.it
+if(v)this.fB.a.st(1)
+if(x){w=this.hk
 w.z="Scorecard without description with min-height mixin"
 w.Q="$264.23"
 w.db=""
 v=!0}else v=!1
-if(v)this.f7.a.su(1)
-if(x){w=this.k5
+if(v)this.eF.a.st(1)
+if(x){w=this.it
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.hx.a.su(1)
-if(x){w=this.hW
+if(v)this.fT.a.st(1)
+if(x){w=this.h4
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.db="+$24.20 (15%)"
 w.dy=!0
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.h8.a.su(1)
-if(x){w=this.k8
+if(v)this.fE.a.st(1)
+if(x){w=this.k0
 w.z="Estimated earnings"
 w.Q="$158.22"
 w.cx=!0
 w.db="$24.20 (15%)"
-w.se9("POSITIVE")
+w.seb("POSITIVE")
 v=!0}else v=!1
-if(v)this.ha.a.su(1)
-this.b0.I()
-this.bc.I()
-if(this.b_){this.aL.sfb(this.b0.bU(new E.MT()))
-this.b_=!1}if(this.bA){this.bf.sfb(this.bc.bU(new E.MU()))
-this.bA=!1}this.y.B(x)
-this.ch.B(x)
-this.db.B(x)
-this.k2.B(x)
-this.r1.B(x)
-this.ry.B(x)
-this.J.B(x)
-this.Y.B(x)
-this.Z.B(x)
-this.ah.B(x)
-this.aq.B(x)
-this.aj.B(x)
-this.aO.B(x)
-this.aZ.B(x)
-this.aS.B(x)
-this.b8.B(x)
-this.aG.B(x)
-this.bi.B(x)
-this.c_.B(x)
-this.bs.B(x)
-this.bK.B(x)
-this.bX.B(x)
-this.bk.B(x)
-this.c0.B(x)
-this.ci.B(x)
-this.cC.B(x)
-this.cv.B(x)
-this.dQ.B(x)
-this.di.B(x)
-this.dJ.B(x)
-this.eK.B(x)
-this.ed.B(x)
-this.eV.B(x)
-this.fM.B(x)
-this.h5.B(x)
-this.f7.B(x)
-this.hx.B(x)
-this.h8.B(x)
-this.ha.B(x)
+if(v)this.hm.a.st(1)
+this.aT.J()
+this.ba.J()
+if(this.b1){this.b3.sfj(this.aT.bS(new E.MR()))
+this.b1=!1}if(this.bL){this.b9.sfj(this.ba.bS(new E.MS()))
+this.bL=!1}this.y.A(x)
+this.ch.A(x)
+this.db.A(x)
+this.k2.A(x)
+this.r1.A(x)
+this.ry.A(x)
+this.K.A(x)
+this.a_.A(x)
+this.Z.A(x)
+this.ah.A(x)
+this.ap.A(x)
+this.an.A(x)
+this.aM.A(x)
+this.aV.A(x)
+this.aG.A(x)
+this.ae.A(x)
+this.aK.A(x)
+this.br.A(x)
+this.c4.A(x)
+this.bv.A(x)
+this.bG.A(x)
+this.c0.A(x)
+this.bH.A(x)
+this.bW.A(x)
+this.cz.A(x)
+this.ct.A(x)
+this.cB.A(x)
+this.ds.A(x)
+this.d7.A(x)
+this.dO.A(x)
+this.eQ.A(x)
+this.e2.A(x)
+this.f1.A(x)
+this.fg.A(x)
+this.fB.A(x)
+this.eF.A(x)
+this.fT.A(x)
+this.fE.A(x)
+this.hm.A(x)
 this.y.j()
 this.ch.j()
 this.db.j()
@@ -3286,59 +3250,59 @@ this.k2.j()
 this.r1.j()
 this.ry.j()
 this.y2.j()
-this.J.j()
-this.Y.j()
+this.K.j()
+this.a_.j()
 this.Z.j()
 this.a9.j()
 this.ah.j()
-this.aq.j()
-this.aj.j()
-this.aB.j()
-this.aO.j()
-this.aZ.j()
-this.aS.j()
-this.bh.j()
-this.b8.j()
+this.ap.j()
+this.an.j()
+this.aL.j()
+this.aM.j()
+this.aV.j()
 this.aG.j()
-this.bi.j()
-this.aA.j()
-this.b3.j()
-this.bR.j()
+this.b4.j()
+this.ae.j()
+this.aK.j()
 this.br.j()
-this.c_.j()
-this.bs.j()
-this.bK.j()
-this.cq.j()
-this.bX.j()
-this.bk.j()
-this.c0.j()
-this.cc.j()
-this.ci.j()
+this.bc.j()
+this.b8.j()
+this.bt.j()
+this.bu.j()
+this.c4.j()
+this.bv.j()
+this.bG.j()
 this.cr.j()
-this.cC.j()
-this.cv.j()
-this.d0.j()
-this.dQ.j()
-this.e5.j()
-this.di.j()
-this.dj.j()
-this.dJ.j()
-this.eK.j()
-this.eM.j()
-this.ed.j()
-this.eV.j()
-this.fn.j()
-this.fM.j()
-this.h5.j()
-this.f7.j()
-this.hx.j()
-this.h8.j()
-this.ha.j()
-if(x)this.be.a8()},
-w:function(){var y=this.b0
-if(!(y==null))y.H()
-y=this.bc
-if(!(y==null))y.H()
+this.c0.j()
+this.bH.j()
+this.bW.j()
+this.cj.j()
+this.cz.j()
+this.ce.j()
+this.ct.j()
+this.cB.j()
+this.cY.j()
+this.ds.j()
+this.dR.j()
+this.d7.j()
+this.d8.j()
+this.dO.j()
+this.eQ.j()
+this.eR.j()
+this.e2.j()
+this.f1.j()
+this.fw.j()
+this.fg.j()
+this.fB.j()
+this.eF.j()
+this.fT.j()
+this.fE.j()
+this.hm.j()
+if(x)this.bm.a1()},
+w:function(){var y=this.aT
+if(!(y==null))y.I()
+y=this.ba
+if(!(y==null))y.I()
 y=this.y
 if(!(y==null))y.i()
 y=this.ch
@@ -3355,9 +3319,9 @@ y=this.ry
 if(!(y==null))y.i()
 y=this.y2
 if(!(y==null))y.i()
-y=this.J
+y=this.K
 if(!(y==null))y.i()
-y=this.Y
+y=this.a_
 if(!(y==null))y.i()
 y=this.Z
 if(!(y==null))y.i()
@@ -3365,156 +3329,156 @@ y=this.a9
 if(!(y==null))y.i()
 y=this.ah
 if(!(y==null))y.i()
-y=this.aq
+y=this.ap
 if(!(y==null))y.i()
-y=this.aj
+y=this.an
 if(!(y==null))y.i()
-y=this.aB
+y=this.aL
 if(!(y==null))y.i()
-y=this.aO
+y=this.aM
 if(!(y==null))y.i()
-y=this.aZ
-if(!(y==null))y.i()
-y=this.aS
-if(!(y==null))y.i()
-y=this.bh
-if(!(y==null))y.i()
-y=this.b8
+y=this.aV
 if(!(y==null))y.i()
 y=this.aG
 if(!(y==null))y.i()
-y=this.bi
+y=this.b4
 if(!(y==null))y.i()
-y=this.aA
+y=this.ae
 if(!(y==null))y.i()
-y=this.b3
-if(!(y==null))y.i()
-y=this.bR
+y=this.aK
 if(!(y==null))y.i()
 y=this.br
 if(!(y==null))y.i()
-y=this.c_
+y=this.bc
 if(!(y==null))y.i()
-y=this.bs
+y=this.b8
 if(!(y==null))y.i()
-y=this.bK
+y=this.bt
 if(!(y==null))y.i()
-y=this.cq
+y=this.bu
 if(!(y==null))y.i()
-y=this.bX
+y=this.c4
 if(!(y==null))y.i()
-y=this.bk
+y=this.bv
 if(!(y==null))y.i()
-y=this.c0
-if(!(y==null))y.i()
-y=this.cc
-if(!(y==null))y.i()
-y=this.ci
+y=this.bG
 if(!(y==null))y.i()
 y=this.cr
 if(!(y==null))y.i()
-y=this.cC
+y=this.c0
 if(!(y==null))y.i()
-y=this.cv
+y=this.bH
 if(!(y==null))y.i()
-y=this.d0
+y=this.bW
 if(!(y==null))y.i()
-y=this.dQ
+y=this.cj
 if(!(y==null))y.i()
-y=this.e5
+y=this.cz
 if(!(y==null))y.i()
-y=this.di
+y=this.ce
 if(!(y==null))y.i()
-y=this.dj
+y=this.ct
 if(!(y==null))y.i()
-y=this.dJ
+y=this.cB
 if(!(y==null))y.i()
-y=this.eK
+y=this.cY
 if(!(y==null))y.i()
-y=this.eM
+y=this.ds
 if(!(y==null))y.i()
-y=this.ed
+y=this.dR
 if(!(y==null))y.i()
-y=this.eV
+y=this.d7
 if(!(y==null))y.i()
-y=this.fn
+y=this.d8
 if(!(y==null))y.i()
-y=this.fM
+y=this.dO
 if(!(y==null))y.i()
-y=this.h5
+y=this.eQ
 if(!(y==null))y.i()
-y=this.f7
+y=this.eR
 if(!(y==null))y.i()
-y=this.hx
+y=this.e2
 if(!(y==null))y.i()
-y=this.h8
+y=this.f1
 if(!(y==null))y.i()
-y=this.ha
+y=this.fw
+if(!(y==null))y.i()
+y=this.fg
+if(!(y==null))y.i()
+y=this.fB
+if(!(y==null))y.i()
+y=this.eF
+if(!(y==null))y.i()
+y=this.fT
+if(!(y==null))y.i()
+y=this.fE
+if(!(y==null))y.i()
+y=this.hm
 if(!(y==null))y.i()
 y=this.go
 y.a.D()
 y.b.D()
-y=this.R
+y=this.T
 y.a.D()
 y.b.D()
-y=this.ab
+y=this.aa
 y.a.D()
 y.b.D()
-y=this.at
+y=this.av
 y.a.D()
 y.b.D()
-y=this.am
+y=this.ay
 y.a.D()
 y.b.D()
-y=this.be
-y.aX()
-y.K=null
-y.G=null
-this.bt.a.D()
-y=this.aL
+y=this.bm
+y.b0()
+y.L=null
+y.H=null
+this.bx.a.D()
+y=this.b3
 y.a.D()
 y.b.D()
-y=this.bf
+y=this.b9
 y.a.D()
 y.b.D()
-y=this.bJ
+y=this.bB
 y.a.D()
 y.b.D()
-y=this.bz
+y=this.bh
 y.a.D()
 y.b.D()
-y=this.cM
+y=this.cw
 y.a.D()
 y.b.D()
-y=this.ck
+y=this.cA
 y.a.D()
 y.b.D()
-y=this.d9
+y=this.cV
 y.a.D()
 y.b.D()
-y=this.dh
+y=this.dc
 y.a.D()
 y.b.D()
-y=this.dS
+y=this.dF
 y.a.D()
 y.b.D()
-y=this.eT
+y=this.eS
 y.a.D()
 y.b.D()
-y=this.h3
+y=this.fz
 y.a.D()
 y.b.D()},
-Tl:function(n){this.f.sxK(n)},
-$asa:function(){return[F.fw]}}
-E.MT.prototype={
+TB:function(n){this.f.sxA(n)},
+$asa:function(){return[F.fs]}}
+E.MR.prototype={
 $1:function(n){return[n.y]},
-$S:function(){return{func:1,args:[E.xG]}}}
-E.MU.prototype={
+$S:function(){return{func:1,args:[E.xB]}}}
+E.MS.prototype={
 $1:function(n){return[n.y]},
-$S:function(){return{func:1,args:[E.xH]}}}
-E.xG.prototype={
+$S:function(){return{func:1,args:[E.xC]}}}
+E.xB.prototype={
 p:function(){var y,x,w,v
-y=N.b4(this,0)
+y=N.b0(this,0)
 this.x=y
 y=y.e
 this.r=y
@@ -3524,33 +3488,33 @@ y=this.x.a.b
 x=this.r
 w=this.c
 w=w.c.n(C.b,w.a.Q)
-y=new L.am(new P.h(null,null,0,null,null,null,null,[P.x]),!1,!1,!0,!1,y,x,null,null,null,!1,null,null,null,!1,!1,null,x,w)
+y=new L.ak(new P.i(null,null,0,null,null,null,null,[P.w]),!1,!1,!0,!1,y,x,null,null,null,!1,null,null,null,!1,!1,null,x,w)
 this.y=y
 v=document.createTextNode("\n  ")
 this.x.k(0,y,[C.a,C.a,C.a,[v]])
-this.E(this.r)
+this.F(this.r)
 return},
 q:function(){var y,x,w,v,u
 y=this.a.cy===0
-x=this.b.v(0,"$implicit")
+x=this.b.C(0,"$implicit")
 if(y){this.y.db="Suggestions to add"
 w=!0}else w=!1
-v="More Item "+(x==null?"":H.m(x))
+v="More Item "+(x==null?"":H.o(x))
 if(this.z!==v){this.y.z=v
 this.z=v
-w=!0}u=Q.J(x)
+w=!0}u=Q.I(x)
 if(this.Q!==u){this.y.Q=u
 this.Q=u
-w=!0}if(w)this.x.a.su(1)
-this.x.B(y)
+w=!0}if(w)this.x.a.st(1)
+this.x.A(y)
 this.x.j()},
-dg:function(){H.ac(this.c,"$isn_").b_=!0},
+dj:function(){H.ab(this.c,"$ismS").b1=!0},
 w:function(){var y=this.x
 if(!(y==null))y.i()},
-$asa:function(){return[F.fw]}}
-E.xH.prototype={
+$asa:function(){return[F.fs]}}
+E.xC.prototype={
 p:function(){var y,x,w,v
-y=N.b4(this,0)
+y=N.b0(this,0)
 this.x=y
 y=y.e
 this.r=y
@@ -3560,162 +3524,162 @@ y=this.x.a.b
 x=this.r
 w=this.c
 w=w.c.n(C.b,w.a.Q)
-y=new L.am(new P.h(null,null,0,null,null,null,null,[P.x]),!1,!1,!0,!1,y,x,null,null,null,!1,null,null,null,!1,!1,null,x,w)
+y=new L.ak(new P.i(null,null,0,null,null,null,null,[P.w]),!1,!1,!0,!1,y,x,null,null,null,!1,null,null,null,!1,!1,null,x,w)
 this.y=y
 v=document.createTextNode("\n    ")
 this.x.k(0,y,[C.a,C.a,C.a,[v]])
-this.E(this.r)
+this.F(this.r)
 return},
 q:function(){var y,x,w,v,u
 y=this.a.cy===0
-x=this.b.v(0,"$implicit")
+x=this.b.C(0,"$implicit")
 if(y){this.y.db="Suggestions to add"
 w=!0}else w=!1
-v="More Item "+(x==null?"":H.m(x))
+v="More Item "+(x==null?"":H.o(x))
 if(this.z!==v){this.y.z=v
 this.z=v
-w=!0}u=Q.J(x)
+w=!0}u=Q.I(x)
 if(this.Q!==u){this.y.Q=u
 this.Q=u
-w=!0}if(w)this.x.a.su(1)
-this.x.B(y)
+w=!0}if(w)this.x.a.st(1)
+this.x.A(y)
 this.x.j()},
-dg:function(){H.ac(this.c,"$isn_").bA=!0},
+dj:function(){H.ab(this.c,"$ismS").bL=!0},
 w:function(){var y=this.x
 if(!(y==null))y.i()},
-$asa:function(){return[F.fw]}}
-E.UK.prototype={
+$asa:function(){return[F.fs]}}
+E.UO.prototype={
 p:function(){var y,x
-y=new E.n_(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.d(),this,null,null,null)
-y.a=S.c(y,3,C.i,0,null)
+y=new E.mS(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y.a=S.d(y,3,C.j,0,null)
 x=document.createElement("scorecard-demo")
 y.e=x
-x=$.MS
-if(x==null){x=$.z.a3("",C.m,C.l3)
-$.MS=x}y.a1(x)
+x=$.MQ
+if(x==null){x=$.A.a5("",C.n,C.oN)
+$.MQ=x}y.a3(x)
 this.r=y
 this.e=y.e
-y=new F.fw(C.cn,C.ew,C.bP,F.a2M(10),10)
+y=new F.fs(C.cl,C.ez,C.bO,F.a2D(10),10)
 this.x=y
 this.r.k(0,y,this.a.e)
-this.E(this.e)
-return new D.y(this,0,this.e,this.x,[F.fw])},
-T:function(n,o,p){var y
-if(n===C.af&&0===o){y=this.y
-if(y==null){y=S.qh(this.n(C.K,this.a.Q))
+this.F(this.e)
+return new D.y(this,0,this.e,this.x,[F.fs])},
+P:function(n,o,p){var y
+if(n===C.ah&&0===o){y=this.y
+if(y==null){y=S.q1(this.n(C.L,this.a.Q))
 this.y=y}return y}return p},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
 $asa:function(){}};(function installTearOffs(){var y
-f(y=F.bP.prototype,"gyv",0,0,0,null,["$0"],["o_"],0)
-f(y,"gyw",0,0,0,null,["$0"],["o0"],0)
-f(y,"gFy",0,0,0,null,["$0"],["Zn"],0)
-f(U,"atO",1,0,0,null,["$2"],["aAc"],3)
-f(U,"atP",1,0,0,null,["$2"],["aAd"],3)
-f(U,"atQ",1,0,0,null,["$2"],["aAe"],2)
-f(y=L.am.prototype,"gdM",0,0,0,null,["$0"],["Is"],0)
-f(y,"ga2k",0,0,0,null,["$1"],["a2l"],5)
-f(N,"atV",1,0,0,null,["$2"],["aAf"],1)
-f(N,"atW",1,0,0,null,["$2"],["aAg"],1)
-f(N,"atX",1,0,0,null,["$2"],["aAh"],1)
-f(N,"atY",1,0,0,null,["$2"],["aAi"],1)
-f(N,"atZ",1,0,0,null,["$2"],["aAj"],1)
-f(N,"au_",1,0,0,null,["$2"],["aAk"],2)
-f(y=T.tN.prototype,"gyv",0,0,0,null,["$0"],["o_"],0)
-f(y,"gyw",0,0,0,null,["$0"],["o0"],0)
-f(y,"gZI",0,0,0,null,["$1$windowResize","$0"],["vw","pN"],6)
-f(A,"atR",1,0,0,null,["$2"],["aAo"],2)
-f(E,"atS",1,0,0,null,["$2"],["aAl"],4)
-f(E,"atT",1,0,0,null,["$2"],["aAm"],4)
-f(E,"atU",1,0,0,null,["$2"],["aAn"],2)
-f(E.n_.prototype,"gTk",0,0,0,null,["$1"],["Tl"],7)})();(function inheritance(){var y=P.I
-a(F.r_,y)
-a(F.bP,y)
-a(F.l1,y)
-a(T.tN,y)
-a(K.dQ,y)
-a(V.l2,y)
-a(F.fw,y)
-y=H.aM
+f(y=F.f_.prototype,"gyl",0,0,0,null,["$0"],["nT"],0)
+f(y,"gym",0,0,0,null,["$0"],["nU"],0)
+f(y,"gFp",0,0,0,null,["$0"],["ZX"],0)
+f(U,"atO",1,0,0,null,["$2"],["aAq"],3)
+f(U,"atP",1,0,0,null,["$2"],["aAr"],3)
+f(U,"atQ",1,0,0,null,["$2"],["aAs"],2)
+f(y=L.ak.prototype,"gdG",0,0,0,null,["$0"],["qk"],0)
+f(y,"ga2T",0,0,0,null,["$1"],["a2U"],5)
+f(N,"atV",1,0,0,null,["$2"],["aAt"],1)
+f(N,"atW",1,0,0,null,["$2"],["aAu"],1)
+f(N,"atX",1,0,0,null,["$2"],["aAv"],1)
+f(N,"atY",1,0,0,null,["$2"],["aAw"],1)
+f(N,"atZ",1,0,0,null,["$2"],["aAx"],1)
+f(N,"au_",1,0,0,null,["$2"],["aAy"],2)
+f(y=T.tD.prototype,"gyl",0,0,0,null,["$0"],["nT"],0)
+f(y,"gym",0,0,0,null,["$0"],["nU"],0)
+f(y,"ga_g",0,0,0,null,["$1$windowResize","$0"],["vi","pF"],6)
+f(A,"atR",1,0,0,null,["$2"],["aAC"],2)
+f(E,"atS",1,0,0,null,["$2"],["aAz"],4)
+f(E,"atT",1,0,0,null,["$2"],["aAA"],4)
+f(E,"atU",1,0,0,null,["$2"],["aAB"],2)
+f(E.mS.prototype,"gTA",0,0,0,null,["$1"],["TB"],7)})();(function inheritance(){var y=P.H
+a(F.qK,y)
+a(F.f_,y)
+a(F.kR,y)
+a(T.tD,y)
+a(K.dN,y)
+a(V.kS,y)
+a(F.fs,y)
+y=H.aL
+a(F.I0,y)
+a(F.I_,y)
+a(F.HY,y)
+a(F.HZ,y)
+a(F.HX,y)
+a(F.HW,y)
+a(T.I3,y)
+a(T.I4,y)
+a(T.I6,y)
+a(T.I7,y)
+a(T.I5,y)
+a(T.I2,y)
+a(T.I1,y)
 a(F.I8,y)
-a(F.I7,y)
-a(F.I5,y)
-a(F.I6,y)
-a(F.I4,y)
-a(F.I3,y)
-a(T.Ib,y)
-a(T.Ic,y)
-a(T.Ie,y)
-a(T.If,y)
-a(T.Id,y)
-a(T.Ia,y)
-a(T.I9,y)
-a(F.Ig,y)
-a(E.MT,y)
-a(E.MU,y)
+a(E.MR,y)
+a(E.MS,y)
 y=S.a
-a(U.MP,y)
-a(U.UB,y)
-a(U.UC,y)
-a(U.UD,y)
-a(N.MR,y)
-a(N.UE,y)
-a(N.UF,y)
-a(N.UG,y)
-a(N.UH,y)
+a(U.MN,y)
+a(U.UF,y)
+a(U.UG,y)
+a(U.UH,y)
+a(N.MP,y)
 a(N.UI,y)
 a(N.UJ,y)
-a(A.MV,y)
-a(A.UL,y)
-a(E.n_,y)
-a(E.xG,y)
-a(E.xH,y)
-a(E.UK,y)
-a(L.am,O.cF)})();(function constants(){C.cV=new D.B("scorecard-gallery-section-api",A.atR(),C.a,[V.l2])
-C.fU=C.cV
-C.cR=new K.dQ(66,133,244,1)
-C.it=new D.B("acx-scorecard",N.au_(),C.a,[L.am])
-C.iN=new D.B("acx-scoreboard",U.atQ(),C.a,[F.bP])
-C.jj=new D.B("scorecard-demo",E.atU(),C.a,[F.fw])
-C.lV=d([".customize acx-scorecard .description { color:rgba(0, 0, 0, 0.54)!important; }  .customize acx-scorecard.is-change-positive h2 { color:#0f9d58; }  .customize acx-scorecard.is-change-negative h2 { color:#db4437; }  .customize-description-color acx-scorecard .change-glyph { color:#4285f4; }  .customize-description-color acx-scorecard:not(.selected).themeable .description { color:#ff9800; }  .customize-positive-negative-colors acx-scorecard:not(.selected).themeable.is-change-positive .description { color:#3f51b5; }  .customize-positive-negative-colors acx-scorecard:not(.selected).themeable.is-change-negative .description { color:#e91e63; }  .customize-suggestion-color acx-scorecard .suggestion { color:#9c27b0; }  .customize-suggestion-to-separate-line acx-scorecard .suggestion { display:block; }  .vertically-align-scorecard-top acx-scorecard { vertical-align:top; }  .vertically-align-scorecard-bottom acx-scorecard { vertical-align:bottom; }  .description-with-min-height .description { display:block; min-height:15px; } .custom-rule._ngcontent-%COMP%  acx-scorecard h3 { color:#4285f4; } .custom-rule._ngcontent-%COMP%  acx-scorecard h2 { color:#ff9800; } .vertical-scoreboard-container._ngcontent-%COMP% { height:600px; } .injected-div._ngcontent-%COMP% { border:1px solid #f4c7c3; margin:3px 0; width:100%; }"])
-C.l3=d([C.lV])
-C.o1=d([".acx-scoreboard._ngcontent-%COMP% { display:block; overflow:hidden; position:relative; z-index:0; } .acx-scoreboard._ngcontent-%COMP% .scroll-button._ngcontent-%COMP% { display:flex; flex-shrink:0; background:rgba(255, 255, 255, 0.87); color:rgba(0, 0, 0, 0.54); margin:0; padding:0 8px; position:absolute; z-index:1; } .acx-scoreboard._ngcontent-%COMP% .scroll-button.hide._ngcontent-%COMP% { display:none; } .acx-scoreboard._ngcontent-%COMP% .scroll-button:not([icon])._ngcontent-%COMP% { border-radius:0; min-width:inherit; } .scorecard-bar._ngcontent-%COMP% { display:inline-block; margin:0; padding:0; position:relative; transition:transform cubic-bezier(0.4, 0, 0.2, 1) 436ms; white-space:nowrap; } .acx-scoreboard-horizontal._ngcontent-%COMP% .scroll-button._ngcontent-%COMP% { height:100%; min-width:inherit; top:0; } .acx-scoreboard-horizontal._ngcontent-%COMP% .scroll-forward-button._ngcontent-%COMP% { right:0; } .acx-scoreboard-horizontal._ngcontent-%COMP% .scroll-back-button._ngcontent-%COMP% { left:0; } .acx-scoreboard-horizontal._ngcontent-%COMP% acx-scorecard._ngcontent-%COMP% { vertical-align:top; } .acx-scoreboard-vertical._ngcontent-%COMP% { display:inline-block; height:100%; } .acx-scoreboard-vertical._ngcontent-%COMP% .scroll-button._ngcontent-%COMP% { justify-content:center; width:100%; } .acx-scoreboard-vertical._ngcontent-%COMP% .scroll-forward-button._ngcontent-%COMP% { bottom:0; } .acx-scoreboard-vertical._ngcontent-%COMP% .scroll-back-button._ngcontent-%COMP% { top:0; } .acx-scoreboard-vertical._ngcontent-%COMP% .scorecard-bar._ngcontent-%COMP% { display:flex; flex-direction:column; }"])
-C.lE=d([C.o1])
-C.nJ=d(["._nghost-%COMP% { color:rgba(0, 0, 0, 0.87); display:inline-block; font-size:13px; padding:24px; position:relative; } ._nghost-%COMP%:hover.selectable { cursor:pointer; } ._nghost-%COMP%:hover:not(.selected) { background:rgba(0, 0, 0, 0.06); } ._nghost-%COMP%:not(.selected).is-change-positive .description._ngcontent-%COMP% { color:#0f9d58; } ._nghost-%COMP%:not(.selected).is-change-negative .description._ngcontent-%COMP% { color:#db4437; } ._nghost-%COMP%.selected { color:#fff; } ._nghost-%COMP%.selected .description._ngcontent-%COMP%,._nghost-%COMP%.selected .suggestion._ngcontent-%COMP% { color:#fff; } ._nghost-%COMP%.right-align { text-align:right; } ._nghost-%COMP%.extra-big { margin:0; padding:24px; } ._nghost-%COMP%.extra-big h3._ngcontent-%COMP% { font-size:14px; padding-bottom:4px; } ._nghost-%COMP%.extra-big h2._ngcontent-%COMP% { font-size:34px; } ._nghost-%COMP%.extra-big .description._ngcontent-%COMP% { padding-top:4px; font-size:14px; display:block; } h3._ngcontent-%COMP%,h2._ngcontent-%COMP% { clear:both; color:inherit; font-weight:normal; line-height:initial; margin:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; } h3._ngcontent-%COMP% { font-size:13px; padding-bottom:8px; } h2._ngcontent-%COMP% { font-size:32px; } h2._ngcontent-%COMP% value._ngcontent-%COMP% { line-height:1; } .description._ngcontent-%COMP%,.suggestion._ngcontent-%COMP% { color:rgba(0, 0, 0, 0.54); padding-top:8px; } .change-glyph._ngcontent-%COMP% { color:rgba(0, 0, 0, 0.54); display:inline-block; }"])
-C.nP=d([C.nJ])
-C.hA=new K.dQ(219,68,55,1)
-C.hC=new K.dQ(244,180,0,1)
-C.hx=new K.dQ(15,157,88,1)
-C.hy=new K.dQ(171,71,188,1)
-C.hv=new K.dQ(0,172,193,1)
-C.hD=new K.dQ(255,112,67,1)
-C.hw=new K.dQ(158,157,36,1)
-C.hE=new K.dQ(92,107,192,1)
-C.hB=new K.dQ(240,98,146,1)
-C.hu=new K.dQ(0,121,107,1)
-C.hz=new K.dQ(194,24,91,1)
-C.pQ=d([C.cR,C.hA,C.hC,C.hx,C.hy,C.hv,C.hD,C.hw,C.hE,C.hB,C.hu,C.hz])
-C.am=new F.l1(0,"ScoreboardType.standard")
-C.cn=new F.l1(1,"ScoreboardType.selectable")
-C.ew=new F.l1(2,"ScoreboardType.toggle")
-C.bP=new F.l1(3,"ScoreboardType.radio")
-C.ex=new F.l1(4,"ScoreboardType.custom")
-C.r7=H.p("r_")
-C.tg=H.p("bP")
-C.th=H.p("am")
-C.fm=H.p("fw")
-C.ti=H.p("l2")})();(function staticFields(){$.MQ=null
-$.aar=!1
-$.mZ=null
-$.a89=!1
-$.ac5=!1
-$.a8k=!1
-$.a4N=null
-$.a7O=!1
-$.MS=null
-$.a7Z=!1})()
-i([{func:1,v:true},{func:1,ret:[S.a,L.am],args:[S.a,P.k]},{func:1,ret:S.a,args:[S.a,P.k]},{func:1,ret:[S.a,F.bP],args:[S.a,P.k]},{func:1,ret:[S.a,F.fw],args:[S.a,P.k]},{func:1,v:true,args:[W.af]},{func:1,v:true,named:{windowResize:null}},{func:1,v:true,args:[,]}]);(function nativeSupport(){j({})
+a(N.UK,y)
+a(N.UL,y)
+a(N.UM,y)
+a(N.UN,y)
+a(A.MT,y)
+a(A.UP,y)
+a(E.mS,y)
+a(E.xB,y)
+a(E.xC,y)
+a(E.UO,y)
+a(L.ak,O.cy)})();(function constants(){C.cT=new D.C("scorecard-gallery-section-api",A.atR(),C.a,[V.kS])
+C.fX=C.cT
+C.cP=new K.dN(66,133,244,1)
+C.it=new D.C("acx-scorecard",N.au_(),C.a,[L.ak])
+C.iN=new D.C("acx-scoreboard",U.atQ(),C.a,[F.f_])
+C.jj=new D.C("scorecard-demo",E.atU(),C.a,[F.fs])
+C.p5=d([".customize acx-scorecard .description{color:rgba(0, 0, 0, 0.54)!important;} .customize acx-scorecard.is-change-positive h2{color:#0f9d58;} .customize acx-scorecard.is-change-negative h2{color:#db4437;} .customize-description-color acx-scorecard .change-glyph{color:#4285f4;} .customize-description-color acx-scorecard:not(.selected).themeable .description{color:#ff9800;} .customize-positive-negative-colors acx-scorecard:not(.selected).themeable.is-change-positive .description{color:#3f51b5;} .customize-positive-negative-colors acx-scorecard:not(.selected).themeable.is-change-negative .description{color:#e91e63;} .customize-suggestion-color acx-scorecard .suggestion{color:#9c27b0;} .customize-suggestion-to-separate-line acx-scorecard .suggestion{display:block;} .vertically-align-scorecard-top acx-scorecard{vertical-align:top;} .vertically-align-scorecard-bottom acx-scorecard{vertical-align:bottom;} .description-with-min-height .description{display:block;min-height:15px;}.custom-rule._ngcontent-%ID%  acx-scorecard h3{color:#4285f4;}.custom-rule._ngcontent-%ID%  acx-scorecard h2{color:#ff9800;}.vertical-scoreboard-container._ngcontent-%ID%{height:600px;}.injected-div._ngcontent-%ID%{border:1px solid #f4c7c3;margin:3px 0;width:100%;}"])
+C.oN=d([C.p5])
+C.nY=d(["._nghost-%ID%{color:rgba(0, 0, 0, 0.87);display:inline-block;font-size:13px;padding:24px;position:relative;}._nghost-%ID%:hover.selectable{cursor:pointer;}._nghost-%ID%:hover:not(.selected){background:rgba(0, 0, 0, 0.06);}._nghost-%ID%:not(.selected).is-change-positive .description._ngcontent-%ID%{color:#0f9d58;}._nghost-%ID%:not(.selected).is-change-negative .description._ngcontent-%ID%{color:#db4437;}._nghost-%ID%.selected{color:#fff;}._nghost-%ID%.selected .description._ngcontent-%ID%,._nghost-%ID%.selected .suggestion._ngcontent-%ID%{color:#fff;}._nghost-%ID%.right-align{text-align:right;}._nghost-%ID%.extra-big{margin:0;padding:24px;}._nghost-%ID%.extra-big h3._ngcontent-%ID%{font-size:14px;padding-bottom:4px;}._nghost-%ID%.extra-big h2._ngcontent-%ID%{font-size:34px;}._nghost-%ID%.extra-big .description._ngcontent-%ID%{padding-top:4px;font-size:14px;display:block;}h3._ngcontent-%ID%,h2._ngcontent-%ID%{clear:both;color:inherit;font-weight:normal;line-height:initial;margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}h3._ngcontent-%ID%{font-size:13px;padding-bottom:8px;}h2._ngcontent-%ID%{font-size:32px;}h2._ngcontent-%ID% value._ngcontent-%ID%{line-height:1;}.description._ngcontent-%ID%,.suggestion._ngcontent-%ID%{color:rgba(0, 0, 0, 0.54);padding-top:8px;}.change-glyph._ngcontent-%ID%{color:rgba(0, 0, 0, 0.54);display:inline-block;}"])
+C.pg=d([C.nY])
+C.md=d([".acx-scoreboard._ngcontent-%ID%{display:block;overflow:hidden;position:relative;z-index:0;}.acx-scoreboard._ngcontent-%ID% .scroll-button._ngcontent-%ID%{display:flex;flex-shrink:0;background:rgba(255, 255, 255, 0.87);color:rgba(0, 0, 0, 0.54);margin:0;padding:0 8px;position:absolute;z-index:1;}.acx-scoreboard._ngcontent-%ID% .scroll-button.hide._ngcontent-%ID%{display:none;}.acx-scoreboard._ngcontent-%ID% .scroll-button:not([icon])._ngcontent-%ID%{border-radius:0;min-width:inherit;}.scorecard-bar._ngcontent-%ID%{display:inline-block;margin:0;padding:0;position:relative;transition:transform cubic-bezier(0.4, 0, 0.2, 1) 436ms;white-space:nowrap;}.acx-scoreboard-horizontal._ngcontent-%ID% .scroll-button._ngcontent-%ID%{height:100%;min-width:inherit;top:0;}.acx-scoreboard-horizontal._ngcontent-%ID% .scroll-forward-button._ngcontent-%ID%{right:0;}.acx-scoreboard-horizontal._ngcontent-%ID% .scroll-back-button._ngcontent-%ID%{left:0;}.acx-scoreboard-horizontal._ngcontent-%ID% acx-scorecard._ngcontent-%ID%{vertical-align:top;}.acx-scoreboard-vertical._ngcontent-%ID%{display:inline-block;height:100%;}.acx-scoreboard-vertical._ngcontent-%ID% .scroll-button._ngcontent-%ID%{justify-content:center;width:100%;}.acx-scoreboard-vertical._ngcontent-%ID% .scroll-forward-button._ngcontent-%ID%{bottom:0;}.acx-scoreboard-vertical._ngcontent-%ID% .scroll-back-button._ngcontent-%ID%{top:0;}.acx-scoreboard-vertical._ngcontent-%ID% .scorecard-bar._ngcontent-%ID%{display:flex;flex-direction:column;}"])
+C.pl=d([C.md])
+C.hA=new K.dN(219,68,55,1)
+C.hC=new K.dN(244,180,0,1)
+C.hx=new K.dN(15,157,88,1)
+C.hy=new K.dN(171,71,188,1)
+C.hv=new K.dN(0,172,193,1)
+C.hD=new K.dN(255,112,67,1)
+C.hw=new K.dN(158,157,36,1)
+C.hE=new K.dN(92,107,192,1)
+C.hB=new K.dN(240,98,146,1)
+C.hu=new K.dN(0,121,107,1)
+C.hz=new K.dN(194,24,91,1)
+C.pM=d([C.cP,C.hA,C.hC,C.hx,C.hy,C.hv,C.hD,C.hw,C.hE,C.hB,C.hu,C.hz])
+C.ey=new F.kR(0,"ScoreboardType.standard")
+C.cl=new F.kR(1,"ScoreboardType.selectable")
+C.ez=new F.kR(2,"ScoreboardType.toggle")
+C.bO=new F.kR(3,"ScoreboardType.radio")
+C.eA=new F.kR(4,"ScoreboardType.custom")
+C.r5=H.p("qK")
+C.te=H.p("f_")
+C.tf=H.p("ak")
+C.fp=H.p("fs")
+C.tg=H.p("kS")})();(function staticFields(){$.MO=null
+$.aam=!1
+$.mR=null
+$.a84=!1
+$.ac0=!1
+$.a8f=!1
+$.a4E=null
+$.a7J=!1
+$.MQ=null
+$.a7U=!1})()
+i([{func:1,v:true},{func:1,ret:[S.a,L.ak],args:[S.a,P.k]},{func:1,ret:S.a,args:[S.a,P.k]},{func:1,ret:[S.a,F.f_],args:[S.a,P.k]},{func:1,ret:[S.a,F.fs],args:[S.a,P.k]},{func:1,v:true,args:[W.af]},{func:1,v:true,named:{windowResize:null}},{func:1,v:true,args:[,]}]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["jzXNVh/tvvWNHK6XIk7OLtqet0E="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["tQO8R96EpK3hBc7gQ2ICHh3P7N0="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_83.part.js.map

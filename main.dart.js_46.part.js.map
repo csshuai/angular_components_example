@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/angular/src/core/linker/app_view_utils.dart"],
   "names": ["flattenNodes"],
-  "mappings": "A;;GA4EQA,YACAA;;AACNA,2BACEA;AAEFA,QACFA,C"
+  "mappings": "A;;GA2EQA,YACAA;;AACNA,2BACEA;AAEFA,QACFA,C"
 }
