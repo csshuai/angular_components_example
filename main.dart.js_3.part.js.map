@@ -1,9 +1,0 @@
-{
-  "version": 3,
-  "engine": "v2",
-  "file": "main.dart.js_3.part.js",
-  "sourceRoot": "",
-  "sources": ["../packages/angular_components/content/deferred_content.dart","../packages/angular_components/utils/disposer/disposer.dart","../packages/angular_components/content/deferred_content.template.dart","../packages/angular/src/core/linker/app_view.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/html/dart2js/html_dart2js.dart","../packages/angular/src/core/linker/view_container.dart"],
-  "names": ["DeferredContentDirective","Disposer.oneShot","initReflector","DeferredContentDirective._setVisible","_flattenNestedViews","CssStyleDeclaration.width","CssStyleDeclaration.height","ViewContainer.element","DeferredContentDirective.ngOnDestroy"],
-  "mappings": "A;;GA+EEA,gBCWAC,MDXAD;;QAGAA,C;;;;;;;;;GElEGE,WACHA,SACEA,MAOJA;;AAFQA,KAERA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GFiBOC,YACHA;AAAaA;AAAbA,yBAAuBA,MAkCzBA;AAjCEA,MACEA,UAEEA;AAESA,8BAEXA,WAEkBA;AGsoBfC,4BAA2CA;WHroB9BD;AAAiCA;AACnCA,mBAGOA;AACJA;;AIq4MnBE;;AApgBAC,YJ13LEH;AAEAA,WKnBsBI;ALsBpBJ,qCACYA,qCAIhBA,QACFA,C;GAEAH,gBAEEA,UAAuCA,QAAeA,EAAOA,YAC/DA,C;EAGKQ,WACHA;AACAA;AACAA,WACFA,C"
-}

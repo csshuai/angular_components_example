@@ -1,15 +1,15 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={},E={},M={},B={kl:function kl(n){this.a=n},
-ayG:function(n,o){var y=new B.Tf(null,null,null,P.c(),n,null,null,null)
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={},E={},M={},B={km:function km(n){this.a=n},
+ayZ:function(n,o){var y=new B.Tz(null,null,null,P.c(),n,null,null,null)
 y.a=S.d(y,3,C.k,o,null)
 return y},
-alY:function(){if($.a7G)return
-$.a7G=!0
-$.$get$D().u(0,C.tD,C.d0)
-B.alZ()
-E.q()
+amg:function(){if($.a7Y)return
+$.a7Y=!0
+$.$get$D().u(0,C.tE,C.d_)
+B.amh()
+E.r()
 K.cf()},
-LJ:function LJ(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
+M0:function M0(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -37,7 +37,7 @@ _.c=b1
 _.d=b2
 _.e=b3
 _.f=b4},
-Tf:function Tf(n,o,p,q,r,s,t,u){var _=this
+Tz:function Tz(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -46,15 +46,15 @@ _.c=r
 _.d=s
 _.e=t
 _.f=u},
-ayF:function(n,o){var y=new B.Te(null,null,null,P.c(),n,null,null,null)
+ayY:function(n,o){var y=new B.Ty(null,null,null,P.c(),n,null,null,null)
 y.a=S.d(y,3,C.k,o,null)
 return y},
-alZ:function(){if($.a7H)return
-$.a7H=!0
-$.$get$D().u(0,C.fe,C.jx)
-E.q()
-X.a_U()},
-LI:function LI(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3){var _=this
+amh:function(){if($.a7Z)return
+$.a7Z=!0
+$.$get$D().u(0,C.fc,C.jv)
+E.r()
+X.a0d()},
+M_:function M_(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -81,7 +81,7 @@ _.c=b0
 _.d=b1
 _.e=b2
 _.f=b3},
-Te:function Te(n,o,p,q,r,s,t,u){var _=this
+Ty:function Ty(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -89,7 +89,7 @@ _.b=q
 _.c=r
 _.d=s
 _.e=t
-_.f=u}},S={},Q={},D={},L={},Z={},A={},T={},O={},U={},X={kk:function kk(){}},F={}
+_.f=u}},S={},Q={},D={},L={},Z={},A={},T={},O={},U={},X={kl:function kl(){}},F={}
 var z=[C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F])
 C=h(m[0],C)
@@ -117,53 +117,53 @@ O=h(m[21],O)
 U=h(m[22],U)
 X=h(m[23],X)
 F=h(m[24],F)
-B.kl.prototype={
+B.km.prototype={
 gb_:function(){return this.a}}
-B.LJ.prototype={
-gEn:function(){var y=this.Q
+B.M0.prototype={
+gEo:function(){var y=this.Q
 if(y==null){y=window
 this.Q=y}return y},
 gpo:function(){var y=this.ch
 if(y==null){y=this.c
-y=T.aS(y.m(C.b,this.a.Q,null),y.m(C.B,this.a.Q,null),y.n(C.f,this.a.Q),this.gEn())
+y=T.aS(y.m(C.b,this.a.Q,null),y.m(C.B,this.a.Q,null),y.n(C.f,this.a.Q),this.gEo())
 this.ch=y}return y},
-gEk:function(){var y=this.cx
+gEl:function(){var y=this.cx
 if(y==null){y=new O.aE(this.c.n(C.R,this.a.Q),this.gpo())
 this.cx=y}return y},
 gpn:function(){var y=this.cy
 if(y==null){y=document
 this.cy=y}return y},
-guJ:function(){var y=this.db
+guL:function(){var y=this.db
 if(y==null){y=new K.aF(this.gpn(),this.gpo(),P.aP(null,[P.x,P.j]))
 this.db=y}return y},
-guK:function(){var y=this.dy
+guM:function(){var y=this.dy
 if(y==null){y=G.b2(this.c.m(C.y,this.a.Q,null))
 this.dy=y}return y},
-gEp:function(){var y=this.fr
+gEq:function(){var y=this.fr
 if(y==null){y=G.b3(this.gpn(),this.c.m(C.x,this.a.Q,null))
 this.fr=y}return y},
-gEq:function(){var y=this.fx
-if(y==null){y=G.aU(this.guK(),this.gEp(),this.c.m(C.w,this.a.Q,null))
+gEr:function(){var y=this.fx
+if(y==null){y=G.aU(this.guM(),this.gEq(),this.c.m(C.w,this.a.Q,null))
 this.fx=y}return y},
-guL:function(){var y=this.fy
+guN:function(){var y=this.fy
 if(y==null){this.fy=!0
 y=!0}return y},
-gEr:function(){var y=this.go
+gEs:function(){var y=this.go
 if(y==null){this.go=!0
 y=!0}return y},
-gEm:function(){var y=this.id
+gEn:function(){var y=this.id
 if(y==null){y=this.gpn()
 y=new R.aI(y.querySelector("head"),!1,y)
 this.id=y}return y},
-gEo:function(){var y=this.k1
+gEp:function(){var y=this.k1
 if(y==null){y=X.b1()
 this.k1=y}return y},
-gEl:function(){var y=this.k2
-if(y==null){y=K.aY(this.gEm(),this.gEq(),this.guK(),this.guJ(),this.gpo(),this.gEk(),this.guL(),this.gEr(),this.gEo())
+gEm:function(){var y=this.k2
+if(y==null){y=K.aY(this.gEn(),this.gEr(),this.guM(),this.guL(),this.gpo(),this.gEl(),this.guN(),this.gEs(),this.gEp())
 this.k2=y}return y},
 p:function(){var y,x
 y=this.a6(this.e)
-x=K.c4(this,0)
+x=K.c5(this,0)
 this.x=x
 x=x.e
 this.r=x
@@ -176,60 +176,60 @@ return},
 P:function(n,o,p){var y,x,w,v
 if(n===C.E&&0===o){y=this.z
 if(y==null){this.z=C.z
-y=C.z}return y}if(n===C.F&&0===o)return this.gEn()
+y=C.z}return y}if(n===C.F&&0===o)return this.gEo()
 if(n===C.b&&0===o)return this.gpo()
-if(n===C.M&&0===o)return this.gEk()
+if(n===C.M&&0===o)return this.gEl()
 if(n===C.L&&0===o)return this.gpn()
-if(n===C.N&&0===o)return this.guJ()
+if(n===C.N&&0===o)return this.guL()
 if(n===C.S&&0===o){y=this.dx
 if(y==null){y=T.aV(this.c.n(C.f,this.a.Q))
-this.dx=y}return y}if(n===C.y&&0===o)return this.guK()
-if(n===C.x&&0===o)return this.gEp()
-if(n===C.w&&0===o)return this.gEq()
-if(n===C.U&&0===o)return this.guL()
-if(n===C.D&&0===o)return this.gEr()
-if(n===C.P&&0===o)return this.gEm()
-if(n===C.C&&0===o)return this.gEo()
-if(n===C.O&&0===o)return this.gEl()
+this.dx=y}return y}if(n===C.y&&0===o)return this.guM()
+if(n===C.x&&0===o)return this.gEq()
+if(n===C.w&&0===o)return this.gEr()
+if(n===C.U&&0===o)return this.guN()
+if(n===C.D&&0===o)return this.gEs()
+if(n===C.P&&0===o)return this.gEn()
+if(n===C.C&&0===o)return this.gEp()
+if(n===C.O&&0===o)return this.gEm()
 if(n===C.m&&0===o){y=this.k3
 if(y==null){y=this.c
 x=y.n(C.f,this.a.Q)
-w=this.guL()
-v=this.gEl()
+w=this.guN()
+v=this.gEm()
 y.m(C.m,this.a.Q,null)
 v=new X.aD(w,x,v)
 this.k3=v
 y=v}return y}if(n===C.v&&0===o){y=this.k4
-if(y==null){y=new K.aM(this.guJ())
+if(y==null){y=new K.aM(this.guL())
 this.k4=y}return y}return p},
 q:function(){var y=this.f.a
 if(this.r1!==y){this.y.a=y
 this.r1=y}this.x.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()},
-$asa:function(){return[B.kl]}}
-B.Tf.prototype={
+$asa:function(){return[B.km]}}
+B.Tz.prototype={
 p:function(){var y,x
-y=new B.LJ(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y=new B.M0(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
 y.a=S.d(y,3,C.j,0,null)
 x=document.createElement("material-spinner-gallery-section-api")
 y.e=x
-x=$.a44
+x=$.a4m
 if(x==null){x=$.A.a5("",C.V,C.a)
-$.a44=x}y.a3(x)
+$.a4m=x}y.a3(x)
 this.r=y
 this.e=y.e
-x=new B.kl(R.ca([],[new R.ai(C.fe,"MaterialSpinnerExample","material_spinner_example/lib/material_spinner_example.dart")],[new R.an("MaterialSpinnerComponent","material-spinner","angular_components/lib/material_spinner/material_spinner.dart",'<p>A circular spinner for an indeterminate amount of time following the\nMaterial Spec for Progress &amp; Activity.</p>\n<p>See <a href="http://www.google.com/design/spec/components/progress-activity.html">http://www.google.com/design/spec/components/progress-activity.html</a>.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-spinner&gt;&lt;/material-spinner&gt;\n</code></pre>\n<p>To change the color of the spinner, change the <code>border-color</code> in CSS:</p>\n<pre><code>material-spinner {\n  border-color: $mat-red;\n}\n</code></pre>\n')],[],P.c(),[]))
+x=new B.km(R.ca([],[new R.ai(C.fc,"MaterialSpinnerExample","material_spinner_example/lib/material_spinner_example.dart")],[new R.an("MaterialSpinnerComponent","material-spinner","angular_components/lib/material_spinner/material_spinner.dart",'<p>A circular spinner for an indeterminate amount of time following the\nMaterial Spec for Progress &amp; Activity.</p>\n<p>See <a href="http://www.google.com/design/spec/components/progress-activity.html">http://www.google.com/design/spec/components/progress-activity.html</a>.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-spinner&gt;&lt;/material-spinner&gt;\n</code></pre>\n<p>To change the color of the spinner, change the <code>border-color</code> in CSS:</p>\n<pre><code>material-spinner {\n  border-color: $mat-red;\n}\n</code></pre>\n')],[],P.c(),[]))
 this.x=x
 y.k(0,x,this.a.e)
 this.F(this.e)
-return new D.y(this,0,this.e,this.x,[B.kl])},
+return new D.y(this,0,this.e,this.x,[B.km])},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
 $asa:function(){}}
-X.kk.prototype={}
-B.LI.prototype={
+X.kl.prototype={}
+B.M_.prototype={
 p:function(){var y,x,w,v,u,t
 y=this.a6(this.e)
 x=document
@@ -241,16 +241,16 @@ this.r.appendChild(v)
 w=S.l(x,y)
 this.x=w
 this.h(w)
-w=X.l2(this,3)
+w=X.l6(this,3)
 this.z=w
 w=w.e
 this.y=w
 this.x.appendChild(w)
 this.h(this.y)
-w=new T.e9()
+w=new T.eb()
 this.Q=w
 this.z.k(0,w,[])
-w=X.l2(this,4)
+w=X.l6(this,4)
 this.cx=w
 w=w.e
 this.ch=w
@@ -258,10 +258,10 @@ this.x.appendChild(w)
 w=this.ch
 w.className="red"
 this.h(w)
-w=new T.e9()
+w=new T.eb()
 this.cy=w
 this.cx.k(0,w,[])
-w=X.l2(this,5)
+w=X.l6(this,5)
 this.dx=w
 w=w.e
 this.db=w
@@ -269,10 +269,10 @@ this.x.appendChild(w)
 w=this.db
 w.className="yellow"
 this.h(w)
-w=new T.e9()
+w=new T.eb()
 this.dy=w
 this.dx.k(0,w,[])
-w=X.l2(this,6)
+w=X.l6(this,6)
 this.fx=w
 w=w.e
 this.fr=w
@@ -280,7 +280,7 @@ this.x.appendChild(w)
 w=this.fr
 w.className="green"
 this.h(w)
-w=new T.e9()
+w=new T.eb()
 this.fy=w
 this.fx.k(0,w,[])
 w=S.b(x,"p",y)
@@ -291,16 +291,16 @@ this.go.appendChild(u)
 w=S.l(x,y)
 this.id=w
 this.h(w)
-w=X.l2(this,10)
+w=X.l6(this,10)
 this.k2=w
 w=w.e
 this.k1=w
 this.id.appendChild(w)
 this.h(this.k1)
-w=new T.e9()
+w=new T.eb()
 this.k3=w
 this.k2.k(0,w,[])
-w=S.da(x,this.id)
+w=S.d8(x,this.id)
 this.k4=w
 this.l(w)
 t=x.createTextNode("Submitting...")
@@ -322,45 +322,45 @@ y=this.fx
 if(!(y==null))y.i()
 y=this.k2
 if(!(y==null))y.i()},
-$asa:function(){return[X.kk]}}
-B.Te.prototype={
+$asa:function(){return[X.kl]}}
+B.Ty.prototype={
 p:function(){var y,x
-y=new B.LI(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y=new B.M_(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
 y.a=S.d(y,3,C.j,0,null)
 x=document.createElement("material-spinner-example")
 y.e=x
-x=$.a43
-if(x==null){x=$.A.a5("",C.n,C.o5)
-$.a43=x}y.a3(x)
+x=$.a4l
+if(x==null){x=$.A.a5("",C.n,C.o2)
+$.a4l=x}y.a3(x)
 this.r=y
 this.e=y.e
-x=new X.kk()
+x=new X.kl()
 this.x=x
 y.k(0,x,this.a.e)
 this.F(this.e)
-return new D.y(this,0,this.e,this.x,[X.kk])},
+return new D.y(this,0,this.e,this.x,[X.kl])},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
-$asa:function(){}};(function installTearOffs(){f(B,"ar9",1,0,0,null,["$2"],["ayG"],0)
-f(B,"ara",1,0,0,null,["$2"],["ayF"],0)})();(function inheritance(){var y=P.H
-a(B.kl,y)
-a(X.kk,y)
+$asa:function(){}};(function installTearOffs(){f(B,"ars",1,0,0,null,["$2"],["ayZ"],0)
+f(B,"art",1,0,0,null,["$2"],["ayY"],0)})();(function inheritance(){var y=P.H
+a(B.km,y)
+a(X.kl,y)
 y=S.a
-a(B.LJ,y)
-a(B.Tf,y)
-a(B.LI,y)
-a(B.Te,y)})();(function constants(){C.d0=new D.C("material-spinner-gallery-section-api",B.ar9(),C.a,[B.kl])
-C.hg=C.d0
-C.jx=new D.C("material-spinner-example",B.ara(),C.a,[X.kk])
-C.m4=d(["p._ngcontent-%ID%{font-weight:bold;}div._ngcontent-%ID%{margin-bottom:32px;}material-spinner._ngcontent-%ID%{margin-right:8px;}.red._ngcontent-%ID%{border-color:#db4437;}.yellow._ngcontent-%ID%{border-color:#ffeb3b;}.green._ngcontent-%ID%{border-color:#0f9d58;}"])
-C.o5=d([C.m4])
-C.fe=H.p("kk")
-C.tD=H.p("kl")})();(function staticFields(){$.a44=null
-$.a7G=!1
-$.a43=null
-$.a7H=!1})()
+a(B.M0,y)
+a(B.Tz,y)
+a(B.M_,y)
+a(B.Ty,y)})();(function constants(){C.d_=new D.C("material-spinner-gallery-section-api",B.ars(),C.a,[B.km])
+C.he=C.d_
+C.jv=new D.C("material-spinner-example",B.art(),C.a,[X.kl])
+C.m2=d(["p._ngcontent-%ID%{font-weight:bold;}div._ngcontent-%ID%{margin-bottom:32px;}material-spinner._ngcontent-%ID%{margin-right:8px;}.red._ngcontent-%ID%{border-color:#db4437;}.yellow._ngcontent-%ID%{border-color:#ffeb3b;}.green._ngcontent-%ID%{border-color:#0f9d58;}"])
+C.o2=d([C.m2])
+C.fc=H.p("kl")
+C.tE=H.p("km")})();(function staticFields(){$.a4m=null
+$.a7Y=!1
+$.a4l=null
+$.a7Z=!1})()
 i([{func:1,ret:S.a,args:[S.a,P.k]}]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["wj45CvWe4vW4pG90Ld+cAc7AuV0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["hegBE8q0obeyLEfPhAdfejA5HWc="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_76.part.js.map

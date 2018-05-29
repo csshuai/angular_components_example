@@ -1,16 +1,16 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={},E={},M={},B={},S={kp:function kp(n,o,p){this.a=n
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={},E={},M={},B={},S={kq:function kq(n,o,p){this.a=n
 this.b=o
 this.c=p}},Q={},D={},L={},Z={},A={},T={
-ayV:function(n,o){var y=new T.Tu(null,null,null,P.c(),n,null,null,null)
+azd:function(n,o){var y=new T.TO(null,null,null,P.c(),n,null,null,null)
 y.a=S.d(y,3,C.k,o,null)
 return y},
-alO:function(){if($.a7p)return
-$.a7p=!0
-$.$get$D().u(0,C.fv,C.ig)
-E.q()
-Q.qb()},
-v1:function v1(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2){var _=this
+am6:function(){if($.a7H)return
+$.a7H=!0
+$.$get$D().u(0,C.ft,C.id)
+E.r()
+Q.qg()},
+v6:function v6(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -73,20 +73,20 @@ _.aN=e6
 _.aM=e7
 _.aH=e8
 _.aE=e9
-_.aV=f0
+_.aW=f0
 _.as=f1
 _.aB=f2
 _.aG=f3
 _.ax=f4
 _.aq=f5
-_.aW=f6
+_.aX=f6
 _.a=f7
 _.b=f8
 _.c=f9
 _.d=g0
 _.e=g1
 _.f=g2},
-Tu:function Tu(n,o,p,q,r,s,t,u){var _=this
+TO:function TO(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -95,16 +95,16 @@ _.c=r
 _.d=s
 _.e=t
 _.f=u}},O={
-ayW:function(n,o){var y=new O.Tv(null,null,null,P.c(),n,null,null,null)
+aze:function(n,o){var y=new O.TP(null,null,null,P.c(),n,null,null,null)
 y.a=S.d(y,3,C.k,o,null)
 return y},
-alN:function(){if($.a7o)return
-$.a7o=!0
-$.$get$D().u(0,C.qQ,C.db)
-T.alO()
-E.q()
+am5:function(){if($.a7G)return
+$.a7G=!0
+$.$get$D().u(0,C.qQ,C.da)
+T.am6()
+E.r()
 K.cf()},
-LQ:function LQ(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
+M7:function M7(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -132,7 +132,7 @@ _.c=b1
 _.d=b2
 _.e=b3
 _.f=b4},
-Tv:function Tv(n,o,p,q,r,s,t,u){var _=this
+TP:function TP(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -140,7 +140,7 @@ _.b=q
 _.c=r
 _.d=s
 _.e=t
-_.f=u}},U={kq:function kq(n){this.a=n}},X={},F={}
+_.f=u}},U={kr:function kr(n){this.a=n}},X={},F={}
 var z=[C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F])
 C=h(m[0],C)
@@ -168,53 +168,53 @@ O=h(m[21],O)
 U=h(m[22],U)
 X=h(m[23],X)
 F=h(m[24],F)
-U.kq.prototype={
+U.kr.prototype={
 gb_:function(){return this.a}}
-O.LQ.prototype={
-gED:function(){var y=this.Q
+O.M7.prototype={
+gEE:function(){var y=this.Q
 if(y==null){y=window
 this.Q=y}return y},
 gpr:function(){var y=this.ch
 if(y==null){y=this.c
-y=T.aS(y.m(C.b,this.a.Q,null),y.m(C.B,this.a.Q,null),y.n(C.f,this.a.Q),this.gED())
+y=T.aS(y.m(C.b,this.a.Q,null),y.m(C.B,this.a.Q,null),y.n(C.f,this.a.Q),this.gEE())
 this.ch=y}return y},
-gEA:function(){var y=this.cx
+gEB:function(){var y=this.cx
 if(y==null){y=new O.aE(this.c.n(C.R,this.a.Q),this.gpr())
 this.cx=y}return y},
 gpq:function(){var y=this.cy
 if(y==null){y=document
 this.cy=y}return y},
-guP:function(){var y=this.db
+guR:function(){var y=this.db
 if(y==null){y=new K.aF(this.gpq(),this.gpr(),P.aP(null,[P.x,P.j]))
 this.db=y}return y},
-guQ:function(){var y=this.dy
+guS:function(){var y=this.dy
 if(y==null){y=G.b2(this.c.m(C.y,this.a.Q,null))
 this.dy=y}return y},
-gEF:function(){var y=this.fr
+gEG:function(){var y=this.fr
 if(y==null){y=G.b3(this.gpq(),this.c.m(C.x,this.a.Q,null))
 this.fr=y}return y},
-gEG:function(){var y=this.fx
-if(y==null){y=G.aU(this.guQ(),this.gEF(),this.c.m(C.w,this.a.Q,null))
+gEH:function(){var y=this.fx
+if(y==null){y=G.aU(this.guS(),this.gEG(),this.c.m(C.w,this.a.Q,null))
 this.fx=y}return y},
-guR:function(){var y=this.fy
+guT:function(){var y=this.fy
 if(y==null){this.fy=!0
 y=!0}return y},
-gEH:function(){var y=this.go
+gEI:function(){var y=this.go
 if(y==null){this.go=!0
 y=!0}return y},
-gEC:function(){var y=this.id
+gED:function(){var y=this.id
 if(y==null){y=this.gpq()
 y=new R.aI(y.querySelector("head"),!1,y)
 this.id=y}return y},
-gEE:function(){var y=this.k1
+gEF:function(){var y=this.k1
 if(y==null){y=X.b1()
 this.k1=y}return y},
-gEB:function(){var y=this.k2
-if(y==null){y=K.aY(this.gEC(),this.gEG(),this.guQ(),this.guP(),this.gpr(),this.gEA(),this.guR(),this.gEH(),this.gEE())
+gEC:function(){var y=this.k2
+if(y==null){y=K.aY(this.gED(),this.gEH(),this.guS(),this.guR(),this.gpr(),this.gEB(),this.guT(),this.gEI(),this.gEF())
 this.k2=y}return y},
 p:function(){var y,x
 y=this.a6(this.e)
-x=K.c4(this,0)
+x=K.c5(this,0)
 this.x=x
 x=x.e
 this.r=x
@@ -227,63 +227,63 @@ return},
 P:function(n,o,p){var y,x,w,v
 if(n===C.E&&0===o){y=this.z
 if(y==null){this.z=C.z
-y=C.z}return y}if(n===C.F&&0===o)return this.gED()
+y=C.z}return y}if(n===C.F&&0===o)return this.gEE()
 if(n===C.b&&0===o)return this.gpr()
-if(n===C.M&&0===o)return this.gEA()
+if(n===C.M&&0===o)return this.gEB()
 if(n===C.L&&0===o)return this.gpq()
-if(n===C.N&&0===o)return this.guP()
+if(n===C.N&&0===o)return this.guR()
 if(n===C.S&&0===o){y=this.dx
 if(y==null){y=T.aV(this.c.n(C.f,this.a.Q))
-this.dx=y}return y}if(n===C.y&&0===o)return this.guQ()
-if(n===C.x&&0===o)return this.gEF()
-if(n===C.w&&0===o)return this.gEG()
-if(n===C.U&&0===o)return this.guR()
-if(n===C.D&&0===o)return this.gEH()
-if(n===C.P&&0===o)return this.gEC()
-if(n===C.C&&0===o)return this.gEE()
-if(n===C.O&&0===o)return this.gEB()
+this.dx=y}return y}if(n===C.y&&0===o)return this.guS()
+if(n===C.x&&0===o)return this.gEG()
+if(n===C.w&&0===o)return this.gEH()
+if(n===C.U&&0===o)return this.guT()
+if(n===C.D&&0===o)return this.gEI()
+if(n===C.P&&0===o)return this.gED()
+if(n===C.C&&0===o)return this.gEF()
+if(n===C.O&&0===o)return this.gEC()
 if(n===C.m&&0===o){y=this.k3
 if(y==null){y=this.c
 x=y.n(C.f,this.a.Q)
-w=this.guR()
-v=this.gEB()
+w=this.guT()
+v=this.gEC()
 y.m(C.m,this.a.Q,null)
 v=new X.aD(w,x,v)
 this.k3=v
 y=v}return y}if(n===C.v&&0===o){y=this.k4
-if(y==null){y=new K.aM(this.guP())
+if(y==null){y=new K.aM(this.guR())
 this.k4=y}return y}return p},
 q:function(){var y=this.f.a
 if(this.r1!==y){this.y.a=y
 this.r1=y}this.x.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()},
-$asa:function(){return[U.kq]}}
-O.Tv.prototype={
+$asa:function(){return[U.kr]}}
+O.TP.prototype={
 p:function(){var y,x
-y=new O.LQ(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y=new O.M7(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
 y.a=S.d(y,3,C.j,0,null)
 x=document.createElement("material-toggle-gallery-section-api")
 y.e=x
-x=$.a4e
+x=$.a4w
 if(x==null){x=$.A.a5("",C.V,C.a)
-$.a4e=x}y.a3(x)
+$.a4w=x}y.a3(x)
 this.r=y
 this.e=y.e
-x=new U.kq(R.ca([],[new R.ai(C.fv,"MaterialToggleExampleComponent","material_toggle_example/lib/material_toggle_example.dart")],[new R.an("MaterialToggleComponent","material-toggle","angular_components/lib/material_toggle/material_toggle.dart",'<p><code>material-toggle</code> is a button that can be either ON or OFF.\nUser can tap the toggle button to change the state.\nUsually you use toggle buttons when you have a single ON/OFF option.\nIf you have multiple options from a set to be checked/unchecked, use\n<code>material-checkbox</code> instead.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-toggle [disabled]="false" [(checked)]="true" label="Click me"&gt;\n&lt;/material-toggle&gt;\n</code></pre>\n')],[],P.c(),[]))
+x=new U.kr(R.ca([],[new R.ai(C.ft,"MaterialToggleExampleComponent","material_toggle_example/lib/material_toggle_example.dart")],[new R.an("MaterialToggleComponent","material-toggle","angular_components/lib/material_toggle/material_toggle.dart",'<p><code>material-toggle</code> is a button that can be either ON or OFF.\nUser can tap the toggle button to change the state.\nUsually you use toggle buttons when you have a single ON/OFF option.\nIf you have multiple options from a set to be checked/unchecked, use\n<code>material-checkbox</code> instead.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-toggle [disabled]="false" [(checked)]="true" label="Click me"&gt;\n&lt;/material-toggle&gt;\n</code></pre>\n')],[],P.c(),[]))
 this.x=x
 y.k(0,x,this.a.e)
 this.F(this.e)
-return new D.y(this,0,this.e,this.x,[U.kq])},
+return new D.y(this,0,this.e,this.x,[U.kr])},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
 $asa:function(){}}
-S.kp.prototype={
-sa15:function(n){return this.a=n},
-sa1N:function(n){return this.b=n},
-sa12:function(n){return this.c=n}}
-T.v1.prototype={
+S.kq.prototype={
+sa0G:function(n){return this.a=n},
+sa1n:function(n){return this.b=n},
+sa0D:function(n){return this.c=n}}
+T.v6.prototype={
 p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0
 y=this.a6(this.e)
 x=document
@@ -302,7 +302,7 @@ this.y=w
 this.r.appendChild(w)
 this.h(this.y)
 w=[P.w]
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.Q=u
 this.z.k(0,u,[C.a])
 u=x.createTextNode("")
@@ -323,7 +323,7 @@ this.db=u
 this.cx.appendChild(u)
 this.db.setAttribute("label","Toggle button 1")
 this.h(this.db)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.dy=u
 this.dx.k(0,u,[C.a])
 u=S.b(x,"br",this.cx)
@@ -336,7 +336,7 @@ this.fx=u
 this.cx.appendChild(u)
 this.fx.setAttribute("label","Toggle button 2")
 this.h(this.fx)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.go=u
 this.fy.k(0,u,[C.a])
 u=S.b(x,"br",this.cx)
@@ -349,7 +349,7 @@ this.k1=u
 this.cx.appendChild(u)
 this.k1.setAttribute("label","Toggle buttons with very long labels will look like this when\n             rendered. Probably a good idea to keep your labels short.")
 this.h(this.k1)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.k3=u
 this.k2.k(0,u,[C.a])
 u=S.b(x,"br",this.cx)
@@ -362,7 +362,7 @@ this.r1=u
 this.cx.appendChild(u)
 this.r1.setAttribute("label","Disabled")
 this.h(this.r1)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.rx=u
 this.r2.k(0,u,[C.a])
 u=S.b(x,"section",y)
@@ -379,7 +379,7 @@ u=u.e
 this.x2=u
 this.ry.appendChild(u)
 this.h(this.x2)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.y2=u
 this.y1.k(0,u,[C.a])
 u=S.b(x,"br",this.ry)
@@ -391,7 +391,7 @@ u=u.e
 this.O=u
 this.ry.appendChild(u)
 this.h(this.O)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.K=u
 this.U.k(0,u,[C.a])
 u=S.b(x,"section",y)
@@ -414,7 +414,7 @@ this.a_.appendChild(u)
 this.a2.setAttribute("checked","")
 this.a2.setAttribute("label","red")
 this.h(this.a2)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.Z=u
 this.V.k(0,u,[C.a])
 u=S.l(x,this.L)
@@ -429,7 +429,7 @@ this.S.appendChild(u)
 this.ac.setAttribute("checked","")
 this.ac.setAttribute("label","purple")
 this.h(this.ac)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.a9=u
 this.ab.k(0,u,[C.a])
 u=S.l(x,this.L)
@@ -444,7 +444,7 @@ this.aa.appendChild(u)
 this.ad.setAttribute("disabled","")
 this.ad.setAttribute("label","red (disabled, OFF)")
 this.h(this.ad)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.ah=u
 this.al.k(0,u,[C.a])
 u=S.l(x,this.L)
@@ -460,7 +460,7 @@ this.Y.setAttribute("checked","")
 this.Y.setAttribute("disabled","")
 this.Y.setAttribute("label","purple (disabled, ON)")
 this.h(this.Y)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.ar=u
 this.ap.k(0,u,[C.a])
 u=S.b(x,"section",y)
@@ -490,7 +490,7 @@ this.aL=u
 this.aA.appendChild(u)
 this.aL.setAttribute("label","Different 'ON' and 'OFF' colors!")
 this.h(this.aL)
-u=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+u=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
 this.aw=u
 this.av.k(0,u,[C.a])
 u=S.b(x,"h2",this.af)
@@ -509,17 +509,17 @@ this.aH=u
 this.aM.appendChild(u)
 this.aH.setAttribute("label","Label on right")
 this.h(this.aH)
-w=new D.bs(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
-this.aV=w
+w=new D.br(null,!1,!1,new P.L(null,null,0,null,null,null,null,w),null,null,1,!1,!1)
+this.aW=w
 this.aE.k(0,w,[C.a])
 w=this.Q.d
-n=new P.h(w,[H.e(w,0)]).B(this.v(this.gQl()))
+n=new P.h(w,[H.e(w,0)]).B(this.v(this.gPX()))
 w=this.y2.d
-a0=new P.h(w,[H.e(w,0)]).B(this.v(this.gQ7()))
+a0=new P.h(w,[H.e(w,0)]).B(this.v(this.gPJ()))
 w=this.K.d
-this.N(C.a,[n,a0,new P.h(w,[H.e(w,0)]).B(this.v(this.gQb()))])
+this.N(C.a,[n,a0,new P.h(w,[H.e(w,0)]).B(this.v(this.gPN()))])
 return},
-P:function(n,o,p){var y=n===C.c
+P:function(n,o,p){var y=n===C.d
 if(y&&3===o)return this.Q
 if(y&&8===o)return this.dy
 if(y&&10===o)return this.go
@@ -532,7 +532,7 @@ if(y&&27===o)return this.a9
 if(y&&29===o)return this.ah
 if(y&&31===o)return this.ar
 if(y&&39===o)return this.aw
-if(y&&43===o)return this.aV
+if(y&&43===o)return this.aW
 return p},
 q:function(){var y,x,w,v,u,t,s,r,q
 y=this.f
@@ -544,20 +544,20 @@ if(x){v=this.go
 v.b=!1
 v.e="Toggle button 2"
 v.c=!0
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.fy.a.st(1)
 if(x){v=this.k3
 v.e="Toggle buttons with very long labels will look like this when\n             rendered. Probably a good idea to keep your labels short."
 v.c=!1
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.k2.a.st(1)
 if(x){v=this.rx
 v.b=!0
 v.e="Disabled"
 v.c=!0
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.r2.a.st(1)
 if(x){this.y2.b=!1
@@ -570,7 +570,7 @@ this.aB=t
 w=!0}u=this.aG
 if(u==null?v!=null:u!==v){u=this.y2
 u.c=v
-u.cN()
+u.cM()
 this.aG=v
 w=!0}if(w)this.y1.a.st(1)
 s=!y.a
@@ -582,48 +582,48 @@ u=v?"invisible":"visible"
 r="Tap to set device "+u+"."
 if(this.aq!==r){this.K.e=r
 this.aq=r
-w=!0}u=this.aW
+w=!0}u=this.aX
 if(u==null?v!=null:u!==v){u=this.K
 u.c=v
-u.cN()
-this.aW=v
+u.cM()
+this.aX=v
 w=!0}if(w)this.U.a.st(1)
 if(x){v=this.Z
 v.e="red"
 v.c=!0
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.V.a.st(1)
 if(x){v=this.a9
 v.e="purple"
 v.c=!0
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.ab.a.st(1)
 if(x){v=this.ah
 v.b=!0
 v.e="red (disabled, OFF)"
 v.c=!1
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.al.a.st(1)
 if(x){v=this.ar
 v.b=!0
 v.e="purple (disabled, ON)"
 v.c=!0
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.ap.a.st(1)
 if(x){v=this.aw
 v.e="Different 'ON' and 'OFF' colors!"
 v.c=!1
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.av.a.st(1)
-if(x){v=this.aV
+if(x){v=this.aW
 v.e="Label on right"
 v.c=!1
-v.cN()
+v.cM()
 w=!0}else w=!1
 if(w)this.aE.a.st(1)
 q=Q.I(y.c)
@@ -641,19 +641,19 @@ this.al.j()
 this.ap.j()
 this.av.j()
 this.aE.j()
-if(x)this.Q.cN()
-if(x)this.dy.cN()
-if(x)this.go.cN()
-if(x)this.k3.cN()
-if(x)this.rx.cN()
-if(x)this.y2.cN()
-if(x)this.K.cN()
-if(x)this.Z.cN()
-if(x)this.a9.cN()
-if(x)this.ah.cN()
-if(x)this.ar.cN()
-if(x)this.aw.cN()
-if(x)this.aV.cN()},
+if(x)this.Q.cM()
+if(x)this.dy.cM()
+if(x)this.go.cM()
+if(x)this.k3.cM()
+if(x)this.rx.cM()
+if(x)this.y2.cM()
+if(x)this.K.cM()
+if(x)this.Z.cM()
+if(x)this.a9.cM()
+if(x)this.ah.cM()
+if(x)this.ar.cM()
+if(x)this.aw.cM()
+if(x)this.aW.cM()},
 w:function(){var y=this.z
 if(!(y==null))y.i()
 y=this.dx
@@ -680,52 +680,52 @@ y=this.av
 if(!(y==null))y.i()
 y=this.aE
 if(!(y==null))y.i()},
-Qm:function(n){this.f.sa12(n)},
-Q8:function(n){this.f.sa15(n)},
-Qc:function(n){this.f.sa1N(n)},
-$asa:function(){return[S.kp]}}
-T.Tu.prototype={
+PY:function(n){this.f.sa0D(n)},
+PK:function(n){this.f.sa0G(n)},
+PO:function(n){this.f.sa1n(n)},
+$asa:function(){return[S.kq]}}
+T.TO.prototype={
 p:function(){var y,x
-y=new T.v1(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y=new T.v6(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
 y.a=S.d(y,3,C.j,0,null)
 x=document.createElement("material-toggle-example")
 y.e=x
-x=$.a4d
-if(x==null){x=$.A.a5("",C.n,C.oz)
-$.a4d=x}y.a3(x)
+x=$.a4v
+if(x==null){x=$.A.a5("",C.n,C.ow)
+$.a4v=x}y.a3(x)
 this.r=y
 this.e=y.e
-x=new S.kp(!1,!1,null)
+x=new S.kq(!1,!1,null)
 this.x=x
 y.k(0,x,this.a.e)
 this.F(this.e)
-return new D.y(this,0,this.e,this.x,[S.kp])},
+return new D.y(this,0,this.e,this.x,[S.kq])},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
-$asa:function(){}};(function installTearOffs(){f(O,"arn",1,0,0,null,["$2"],["ayW"],1)
-f(T,"aro",1,0,0,null,["$2"],["ayV"],1)
+$asa:function(){}};(function installTearOffs(){f(O,"arG",1,0,0,null,["$2"],["aze"],1)
+f(T,"arH",1,0,0,null,["$2"],["azd"],1)
 var y
-f(y=T.v1.prototype,"gQl",0,0,0,null,["$1"],["Qm"],0)
-f(y,"gQ7",0,0,0,null,["$1"],["Q8"],0)
-f(y,"gQb",0,0,0,null,["$1"],["Qc"],0)})();(function inheritance(){var y=P.H
-a(U.kq,y)
-a(S.kp,y)
+f(y=T.v6.prototype,"gPX",0,0,0,null,["$1"],["PY"],0)
+f(y,"gPJ",0,0,0,null,["$1"],["PK"],0)
+f(y,"gPN",0,0,0,null,["$1"],["PO"],0)})();(function inheritance(){var y=P.H
+a(U.kr,y)
+a(S.kq,y)
 y=S.a
-a(O.LQ,y)
-a(O.Tv,y)
-a(T.v1,y)
-a(T.Tu,y)})();(function constants(){C.db=new D.C("material-toggle-gallery-section-api",O.arn(),C.a,[U.kq])
-C.he=C.db
-C.ig=new D.C("material-toggle-example",T.aro(),C.a,[S.kp])
-C.lO=d(["material-toggle._ngcontent-%ID%{padding:12px;width:320px;}.theme-red._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-bar{background-color:#db4437;}.theme-red._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-btn{background-color:#db4437;}.theme-purple._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-bar{background-color:#9c27b0;}.theme-purple._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-btn{background-color:#9c27b0;}.custom-theme._ngcontent-%ID%  material-toggle.themeable .material-toggle .tgl-btn{background-color:#cddc39;}.custom-theme._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-bar{background-color:#8bc34a;}.custom-theme._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-btn{background-color:#8bc34a;}.flip-label._ngcontent-%ID%  .material-toggle{flex-direction:row-reverse;}.flip-label._ngcontent-%ID%  .material-toggle .tgl-lbl{padding-left:8px;}"])
-C.oz=d([C.lO])
-C.qQ=H.p("kq")
-C.fv=H.p("kp")})();(function staticFields(){$.a4e=null
-$.a7o=!1
-$.a4d=null
-$.a7p=!1})()
+a(O.M7,y)
+a(O.TP,y)
+a(T.v6,y)
+a(T.TO,y)})();(function constants(){C.da=new D.C("material-toggle-gallery-section-api",O.arG(),C.a,[U.kr])
+C.hc=C.da
+C.id=new D.C("material-toggle-example",T.arH(),C.a,[S.kq])
+C.lM=d(["material-toggle._ngcontent-%ID%{padding:12px;width:320px;}.theme-red._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-bar{background-color:#db4437;}.theme-red._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-btn{background-color:#db4437;}.theme-purple._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-bar{background-color:#9c27b0;}.theme-purple._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-btn{background-color:#9c27b0;}.custom-theme._ngcontent-%ID%  material-toggle.themeable .material-toggle .tgl-btn{background-color:#cddc39;}.custom-theme._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-bar{background-color:#8bc34a;}.custom-theme._ngcontent-%ID%  material-toggle.themeable .material-toggle.checked .tgl-btn{background-color:#8bc34a;}.flip-label._ngcontent-%ID%  .material-toggle{flex-direction:row-reverse;}.flip-label._ngcontent-%ID%  .material-toggle .tgl-lbl{padding-left:8px;}"])
+C.ow=d([C.lM])
+C.qQ=H.p("kr")
+C.ft=H.p("kq")})();(function staticFields(){$.a4w=null
+$.a7G=!1
+$.a4v=null
+$.a7H=!1})()
 i([{func:1,v:true,args:[,]},{func:1,ret:S.a,args:[S.a,P.k]}]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["SwX3xXVOZtVI4iKZWzA5CKEKLdU="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["FG3ri3AteWQOa/1AYFXuSr8pMzw="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_79.part.js.map
