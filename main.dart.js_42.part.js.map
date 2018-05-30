@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_42.part.js",
+  "sourceRoot": "",
+  "sources": ["../packages/angular_components/src/model/selection/noop_selection_model_impl.dart"],
+  "names": ["_NoopSelectionModelImpl.selectionChanges","_NoopSelectionModelImpl.notifyChange","_NoopSelectionModelImpl.select","_NoopSelectionModelImpl.deselect","_NoopSelectionModelImpl.isSelected"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAkEUA;GAjCHC,YAAmBA,C;GAiBnBC,cAAaA,QAAKA,C;GAGlBC,YAAeA,QAAKA,C;GAGpBC,YAAiBA,QAAKA,C;IASgBJ,WACvCA,sBAAiCA,C"
+}

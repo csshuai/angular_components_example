@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_14.part.js",
+  "sourceRoot": "",
+  "sources": ["../packages/angular_components/utils/id_generator/id_generator.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/internal/iterable.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/_internal/js_runtime/lib/js_array.dart"],
+  "names": ["SequentialIdGenerator.fromUUID","SequentialIdGenerator._createUuid","MappedListIterable","JSArray.map","SequentialIdGenerator.nextId","SequentialIdGenerator._createUuid.<anonymous function>","SequentialIdGenerator__createUuid_closure","SequentialIdGenerator._rnd"],
+  "mappings": "A;8EAkC0CA;IAAxCA,oCAAsDA,C;GASxCC,WAERA;AAAYA,UAAuBA;AACtBA;AACAA;AAGRA,ECwWXC,uBCpJaC,gBFnNNF,OAGKA;AAAVA,OAAUA,kBAAyBA,mBAC5BA,oBAA2BA,oBAC3BA,eACTA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GApBOG,WAAYA,2BAAqBA,C;AAQQC;GAAPA,YAAOA,oBAAKA,OAAYA,C;GAAxBC,mC;AAKrBD;GAATA,YAAOA,gCAAmCA,C;;;GAA1CC,mC;;;gEAnCEC,kBAAgBA,WAAhBA,C"
+}
