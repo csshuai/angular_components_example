@@ -1,5 +1,13 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={},E={},M={},B={},S={},Q={},D={},L={bK:function bK(){}},Z={},A={},T={},O={},U={},X={},F={}
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={},E={},M={},B={},S={},Q={},D={},L={},Z={},A={},T={
+it:function(){if($.a8Q)return
+$.a8Q=!0
+K.b6()
+N.bH()
+F.hN()}},O={},U={},X={},F={
+hN:function(){if($.a8P)return
+$.a8P=!0
+E.t()}}
 var z=[C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F])
 C=h(m[0],C)
@@ -26,27 +34,9 @@ T=h(m[20],T)
 O=h(m[21],O)
 U=h(m[22],U)
 X=h(m[23],X)
-F=h(m[24],F)
-L.bK.prototype={
-gbK:function(){return this.a},
-sbK:function(n){this.a=n},
-gdI:function(n){return this.b},
-sdI:function(n,o){this.b=o},
-gdf:function(){return this.c},
-sdf:function(n){this.c=n},
-giW:function(){return this.d},
-siW:function(n){this.d=n},
-gfM:function(){return this.e},
-sfM:function(n){this.e=n},
-ew:function(n){return this.gbK().$1(n)},
-a0Z:function(n){return this.giW().$1(n)},
-a1K:function(n){return this.gfM().$1(n)}}
-L.bK.prototype.dN=L.bK.prototype.sbK
-L.bK.prototype.eN=L.bK.prototype.sdI
-L.bK.prototype.ld=L.bK.prototype.sdf
-L.bK.prototype.yS=L.bK.prototype.siW
-L.bK.prototype.o1=L.bK.prototype.sfM;(function inheritance(){a(L.bK,P.H)})()
+F=h(m[24],F);(function staticFields(){$.a8Q=!1
+$.a8P=!1})()
 i([]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["eM0rBkeTeFQY378kr00C9QBb8iM="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["nN+BkCACPSMfGUW7Z0ZjEbBKdhI="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_15.part.js.map

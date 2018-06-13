@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_73.part.js",
   "sourceRoot": "",
-  "sources": [],
-  "names": [],
-  "mappings": "A"
+  "sources": ["../packages/angular_components/utils/angular/properties/properties.dart"],
+  "names": ["getBool"],
+  "mappings": "A;;GA2CKA,YACHA,WAAwBA,UAAUA;AAElCA,uBAA0BA,OAAOA,QAKnCA;AAJEA,wBAAwBA,QAI1BA;AAFEA,UAAUA,uDAEZA,C"
 }

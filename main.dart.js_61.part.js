@@ -1,15 +1,20 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={
-axV:function(n,o){var y=new N.SD(null,null,null,P.c(),n,null,null,null)
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={GA:function GA(n,o,p,q,r){var _=this
+_.e=n
+_.a=o
+_.b=p
+_.c=q
+_.d=r}},R={},K={hp:function hp(){}},V={},N={},E={},M={},B={},S={},Q={
+aGh:function(n,o){var y=new Q.V5(null,null,null,P.c(),n,null,null,null)
 y.a=S.d(y,3,C.k,o,null)
 return y},
-amE:function(){if($.a8N)return
-$.a8N=!0
-$.$get$D().u(0,C.qS,C.d7)
-O.amF()
-E.r()
-K.cf()},
-Lr:function Lr(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
+as5:function(){if($.a9E)return
+$.a9E=!0
+$.$get$D().u(0,C.pq,C.d8)
+E.t()
+K.cj()
+Q.as6()},
+Nd:function Nd(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -37,7 +42,7 @@ _.c=b1
 _.d=b2
 _.e=b3
 _.f=b4},
-SD:function SD(n,o,p,q,r,s,t,u){var _=this
+V5:function V5(n,o,p,q,r,s,t,u){var _=this
 _.r=n
 _.x=o
 _.a=p
@@ -45,28 +50,30 @@ _.b=q
 _.c=r
 _.d=s
 _.e=t
-_.f=u}},E={},M={},B={k8:function k8(n){this.a=n}},S={},Q={},D={h0:function h0(n,o,p){this.a=n
-this.b=o
-this.c=p}},L={},Z={},A={},T={},O={
-axT:function(n,o){var y=new O.xv(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.Z(["$implicit",null]),n,null,null,null)
-y.a=S.d(y,3,C.e,o,null)
-y.d=$.ZM
+_.f=u},
+aGi:function(n,o){var y=new Q.V6(null,null,null,null,null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.d,o,null)
+y.d=$.a0L
 return y},
-axU:function(n,o){var y=new O.SC(null,null,null,P.c(),n,null,null,null)
+aGj:function(n,o){var y=new Q.V7(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),n,null,null,null)
 y.a=S.d(y,3,C.k,o,null)
 return y},
-amF:function(){if($.a8O)return
-$.a8O=!0
-$.$get$D().u(0,C.f6,C.ij)
-E.r()
-U.ad4()
-K.ad5()
-M.bH()
-B.jf()
-E.qj()
-M.lu()
-K.b4()},
-uP:function uP(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8){var _=this
+as6:function(){if($.a9F)return
+$.a9F=!0
+$.$get$D().u(0,C.fF,C.iz)
+E.t()
+V.et()
+R.hR()
+T.lM()
+U.d9()
+M.bI()
+Q.cV()
+A.eu()
+R.jw()
+T.YE()
+F.YF()
+B.afw()},
+vK:function vK(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8,r9,s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,t0,t1,t2,t3,t4,t5){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -95,134 +102,134 @@ _.x1=b2
 _.x2=b3
 _.y1=b4
 _.y2=b5
-_.T=b6
+_.S=b6
 _.O=b7
 _.U=b8
-_.K=b9
-_.L=c0
-_.H=c1
-_.a_=c2
-_.a2=c3
+_.P=b9
+_.K=c0
+_.J=c1
+_.Y=c2
+_.a0=c3
 _.V=c4
 _.Z=c5
-_.S=c6
-_.ac=c7
-_.ab=c8
-_.a9=c9
-_.aa=d0
+_.T=c6
+_.ab=c7
+_.aa=c8
+_.a7=c9
+_.a9=d0
 _.ad=d1
-_.al=d2
-_.ah=d3
-_.ak=d4
-_.Y=d5
-_.ap=d6
+_.ak=d2
+_.ag=d3
+_.aj=d4
+_.W=d5
+_.ao=d6
 _.ar=d7
 _.af=d8
-_.an=d9
+_.am=d9
 _.au=e0
 _.aD=e1
-_.aA=e2
-_.aL=e3
-_.av=e4
-_.aw=e5
-_.aN=e6
-_.aM=e7
-_.aH=e8
-_.aE=e9
-_.aW=f0
+_.aw=e2
+_.aH=e3
+_.at=e4
+_.aA=e5
+_.aL=e6
+_.aK=e7
+_.aF=e8
+_.aB=e9
+_.aV=f0
 _.as=f1
-_.aB=f2
+_.az=f2
 _.aG=f3
 _.ax=f4
 _.aq=f5
-_.aX=f6
-_.b4=f7
-_.ay=f8
-_.bc=f9
-_.aF=g0
+_.aS=f6
+_.aZ=f7
+_.av=f8
+_.b9=f9
+_.aC=g0
 _.ae=g1
-_.aR=g2
-_.az=g3
-_.aK=g4
-_.c5=g5
-_.aQ=g6
-_.br=g7
-_.bj=g8
-_.bk=g9
-_.aS=h0
-_.bd=h1
-_.bl=h2
+_.aO=g2
+_.ay=g3
+_.aI=g4
+_.bY=g5
+_.aN=g6
+_.bf=g7
+_.ba=g8
+_.bg=g9
+_.aR=h0
+_.b5=h1
+_.bh=h2
 _.aT=h3
 _.b7=h4
 _.bQ=h5
-_.aj=h6
+_.al=h6
 _.bm=h7
 _.bn=h8
 _.bR=h9
 _.bx=i0
-_.b8=i1
-_.b9=i2
-_.b3=i3
-_.b1=i4
-_.aU=i5
-_.bp=i6
-_.bq=i7
-_.bf=i8
+_.bb=i1
+_.bc=i2
+_.b4=i3
+_.b2=i4
+_.aW=i5
+_.bq=i6
+_.br=i7
+_.bi=i8
 _.bt=i9
-_.ba=j0
+_.bd=j0
 _.bL=j1
-_.bb=j2
-_.bF=j3
-_.bz=j4
+_.be=j2
+_.bE=j3
+_.by=j4
 _.bZ=j5
 _.bM=j6
 _.bN=j7
-_.bA=j8
+_.bz=j8
 _.bu=j9
-_.bB=k0
+_.bA=k0
 _.cb=k1
-_.bg=k2
-_.c4=k3
-_.bC=k4
-_.b2=k5
+_.bj=k2
+_.c5=k3
+_.bB=k4
+_.b3=k5
 _.bv=k6
 _.c0=k7
-_.bT=k8
-_.bG=k9
-_.cd=l0
+_.bV=k8
+_.bF=k9
+_.ce=l0
 _.c_=l1
-_.aJ=l2
-_.bD=l3
-_.cT=l4
+_.aM=l2
+_.bC=l3
+_.cU=l4
 _.cs=l5
-_.bi=l6
-_.c8=l7
-_.c9=l8
+_.bl=l6
+_.c7=l7
+_.c8=l8
 _.c1=l9
-_.ca=m0
+_.c9=m0
 _.bO=m1
-_.bH=m2
-_.bh=m3
-_.bJ=m4
-_.bX=m5
+_.bG=m2
+_.bk=m3
+_.bI=m4
+_.bW=m5
 _.cj=m6
 _.bP=m7
 _.ct=m8
-_.bI=m9
-_.d_=n0
+_.bH=m9
+_.d2=n0
 _.ck=n1
 _.cv=n2
-_.cH=n3
+_.cI=n3
 _.cc=n4
 _.cw=n5
-_.cn=n6
-_.bY=n7
-_.d6=n8
-_.co=n9
+_.co=n6
+_.bX=n7
+_.d7=n8
+_.cp=n9
 _.cl=o0
-_.ce=o1
+_.cf=o1
 _.cz=o2
-_.cK=o3
+_.cM=o3
 _.c2=o4
 _.cu=o5
 _.cC=o6
@@ -230,35 +237,65 @@ _.c3=o7
 _.cA=o8
 _.cD=o9
 _.cm=p0
-_.cL=p1
-_.cN=p2
-_.cX=p3
-_.cY=p4
-_.cU=p5
-_.cO=p6
-_.cV=p7
-_.ds=p8
-_.d4=p9
-_.d7=q0
+_.cN=p1
+_.cP=p2
+_.cZ=p3
+_.d_=p4
+_.cV=p5
+_.cQ=p6
+_.cW=p7
+_.du=p8
+_.d5=p9
+_.d8=q0
 _.dm=q1
-_.dt=q2
-_.dR=q3
+_.dv=q2
+_.dT=q3
 _.dd=q4
-_.dS=q5
-_.cP=q6
-_.d8=q7
-_.dK=q8
+_.dU=q5
+_.cR=q6
+_.d9=q7
+_.dL=q8
 _.dn=q9
-_.dT=r0
-_.de=r1
-_.d9=r2
-_.a=r3
-_.b=r4
-_.c=r5
-_.d=r6
-_.e=r7
-_.f=r8},
-xv:function xv(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3){var _=this
+_.dV=r0
+_.da=r1
+_.dc=r2
+_.dI=r3
+_.e_=r4
+_.e4=r5
+_.dQ=r6
+_.e0=r7
+_.cE=r8
+_.fO=r9
+_.f0=s0
+_.ff=s1
+_.fP=s2
+_.fQ=s3
+_.fq=s4
+_.fs=s5
+_.eA=s6
+_.ft=s7
+_.dR=s8
+_.eS=s9
+_.a=t0
+_.b=t1
+_.c=t2
+_.d=t3
+_.e=t4
+_.f=t5},
+V6:function V6(n,o,p,q,r,s,t,u,v,w,x,y){var _=this
+_.r=n
+_.x=o
+_.y=p
+_.z=q
+_.Q=r
+_.ch=s
+_.a=t
+_.b=u
+_.c=v
+_.d=w
+_.e=x
+_.f=y},
+V7:function V7(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3){var _=this
 _.r=n
 _.x=o
 _.y=p
@@ -284,16 +321,19 @@ _.b=a9
 _.c=b0
 _.d=b1
 _.e=b2
-_.f=b3},
-SC:function SC(n,o,p,q,r,s,t,u){var _=this
-_.r=n
-_.x=o
-_.a=p
-_.b=q
-_.c=r
-_.d=s
-_.e=t
-_.f=u}},U={},X={},F={}
+_.f=b3}},D={tA:function tA(n,o,p,q,r,s,t,u,v,w,x,y){var _=this
+_.x=n
+_.y=o
+_.z=p
+_.Q=q
+_.ch=r
+_.a=s
+_.b=t
+_.c=u
+_.d=v
+_.e=w
+_.f=x
+_.r=y}},L={},Z={},A={kM:function kM(n){this.a=n}},T={},O={},U={},X={},F={}
 var z=[C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F])
 C=h(m[0],C)
@@ -321,1326 +361,1633 @@ O=h(m[21],O)
 U=h(m[22],U)
 X=h(m[23],X)
 F=h(m[24],F)
-B.k8.prototype={
-gb_:function(){return this.a}}
-N.Lr.prototype={
-gAD:function(){var y=this.Q
+D.tA.prototype={
+q1:function(){this.ch.b.sbs(0,!0)},
+kP:function(){this.y.jh(!1)
+var y=this.ch.b
+if(y.Y)y.sbs(0,!1)},
+y8:function(n){this.Q=!0},
+nC:function(n){this.Q=!1
+this.kP()},
+a6k:function(n){if(this.Q){this.ch.b.sbs(0,!0)
+this.Q=!1}},
+nE:function(n){if(this.z)return
+this.z=!0
+this.y.eM(0)},
+l6:function(n){this.z=!1
+this.kP()},
+sa7T:function(n){this.ch=n},
+$isana:1,
+gh3:function(){return this.x}}
+Y.GA.prototype={}
+A.kM.prototype={
+gb0:function(){return this.a}}
+Q.Nd.prototype={
+gFC:function(){var y=this.Q
 if(y==null){y=window
 this.Q=y}return y},
-gos:function(){var y=this.ch
+gpE:function(){var y=this.ch
 if(y==null){y=this.c
-y=T.aS(y.m(C.b,this.a.Q,null),y.m(C.B,this.a.Q,null),y.n(C.f,this.a.Q),this.gAD())
+y=T.aP(y.m(C.b,this.a.Q,null),y.m(C.C,this.a.Q,null),y.n(C.f,this.a.Q),this.gFC())
 this.ch=y}return y},
-gAA:function(){var y=this.cx
-if(y==null){y=new O.aE(this.c.n(C.R,this.a.Q),this.gos())
+gFz:function(){var y=this.cx
+if(y==null){y=new O.aD(this.c.n(C.R,this.a.Q),this.gpE())
 this.cx=y}return y},
-gor:function(){var y=this.cy
+gpD:function(){var y=this.cy
 if(y==null){y=document
 this.cy=y}return y},
-gtb:function(){var y=this.db
-if(y==null){y=new K.aF(this.gor(),this.gos(),P.aP(null,[P.x,P.j]))
+gvk:function(){var y=this.db
+if(y==null){y=new K.aE(this.gpD(),this.gpE(),P.aM(null,[P.x,P.j]))
 this.db=y}return y},
-gtc:function(){var y=this.dy
-if(y==null){y=G.b2(this.c.m(C.y,this.a.Q,null))
+gvl:function(){var y=this.dy
+if(y==null){y=G.aZ(this.c.m(C.y,this.a.Q,null))
 this.dy=y}return y},
-gAF:function(){var y=this.fr
-if(y==null){y=G.b3(this.gor(),this.c.m(C.x,this.a.Q,null))
+gFE:function(){var y=this.fr
+if(y==null){y=G.b_(this.gpD(),this.c.m(C.x,this.a.Q,null))
 this.fr=y}return y},
-gAG:function(){var y=this.fx
-if(y==null){y=G.aU(this.gtc(),this.gAF(),this.c.m(C.w,this.a.Q,null))
+gFF:function(){var y=this.fx
+if(y==null){y=G.aT(this.gvl(),this.gFE(),this.c.m(C.w,this.a.Q,null))
 this.fx=y}return y},
-gtd:function(){var y=this.fy
+gvm:function(){var y=this.fy
 if(y==null){this.fy=!0
 y=!0}return y},
-gAH:function(){var y=this.go
+gFG:function(){var y=this.go
 if(y==null){this.go=!0
 y=!0}return y},
-gAC:function(){var y=this.id
-if(y==null){y=this.gor()
-y=new R.aI(y.querySelector("head"),!1,y)
+gFB:function(){var y=this.id
+if(y==null){y=this.gpD()
+y=new R.aG(y.querySelector("head"),!1,y)
 this.id=y}return y},
-gAE:function(){var y=this.k1
-if(y==null){y=X.b1()
+gFD:function(){var y=this.k1
+if(y==null){y=X.aY()
 this.k1=y}return y},
-gAB:function(){var y=this.k2
-if(y==null){y=K.aY(this.gAC(),this.gAG(),this.gtc(),this.gtb(),this.gos(),this.gAA(),this.gtd(),this.gAH(),this.gAE())
+gFA:function(){var y=this.k2
+if(y==null){y=K.aX(this.gFB(),this.gFF(),this.gvl(),this.gvk(),this.gpE(),this.gFz(),this.gvm(),this.gFG(),this.gFD())
 this.k2=y}return y},
 p:function(){var y,x
-y=this.a6(this.e)
-x=K.c5(this,0)
+y=this.a5(this.e)
+x=K.c8(this,0)
 this.x=x
 x=x.e
 this.r=x
 y.appendChild(x)
-x=new U.aw(null,this.c.n(C.a6,this.a.Q))
+x=new U.au(null,this.c.n(C.a6,this.a.Q))
 this.y=x
 this.x.k(0,x,[])
-this.N(C.a,null)
+this.L(C.a,null)
 return},
-P:function(n,o,p){var y,x,w,v
-if(n===C.E&&0===o){y=this.z
+N:function(n,o,p){var y,x,w,v
+if(n===C.G&&0===o){y=this.z
 if(y==null){this.z=C.z
-y=C.z}return y}if(n===C.F&&0===o)return this.gAD()
-if(n===C.b&&0===o)return this.gos()
-if(n===C.M&&0===o)return this.gAA()
-if(n===C.L&&0===o)return this.gor()
-if(n===C.N&&0===o)return this.gtb()
+y=C.z}return y}if(n===C.H&&0===o)return this.gFC()
+if(n===C.b&&0===o)return this.gpE()
+if(n===C.N&&0===o)return this.gFz()
+if(n===C.M&&0===o)return this.gpD()
+if(n===C.O&&0===o)return this.gvk()
 if(n===C.S&&0===o){y=this.dx
 if(y==null){y=T.aV(this.c.n(C.f,this.a.Q))
-this.dx=y}return y}if(n===C.y&&0===o)return this.gtc()
-if(n===C.x&&0===o)return this.gAF()
-if(n===C.w&&0===o)return this.gAG()
-if(n===C.U&&0===o)return this.gtd()
-if(n===C.D&&0===o)return this.gAH()
-if(n===C.P&&0===o)return this.gAC()
-if(n===C.C&&0===o)return this.gAE()
-if(n===C.O&&0===o)return this.gAB()
+this.dx=y}return y}if(n===C.y&&0===o)return this.gvl()
+if(n===C.x&&0===o)return this.gFE()
+if(n===C.w&&0===o)return this.gFF()
+if(n===C.T&&0===o)return this.gvm()
+if(n===C.F&&0===o)return this.gFG()
+if(n===C.Q&&0===o)return this.gFB()
+if(n===C.E&&0===o)return this.gFD()
+if(n===C.P&&0===o)return this.gFA()
 if(n===C.m&&0===o){y=this.k3
 if(y==null){y=this.c
 x=y.n(C.f,this.a.Q)
-w=this.gtd()
-v=this.gAB()
+w=this.gvm()
+v=this.gFA()
 y.m(C.m,this.a.Q,null)
-v=new X.aD(w,x,v)
+v=new X.aB(w,x,v)
 this.k3=v
 y=v}return y}if(n===C.v&&0===o){y=this.k4
-if(y==null){y=new K.aM(this.gtb())
+if(y==null){y=new K.aK(this.gvk())
 this.k4=y}return y}return p},
 q:function(){var y=this.f.a
 if(this.r1!==y){this.y.a=y
 this.r1=y}this.x.j()},
 w:function(){var y=this.x
 if(!(y==null))y.i()},
-$asa:function(){return[B.k8]}}
-N.SD.prototype={
+$asa:function(){return[A.kM]}}
+Q.V5.prototype={
 p:function(){var y,x
-y=new N.Lr(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y=new Q.Nd(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
 y.a=S.d(y,3,C.j,0,null)
-x=document.createElement("material-list-gallery-section-api")
+x=document.createElement("material-tooltip-api")
 y.e=x
-x=$.a42
-if(x==null){x=$.A.a5("",C.V,C.a)
-$.a42=x}y.a3(x)
+x=$.a6M
+if(x==null){x=$.z.a4("",C.W,C.a)
+$.a6M=x}y.a2(x)
 this.r=y
 this.e=y.e
-x=new B.k8(R.ca([],[new R.ai(C.f6,"MaterialListDemoComponent","material_list_example/lib/material_list_demo.dart")],[new R.an("MaterialListComponent","material-list","angular_components/lib/material_list/material_list.dart",'<p>Material List is a container component for a set of items with which the\nuser is intended to interact.</p>\n<p>It forms the basis for selection and menu components.\nThe <code>MaterialListComponent</code> class acts as the root node for a list\nproviding styling and the ability to collect item events.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-list size="medium"&gt;\n  &lt;material-list-item&gt;Item 1&lt;/material-list-item&gt;\n  &lt;material-list-item&gt;Item 2&lt;/material-list-item&gt;\n&lt;/material-list&gt;\n</code></pre>\n<p><strong>List Item Grouping:</strong></p>\n<p>Wrap <code>material-list-item</code> elements in a container with attribute\n<code>group</code> for a divider line between other groupings.</p>\n<pre><code>&lt;material-list&gt;\n  &lt;div group&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;/div&gt;\n  &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;div group&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;/div&gt;\n&lt;material-list&gt;\n</code></pre>\n<p><strong>List Item Group Labels:</strong></p>\n<p>Denote the label for a list item group using the <code>label</code> attribute.</p>\n<pre><code>&lt;material-list&gt;\n  &lt;div group&gt;\n    &lt;div label&gt;My Menu Group&lt;/div&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n    &lt;material-list-item&gt;Item&lt;/material-list-item&gt;\n  &lt;/div&gt;\n&lt;/material-list&gt;\n</code></pre>\n<p><strong>Attributes:</strong></p><ul><li><code>size: string {x-small, small, medium, large, x-large}</code> Sizes for the\nlist, resulting in the width being 64px * {1.5, 3, 5, 6, 7} respectively.\nThe default size is "auto" which sizes the list to its contents.</li><li><code>min-size: string {x-small, small, medium, large, x-large}</code> Minimum size\nfor the list, resulting in the width at least the specified width.</li></ul>\n'),new R.an("MaterialListItemComponent","material-list-item","angular_components/lib/material_list/material_list_item.dart",'<p>Material List Item is a block element intended for user interaction; it has\n<code>:hover</code> styling and emits and <code>trigger</code> event when the user clicks or\npresses <code>enter</code> or <code>space</code> keys.</p>\n<p>See [MaterialListComponent] for item <strong>grouping</strong> and <strong>labelling</strong>.</p>\n<p>Note: If the material-list-item has a [DropdownHandle] in its ancestry, the\ndropdown will be closed on triggering (i.e. clicking or pressing enter/space\non) the list item if [closeOnActivate] is true.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-list&gt;\n  &lt;material-list-item (trigger)="select(1)"&gt;Item 1&lt;/material-list-item&gt;\n  &lt;material-list-item (trigger)="select(2)"&gt;Item 2&lt;/material-list-item&gt;\n&lt;/material-list&gt;\n</code></pre>\n<p><strong>Properties:</strong></p><ul><li><code>disabled:bool</code> -- disables the trigger and gives item a disabled style.</li><li><code>active:bool</code> -- marks item as active from keyboard selection.</li><li><code>closeOnActivate:bool</code> -- causes dropdown to be closed on activation.\nTrue by default.</li></ul>\n<p><strong>Events:</strong></p><ul><li><code>trigger:MouseEvent|KeyboardEvent</code> -- fired when either mouse is clicked\nor <strong>enter</strong> or <strong>space</strong> keys are pressed.</li></ul>\n')],[],P.c(),[]))
+x=new A.kM(R.cb([],[new R.ah(C.fF,"MaterialTooltipExampleComponent","material_tooltip_example/lib/material_tooltip_example.dart")],[new R.al("MaterialTooltipDirective","[materialTooltip]","angular_components/lib/src/material_tooltip/tooltip.dart","<p>An ink-based tooltip which can be attached to any element.</p>\n"),new R.al("MaterialPaperTooltipComponent","material-tooltip-card","angular_components/lib/src/material_tooltip/paper_tooltip.dart","<p>A paper based overlay meant to convey long-form contextual information about\nits target element.</p>\n<p>The target for a tooltip card may be any element, such as a button, input,\nlink, etc. The target may also be the <code>help_outline</code> icon, which acts as a\nproxy for the actual target.</p>\n<p>See the Material spec and usage guidelines\n[https://material.io/guidelines/components/tooltips.html#tooltips-usage]\nUse this component in conjunction with the [MaterialTooltipTargetDirective].</p>\n<p>This component supports deferred content.</p>\n<p>If your tooltip content is another component, use the\n[DeferredContentDirective] to load your component only when it is visible.</p>\n<p><strong>Supported Content:</strong></p>\n<p>The following selectors are automatically styled to tooltip spec:</p><ul><li><code>header</code></li><li><code>footer</code></li><li><code>*</code> - Non header/footer content is given the tooltip body style.</li></ul>\n"),new R.al("MaterialTooltipTargetDirective","[tooltipTarget]","angular_components/lib/src/material_tooltip/tooltip_target.dart",'<p>A directive that marks the target of a tooltip and handles showing and\nhiding a tooltip on hover, click, enter, and space.</p>\n<p>This directive is used in conjunction with a [Tooltip] Component. Currently\nthe only stand-alone tooltip component is the [MaterialInkTooltipComponent],\nwhich gives full control over the content of a simple tooltip.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code class="language-html">&lt;!-- Explicitly declare the tooltip target. Allows for custom content --&gt;\n&lt;span tooltipTarget #ref="tooltipTarget"&gt;\n  Explicitly declare a tooltip component\n&lt;/span&gt;\n&lt;material-tooltip-text [for]="ref"&gt;\n  Allows for &lt;strong&gt;formatted&lt;/strong&gt; &lt;em&gt;text&lt;/em&gt;.\n&lt;/material-tooltip-text&gt;```\n</code></pre>\n'),new R.al("ClickableTooltipTargetDirective","[clickableTooltipTarget]","angular_components/lib/src/material_tooltip/tooltip_target.dart",'<p>A directive that marks the target of a tooltip and handles activating on\nmouse over (with delay), click, enter, and space.</p>\n<p>This directive is slightly different from [MaterialTooltipTargetDirective]\nas click and key events make tooltips appear with no delay.</p>\n<p>This directive is used in conjunction with a [Tooltip] Component. Currently\nthe only stand-alone tooltip component is the [MaterialInkTooltipComponent],\nwhich gives full control over the content of a simple tooltip.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code class="language-html">&lt;!-- Explicitly declare the tooltip target. Allows for custom content --&gt;\n&lt;span clickableTooltipTarget #ref="tooltipTarget"&gt;\n  Explicitly declare a tooltip component\n&lt;/span&gt;\n&lt;material-tooltip-text [for]="ref"&gt;\n  Allows for &lt;strong&gt;formatted&lt;/strong&gt; &lt;em&gt;text&lt;/em&gt;.\n&lt;/material-tooltip-text&gt;```\n</code></pre>\n'),new R.al("MaterialInkTooltipComponent","material-tooltip-text","angular_components/lib/src/material_tooltip/ink_tooltip.dart",'<p>An ink-based overlay meant to deliver contextual information about the\nelement it targets.</p>\n<p>It is a "small" tooltip in that it ought to be one or two lines, at most,\nand has a maximum width of <code>320px</code>.</p>\n<p>Typically, the tooltips are associated with an icon or a button and provide\na label or brief helper text about that element. This component should be\nused with a [TooltipTarget] component which controls its visibility\nand provides the underlying [ElementRef] at which the tooltip is targeted.</p>\n<p>Use this component in conjunction with the [MaterialTooltipTargetDirective].</p>\n<p>Consider using [MaterialTooltipDirective] instead; usage is much simpler and\nit enforces text-only small tooltips.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code class="language-html">&lt;!-- Explicitly declare the tooltip target. Allows for custom content --&gt;\n&lt;span tooltipTarget #ref="tooltipTarget"&gt;\n  Explicitly declare a tooltip component\n&lt;/span&gt;\n&lt;material-tooltip-text [for]="ref"&gt;\n  Allows for &lt;strong&gt;formatted&lt;/strong&gt; &lt;em&gt;text&lt;/em&gt;.\n&lt;/material-tooltip-text&gt;```\n</code></pre>\n'),new R.al("MaterialIconTooltipComponent","material-icon-tooltip","angular_components/lib/src/material_tooltip/icon_tooltip.dart",'<p>An icon that displays a paper tooltip on mouse-hover, click, enter,\nspace, and focus.</p>\n<p>This is essentially the same as showing [MaterialTooltipCard] on a\n[MaterialIconComponent], except that it shows tooltip on click (as\nopposed to [MaterialTooltipTarget], which does not have click trigger).</p>\n<p><strong>Attributes:</strong></p><ul><li><code>type</code> -- The type of the icon. Defaults to "help" to show "help_outline"\nicon (a circled "?"). The other supported values are "info" for\n"info_outline" (a circled "i") and "error" for "error_outline"\n(a circled "!").</li></ul>\n')],[],P.c(),[]))
 this.x=x
 y.k(0,x,this.a.e)
 this.F(this.e)
-return new D.y(this,0,this.e,this.x,[B.k8])},
+return new D.y(this,0,this.e,this.x,[A.kM])},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
 $asa:function(){}}
-D.h0.prototype={
-gmp:function(){var y=this.a
-return J.dn(y.gcZ())?"red":J.e0(y.gcZ())},
-y8:function(n){var y=this.b
-if(y.di(n))y.es(n)
-else y.dw(0,n)},
-eq:function(n){this.a.dw(0,n)},
-sKb:function(n){return this.c=n}}
-O.uP.prototype={
-p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2
-y=this.a6(this.e)
+K.hp.prototype={}
+Q.vK.prototype={
+p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5
+y=this.a5(this.e)
 x=document
 y.appendChild(x.createTextNode("\n"))
-w=S.d8(x,y)
+w=S.b(x,"h1",y)
 this.r=w
-w.className="colorchanger"
 this.l(w)
-v=x.createTextNode("Use the list to change color")
+v=x.createTextNode("Material tooltip")
 this.r.appendChild(v)
+y.appendChild(x.createTextNode("\n"))
 w=S.b(x,"section",y)
 this.x=w
 this.l(w)
+u=x.createTextNode("\n  ")
+this.x.appendChild(u)
 w=S.b(x,"h2",this.x)
 this.y=w
 this.l(w)
-u=x.createTextNode("Basic Demo")
-this.y.appendChild(u)
-w=B.dA(this,6)
-this.Q=w
-w=w.e
+t=x.createTextNode("Ink tooltip")
+this.y.appendChild(t)
+s=x.createTextNode("\n  ")
+this.x.appendChild(s)
+w=S.m(x,this.x)
 this.z=w
-this.x.appendChild(w)
-this.h(this.z)
-this.ch=new B.cl("auto")
-w=x.createElement("div")
+w.className="demo-section"
+this.h(w)
+r=x.createTextNode("\n    ")
+this.z.appendChild(r)
+w=S.m(x,this.z)
+this.Q=w
+w.className="demo-container"
+w.setAttribute("row","")
+this.h(this.Q)
+q=x.createTextNode("\n      ")
+this.Q.appendChild(q)
+w=S.m(x,this.Q)
+this.ch=w
+w.setAttribute("column","")
+this.h(this.ch)
+p=x.createTextNode("\n        ")
+this.ch.appendChild(p)
+w=S.m(x,this.ch)
 this.cx=w
-w.setAttribute("group","")
+w.setAttribute("flex","")
 this.h(this.cx)
-w=E.b_(this,8)
-this.db=w
-w=w.e
+o=x.createTextNode("\n          ")
+this.cx.appendChild(o)
+w=S.m(x,this.cx)
 this.cy=w
-this.cx.appendChild(w)
-this.h(this.cy)
+this.h(w)
+n=x.createTextNode("\n            ")
+this.cy.appendChild(n)
+w=M.X(this,19)
+this.dx=w
+w=w.e
+this.db=w
+this.cy.appendChild(w)
+w=this.db
+w.className="demo-glyph"
+w.setAttribute("icon","print")
+this.db.setAttribute("materialTooltip","Print")
+this.h(this.db)
+w=this.db
+this.dy=new V.k(19,17,this,w,null,null,null)
+this.fr=new Y.R(null,w)
 w=this.c
-t=L.aW(this.cy,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.dx=t
-s=x.createTextNode("Red")
-this.db.k(0,t,[[s]])
-t=E.b_(this,10)
-this.fr=t
-t=t.e
-this.dy=t
-this.cx.appendChild(t)
-this.h(this.dy)
-t=L.aW(this.dy,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.fx=t
-r=x.createTextNode("Green")
-this.fr.k(0,t,[[r]])
-t=E.b_(this,12)
-this.go=t
-t=t.e
-this.fy=t
-this.h(t)
-t=L.aW(this.fy,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.id=t
-q=x.createTextNode("Coral")
-this.go.k(0,t,[[q]])
-t=E.b_(this,14)
-this.k2=t
-t=t.e
-this.k1=t
-this.h(t)
-t=L.aW(this.k1,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.k3=t
-p=x.createTextNode("MediumOrchid")
-this.k2.k(0,t,[[p]])
-this.Q.k(0,this.ch,[[this.cx,this.fy,this.k1]])
-t=S.b(x,"section",y)
-this.k4=t
-this.l(t)
-t=S.b(x,"h2",this.k4)
-this.r1=t
-this.l(t)
-o=x.createTextNode("Different list sizes")
-this.r1.appendChild(o)
-t=S.b(x,"p",this.k4)
-this.r2=t
-this.l(t)
-t=S.b(x,"em",this.r2)
-this.rx=t
-this.l(t)
-n=x.createTextNode("with borders to demonstrate container size")
-this.rx.appendChild(n)
-t=S.b(x,"p",this.k4)
-this.ry=t
-this.l(t)
-a0=x.createTextNode("Sizes: x-small, small, medium, large, x-large")
-this.ry.appendChild(a0)
-t=$.$get$J().cloneNode(!1)
-this.k4.appendChild(t)
-t=new V.m(24,16,this,t,null,null,null)
-this.x1=t
-this.x2=new R.aj(t,null,null,null,new D.t(t,O.aqw()))
-t=S.b(x,"section",y)
-this.y1=t
-this.l(t)
-t=S.b(x,"h2",this.y1)
-this.y2=t
-this.l(t)
-a1=x.createTextNode("Minimum Width")
-this.y2.appendChild(a1)
-t=S.b(x,"p",this.y1)
-this.T=t
-this.l(t)
-t=S.b(x,"em",this.T)
-this.O=t
-this.l(t)
-a2=x.createTextNode("with borders to demonstrate container width")
-this.O.appendChild(a2)
-t=S.b(x,"p",this.y1)
-this.U=t
-this.l(t)
-t=S.b(x,"input",this.U)
-this.K=t
-this.h(t)
-t=B.dA(this,33)
-this.H=t
-t=t.e
-this.L=t
-this.y1.appendChild(t)
-t=this.L
-t.className="bordered-list"
-t.setAttribute("min-size","small")
-this.h(this.L)
-this.a_=new B.cl("auto")
-t=x.createElement("div")
-this.a2=t
-t.setAttribute("label","")
-this.h(this.a2)
-a3=x.createTextNode("Min Width of medium")
-this.a2.appendChild(a3)
-t=E.b_(this,36)
-this.Z=t
-t=t.e
-this.V=t
-t.setAttribute("disabled","")
-this.h(this.V)
-t=L.aW(this.V,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.S=t
-a4=x.createTextNode("Red")
-this.Z.k(0,t,[[a4]])
-t=E.b_(this,38)
-this.ab=t
-t=t.e
-this.ac=t
-this.h(t)
-t=L.aW(this.ac,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.a9=t
-a5=x.createTextNode("Green")
-this.ab.k(0,t,[[a5]])
-t=E.b_(this,40)
-this.ad=t
-t=t.e
-this.aa=t
-this.h(t)
-t=L.aW(this.aa,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.al=t
-a6=x.createTextNode("")
-this.ah=a6
-this.ad.k(0,t,[[a6]])
-a6=E.b_(this,42)
-this.Y=a6
-a6=a6.e
-this.ak=a6
-this.h(a6)
-a6=L.aW(this.ak,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.ap=a6
-a7=x.createTextNode("MediumOrchid")
-this.Y.k(0,a6,[[a7]])
-this.H.k(0,this.a_,[[this.a2,this.V,this.ac,this.aa,this.ak]])
-a6=S.b(x,"section",y)
-this.ar=a6
-a6.className="stretched-list"
-this.l(a6)
-a6=S.b(x,"h2",this.ar)
-this.af=a6
-this.l(a6)
-a8=x.createTextNode("Stretching to fill Parent")
-this.af.appendChild(a8)
-a6=S.b(x,"p",this.ar)
-this.an=a6
-this.l(a6)
-a6=S.b(x,"em",this.an)
-this.au=a6
-this.l(a6)
-a9=x.createTextNode("via block-material-list mixin")
-this.au.appendChild(a9)
-a6=B.dA(this,50)
-this.aA=a6
-a6=a6.e
-this.aD=a6
-this.ar.appendChild(a6)
-a6=this.aD
-a6.className="bordered-list"
-this.h(a6)
-this.aL=new B.cl("auto")
-a6=E.b_(this,51)
-this.aw=a6
-a6=a6.e
-this.av=a6
-a6.setAttribute("disabled","")
+a0=w.n(C.v,this.a.Q)
+a1=this.dy
+this.fx=S.e1(a0,a1,this.db,a1,this.dx.a.b,w.n(C.H,this.a.Q))
+x.createTextNode("\n            ")
+this.dx.k(0,this.fr,[])
+a2=x.createTextNode("\n            ")
+this.cy.appendChild(a2)
+a1=S.b(x,"br",this.cy)
+this.go=a1
+this.l(a1)
+a3=x.createTextNode("\n            ")
+this.cy.appendChild(a3)
+a1=M.X(this,24)
+this.k1=a1
+a1=a1.e
+this.id=a1
+this.cy.appendChild(a1)
+a1=this.id
+a1.className="demo-glyph"
+a1.setAttribute("icon","save")
+this.id.setAttribute("materialTooltip","Save")
+this.h(this.id)
+a1=this.id
+this.k2=new V.k(24,17,this,a1,null,null,null)
+this.k3=new Y.R(null,a1)
+a1=w.n(C.v,this.a.Q)
+a0=this.k2
+this.k4=S.e1(a1,a0,this.id,a0,this.k1.a.b,w.n(C.H,this.a.Q))
+x.createTextNode("\n            ")
+this.k1.k(0,this.k3,[])
+a4=x.createTextNode("\n            ")
+this.cy.appendChild(a4)
+a0=S.b(x,"br",this.cy)
+this.r2=a0
+this.l(a0)
+a5=x.createTextNode("\n            ")
+this.cy.appendChild(a5)
+a0=M.X(this,29)
+this.ry=a0
+a0=a0.e
+this.rx=a0
+this.cy.appendChild(a0)
+a0=this.rx
+a0.className="demo-glyph"
+a0.setAttribute("icon","lock")
+this.h(this.rx)
+a0=this.rx
+this.x1=new V.k(29,17,this,a0,null,null,null)
+this.x2=new Y.R(null,a0)
+a0=w.n(C.v,this.a.Q)
+a1=this.x1
+this.y1=S.e1(a0,a1,this.rx,a1,this.ry.a.b,w.n(C.H,this.a.Q))
+x.createTextNode("\n            ")
+this.ry.k(0,this.x2,[])
+a6=x.createTextNode("\n            ")
+this.cy.appendChild(a6)
+a1=S.b(x,"br",this.cy)
+this.S=a1
+this.l(a1)
+a7=x.createTextNode("\n          ")
+this.cy.appendChild(a7)
+a8=x.createTextNode("\n        ")
+this.cx.appendChild(a8)
+a9=x.createTextNode("\n        ")
+this.ch.appendChild(a9)
+a1=S.m(x,this.ch)
+this.O=a1
+a1.setAttribute("flex","")
+this.h(this.O)
+b0=x.createTextNode("\n          ")
+this.O.appendChild(b0)
+a1=M.X(this,38)
+this.P=a1
+a1=a1.e
+this.U=a1
+this.O.appendChild(a1)
+a1=this.U
+a1.className="demo-glyph"
+a1.setAttribute("icon","print")
+this.U.setAttribute("materialTooltip","Print")
+this.h(this.U)
+a1=this.U
+this.K=new V.k(38,36,this,a1,null,null,null)
+this.J=new Y.R(null,a1)
+a1=w.n(C.v,this.a.Q)
+a0=this.K
+this.Y=S.e1(a1,a0,this.U,a0,this.P.a.b,w.n(C.H,this.a.Q))
+x.createTextNode("\n          ")
+this.P.k(0,this.J,[])
+b1=x.createTextNode("\n          ")
+this.O.appendChild(b1)
+a0=S.b(x,"br",this.O)
+this.V=a0
+this.l(a0)
+b2=x.createTextNode("\n          ")
+this.O.appendChild(b2)
+a0=M.X(this,43)
+this.T=a0
+a0=a0.e
+this.Z=a0
+this.O.appendChild(a0)
+a0=this.Z
+a0.className="demo-glyph"
+a0.setAttribute("icon","save")
+this.Z.setAttribute("materialTooltip","Save")
+this.h(this.Z)
+a0=this.Z
+this.ab=new V.k(43,36,this,a0,null,null,null)
+this.aa=new Y.R(null,a0)
+a0=w.n(C.v,this.a.Q)
+a1=this.ab
+this.a7=S.e1(a0,a1,this.Z,a1,this.T.a.b,w.n(C.H,this.a.Q))
+x.createTextNode("\n          ")
+this.T.k(0,this.aa,[])
+b3=x.createTextNode("\n          ")
+this.O.appendChild(b3)
+a1=S.b(x,"br",this.O)
+this.ad=a1
+this.l(a1)
+b4=x.createTextNode("\n          ")
+this.O.appendChild(b4)
+a1=M.X(this,48)
+this.ag=a1
+a1=a1.e
+this.ak=a1
+this.O.appendChild(a1)
+a1=this.ak
+a1.className="demo-glyph"
+a1.setAttribute("icon","lock")
+this.h(this.ak)
+a1=this.ak
+this.aj=new V.k(48,36,this,a1,null,null,null)
+this.W=new Y.R(null,a1)
+a1=w.n(C.v,this.a.Q)
+a0=this.aj
+this.ao=S.e1(a1,a0,this.ak,a0,this.ag.a.b,w.n(C.H,this.a.Q))
+x.createTextNode("\n          ")
+this.ag.k(0,this.W,[])
+b5=x.createTextNode("\n          ")
+this.O.appendChild(b5)
+a0=S.b(x,"br",this.O)
+this.af=a0
+this.l(a0)
+b6=x.createTextNode("\n        ")
+this.O.appendChild(b6)
+b7=x.createTextNode("\n      ")
+this.ch.appendChild(b7)
+b8=x.createTextNode("\n      ")
+this.Q.appendChild(b8)
+a0=S.m(x,this.Q)
+this.am=a0
+a0.setAttribute("flex","")
+this.h(this.am)
+b9=x.createTextNode("\n        ")
+this.am.appendChild(b9)
+a0=S.b(x,"p",this.am)
+this.au=a0
+a0.className="caption"
+this.l(a0)
+c0=x.createTextNode("\n          Tooltips on Icons.\n        ")
+this.au.appendChild(c0)
+c1=x.createTextNode("\n      ")
+this.am.appendChild(c1)
+c2=x.createTextNode("\n    ")
+this.Q.appendChild(c2)
+c3=x.createTextNode("\n    ")
+this.z.appendChild(c3)
+a0=S.m(x,this.z)
+this.aD=a0
+a0.className="demo-container"
+a0.setAttribute("column","")
+this.h(this.aD)
+c4=x.createTextNode("\n      ")
+this.aD.appendChild(c4)
+a0=S.m(x,this.aD)
+this.aw=a0
+this.h(a0)
+c5=x.createTextNode("\n        ")
+this.aw.appendChild(c5)
+a0=U.U(this,66)
+this.at=a0
+a0=a0.e
+this.aH=a0
+this.aw.appendChild(a0)
+this.aH.setAttribute("materialTooltip","Saves the document")
+this.aH.setAttribute("raised","")
+this.h(this.aH)
+this.aA=new V.k(66,64,this,this.aH,null,null,null)
+a0=F.P(w.m(C.p,this.a.Q,null))
+this.aL=a0
+this.aK=B.T(this.aH,a0,this.at.a.b,null)
+a0=w.n(C.v,this.a.Q)
+a1=this.aA
+this.aF=S.e1(a0,a1,this.aH,a1,this.at.a.b,w.n(C.H,this.a.Q))
+c6=x.createTextNode("\n          Save\n        ")
+this.at.k(0,this.aK,[[c6]])
+c7=x.createTextNode("\n      ")
+this.aw.appendChild(c7)
+c8=x.createTextNode("\n      ")
+this.aD.appendChild(c8)
+a1=S.m(x,this.aD)
+this.aV=a1
+a1.setAttribute("flex","")
+this.h(this.aV)
+c9=x.createTextNode("\n        ")
+this.aV.appendChild(c9)
+a1=S.b(x,"p",this.aV)
+this.as=a1
+a1.className="caption"
+this.l(a1)
+d0=x.createTextNode("\n          Tooltip on a button.\n        ")
+this.as.appendChild(d0)
+d1=x.createTextNode("\n      ")
+this.aV.appendChild(d1)
+d2=x.createTextNode("\n    ")
+this.aD.appendChild(d2)
+d3=x.createTextNode("\n    ")
+this.z.appendChild(d3)
+a1=S.m(x,this.z)
+this.az=a1
+a1.className="demo-container"
+a1.setAttribute("column","")
+this.h(this.az)
+d4=x.createTextNode("\n      ")
+this.az.appendChild(d4)
+a1=S.m(x,this.az)
+this.aG=a1
+this.h(a1)
+d5=x.createTextNode("\n        ")
+this.aG.appendChild(d5)
+a1=S.b(x,"a",this.aG)
+this.ax=a1
+a1.setAttribute("href","#")
+this.h(this.ax)
+this.aq=new V.k(81,79,this,this.ax,null,null,null)
+a1=w.n(C.v,this.a.Q)
+a0=this.aq
+d6=this.ax
+d7=this.a
+this.aS=S.e1(a1,a0,d6,a0,d7.b,w.n(C.H,d7.Q))
+d8=x.createTextNode("opportunities")
+this.ax.appendChild(d8)
+d9=x.createTextNode("\n      ")
+this.aG.appendChild(d9)
+e0=x.createTextNode("\n      ")
+this.az.appendChild(e0)
+d7=S.m(x,this.az)
+this.av=d7
+d7.setAttribute("flex","")
 this.h(this.av)
-a6=L.aW(this.av,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.aN=a6
-b0=x.createTextNode("Red")
-this.aw.k(0,a6,[[b0]])
-a6=E.b_(this,53)
-this.aH=a6
-a6=a6.e
-this.aM=a6
-this.h(a6)
-a6=L.aW(this.aM,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.aE=a6
-b1=x.createTextNode("Green")
-this.aH.k(0,a6,[[b1]])
-a6=E.b_(this,55)
-this.as=a6
-a6=a6.e
-this.aW=a6
-this.h(a6)
-a6=L.aW(this.aW,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.aB=a6
-b2=x.createTextNode("Coral")
-this.as.k(0,a6,[[b2]])
-a6=E.b_(this,57)
-this.ax=a6
-a6=a6.e
-this.aG=a6
-this.h(a6)
-a6=L.aW(this.aG,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.aq=a6
-b3=x.createTextNode("MediumOrchid")
-this.ax.k(0,a6,[[b3]])
-this.aA.k(0,this.aL,[[this.av,this.aM,this.aW,this.aG]])
-a6=S.b(x,"section",y)
-this.aX=a6
-this.l(a6)
-a6=S.b(x,"h2",this.aX)
-this.b4=a6
-this.l(a6)
-b4=x.createTextNode("Primary and Secondary item content")
-this.b4.appendChild(b4)
-a6=B.dA(this,62)
-this.bc=a6
-a6=a6.e
-this.ay=a6
-this.aX.appendChild(a6)
-a6=this.ay
-a6.className="bordered-list"
-a6.setAttribute("width","3")
-this.h(this.ay)
-this.aF=new B.cl("auto")
-a6=E.b_(this,63)
-this.aR=a6
-a6=a6.e
-this.ae=a6
-this.h(a6)
-this.az=L.aW(this.ae,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-b5=x.createTextNode("Item with secondary ")
-t=x.createElement("span")
-this.aK=t
-t.className="material-list-item-secondary"
-this.l(t)
-b6=x.createTextNode("ctrl+x")
-this.aK.appendChild(b6)
-this.aR.k(0,this.az,[[b5,this.aK]])
-t=E.b_(this,67)
-this.aQ=t
-t=t.e
-this.c5=t
-this.h(t)
-this.br=L.aW(this.c5,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-t=M.Y(this,68)
-this.bk=t
-t=t.e
-this.bj=t
-t.setAttribute("aria-hidden","true")
-t=this.bj
-t.className="material-list-item-primary"
-t.setAttribute("icon","today")
-this.h(this.bj)
-t=new Y.R(null,this.bj)
-this.aS=t
-this.bk.k(0,t,[])
-b7=x.createTextNode("Item with primary icon")
-this.aQ.k(0,this.br,[[this.bj,b7]])
-t=E.b_(this,70)
-this.bl=t
-t=t.e
-this.bd=t
-this.h(t)
-t=L.aW(this.bd,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.aT=t
-b8=x.createTextNode("Item")
-this.bl.k(0,t,[[b8]])
-t=E.b_(this,72)
-this.bQ=t
-t=t.e
-this.b7=t
-this.h(t)
-t=L.aW(this.b7,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.aj=t
-b9=x.createTextNode("Item")
-this.bQ.k(0,t,[[b9]])
-this.bc.k(0,this.aF,[[this.ae,this.c5,this.bd,this.b7]])
-t=S.b(x,"section",y)
-this.bm=t
-this.l(t)
-t=S.b(x,"h2",this.bm)
-this.bn=t
-this.l(t)
-c0=x.createTextNode("Grouping and dividers")
-this.bn.appendChild(c0)
-t=B.dA(this,77)
-this.bx=t
-t=t.e
-this.bR=t
-this.bm.appendChild(t)
-t=this.bR
-t.className="bordered-list"
-t.setAttribute("width","3")
-this.h(this.bR)
-this.b8=new B.cl("auto")
-t=x.createElement("div")
-this.b9=t
-t.setAttribute("group","")
-this.h(this.b9)
-t=E.b_(this,79)
-this.b1=t
-t=t.e
-this.b3=t
-this.b9.appendChild(t)
-this.h(this.b3)
-t=L.aW(this.b3,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.aU=t
-c1=x.createTextNode("Item")
-this.b1.k(0,t,[[c1]])
-t=E.b_(this,81)
-this.bq=t
-t=t.e
-this.bp=t
-this.b9.appendChild(t)
-this.h(this.bp)
-t=L.aW(this.bp,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.bf=t
-c2=x.createTextNode("Item")
-this.bq.k(0,t,[[c2]])
-t=E.b_(this,83)
-this.ba=t
-t=t.e
-this.bt=t
-this.b9.appendChild(t)
-this.h(this.bt)
-this.bL=L.aW(this.bt,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-c3=x.createTextNode("Item with secondary ")
-t=x.createElement("span")
-this.bb=t
-t.className="material-list-item-secondary"
-this.l(t)
-c4=x.createTextNode("ctrl+x")
-this.bb.appendChild(c4)
-this.ba.k(0,this.bL,[[c3,this.bb]])
-t=x.createElement("div")
-this.bF=t
-t.setAttribute("group","")
-this.h(this.bF)
-t=E.b_(this,88)
-this.bZ=t
-t=t.e
-this.bz=t
-this.bF.appendChild(t)
-this.h(this.bz)
-t=L.aW(this.bz,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.bM=t
-c5=x.createTextNode("Small Group Item")
-this.bZ.k(0,t,[[c5]])
-t=E.b_(this,90)
-this.bA=t
-t=t.e
-this.bN=t
-this.h(t)
-this.bu=L.aW(this.bN,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-t=M.Y(this,91)
-this.cb=t
-t=t.e
-this.bB=t
-t.setAttribute("aria-hidden","true")
-t=this.bB
-t.className="material-list-item-primary"
-t.setAttribute("icon","today")
-this.h(this.bB)
-t=new Y.R(null,this.bB)
-this.bg=t
-this.cb.k(0,t,[])
-c6=x.createTextNode("Item with primary icon")
-this.bA.k(0,this.bu,[[this.bB,c6]])
-t=E.b_(this,93)
-this.bC=t
-t=t.e
-this.c4=t
-this.h(t)
-t=L.aW(this.c4,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.b2=t
-c7=x.createTextNode("Item")
-this.bC.k(0,t,[[c7]])
-t=E.b_(this,95)
-this.c0=t
-t=t.e
-this.bv=t
-this.h(t)
-t=L.aW(this.bv,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.bT=t
-c8=x.createTextNode("Item")
-this.c0.k(0,t,[[c8]])
-this.bx.k(0,this.b8,[[this.b9,this.bF,this.bN,this.c4,this.bv]])
-t=S.b(x,"section",y)
-this.bG=t
-this.l(t)
-t=S.b(x,"h2",this.bG)
-this.cd=t
-this.l(t)
-c9=x.createTextNode("Select Items")
-this.cd.appendChild(c9)
-t=S.b(x,"p",this.bG)
-this.c_=t
-this.l(t)
-d0=x.createTextNode("`material-select-item` is a special kind of `material-item` which shows a check icon if the item is marked as selected")
-this.c_.appendChild(d0)
-t=B.dA(this,102)
-this.bD=t
-t=t.e
-this.aJ=t
-this.bG.appendChild(t)
-t=this.aJ
-t.className="bordered-list"
-t.setAttribute("width","3")
-this.h(this.aJ)
-this.cT=new B.cl("auto")
-t=M.c6(this,103)
-this.bi=t
-t=t.e
-this.cs=t
-this.h(t)
-t=B.c3(this.cs,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),w.m(C.Q,this.a.Q,null),this.bi.a.b,null)
-this.c8=t
-d1=x.createTextNode("Item 1")
-this.bi.k(0,t,[[d1]])
-t=M.c6(this,105)
-this.c1=t
-t=t.e
-this.c9=t
-this.h(t)
-t=B.c3(this.c9,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),w.m(C.Q,this.a.Q,null),this.c1.a.b,null)
-this.ca=t
-d2=x.createTextNode("Item 2")
-this.c1.k(0,t,[[d2]])
-t=M.c6(this,107)
-this.bH=t
-t=t.e
-this.bO=t
-this.h(t)
-t=B.c3(this.bO,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),w.m(C.Q,this.a.Q,null),this.bH.a.b,null)
-this.bh=t
-d3=x.createTextNode("Item 3")
-this.bH.k(0,t,[[d3]])
-this.bD.k(0,this.cT,[[this.cs,this.c9,this.bO]])
-t=S.b(x,"section",y)
-this.bJ=t
-this.l(t)
-t=S.b(x,"h2",this.bJ)
-this.bX=t
-this.l(t)
-d4=x.createTextNode("Navigate Focus via Keyboard")
-this.bX.appendChild(d4)
-t=S.b(x,"p",this.bJ)
-this.cj=t
-this.l(t)
-t=S.b(x,"em",this.cj)
-this.bP=t
-this.l(t)
-d5=x.createTextNode("Use <tab> to focus an item in the list, then use up/down and left/right keys to navigate.")
-this.bP.appendChild(d5)
-t=B.dA(this,115)
-this.bI=t
-t=t.e
-this.ct=t
-this.bJ.appendChild(t)
-t=this.ct
-t.className="bordered-list"
-t.setAttribute("focusList","")
-t=this.ct
-t.tabIndex=0
-this.h(t)
-this.d_=new K.ru(N.a2f(w.n(C.f,this.a.Q),null),null,null,null,!1)
-this.ck=new B.cl("auto")
-t=x.createElement("div")
-this.cH=t
-t.setAttribute("group","")
-this.h(this.cH)
-t=E.b_(this,117)
-this.cw=t
-t=t.e
-this.cc=t
-this.cH.appendChild(t)
-this.cc.setAttribute("focusItem","")
-this.h(this.cc)
-t=this.cc
-this.cn=new U.jI(M.rs(t,null),null,null,null,null,!1)
-t=L.aW(t,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.bY=t
-this.d6=this.cn.e
-d6=x.createTextNode("Red")
-this.cw.k(0,t,[[d6]])
-t=E.b_(this,119)
-this.cl=t
-t=t.e
-this.co=t
-this.cH.appendChild(t)
-this.co.setAttribute("focusItem","")
-this.h(this.co)
-t=this.co
-this.ce=new U.jI(M.rs(t,null),null,null,null,null,!1)
-t=L.aW(t,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.cz=t
-this.cK=this.ce.e
-d7=x.createTextNode("Green")
-this.cl.k(0,t,[[d7]])
-t=E.b_(this,121)
-this.cu=t
-t=t.e
-this.c2=t
-t.setAttribute("focusItem","")
-this.h(this.c2)
-t=this.c2
-this.cC=new U.jI(M.rs(t,null),null,null,null,null,!1)
-t=L.aW(t,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.c3=t
-this.cA=this.cC.e
-d8=x.createTextNode("Coral")
-this.cu.k(0,t,[[d8]])
-t=E.b_(this,123)
-this.cm=t
-t=t.e
-this.cD=t
-t.setAttribute("focusItem","")
-this.h(this.cD)
-t=this.cD
-this.cL=new U.jI(M.rs(t,null),null,null,null,null,!1)
-t=L.aW(t,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.cN=t
-this.cX=this.cL.e
-d9=x.createTextNode("MediumOrchid")
-this.cm.k(0,t,[[d9]])
-this.d_.e.sIS([this.d6,this.cK,this.cA,this.cX])
-this.bI.k(0,this.ck,[[this.cH,this.c2,this.cD]])
-t=S.b(x,"section",y)
-this.cY=t
-this.l(t)
-t=S.b(x,"h2",this.cY)
-this.cU=t
-this.l(t)
-e0=x.createTextNode("No focus outline")
-this.cU.appendChild(e0)
-t=B.dA(this,128)
-this.cV=t
-t=t.e
-this.cO=t
-this.cY.appendChild(t)
-this.h(this.cO)
-this.ds=new B.cl("auto")
-t=x.createElement("div")
-this.d4=t
-t.setAttribute("group","")
-this.h(this.d4)
-t=E.b_(this,130)
-this.dm=t
-t=t.e
-this.d7=t
-this.d4.appendChild(t)
-this.d7.className=Q.bo("","no-outline"," ","item","")
-this.h(this.d7)
-t=L.aW(this.d7,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.dt=t
-e1=x.createTextNode("Red")
-this.dm.k(0,t,[[e1]])
-t=E.b_(this,132)
-this.dd=t
-t=t.e
-this.dR=t
-this.d4.appendChild(t)
-this.dR.className=Q.bo("","no-outline"," ","item","")
-this.h(this.dR)
-w=L.aW(this.dR,w.n(C.b,this.a.Q),w.m(C.o,this.a.Q,null),null,null)
-this.dS=w
-e2=x.createTextNode("Green")
-this.dd.k(0,w,[[e2]])
-this.cV.k(0,this.ds,[[this.d4]])
-w=this.dx.b
-e3=new P.h(w,[H.e(w,0)]).B(this.v(this.gYk()))
-w=this.fx.b
-e4=new P.h(w,[H.e(w,0)]).B(this.v(this.gY8()))
-w=this.id.b
-e5=new P.h(w,[H.e(w,0)]).B(this.v(this.gUM()))
-w=this.k3.b
-e6=new P.h(w,[H.e(w,0)]).B(this.v(this.gUY()))
-w=this.K;(w&&C.bp).a4(w,"keypress",this.v(this.gS2()))
-w=this.S.b
-e7=new P.h(w,[H.e(w,0)]).B(this.v(this.gVd()))
-w=this.a9.b
-e8=new P.h(w,[H.e(w,0)]).B(this.v(this.gVf()))
-w=this.al.b
-e9=new P.h(w,[H.e(w,0)]).B(this.v(this.gYe()))
-w=this.ap.b
-f0=new P.h(w,[H.e(w,0)]).B(this.v(this.gVl()))
-w=this.aN.b
-f1=new P.h(w,[H.e(w,0)]).B(this.v(this.gYg()))
-w=this.aE.b
-f2=new P.h(w,[H.e(w,0)]).B(this.v(this.gVv()))
-w=this.aB.b
-f3=new P.h(w,[H.e(w,0)]).B(this.v(this.gVz()))
-w=this.aq.b
-f4=new P.h(w,[H.e(w,0)]).B(this.v(this.gVD()))
-w=this.c8.b
-f5=new P.h(w,[H.e(w,0)]).B(this.v(this.gUk()))
-w=this.ca.b
-f6=new P.h(w,[H.e(w,0)]).B(this.v(this.gUm()))
-w=this.bh.b
-f7=new P.h(w,[H.e(w,0)]).B(this.v(this.gUq()))
-J.G(this.cc,"keydown",this.v(this.cn.e.gnq()))
-w=this.bY.b
-f8=new P.h(w,[H.e(w,0)]).B(this.v(this.gUA()))
-J.G(this.co,"keydown",this.v(this.ce.e.gnq()))
-w=this.cz.b
-f9=new P.h(w,[H.e(w,0)]).B(this.v(this.gUC()))
-J.G(this.c2,"keydown",this.v(this.cC.e.gnq()))
-w=this.c3.b
-g0=new P.h(w,[H.e(w,0)]).B(this.v(this.gYc()))
-J.G(this.cD,"keydown",this.v(this.cL.e.gnq()))
-w=this.cN.b
-g1=new P.h(w,[H.e(w,0)]).B(this.v(this.gUI()))
-w=this.dt.b
-g2=new P.h(w,[H.e(w,0)]).B(this.v(this.gUO()))
-w=this.dS.b
-this.N(C.a,[e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,new P.h(w,[H.e(w,0)]).B(this.v(this.gUQ()))])
+e1=x.createTextNode("\n        ")
+this.av.appendChild(e1)
+d7=S.b(x,"p",this.av)
+this.b9=d7
+d7.className="caption"
+this.l(d7)
+e2=x.createTextNode("\n          Long tooltip on a link.\n        ")
+this.b9.appendChild(e2)
+e3=x.createTextNode("\n      ")
+this.av.appendChild(e3)
+e4=x.createTextNode("\n    ")
+this.az.appendChild(e4)
+e5=x.createTextNode("\n  ")
+this.z.appendChild(e5)
+e6=x.createTextNode("\n  ")
+this.x.appendChild(e6)
+d7=S.m(x,this.x)
+this.aC=d7
+d7.className="demo-section"
+this.h(d7)
+e7=x.createTextNode("\n    ")
+this.aC.appendChild(e7)
+d7=S.m(x,this.aC)
+this.ae=d7
+d7.className="demo-container"
+d7.setAttribute("column","")
+this.h(this.ae)
+e8=x.createTextNode("\n      ")
+this.ae.appendChild(e8)
+d7=S.m(x,this.ae)
+this.aO=d7
+d7.setAttribute("flex","")
+this.h(this.aO)
+e9=x.createTextNode("\n        ")
+this.aO.appendChild(e9)
+d7=S.m(x,this.aO)
+this.ay=d7
+this.h(d7)
+f0=x.createTextNode("\n          ")
+this.ay.appendChild(f0)
+d7=S.cU(x,this.ay)
+this.aI=d7
+d7.setAttribute("tooltipTarget","")
+this.l(this.aI)
+this.bY=new V.k(101,99,this,this.aI,null,null,null)
+d7=w.n(C.v,this.a.Q)
+a0=this.bY
+d6=this.aI
+a1=this.a.b
+f1=P.v
+f2=[f1]
+a0=new A.mD(null,new P.h(null,null,0,null,null,null,null,f2),a1,null,!1,null,a0,d6,d7,d6,null,C.A,C.A,null,null)
+a0.fy=new T.fq(a0.gjN(),C.aZ,null,null)
+a0.x2=d6
+this.aN=a0
+d6.appendChild(x.createTextNode("\n            Explicitly declare a tooltip component\n          "))
+f3=x.createTextNode("\n          ")
+this.ay.appendChild(f3)
+d6=L.a6b(this,104)
+this.ba=d6
+d6=d6.e
+this.bf=d6
+this.ay.appendChild(d6)
+this.h(this.bf)
+d6=G.co(w.m(C.Z,this.a.Q,null),w.m(C.C,this.a.Q,null))
+this.bg=d6
+this.aR=new F.f5(d6,this.ba.a.b,null,C.c9,null,!1,null)
+f4=x.createTextNode("\n            Allows for \xa0 ")
+a0=x.createElement("strong")
+this.b5=a0
+this.l(a0)
+f5=x.createTextNode("formatted")
+this.b5.appendChild(f5)
+f6=x.createTextNode(" \xa0 ")
+a0=x.createElement("em")
+this.bh=a0
+this.l(a0)
+f7=x.createTextNode("text")
+this.bh.appendChild(f7)
+f8=x.createTextNode(".\n          ")
+this.ba.k(0,this.aR,[[f4,this.b5,f6,this.bh,f8]])
+f9=x.createTextNode("\n        ")
+this.ay.appendChild(f9)
+g0=x.createTextNode("\n      ")
+this.aO.appendChild(g0)
+g1=x.createTextNode("\n      ")
+this.ae.appendChild(g1)
+a0=S.m(x,this.ae)
+this.aT=a0
+a0.setAttribute("flex","")
+this.h(this.aT)
+g2=x.createTextNode("\n        ")
+this.aT.appendChild(g2)
+a0=S.b(x,"p",this.aT)
+this.b7=a0
+a0.className="caption"
+this.l(a0)
+g3=x.createTextNode("\n          Custom tooltip on some text.\n        ")
+this.b7.appendChild(g3)
+g4=x.createTextNode("\n      ")
+this.aT.appendChild(g4)
+g5=x.createTextNode("\n    ")
+this.ae.appendChild(g5)
+g6=x.createTextNode("\n    ")
+this.aC.appendChild(g6)
+a0=S.m(x,this.aC)
+this.bQ=a0
+a0.className="knob-container"
+a0.setAttribute("column","")
+this.h(this.bQ)
+g7=x.createTextNode("\n      ")
+this.bQ.appendChild(g7)
+a0=S.b(x,"p",this.bQ)
+this.al=a0
+this.l(a0)
+a0=S.b(x,"em",this.al)
+this.bm=a0
+this.l(a0)
+g8=x.createTextNode("\n        Use this configuration sparingly, as the tooltip text is intended for\n        simple strings.\n      ")
+this.bm.appendChild(g8)
+g9=x.createTextNode("\n    ")
+this.bQ.appendChild(g9)
+h0=x.createTextNode("\n  ")
+this.aC.appendChild(h0)
+h1=x.createTextNode("\n")
+this.x.appendChild(h1)
+y.appendChild(x.createTextNode("\n\n"))
+a0=S.b(x,"section",y)
+this.bn=a0
+this.l(a0)
+h2=x.createTextNode("\n  ")
+this.bn.appendChild(h2)
+a0=S.b(x,"h2",this.bn)
+this.bR=a0
+this.l(a0)
+h3=x.createTextNode("Card Tooltip")
+this.bR.appendChild(h3)
+h4=x.createTextNode("\n  ")
+this.bn.appendChild(h4)
+a0=S.m(x,this.bn)
+this.bx=a0
+a0.className="demo-section"
+this.h(a0)
+h5=x.createTextNode("\n    ")
+this.bx.appendChild(h5)
+a0=S.m(x,this.bx)
+this.bb=a0
+a0.className="demo-container"
+a0.setAttribute("column","")
+this.h(this.bb)
+h6=x.createTextNode("\n      ")
+this.bb.appendChild(h6)
+a0=S.m(x,this.bb)
+this.bc=a0
+a0.setAttribute("flex","")
+this.h(this.bc)
+h7=x.createTextNode("\n        ")
+this.bc.appendChild(h7)
+a0=S.m(x,this.bc)
+this.b4=a0
+this.h(a0)
+h8=x.createTextNode("\n          ")
+this.b4.appendChild(h8)
+a0=S.b(x,"p",this.b4)
+this.b2=a0
+this.l(a0)
+h9=x.createTextNode("\n            A simple sentence about something.\n            ")
+this.b2.appendChild(h9)
+a0=M.X(this,146)
+this.bq=a0
+a0=a0.e
+this.aW=a0
+this.b2.appendChild(a0)
+this.aW.setAttribute("icon","help_outline")
+this.aW.setAttribute("keyboardOnlyFocusIndicator","")
+this.aW.setAttribute("size","medium")
+this.aW.setAttribute("tooltipTarget","")
+this.h(this.aW)
+a0=this.aW
+this.br=new V.k(146,144,this,a0,null,null,null)
+this.bi=new Y.R(null,a0)
+this.bt=new O.cC(a0,w.n(C.b,this.a.Q))
+a0=w.n(C.v,this.a.Q)
+a1=this.br
+d6=this.aW
+d7=this.bq
+i0=d7.a.b
+a0=new A.mD(null,new P.h(null,null,0,null,null,null,null,f2),i0,null,!1,null,a1,d6,a0,d6,null,C.A,C.A,null,null)
+a0.fy=new T.fq(a0.gjN(),C.aZ,null,null)
+a0.x2=d6
+this.bd=a0
+x.createTextNode("\n            ")
+d7.k(0,this.bi,[])
+i1=x.createTextNode("\n          ")
+this.b2.appendChild(i1)
+i2=x.createTextNode("\n          ")
+this.b4.appendChild(i2)
+d7=E.pD(this,150)
+this.be=d7
+d7=d7.e
+this.bL=d7
+this.b4.appendChild(d7)
+this.h(this.bL)
+d7=G.co(w.m(C.Z,this.a.Q,null),w.m(C.C,this.a.Q,null))
+this.bE=d7
+a0=this.be.a.b
+d6=this.bL
+a1=[f1]
+d6.toString
+this.by=new Q.df(Q.nP(null,new W.fS(d6)),null,C.be,0,0,new P.K(null,null,0,null,null,null,null,a1),!1,d7,a0,null)
+i3=x.createTextNode("\n            ")
+a0=x.createElement("header")
+this.bM=a0
+this.l(a0)
+i4=x.createTextNode("Simple sentences about things.")
+this.bM.appendChild(i4)
+i5=x.createTextNode("\n            ")
+a0=x.createElement("p")
+this.bN=a0
+this.l(a0)
+a0=S.b(x,"b",this.bN)
+this.bz=a0
+this.l(a0)
+i6=x.createTextNode("How it works:")
+this.bz.appendChild(i6)
+i7=x.createTextNode(" Text explains things further.")
+this.bN.appendChild(i7)
+i8=x.createTextNode("\n          ")
+this.be.k(0,this.by,[[this.bM],[i3,i5,this.bN,i8],C.a])
+i9=x.createTextNode("\n        ")
+this.b4.appendChild(i9)
+j0=x.createTextNode("\n      ")
+this.bc.appendChild(j0)
+j1=x.createTextNode("\n      ")
+this.bb.appendChild(j1)
+a0=S.m(x,this.bb)
+this.bu=a0
+a0.setAttribute("flex","")
+this.h(this.bu)
+j2=x.createTextNode("\n        ")
+this.bu.appendChild(j2)
+a0=S.m(x,this.bu)
+this.bA=a0
+this.h(a0)
+j3=x.createTextNode("\n          ")
+this.bA.appendChild(j3)
+a0=S.b(x,"p",this.bA)
+this.cb=a0
+this.l(a0)
+j4=x.createTextNode("\n            Clickable tooltip. Target will open immediately on clicks and keyboard events.\n            ")
+this.cb.appendChild(j4)
+a0=M.X(this,169)
+this.c5=a0
+a0=a0.e
+this.bj=a0
+this.cb.appendChild(a0)
+this.bj.setAttribute("clickableTooltipTarget","")
+this.bj.setAttribute("icon","help_outline")
+this.bj.setAttribute("keyboardOnlyFocusIndicator","")
+this.bj.setAttribute("size","medium")
+a0=this.bj
+a0.tabIndex=0
+this.h(a0)
+this.bB=new V.k(169,167,this,this.bj,null,null,null)
+this.b3=A.a3D(w.n(C.v,this.a.Q),this.bB,this.bj,this.c5.a.b)
+a0=this.bj
+this.bv=new Y.R(null,a0)
+this.c0=new O.cC(a0,w.n(C.b,this.a.Q))
+x.createTextNode("\n            ")
+this.c5.k(0,this.bv,[])
+j5=x.createTextNode("\n          ")
+this.cb.appendChild(j5)
+j6=x.createTextNode("\n          ")
+this.bA.appendChild(j6)
+a0=E.pD(this,173)
+this.bF=a0
+a0=a0.e
+this.bV=a0
+this.bA.appendChild(a0)
+this.h(this.bV)
+a0=G.co(w.m(C.Z,this.a.Q,null),w.m(C.C,this.a.Q,null))
+this.ce=a0
+d6=this.bF.a.b
+d7=this.bV
+d7.toString
+this.c_=new Q.df(Q.nP(null,new W.fS(d7)),null,C.be,0,0,new P.K(null,null,0,null,null,null,null,a1),!1,a0,d6,null)
+j7=x.createTextNode("\n            ")
+a0=x.createElement("header")
+this.bC=a0
+this.l(a0)
+j8=x.createTextNode("Simple sentences about things.")
+this.bC.appendChild(j8)
+j9=x.createTextNode("\n            ")
+a0=x.createElement("p")
+this.cU=a0
+this.l(a0)
+a0=S.b(x,"b",this.cU)
+this.cs=a0
+this.l(a0)
+k0=x.createTextNode("How it works:")
+this.cs.appendChild(k0)
+k1=x.createTextNode(" Text explains things further.")
+this.cU.appendChild(k1)
+k2=x.createTextNode("\n          ")
+this.bF.k(0,this.c_,[[this.bC],[j7,j9,this.cU,k2],C.a])
+k3=x.createTextNode("\n        ")
+this.bA.appendChild(k3)
+k4=x.createTextNode("\n      ")
+this.bu.appendChild(k4)
+k5=x.createTextNode("\n      ")
+this.bb.appendChild(k5)
+a0=S.m(x,this.bb)
+this.bl=a0
+a0.setAttribute("flex","")
+this.h(this.bl)
+k6=x.createTextNode("\n        ")
+this.bl.appendChild(k6)
+a0=S.b(x,"p",this.bl)
+this.c7=a0
+a0.className="caption"
+this.l(a0)
+k7=x.createTextNode("\n          Paper-based Tooltip on a help icon.\n        ")
+this.c7.appendChild(k7)
+k8=x.createTextNode("\n      ")
+this.bl.appendChild(k8)
+k9=x.createTextNode("\n    ")
+this.bb.appendChild(k9)
+l0=x.createTextNode("\n  ")
+this.bx.appendChild(l0)
+l1=x.createTextNode("\n\n  ")
+this.bn.appendChild(l1)
+a0=S.m(x,this.bn)
+this.c8=a0
+a0.className="demo-section"
+this.h(a0)
+l2=x.createTextNode("\n    ")
+this.c8.appendChild(l2)
+a0=S.m(x,this.c8)
+this.c1=a0
+a0.className="demo-container"
+a0.setAttribute("column","")
+this.h(this.c1)
+l3=x.createTextNode("\n      ")
+this.c1.appendChild(l3)
+a0=S.m(x,this.c1)
+this.c9=a0
+a0.setAttribute("flex","")
+this.h(this.c9)
+l4=x.createTextNode("\n        ")
+this.c9.appendChild(l4)
+a0=S.m(x,this.c9)
+this.bO=a0
+this.h(a0)
+l5=x.createTextNode("\n          ")
+this.bO.appendChild(l5)
+a0=S.b(x,"p",this.bO)
+this.bG=a0
+this.l(a0)
+l6=x.createTextNode("\n            A Tooltip target with deferred content.\n            ")
+this.bG.appendChild(l6)
+a0=M.X(this,204)
+this.bI=a0
+a0=a0.e
+this.bk=a0
+this.bG.appendChild(a0)
+this.bk.setAttribute("icon","help_outline")
+this.bk.setAttribute("size","medium")
+this.bk.setAttribute("tooltipTarget","")
+this.h(this.bk)
+a0=this.bk
+this.bW=new V.k(204,202,this,a0,null,null,null)
+this.cj=new Y.R(null,a0)
+a0=w.n(C.v,this.a.Q)
+d6=this.bW
+d7=this.bk
+f1=this.bI
+i0=f1.a.b
+a0=new A.mD(null,new P.h(null,null,0,null,null,null,null,f2),i0,null,!1,null,d6,d7,a0,d7,null,C.A,C.A,null,null)
+a0.fy=new T.fq(a0.gjN(),C.aZ,null,null)
+a0.x2=d7
+this.bP=a0
+x.createTextNode("\n            ")
+f1.k(0,this.cj,[])
+l7=x.createTextNode("\n          ")
+this.bG.appendChild(l7)
+l8=x.createTextNode("\n          ")
+this.bO.appendChild(l8)
+f1=E.pD(this,208)
+this.bH=f1
+f1=f1.e
+this.ct=f1
+this.bO.appendChild(f1)
+this.h(this.ct)
+f1=G.co(w.m(C.Z,this.a.Q,null),w.m(C.C,this.a.Q,null))
+this.d2=f1
+a0=this.bH.a.b
+d7=this.ct
+d7.toString
+this.ck=new Q.df(Q.nP(null,new W.fS(d7)),null,C.be,0,0,new P.K(null,null,0,null,null,null,null,a1),!1,f1,a0,null)
+l9=x.createTextNode("\n            ")
+a0=new V.k(210,208,this,$.$get$I().cloneNode(!1),null,null,null)
+this.cI=a0
+this.cc=K.f1(a0,new D.n(a0,Q.ayz()),this.ck)
+m0=x.createTextNode("\n          ")
+this.bH.k(0,this.ck,[C.a,[l9,this.cI,m0],C.a])
+m1=x.createTextNode("\n        ")
+this.bO.appendChild(m1)
+m2=x.createTextNode("\n      ")
+this.c9.appendChild(m2)
+m3=x.createTextNode("\n      ")
+this.c1.appendChild(m3)
+a0=S.m(x,this.c1)
+this.cw=a0
+a0.setAttribute("flex","")
+this.h(this.cw)
+m4=x.createTextNode("\n        ")
+this.cw.appendChild(m4)
+a0=S.b(x,"p",this.cw)
+this.co=a0
+a0.className="caption"
+this.l(a0)
+m5=x.createTextNode("\n          Use ")
+this.co.appendChild(m5)
+a0=S.b(x,"strong",this.co)
+this.bX=a0
+this.l(a0)
+m6=x.createTextNode("DeferredContentDirective")
+this.bX.appendChild(m6)
+m7=x.createTextNode(" inside\n          ")
+this.co.appendChild(m7)
+a0=S.b(x,"code",this.co)
+this.d7=a0
+this.l(a0)
+m8=x.createTextNode("material-tooltip-card")
+this.d7.appendChild(m8)
+m9=x.createTextNode(" to create your content\n          just-in-time.\n        ")
+this.co.appendChild(m9)
+n0=x.createTextNode("\n      ")
+this.cw.appendChild(n0)
+n1=x.createTextNode("\n    ")
+this.c1.appendChild(n1)
+n2=x.createTextNode("\n  ")
+this.c8.appendChild(n2)
+n3=x.createTextNode("\n")
+this.bn.appendChild(n3)
+y.appendChild(x.createTextNode("\n\n"))
+a0=S.b(x,"section",y)
+this.cp=a0
+this.l(a0)
+n4=x.createTextNode("\n  ")
+this.cp.appendChild(n4)
+a0=S.b(x,"h2",this.cp)
+this.cl=a0
+this.l(a0)
+n5=x.createTextNode("Icon Tooltip")
+this.cl.appendChild(n5)
+n6=x.createTextNode("\n  ")
+this.cp.appendChild(n6)
+a0=S.m(x,this.cp)
+this.cf=a0
+a0.className="demo-section"
+this.h(a0)
+n7=x.createTextNode("\n    ")
+this.cf.appendChild(n7)
+a0=S.m(x,this.cf)
+this.cz=a0
+a0.className="demo-container"
+a0.setAttribute("column","")
+this.h(this.cz)
+n8=x.createTextNode("\n      ")
+this.cz.appendChild(n8)
+a0=S.m(x,this.cz)
+this.cM=a0
+a0.setAttribute("flex","")
+this.h(this.cM)
+n9=x.createTextNode("\n        ")
+this.cM.appendChild(n9)
+a0=S.m(x,this.cM)
+this.c2=a0
+this.h(a0)
+o0=x.createTextNode("\n          ")
+this.c2.appendChild(o0)
+a0=Q.ab(this,243)
+this.cC=a0
+a0=a0.e
+this.cu=a0
+this.c2.appendChild(a0)
+this.cu.setAttribute("label","A dummy input to start a focus cycle.")
+this.cu.setAttribute("type","text")
+this.h(this.cu)
+a0=new L.a1(H.r([],[{func:1,ret:[P.a3,P.j,,],args:[Z.b9]}]),null)
+this.c3=a0
+a0=L.aa("text",null,null,null,this.cC.a.b,a0)
+this.cA=a0
+x.createTextNode("\n\n          ")
+this.cC.k(0,a0,[C.a,C.a])
+o1=x.createTextNode("\n          ")
+this.c2.appendChild(o1)
+a0=S.b(x,"p",this.c2)
+this.cm=a0
+this.l(a0)
+o2=x.createTextNode("\n            A simple sentence about something, followed by an info tooltip\n            icon.\n            ")
+this.cm.appendChild(o2)
+a0=M.a0y(this,248)
+this.cP=a0
+a0=a0.e
+this.cN=a0
+this.cm.appendChild(a0)
+this.cN.setAttribute("type","info")
+this.h(this.cN)
+a0=F.P(w.m(C.p,this.a.Q,null))
+this.cZ=a0
+a0=B.a_W(a0,this.cN,"info",null)
+this.d_=a0
+o3=x.createTextNode("\n              Simple sentences about things\n            ")
+this.cP.k(0,a0,[[o3]])
+o4=x.createTextNode("\n          ")
+this.cm.appendChild(o4)
+o5=x.createTextNode("\n          ")
+this.c2.appendChild(o5)
+a0=S.b(x,"p",this.c2)
+this.cV=a0
+a0.className="dark-background"
+this.l(a0)
+o6=x.createTextNode("\n            A simple dark-themed sentence about something, followed by a help\n            tooltip icon.\n            ")
+this.cV.appendChild(o6)
+a0=M.a0y(this,254)
+this.cW=a0
+a0=a0.e
+this.cQ=a0
+this.cV.appendChild(a0)
+this.cQ.setAttribute("darkTheme","")
+this.h(this.cQ)
+this.du=new F.rw()
+this.d5=!0
+a0=F.P(!0)
+this.d8=a0
+a0=B.a_W(a0,this.cQ,null,null)
+this.dm=a0
+o7=x.createTextNode("\n              Another simple sentences about things\n            ")
+this.cW.k(0,a0,[[o7]])
+o8=x.createTextNode("\n          ")
+this.cV.appendChild(o8)
+o9=x.createTextNode("\n        ")
+this.c2.appendChild(o9)
+p0=x.createTextNode("\n      ")
+this.cM.appendChild(p0)
+p1=x.createTextNode("\n      ")
+this.cz.appendChild(p1)
+a0=S.m(x,this.cz)
+this.dv=a0
+this.h(a0)
+p2=x.createTextNode("\n        ")
+this.dv.appendChild(p2)
+a0=S.b(x,"p",this.dv)
+this.dT=a0
+a0.className="caption"
+this.l(a0)
+p3=x.createTextNode("\n          Paper-based Tooltip on a help icon.\n        ")
+this.dT.appendChild(p3)
+p4=x.createTextNode("\n      ")
+this.dv.appendChild(p4)
+p5=x.createTextNode("\n    ")
+this.cz.appendChild(p5)
+p6=x.createTextNode("\n  ")
+this.cf.appendChild(p6)
+p7=x.createTextNode("\n")
+this.cp.appendChild(p7)
+y.appendChild(x.createTextNode("\n\n"))
+a0=S.b(x,"section",y)
+this.dd=a0
+this.l(a0)
+p8=x.createTextNode("\n  ")
+this.dd.appendChild(p8)
+a0=S.b(x,"h2",this.dd)
+this.dU=a0
+this.l(a0)
+p9=x.createTextNode("Tooltip Source")
+this.dU.appendChild(p9)
+q0=x.createTextNode("\n  ")
+this.dd.appendChild(q0)
+a0=S.m(x,this.dd)
+this.cR=a0
+a0.className="demo-section"
+this.h(a0)
+q1=x.createTextNode("\n    ")
+this.cR.appendChild(q1)
+a0=S.m(x,this.cR)
+this.d9=a0
+a0.className="demo-container"
+a0.setAttribute("column","")
+this.h(this.d9)
+q2=x.createTextNode("\n      ")
+this.d9.appendChild(q2)
+a0=S.m(x,this.d9)
+this.dL=a0
+a0.setAttribute("flex","")
+this.h(this.dL)
+q3=x.createTextNode("\n        ")
+this.dL.appendChild(q3)
+a0=S.m(x,this.dL)
+this.dn=a0
+this.h(a0)
+q4=x.createTextNode("\n          ")
+this.dn.appendChild(q4)
+a0=S.b(x,"p",this.dn)
+this.dV=a0
+this.l(a0)
+q5=x.createTextNode("\n            Use a tooltipSource to control a popup.\n            ")
+this.dV.appendChild(q5)
+a0=M.X(this,284)
+this.dc=a0
+a0=a0.e
+this.da=a0
+this.dV.appendChild(a0)
+this.da.setAttribute("aria-label",$.$get$a4N())
+this.da.setAttribute("icon","help_outline")
+this.da.setAttribute("size","medium")
+a0=this.da
+a0.tabIndex=0
+a0.setAttribute("tooltipSource","")
+this.h(this.da)
+this.dI=new Y.R(null,this.da)
+a0=w.n(C.v,this.a.Q)
+a1=this.da
+a1=new D.tA(a1,null,!1,!1,null,a0,a1,null,C.A,C.A,null,null)
+a1.y=new T.fq(a1.ga1R(),C.aZ,null,null)
+this.e_=new Y.GA(a1,null,null,null,!1)
+x.createTextNode("\n            ")
+this.dc.k(0,this.dI,[])
+q6=x.createTextNode("\n          ")
+this.dV.appendChild(q6)
+q7=x.createTextNode("\n          ")
+this.dn.appendChild(q7)
+a1=A.cu(this,288)
+this.dQ=a1
+a1=a1.e
+this.e4=a1
+this.dn.appendChild(a1)
+this.e4.setAttribute("enforceSpaceConstraints","")
+this.h(this.e4)
+this.e0=new V.k(288,280,this,this.e4,null,null,null)
+this.cE=G.cs(w.m(C.Y,this.a.Q,null),w.m(C.X,this.a.Q,null),null,w.n(C.f,this.a.Q),w.n(C.m,this.a.Q),w.n(C.E,this.a.Q),w.n(C.G,this.a.Q),w.n(C.F,this.a.Q),w.m(C.K,this.a.Q,null),this.dQ.a.b,this.e0,new Z.bB(this.e4))
+q8=x.createTextNode("\n            ")
+w=x.createElement("div")
+this.ff=w
+w.className="source-popup"
+this.h(w)
+q9=x.createTextNode("\n              Content in a popup.\n            ")
+this.ff.appendChild(q9)
+r0=x.createTextNode("\n          ")
+this.dQ.k(0,this.cE,[C.a,[q8,this.ff,r0],C.a])
+r1=x.createTextNode("\n        ")
+this.dn.appendChild(r1)
+r2=x.createTextNode("\n      ")
+this.dL.appendChild(r2)
+r3=x.createTextNode("\n    ")
+this.d9.appendChild(r3)
+r4=x.createTextNode("\n  ")
+this.cR.appendChild(r4)
+r5=x.createTextNode("\n")
+this.dd.appendChild(r5)
+y.appendChild(x.createTextNode("\n"))
+x=this.aI;(x&&C.bz).a3(x,"keyup",this.a8(this.aN.grA()))
+x=this.aI;(x&&C.bz).a3(x,"blur",this.a8(this.aN.gmc()))
+x=this.aI;(x&&C.bz).a3(x,"click",this.a8(this.aN.gmc()))
+x=this.aI
+w=this.aN;(x&&C.bz).a3(x,"mouseover",this.a8(w.gfI(w)))
+w=this.aI
+x=this.aN;(w&&C.bz).a3(w,"mouseleave",this.a8(x.gex(x)))
+J.F(this.aW,"keyup",this.v(this.gTl()))
+J.F(this.aW,"blur",this.v(this.gQs()))
+J.F(this.aW,"mousedown",this.a8(this.bt.ge6()))
+J.F(this.aW,"click",this.v(this.gRZ()))
+x=this.aW
+w=this.bd
+J.F(x,"mouseover",this.a8(w.gfI(w)))
+w=this.aW
+x=this.bd
+J.F(w,"mouseleave",this.a8(x.gex(x)))
+J.F(this.bj,"keyup",this.v(this.gTn()))
+J.F(this.bj,"blur",this.v(this.gQu()))
+J.F(this.bj,"click",this.v(this.gS0()))
+x=this.bj
+w=this.b3
+J.F(x,"mouseover",this.a8(w.gfI(w)))
+w=this.bj
+x=this.b3
+J.F(w,"mouseleave",this.a8(x.gex(x)))
+J.F(this.bj,"keypress",this.v(this.b3.gJL()))
+J.F(this.bj,"mousedown",this.a8(this.c0.ge6()))
+J.F(this.bk,"keyup",this.a8(this.bP.grA()))
+J.F(this.bk,"blur",this.a8(this.bP.gmc()))
+J.F(this.bk,"click",this.a8(this.bP.gmc()))
+x=this.bk
+w=this.bP
+J.F(x,"mouseover",this.a8(w.gfI(w)))
+w=this.bk
+x=this.bP
+J.F(w,"mouseleave",this.a8(x.gex(x)))
+x=this.da
+w=this.e_.e
+J.F(x,"focus",this.a8(w.geX(w)))
+w=this.da
+x=this.e_.e
+J.F(w,"blur",this.a8(x.geI(x)))
+x=this.da
+w=this.e_.e
+J.F(x,"keyup",this.a8(w.ghQ(w)))
+w=this.da
+x=this.e_.e
+J.F(w,"mouseover",this.a8(x.gfI(x)))
+x=this.da
+w=this.e_.e
+J.F(x,"mouseleave",this.a8(w.gex(w)))
+this.L(C.a,null)
 return},
-P:function(n,o,p){var y,x
-y=n===C.d
-if(y&&8<=o&&o<=9)return this.dx
-if(y&&10<=o&&o<=11)return this.fx
-if(y&&12<=o&&o<=13)return this.id
-if(y&&14<=o&&o<=15)return this.k3
-if(y&&36<=o&&o<=37)return this.S
-if(y&&38<=o&&o<=39)return this.a9
-if(y&&40<=o&&o<=41)return this.al
-if(y&&42<=o&&o<=43)return this.ap
-if(y&&51<=o&&o<=52)return this.aN
-if(y&&53<=o&&o<=54)return this.aE
-if(y&&55<=o&&o<=56)return this.aB
-if(y&&57<=o&&o<=58)return this.aq
-if(y&&63<=o&&o<=66)return this.az
-if(y&&67<=o&&o<=69)return this.br
-if(y&&70<=o&&o<=71)return this.aT
-if(y&&72<=o&&o<=73)return this.aj
-if(y&&79<=o&&o<=80)return this.aU
-if(y&&81<=o&&o<=82)return this.bf
-if(y&&83<=o&&o<=86)return this.bL
-if(y&&88<=o&&o<=89)return this.bM
-if(y&&90<=o&&o<=92)return this.bu
-if(y&&93<=o&&o<=94)return this.b2
-if(y&&95<=o&&o<=96)return this.bT
-x=n!==C.ak
-if((!x||y||n===C.G)&&103<=o&&o<=104)return this.c8
-if((!x||y||n===C.G)&&105<=o&&o<=106)return this.ca
-if((!x||y||n===C.G)&&107<=o&&o<=108)return this.bh
-if(y&&117<=o&&o<=118)return this.bY
-x=n===C.eS
-if(x&&117<=o&&o<=118)return this.d6
-if(y&&119<=o&&o<=120)return this.cz
-if(x&&119<=o&&o<=120)return this.cK
-if(y&&121<=o&&o<=122)return this.c3
-if(x&&121<=o&&o<=122)return this.cA
-if(y&&123<=o&&o<=124)return this.cN
-if(x&&123<=o&&o<=124)return this.cX
-if(y&&130<=o&&o<=131)return this.dt
-if(y&&132<=o&&o<=133)return this.dS
-return p},
+N:function(n,o,p){var y,x,w,v
+y=n===C.Z
+if(y&&19<=o&&o<=20){y=this.fy
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.fy=y}return y}if(y&&24<=o&&o<=25){y=this.r1
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.r1=y}return y}if(y&&29<=o&&o<=30){y=this.y2
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.y2=y}return y}if(y&&38<=o&&o<=39){y=this.a0
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.a0=y}return y}if(y&&43<=o&&o<=44){y=this.a9
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.a9=y}return y}if(y&&48<=o&&o<=49){y=this.ar
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.ar=y}return y}x=n===C.a8
+if(x&&66<=o&&o<=67)return this.aL
+if((n===C.a9||n===C.l||n===C.e)&&66<=o&&o<=67)return this.aK
+if(y&&66<=o&&o<=67){y=this.aB
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.aB=y}return y}if(y&&81<=o&&o<=82){y=this.aZ
+if(y==null){y=this.c
+y=G.co(y.m(C.Z,this.a.Q,null),y.m(C.C,this.a.Q,null))
+this.aZ=y}return y}if(y&&104<=o&&o<=111)return this.bg
+if(y&&150<=o&&o<=159)return this.bE
+w=n!==C.bo
+if((!w||n===C.u)&&150<=o&&o<=159)return this.by
+v=n===C.bY
+if(v&&150<=o&&o<=159){y=this.bZ
+if(y==null){y=this.by.gkq()
+this.bZ=y}return y}if(y&&173<=o&&o<=182)return this.ce
+if((!w||n===C.u)&&173<=o&&o<=182)return this.c_
+if(v&&173<=o&&o<=182){y=this.aM
+if(y==null){y=this.c_.gkq()
+this.aM=y}return y}if(y&&208<=o&&o<=211)return this.d2
+if((!w||n===C.u)&&208<=o&&o<=211)return this.ck
+if(v&&208<=o&&o<=211){y=this.cv
+if(y==null){y=this.ck.gkq()
+this.cv=y}return y}if(n===C.ae&&243<=o&&o<=244)return this.c3
+if((n===C.ak||n===C.r||n===C.q||n===C.e||n===C.ad)&&243<=o&&o<=244)return this.cA
+if(n===C.ah&&243<=o&&o<=244){y=this.cD
+if(y==null){y=[this.c3]
+this.cD=y}return y}if(x&&248<=o&&o<=249)return this.cZ
+y=n===C.u
+if(y&&248<=o&&o<=249)return this.d_
+if(n===C.p&&254<=o&&o<=255)return this.d5
+if(x&&254<=o&&o<=255)return this.d8
+if(y&&254<=o&&o<=255)return this.dm
+if((n===C.X||y||n===C.o)&&288<=o&&o<=292)return this.cE
+if(n===C.Y&&288<=o&&o<=292){y=this.fO
+if(y==null){y=this.cE.ge2()
+this.fO=y}return y}if(n===C.a4&&288<=o&&o<=292){y=this.f0
+if(y==null){y=this.cE.fx
+this.f0=y}return y}return p},
 q:function(){var y,x,w,v,u,t,s,r,q,p,o
 y=this.f
 x=this.a.cy===0
-if(x)this.dx.E()
-if(x)this.fx.E()
-if(x)this.id.E()
-if(x)this.k3.E()
+w=this.aN
+v=this.bd
+u=this.b3
+t=this.bP
+s=this.e_.e
+if(x){this.fr.sai(0,"print")
+r=!0}else r=!1
+if(r)this.dx.a.st(1)
+if(x)this.fx.shd(0,"Print")
+if(x){q=this.fx
+if(q.k3)q.fo()}if(x){this.k3.sai(0,"save")
+r=!0}else r=!1
+if(r)this.k1.a.st(1)
+if(x)this.k4.shd(0,"Save")
+if(x){q=this.k4
+if(q.k3)q.fo()}if(x){this.x2.sai(0,"lock")
+r=!0}else r=!1
+if(r)this.ry.a.st(1)
 y.toString
-if(this.d8!==C.bF){this.x2.scp(C.bF)
-this.d8=C.bF}this.x2.c6()
-if(x){this.S.r=!0
-w=!0}else w=!1
-if(w)this.Z.a.st(1)
-if(x)this.S.E()
-if(x)this.a9.E()
-if(x)this.al.E()
-if(x)this.ap.E()
-if(x){this.aN.r=!0
-w=!0}else w=!1
-if(w)this.aw.a.st(1)
-if(x)this.aN.E()
-if(x)this.aE.E()
-if(x)this.aB.E()
-if(x)this.aq.E()
-if(x){this.aF.scJ(0,"3")
-w=!0}else w=!1
-if(w)this.bc.a.st(1)
-if(x)this.az.E()
-if(x)this.br.E()
-if(x){this.aS.sai(0,"today")
-w=!0}else w=!1
-if(w)this.bk.a.st(1)
-if(x)this.aT.E()
-if(x)this.aj.E()
-if(x){this.b8.scJ(0,"3")
-w=!0}else w=!1
-if(w)this.bx.a.st(1)
-if(x)this.aU.E()
-if(x)this.bf.E()
-if(x)this.bL.E()
-if(x)this.bM.E()
-if(x)this.bu.E()
-if(x){this.bg.sai(0,"today")
-w=!0}else w=!1
-if(w)this.cb.a.st(1)
-if(x)this.b2.E()
-if(x)this.bT.E()
-if(x){this.cT.scJ(0,"3")
-w=!0}else w=!1
-if(w)this.bD.a.st(1)
-v=y.b
-u=v.di(1)
-if(this.dT!==u){t=this.c8
-t.toString
-t.rx=E.aJ(u)
-this.dT=u}if(x)this.c8.E()
-s=v.di(2)
-if(this.de!==s){t=this.ca
-t.toString
-t.rx=E.aJ(s)
-this.de=s}if(x)this.ca.E()
-r=v.di(3)
-if(this.d9!==r){v=this.bh
-v.toString
-v.rx=E.aJ(r)
-this.d9=r}if(x)this.bh.E()
-if(x)this.bY.E()
-if(x)this.cz.E()
-if(x)this.c3.E()
-if(x)this.cN.E()
-if(x)this.dt.E()
-if(x)this.dS.E()
-this.x1.J()
-v=y.a
-v=J.dn(v.gcZ())?"red":J.e0(v.gcZ())
-t=this.cP
-if(t==null?v!=null:t!==v){t=this.r.style
-q=v==null?null:v
-C.I.e7(t,(t&&C.I).dW(t,"color"),q,null)
-this.cP=v}this.Q.A(x)
-this.db.A(x)
-this.fr.A(x)
-this.go.A(x)
-this.k2.A(x)
-p=y.c
-v=this.dK
-if(v==null?p!=null:v!==p){this.K.value=p
-this.dK=p}this.H.A(x)
-this.Z.A(x)
-this.ab.A(x)
-this.ad.A(x)
-o=y.c
-if(o==null)o=""
-if(this.dn!==o){this.ah.textContent=o
-this.dn=o}this.Y.A(x)
-this.aA.A(x)
-this.aw.A(x)
-this.aH.A(x)
-this.as.A(x)
-this.ax.A(x)
-this.bc.A(x)
-this.aR.A(x)
-this.aQ.A(x)
-this.bl.A(x)
-this.bQ.A(x)
-this.bx.A(x)
-this.b1.A(x)
-this.bq.A(x)
-this.ba.A(x)
-this.bZ.A(x)
-this.bA.A(x)
-this.bC.A(x)
-this.c0.A(x)
-this.bD.A(x)
-this.bi.A(x)
-this.c1.A(x)
-this.bH.A(x)
-this.d_.dA(this.bI,this.ct)
-this.bI.A(x)
-this.cn.dA(this.cw,this.cc)
-this.cw.A(x)
-this.ce.dA(this.cl,this.co)
-this.cl.A(x)
-this.cC.dA(this.cu,this.c2)
-this.cu.A(x)
-this.cL.dA(this.cm,this.cD)
-this.cm.A(x)
-this.cV.A(x)
-this.dm.A(x)
-this.dd.A(x)
-this.Q.j()
-this.db.j()
-this.fr.j()
-this.go.j()
-this.k2.j()
-this.H.j()
-this.Z.j()
-this.ab.j()
-this.ad.j()
-this.Y.j()
-this.aA.j()
-this.aw.j()
-this.aH.j()
-this.as.j()
-this.ax.j()
-this.bc.j()
-this.aR.j()
-this.aQ.j()
-this.bk.j()
-this.bl.j()
-this.bQ.j()
-this.bx.j()
-this.b1.j()
-this.bq.j()
+if(this.fP!=="A message that appears in a tooltip."){this.y1.shd(0,"A message that appears in a tooltip.")
+this.fP="A message that appears in a tooltip."}if(x){q=this.y1
+if(q.k3)q.fo()}if(x){this.J.sai(0,"print")
+r=!0}else r=!1
+if(r)this.P.a.st(1)
+if(x)this.Y.shd(0,"Print")
+if(x){q=this.Y
+if(q.k3)q.fo()}if(x){this.aa.sai(0,"save")
+r=!0}else r=!1
+if(r)this.T.a.st(1)
+if(x)this.a7.shd(0,"Save")
+if(x){q=this.a7
+if(q.k3)q.fo()}if(x){this.W.sai(0,"lock")
+r=!0}else r=!1
+if(r)this.ag.a.st(1)
+if(this.fQ!=="A message that appears in a tooltip."){this.ao.shd(0,"A message that appears in a tooltip.")
+this.fQ="A message that appears in a tooltip."}if(x){q=this.ao
+if(q.k3)q.fo()}if(x){this.aK.cy=!0
+r=!0}else r=!1
+if(r)this.at.a.st(1)
+if(x)this.aK.E()
+if(x)this.aF.shd(0,"Saves the document")
+if(x){q=this.aF
+if(q.k3)q.fo()}if(this.fq!=="Number of opportunities linked to this objective with positive deal value in the current quarter"){this.aS.shd(0,"Number of opportunities linked to this objective with positive deal value in the current quarter")
+this.fq="Number of opportunities linked to this objective with positive deal value in the current quarter"}if(x){q=this.aS
+if(q.k3)q.fo()}q=this.fs
+if(q==null?w!=null:q!==w){this.aR.skr(w)
+this.fs=w
+r=!0}else r=!1
+if(r)this.ba.a.st(1)
+if(x){this.bi.sai(0,"help_outline")
+r=!0}else r=!1
+if(r)this.bq.a.st(1)
+q=this.eA
+if(q==null?v!=null:q!==v){this.by.skr(v)
+this.eA=v
+r=!0}else r=!1
+if(r)this.be.a.st(1)
+if(x){this.bv.sai(0,"help_outline")
+r=!0}else r=!1
+if(r)this.c5.a.st(1)
+q=this.ft
+if(q==null?u!=null:q!==u){this.c_.skr(u)
+this.ft=u
+r=!0}else r=!1
+if(r)this.bF.a.st(1)
+if(x){this.cj.sai(0,"help_outline")
+r=!0}else r=!1
+if(r)this.bI.a.st(1)
+q=this.dR
+if(q==null?t!=null:q!==t){this.ck.skr(t)
+this.dR=t
+r=!0}else r=!1
+if(r)this.bH.a.st(1)
+if(x)this.cc.f=!0
+if(x){this.cA.fr="A dummy input to start a focus cycle."
+r=!0}else r=!1
+if(r)this.cC.a.st(1)
+if(x){this.dI.sai(0,"help_outline")
+r=!0}else r=!1
+if(r)this.dc.a.st(1)
+if(x){this.cE.K.a.u(0,C.aI,!1)
+this.cE.K.a.u(0,C.aj,!0)}if(this.eS!==s){this.cE.se9(0,s)
+this.eS=s}this.dy.H()
+this.k2.H()
+this.x1.H()
+this.K.H()
+this.ab.H()
+this.aj.H()
+this.aA.H()
+this.aq.H()
+this.bY.H()
+this.br.H()
+this.bB.H()
+this.bW.H()
+this.cI.H()
+this.e0.H()
+this.at.B(x)
+q=this.e_
+p=this.dc
+o=this.da
+q.toString
+if(p.a.cy===0){q=o.style
+C.J.e3(q,(q&&C.J).dP(q,"cursor"),"pointer",null)}this.dQ.B(x)
+this.dx.j()
+this.k1.j()
+this.ry.j()
+this.P.j()
+this.T.j()
+this.ag.j()
+this.at.j()
 this.ba.j()
-this.bZ.j()
-this.bA.j()
-this.cb.j()
-this.bC.j()
-this.c0.j()
-this.bD.j()
-this.bi.j()
-this.c1.j()
-this.bH.j()
+this.bq.j()
+this.be.j()
+this.c5.j()
+this.bF.j()
 this.bI.j()
-this.cw.j()
-this.cl.j()
-this.cu.j()
-this.cm.j()
-this.cV.j()
-this.dm.j()
-this.dd.j()},
-w:function(){var y=this.x1
-if(!(y==null))y.I()
-y=this.Q
-if(!(y==null))y.i()
-y=this.db
-if(!(y==null))y.i()
-y=this.fr
-if(!(y==null))y.i()
-y=this.go
-if(!(y==null))y.i()
+this.bH.j()
+this.cC.j()
+this.cP.j()
+this.cW.j()
+this.dc.j()
+this.dQ.j()
+if(x)this.fx.a1()
+if(x)this.k4.a1()
+if(x)this.y1.a1()
+if(x)this.Y.a1()
+if(x)this.a7.a1()
+if(x)this.ao.a1()
+if(x)this.aF.a1()
+if(x)this.aS.a1()
+if(x)this.aN.a1()
+if(x)this.bd.a1()
+if(x)this.b3.a1()
+if(x)this.bP.a1()
+if(x)this.cA.a1()
+if(x)this.e_.e.a1()
+if(x)this.cE.ea()},
+w:function(){var y=this.dy
+if(!(y==null))y.G()
 y=this.k2
-if(!(y==null))y.i()
-y=this.H
-if(!(y==null))y.i()
-y=this.Z
-if(!(y==null))y.i()
+if(!(y==null))y.G()
+y=this.x1
+if(!(y==null))y.G()
+y=this.K
+if(!(y==null))y.G()
 y=this.ab
-if(!(y==null))y.i()
-y=this.ad
-if(!(y==null))y.i()
-y=this.Y
-if(!(y==null))y.i()
+if(!(y==null))y.G()
+y=this.aj
+if(!(y==null))y.G()
 y=this.aA
-if(!(y==null))y.i()
-y=this.aw
-if(!(y==null))y.i()
-y=this.aH
-if(!(y==null))y.i()
-y=this.as
-if(!(y==null))y.i()
-y=this.ax
-if(!(y==null))y.i()
-y=this.bc
-if(!(y==null))y.i()
-y=this.aR
-if(!(y==null))y.i()
-y=this.aQ
-if(!(y==null))y.i()
-y=this.bk
-if(!(y==null))y.i()
-y=this.bl
-if(!(y==null))y.i()
-y=this.bQ
-if(!(y==null))y.i()
-y=this.bx
-if(!(y==null))y.i()
-y=this.b1
-if(!(y==null))y.i()
-y=this.bq
-if(!(y==null))y.i()
-y=this.ba
-if(!(y==null))y.i()
-y=this.bZ
-if(!(y==null))y.i()
-y=this.bA
-if(!(y==null))y.i()
-y=this.cb
-if(!(y==null))y.i()
-y=this.bC
-if(!(y==null))y.i()
-y=this.c0
-if(!(y==null))y.i()
-y=this.bD
-if(!(y==null))y.i()
-y=this.bi
-if(!(y==null))y.i()
-y=this.c1
-if(!(y==null))y.i()
-y=this.bH
-if(!(y==null))y.i()
-y=this.bI
-if(!(y==null))y.i()
-y=this.cw
-if(!(y==null))y.i()
-y=this.cl
-if(!(y==null))y.i()
-y=this.cu
-if(!(y==null))y.i()
-y=this.cm
-if(!(y==null))y.i()
-y=this.cV
-if(!(y==null))y.i()
-y=this.dm
-if(!(y==null))y.i()
-y=this.dd
-if(!(y==null))y.i()
-this.dx.Q.D()
-this.fx.Q.D()
-this.id.Q.D()
-this.k3.Q.D()
-this.S.Q.D()
-this.a9.Q.D()
-this.al.Q.D()
-this.ap.Q.D()
-this.aN.Q.D()
-this.aE.Q.D()
-this.aB.Q.D()
-this.aq.Q.D()
-this.az.Q.D()
-this.br.Q.D()
-this.aT.Q.D()
-this.aj.Q.D()
-this.aU.Q.D()
-this.bf.Q.D()
-this.bL.Q.D()
-this.bM.Q.D()
-this.bu.Q.D()
-this.b2.Q.D()
-this.bT.Q.D()
-this.c8.Q.D()
-this.ca.Q.D()
-this.bh.Q.D()
-this.bY.Q.D()
-this.cz.Q.D()
-this.c3.Q.D()
-this.cN.Q.D()
-this.d_.e.c.D()
-this.dt.Q.D()
-this.dS.Q.D()},
-Yl:function(n){this.f.eq("red")},
-Y9:function(n){this.f.eq("green")},
-UN:function(n){this.f.eq("coral")},
-UZ:function(n){this.f.eq("mediumOrchid")},
-S3:function(n){var y=this.K
-this.f.sKb(y.value)},
-Ve:function(n){this.f.eq("red")},
-Vg:function(n){this.f.eq("green")},
-Yf:function(n){this.f.eq("coral")},
-Vm:function(n){this.f.eq("mediumOrchid")},
-Yh:function(n){this.f.eq("red")},
-Vw:function(n){this.f.eq("green")},
-VA:function(n){this.f.eq("coral")},
-VE:function(n){this.f.eq("mediumOrchid")},
-Ul:function(n){this.f.y8(1)},
-Un:function(n){this.f.y8(2)},
-Ur:function(n){this.f.y8(3)},
-UB:function(n){this.f.eq("red")},
-UD:function(n){this.f.eq("green")},
-Yd:function(n){this.f.eq("coral")},
-UJ:function(n){this.f.eq("mediumOrchid")},
-UP:function(n){this.f.eq("red")},
-UR:function(n){this.f.eq("green")},
-$asa:function(){return[D.h0]}}
-O.xv.prototype={
-p:function(){var y,x,w,v,u,t,s,r,q,p,o,n,a0
-y=document
-x=y.createElement("div")
-this.r=x
-this.h(x)
-x=B.dA(this,1)
-this.y=x
-x=x.e
-this.x=x
-this.r.appendChild(x)
-x=this.x
-x.className="bordered-list"
-this.h(x)
-this.z=new B.cl("auto")
-x=y.createElement("div")
-this.Q=x
-x.setAttribute("label","")
-this.h(this.Q)
-w=y.createTextNode("List Width ")
-this.Q.appendChild(w)
-x=y.createTextNode("")
-this.ch=x
-this.Q.appendChild(x)
-x=E.b_(this,5)
-this.cy=x
-x=x.e
-this.cx=x
-x.setAttribute("disabled","")
-this.h(this.cx)
-x=this.cx
-v=this.c
-u=v.c
-x=L.aW(x,u.n(C.b,v.a.Q),u.m(C.o,v.a.Q,null),null,null)
-this.db=x
-t=y.createTextNode("Red")
-this.cy.k(0,x,[[t]])
-x=E.b_(this,7)
-this.dy=x
-x=x.e
-this.dx=x
-this.h(x)
-x=L.aW(this.dx,u.n(C.b,v.a.Q),u.m(C.o,v.a.Q,null),null,null)
-this.fr=x
-s=y.createTextNode("Green")
-this.dy.k(0,x,[[s]])
-x=E.b_(this,9)
-this.fy=x
-x=x.e
-this.fx=x
-this.h(x)
-x=L.aW(this.fx,u.n(C.b,v.a.Q),u.m(C.o,v.a.Q,null),null,null)
-this.go=x
-r=y.createTextNode("Coral")
-this.fy.k(0,x,[[r]])
-x=E.b_(this,11)
-this.k1=x
-x=x.e
-this.id=x
-this.h(x)
-v=L.aW(this.id,u.n(C.b,v.a.Q),u.m(C.o,v.a.Q,null),null,null)
-this.k2=v
-q=y.createTextNode("MediumOrchid")
-this.k1.k(0,v,[[q]])
-this.y.k(0,this.z,[[this.Q,this.cx,this.dx,this.fx,this.id]])
-v=this.db.b
-p=new P.h(v,[H.e(v,0)]).B(this.v(this.gVH()))
-v=this.fr.b
-o=new P.h(v,[H.e(v,0)]).B(this.v(this.gYi()))
-v=this.go.b
-n=new P.h(v,[H.e(v,0)]).B(this.v(this.gWc()))
-v=this.k2.b
-a0=new P.h(v,[H.e(v,0)]).B(this.v(this.gYa()))
-this.N([this.r],[p,o,n,a0])
-return},
-P:function(n,o,p){var y=n===C.d
-if(y&&5<=o&&o<=6)return this.db
-if(y&&7<=o&&o<=8)return this.fr
-if(y&&9<=o&&o<=10)return this.go
-if(y&&11<=o&&o<=12)return this.k2
-return p},
-q:function(){var y,x,w,v,u
-y=this.a.cy===0
-x=this.b.C(0,"$implicit")
-w=this.k3
-if(w==null?x!=null:w!==x){this.z.a=x
-this.k3=x
-v=!0}else v=!1
-if(v)this.y.a.st(1)
-if(y){this.db.r=!0
-v=!0}else v=!1
-if(v)this.cy.a.st(1)
-if(y)this.db.E()
-if(y)this.fr.E()
-if(y)this.go.E()
-if(y)this.k2.E()
-this.y.A(y)
-u=Q.I(x)
-if(this.k4!==u){this.ch.textContent=u
-this.k4=u}this.cy.A(y)
-this.dy.A(y)
-this.fy.A(y)
-this.k1.A(y)
-this.y.j()
-this.cy.j()
-this.dy.j()
-this.fy.j()
-this.k1.j()},
-w:function(){var y=this.y
-if(!(y==null))y.i()
-y=this.cy
-if(!(y==null))y.i()
-y=this.dy
-if(!(y==null))y.i()
-y=this.fy
+if(!(y==null))y.G()
+y=this.aq
+if(!(y==null))y.G()
+y=this.bY
+if(!(y==null))y.G()
+y=this.br
+if(!(y==null))y.G()
+y=this.bB
+if(!(y==null))y.G()
+y=this.bW
+if(!(y==null))y.G()
+y=this.cI
+if(!(y==null))y.G()
+y=this.e0
+if(!(y==null))y.G()
+y=this.dx
 if(!(y==null))y.i()
 y=this.k1
 if(!(y==null))y.i()
-this.db.Q.D()
-this.fr.Q.D()
-this.go.Q.D()
-this.k2.Q.D()},
-VI:function(n){this.f.eq("red")},
-Yj:function(n){this.f.eq("green")},
-Wd:function(n){this.f.eq("coral")},
-Yb:function(n){this.f.eq("mediumOrchid")},
-$asa:function(){return[D.h0]}}
-O.SC.prototype={
+y=this.ry
+if(!(y==null))y.i()
+y=this.P
+if(!(y==null))y.i()
+y=this.T
+if(!(y==null))y.i()
+y=this.ag
+if(!(y==null))y.i()
+y=this.at
+if(!(y==null))y.i()
+y=this.ba
+if(!(y==null))y.i()
+y=this.bq
+if(!(y==null))y.i()
+y=this.be
+if(!(y==null))y.i()
+y=this.c5
+if(!(y==null))y.i()
+y=this.bF
+if(!(y==null))y.i()
+y=this.bI
+if(!(y==null))y.i()
+y=this.bH
+if(!(y==null))y.i()
+y=this.cC
+if(!(y==null))y.i()
+y=this.cP
+if(!(y==null))y.i()
+y=this.cW
+if(!(y==null))y.i()
+y=this.dc
+if(!(y==null))y.i()
+y=this.dQ
+if(!(y==null))y.i()
+this.fx.X()
+this.k4.X()
+this.y1.X()
+this.Y.X()
+this.a7.X()
+this.ao.X()
+this.aF.X()
+this.aS.X()
+this.aN.x2=null
+this.bd.x2=null
+y=this.b3
+y.y1=null
+y.x2.an(0)
+this.bP.x2=null
+this.cc.X()
+y=this.cA
+y.b1()
+y.K=null
+y.J=null
+this.e_.e.X()
+this.cE.X()},
+Tm:function(n){this.bt.iI()
+this.bd.fy.eM(0)},
+Qt:function(n){this.bt.iI()
+this.bd.qH()},
+S_:function(n){this.bt.i8()
+this.bd.qH()},
+To:function(n){this.b3.fy.eM(0)
+this.c0.iI()},
+Qv:function(n){this.b3.l3(0,n)
+this.c0.iI()},
+S1:function(n){this.b3.w2()
+this.c0.i8()},
+$asa:function(){return[K.hp]}}
+Q.V6.prototype={
+p:function(){var y,x,w,v,u,t,s,r
+y=B.a0n(this,0)
+this.x=y
+y=y.e
+this.r=y
+this.h(y)
+this.y=new V.ee(!0,null)
+y=document
+x=y.createTextNode("\n              ")
+w=y.createElement("header")
+this.z=w
+this.l(w)
+v=y.createTextNode("Simple sentences about things.")
+this.z.appendChild(v)
+u=y.createTextNode("\n              ")
+w=y.createElement("p")
+this.Q=w
+this.l(w)
+w=S.b(y,"b",this.Q)
+this.ch=w
+this.l(w)
+t=y.createTextNode("How it works:")
+this.ch.appendChild(t)
+s=y.createTextNode(" Text explains things further.")
+this.Q.appendChild(s)
+r=y.createTextNode("\n            ")
+this.x.k(0,this.y,[[x,this.z,u,this.Q,r]])
+this.F(this.r)
+return},
+q:function(){var y=this.a.cy===0
+if(y)this.y.b=4
+if(y)this.y.E()
+this.x.j()},
+w:function(){var y=this.x
+if(!(y==null))y.i()},
+$asa:function(){return[K.hp]}}
+Q.V7.prototype={
+gFK:function(){var y=this.z
+if(y==null){y=window
+this.z=y}return y},
+gpG:function(){var y=this.Q
+if(y==null){y=T.aP(this.m(C.b,this.a.Q,null),this.m(C.C,this.a.Q,null),this.n(C.f,this.a.Q),this.gFK())
+this.Q=y}return y},
+gFH:function(){var y=this.ch
+if(y==null){y=new O.aD(this.n(C.R,this.a.Q),this.gpG())
+this.ch=y}return y},
+gpF:function(){var y=this.cx
+if(y==null){y=document
+this.cx=y}return y},
+gvn:function(){var y=this.cy
+if(y==null){y=new K.aE(this.gpF(),this.gpG(),P.aM(null,[P.x,P.j]))
+this.cy=y}return y},
+gvo:function(){var y=this.dx
+if(y==null){y=G.aZ(this.m(C.y,this.a.Q,null))
+this.dx=y}return y},
+gFM:function(){var y=this.dy
+if(y==null){y=G.b_(this.gpF(),this.m(C.x,this.a.Q,null))
+this.dy=y}return y},
+gFN:function(){var y=this.fr
+if(y==null){y=G.aT(this.gvo(),this.gFM(),this.m(C.w,this.a.Q,null))
+this.fr=y}return y},
+gvp:function(){var y=this.fx
+if(y==null){this.fx=!0
+y=!0}return y},
+gFO:function(){var y=this.fy
+if(y==null){this.fy=!0
+y=!0}return y},
+gFJ:function(){var y=this.go
+if(y==null){y=this.gpF()
+y=new R.aG(y.querySelector("head"),!1,y)
+this.go=y}return y},
+gFL:function(){var y=this.id
+if(y==null){y=X.aY()
+this.id=y}return y},
+gFI:function(){var y=this.k1
+if(y==null){y=K.aX(this.gFJ(),this.gFN(),this.gvo(),this.gvn(),this.gpG(),this.gFH(),this.gvp(),this.gFO(),this.gFL())
+this.k1=y}return y},
 p:function(){var y,x
-y=new O.uP(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
-y.a=S.d(y,3,C.j,0,null)
-x=document.createElement("material-list-demo")
+y=new Q.vK(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y.a=S.d(y,1,C.j,0,null)
+x=document.createElement("material-tooltip-example")
 y.e=x
-x=$.ZM
-if(x==null){x=$.A.a5("",C.n,C.l8)
-$.ZM=x}y.a3(x)
+x=$.a0L
+if(x==null){x=$.z.a4("",C.n,$.$get$ais())
+$.a0L=x}y.a2(x)
 this.r=y
 this.e=y.e
-y=Z.bA(!1,null,null,null)
-x=Z.bA(!0,null,null,null)
-y=new D.h0(y,x,"Growing item label")
-x.dw(0,2)
-this.x=y
-this.r.k(0,y,this.a.e)
+x=new K.hp()
+this.x=x
+y.k(0,x,this.a.e)
 this.F(this.e)
-return new D.y(this,0,this.e,this.x,[D.h0])},
+return new D.y(this,0,this.e,this.x,[K.hp])},
+N:function(n,o,p){var y,x,w
+if(n===C.G&&0===o){y=this.y
+if(y==null){this.y=C.z
+y=C.z}return y}if(n===C.H&&0===o)return this.gFK()
+if(n===C.b&&0===o)return this.gpG()
+if(n===C.N&&0===o)return this.gFH()
+if(n===C.M&&0===o)return this.gpF()
+if(n===C.O&&0===o)return this.gvn()
+if(n===C.S&&0===o){y=this.db
+if(y==null){y=T.aV(this.n(C.f,this.a.Q))
+this.db=y}return y}if(n===C.y&&0===o)return this.gvo()
+if(n===C.x&&0===o)return this.gFM()
+if(n===C.w&&0===o)return this.gFN()
+if(n===C.T&&0===o)return this.gvp()
+if(n===C.F&&0===o)return this.gFO()
+if(n===C.Q&&0===o)return this.gFJ()
+if(n===C.E&&0===o)return this.gFL()
+if(n===C.P&&0===o)return this.gFI()
+if(n===C.m&&0===o){y=this.k2
+if(y==null){y=this.n(C.f,this.a.Q)
+x=this.gvp()
+w=this.gFI()
+this.m(C.m,this.a.Q,null)
+w=new X.aB(x,y,w)
+this.k2=w
+y=w}return y}if(n===C.v&&0===o){y=this.k3
+if(y==null){y=new K.aK(this.gvn())
+this.k3=y}return y}if(n===C.Z&&0===o){y=this.k4
+if(y==null){y=new U.hD(null,null)
+this.k4=y}return y}return p},
 q:function(){this.r.j()},
 w:function(){var y=this.r
 if(!(y==null))y.i()},
-$asa:function(){}};(function installTearOffs(){f(N,"ako",1,0,0,null,["$2"],["axV"],1)
-f(O,"aqw",1,0,0,null,["$2"],["axT"],2)
-f(O,"aqx",1,0,0,null,["$2"],["axU"],1)
-var y
-f(y=O.uP.prototype,"gYk",0,0,0,null,["$1"],["Yl"],0)
-f(y,"gY8",0,0,0,null,["$1"],["Y9"],0)
-f(y,"gUM",0,0,0,null,["$1"],["UN"],0)
-f(y,"gUY",0,0,0,null,["$1"],["UZ"],0)
-f(y,"gS2",0,0,0,null,["$1"],["S3"],0)
-f(y,"gVd",0,0,0,null,["$1"],["Ve"],0)
-f(y,"gVf",0,0,0,null,["$1"],["Vg"],0)
-f(y,"gYe",0,0,0,null,["$1"],["Yf"],0)
-f(y,"gVl",0,0,0,null,["$1"],["Vm"],0)
-f(y,"gYg",0,0,0,null,["$1"],["Yh"],0)
-f(y,"gVv",0,0,0,null,["$1"],["Vw"],0)
-f(y,"gVz",0,0,0,null,["$1"],["VA"],0)
-f(y,"gVD",0,0,0,null,["$1"],["VE"],0)
-f(y,"gUk",0,0,0,null,["$1"],["Ul"],0)
-f(y,"gUm",0,0,0,null,["$1"],["Un"],0)
-f(y,"gUq",0,0,0,null,["$1"],["Ur"],0)
-f(y,"gUA",0,0,0,null,["$1"],["UB"],0)
-f(y,"gUC",0,0,0,null,["$1"],["UD"],0)
-f(y,"gYc",0,0,0,null,["$1"],["Yd"],0)
-f(y,"gUI",0,0,0,null,["$1"],["UJ"],0)
-f(y,"gUO",0,0,0,null,["$1"],["UP"],0)
-f(y,"gUQ",0,0,0,null,["$1"],["UR"],0)
-f(y=O.xv.prototype,"gVH",0,0,0,null,["$1"],["VI"],0)
-f(y,"gYi",0,0,0,null,["$1"],["Yj"],0)
-f(y,"gWc",0,0,0,null,["$1"],["Wd"],0)
-f(y,"gYa",0,0,0,null,["$1"],["Yb"],0)})();(function inheritance(){var y=P.H
-a(B.k8,y)
-a(D.h0,y)
+$asa:function(){}};(function installTearOffs(){var y
+f(y=D.tA.prototype,"ga1R",0,0,0,null,["$0"],["q1"],0)
+f(y,"geX",0,1,0,null,["$0"],["y8"],0)
+f(y,"geI",0,1,0,null,["$0"],["nC"],0)
+f(y,"ghQ",0,1,0,null,["$0"],["a6k"],0)
+f(y,"gfI",0,1,0,null,["$0"],["nE"],0)
+f(y,"gex",0,1,0,null,["$0"],["l6"],0)
+f(Q,"ayy",1,0,0,null,["$2"],["aGh"],2)
+f(Q,"ayz",1,0,0,null,["$2"],["aGi"],3)
+f(Q,"ayA",1,0,0,null,["$2"],["aGj"],2)
+f(y=Q.vK.prototype,"gTl",0,0,0,null,["$1"],["Tm"],1)
+f(y,"gQs",0,0,0,null,["$1"],["Qt"],1)
+f(y,"gRZ",0,0,0,null,["$1"],["S_"],1)
+f(y,"gTn",0,0,0,null,["$1"],["To"],1)
+f(y,"gQu",0,0,0,null,["$1"],["Qv"],1)
+f(y,"gS0",0,0,0,null,["$1"],["S1"],1)})();(function inheritance(){a(D.tA,L.bO)
+a(Y.GA,E.md)
+var y=P.G
+a(A.kM,y)
+a(K.hp,y)
 y=S.a
-a(N.Lr,y)
-a(N.SD,y)
-a(O.uP,y)
-a(O.xv,y)
-a(O.SC,y)})();(function constants(){C.d7=new D.C("material-list-gallery-section-api",N.ako(),C.a,[B.k8])
-C.h_=C.d7
-C.ij=new D.C("material-list-demo",O.aqx(),C.a,[D.h0])
-C.ld=d([".bordered-list._ngcontent-%ID%{border:1px solid black;border-radius:8px;margin:8px;overflow:hidden;}:not(.stretched-list)._ngcontent-%ID% material-list._ngcontent-%ID%{display:inline-block;}"])
-C.l8=d([C.ld])
-C.qS=H.p("k8")
-C.f6=H.p("h0")})();(function staticFields(){$.a42=null
-$.a8N=!1
-$.ZM=null
-$.a8O=!1})()
-i([{func:1,v:true,args:[,]},{func:1,ret:S.a,args:[S.a,P.k]},{func:1,ret:[S.a,D.h0],args:[S.a,P.k]}]);(function nativeSupport(){j({})
+a(Q.Nd,y)
+a(Q.V5,y)
+a(Q.vK,y)
+a(Q.V6,y)
+a(Q.V7,y)})();(function constants(){C.d8=new D.B("material-tooltip-api",Q.ayy(),C.a,[A.kM])
+C.hd=C.d8
+C.iz=new D.B("material-tooltip-example",Q.ayA(),C.a,[K.hp])
+C.pq=H.o("kM")
+C.fF=H.o("hp")})();(function staticFields(){$.a6M=null
+$.a9E=!1
+$.a0L=null
+$.a9F=!1})();(function lazyInitializers(){c($,"a4N","$get$a4N",function(){return T.aW("Mouseover or press enter on this icon for more information.",null,"Label for help icon which opens a help center tooltip.",C.B,null,null,"MaterialTooltipSourceDirective_tooltipLabel",null)})
+c($,"ajm","$get$ajm",function(){return["._nghost-%ID%{margin:8px;}._nghost-%ID% .demo-section._ngcontent-%ID%{display:flex;flex-direction:row;padding:8px;}._nghost-%ID% .demo-container._ngcontent-%ID%,._nghost-%ID% .knob-container._ngcontent-%ID%{margin:8px;padding:8px;max-width:600px;display:flex;flex:1;box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);}._nghost-%ID% .demo-container._ngcontent-%ID% .caption._ngcontent-%ID%,._nghost-%ID% .knob-container._ngcontent-%ID% .caption._ngcontent-%ID%{font-size:12px;font-weight:400;}._nghost-%ID% [row]._ngcontent-%ID%{flex-direction:row;}._nghost-%ID% [column]._ngcontent-%ID%{flex-direction:column;}._nghost-%ID% [flex]._ngcontent-%ID%{display:flex;flex:1;}._nghost-%ID% [inline-flex]._ngcontent-%ID%{display:inline-flex;flex:1;}.demo-glyph._ngcontent-%ID%{margin:8px;}.source-popup._ngcontent-%ID%{padding:8px;}.dark-background._ngcontent-%ID%{background:#424242;color:#fff;}"]})
+c($,"ais","$get$ais",function(){return[$.$get$ajm()]})})()
+i([{func:1,v:true},{func:1,v:true,args:[,]},{func:1,ret:S.a,args:[S.a,P.l]},{func:1,ret:[S.a,K.hp],args:[S.a,P.l]}]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["Tg6wHfs5RJgk6AGDT3SZhEAcC8k="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["mdDgWVMwRjKpZKMvfz7nFxGCHvE="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_61.part.js.map

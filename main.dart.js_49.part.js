@@ -1,29 +1,104 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={kM:function kM(n,o,p,q,r){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q
-_.e=r},GD:function GD(n){this.a=n},GE:function GE(n){this.a=n},GF:function GF(n){this.a=n},GB:function GB(n){this.a=n},GC:function GC(n){this.a=n},GA:function GA(n,o){this.a=n
-this.b=o}},R={},K={},V={},N={B7:function B7(n,o,p,q,r,s,t,u,v){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q
-_.e=r
-_.f=s
-_.r=t
-_.x=u
-_.y=v},B8:function B8(n){this.a=n},B9:function B9(n,o){this.a=n
-this.b=o},ix:function ix(n,o,p,q,r,s,t,u){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q
-_.e=r
-_.f=s
-_.r=t
-_.x=u}},E={},M={},B={},S={},Q={},D={},L={},Z={},A={},T={},O={},U={},X={},F={}
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},N={},E={},M={
+aF8:function(n,o){var y=new M.U4(null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.k,o,null)
+return y},
+asI:function(){if($.aaY)return
+$.aaY=!0
+$.$get$D().u(0,C.p8,C.cZ)
+E.t()
+K.cj()
+B.asJ()},
+MI:function MI(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
+_.r=n
+_.x=o
+_.y=p
+_.z=q
+_.Q=r
+_.ch=s
+_.cx=t
+_.cy=u
+_.db=v
+_.dx=w
+_.dy=x
+_.fr=y
+_.fx=a0
+_.fy=a1
+_.go=a2
+_.id=a3
+_.k1=a4
+_.k2=a5
+_.k3=a6
+_.k4=a7
+_.r1=a8
+_.a=a9
+_.b=b0
+_.c=b1
+_.d=b2
+_.e=b3
+_.f=b4},
+U4:function U4(n,o,p,q,r,s,t,u){var _=this
+_.r=n
+_.x=o
+_.a=p
+_.b=q
+_.c=r
+_.d=s
+_.e=t
+_.f=u}},B={ky:function ky(){},
+aFa:function(n,o){var y=new B.U6(null,null,null,P.c(),n,null,null,null)
+y.a=S.d(y,3,C.k,o,null)
+return y},
+asJ:function(){if($.ab_)return
+$.ab_=!0
+$.$get$D().u(0,C.fD,C.jn)
+E.t()
+S.afx()},
+MK:function MK(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2){var _=this
+_.r=n
+_.x=o
+_.y=p
+_.z=q
+_.Q=r
+_.ch=s
+_.cx=t
+_.cy=u
+_.db=v
+_.dx=w
+_.dy=x
+_.fr=y
+_.fx=a0
+_.fy=a1
+_.go=a2
+_.id=a3
+_.k1=a4
+_.k2=a5
+_.k3=a6
+_.k4=a7
+_.r1=a8
+_.r2=a9
+_.rx=b0
+_.ry=b1
+_.x1=b2
+_.x2=b3
+_.y1=b4
+_.y2=b5
+_.S=b6
+_.a=b7
+_.b=b8
+_.c=b9
+_.d=c0
+_.e=c1
+_.f=c2},
+U6:function U6(n,o,p,q,r,s,t,u){var _=this
+_.r=n
+_.x=o
+_.a=p
+_.b=q
+_.c=r
+_.d=s
+_.e=t
+_.f=u}},S={},Q={},D={},L={},Z={},A={},T={},O={kx:function kx(n){this.a=n}},U={},X={},F={}
 var z=[C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F])
 C=h(m[0],C)
@@ -51,201 +126,332 @@ O=h(m[21],O)
 U=h(m[22],U)
 X=h(m[23],X)
 F=h(m[24],F)
-Y.kM.prototype={
-sqs:function(n){var y
-this.jL(!0)
-y=H.q(n.split(" "),[P.j])
-this.d=y
-this.jL(!1)
-this.kx(this.e,!1)},
-sxW:function(n){this.kx(this.e,!0)
-this.jL(!1)
-if(typeof n==="string")n=H.q(n.split(" "),[P.j])
-this.e=n
-this.b=null
-this.c=null
-if(n!=null)if(!!J.F(n).$isV)this.b=R.B5(null)
-else this.c=new N.B7(new H.cT(0,null,null,null,null,null,0,[null,N.ix]),null,null,null,null,null,null,null,null)},
-c6:function(){var y,x
-y=this.b
-if(y!=null){x=y.q8(this.e)
-if(x!=null)this.O4(x)}y=this.c
-if(y!=null){x=y.q8(this.e)
-if(x!=null)this.O5(x)}},
-O5:function(n){n.wY(new Y.GD(this))
-n.a22(new Y.GE(this))
-n.wZ(new Y.GF(this))},
-O4:function(n){n.wY(new Y.GB(this))
-n.wZ(new Y.GC(this))},
-jL:function(n){var y,x,w,v
-for(y=this.d,x=y.length,w=!n,v=0;v<y.length;y.length===x||(0,H.ap)(y),++v)this.jg(y[v],w)},
-kx:function(n,o){var y,x,w,v
-if(n!=null){y=J.F(n)
-if(!!y.$isx)for(x=n.length,y=!o,w=0;w<x;++w)this.jg(n[w],y)
-else if(!!y.$isV)for(y=y.gbV(n),v=!o;y.ag();)this.jg(y.d,v)
-else y.bU(H.ac(n,"$isa3"),new Y.GA(this,o))}},
-jg:function(n,o){var y,x,w,v,u
-n=J.fc(n)
-if(n.length===0)return
-y=J.qt(this.a)
-if(C.h.eG(n," ")>-1){x=$.a2J
-if(x==null){x=P.cB("\\s+",!0,!1)
-$.a2J=x}w=C.h.yH(n,x)
-for(v=w.length,u=0;u<v;++u)if(o)y.R(0,w[u])
-else y.b6(0,w[u])}else if(o)y.R(0,n)
-else y.b6(0,n)}}
-Y.GD.prototype={
-$1:function(n){this.a.jg(n.a,n.c)},
-$S:function(){return{func:1,args:[N.ix]}}}
-Y.GE.prototype={
-$1:function(n){this.a.jg(n.a,n.c)},
-$S:function(){return{func:1,args:[N.ix]}}}
-Y.GF.prototype={
-$1:function(n){if(n.b!=null)this.a.jg(n.a,!1)},
-$S:function(){return{func:1,args:[N.ix]}}}
-Y.GB.prototype={
-$1:function(n){this.a.jg(n.a,!0)},
-$S:function(){return{func:1,args:[R.lL]}}}
-Y.GC.prototype={
-$1:function(n){this.a.jg(n.a,!1)},
-$S:function(){return{func:1,args:[R.lL]}}}
-Y.GA.prototype={
-$2:function(n,o){this.a.jg(n,!this.b)},
-$S:function(){return{func:1,args:[,,]}}}
-N.B7.prototype={
-gnn:function(){return this.r!=null||this.e!=null||this.y!=null},
-a22:function(n){var y
-for(y=this.e;y!=null;y=y.x)n.$1(y)},
-wY:function(n){var y
-for(y=this.r;y!=null;y=y.r)n.$1(y)},
-wZ:function(n){var y
-for(y=this.y;y!=null;y=y.e)n.$1(y)},
-q8:function(n){if(n==null)n=P.c()
-if(this.vZ(0,n))return this
-else return},
-vZ:function(n,o){var y,x,w,v
-y={}
-this.Oz()
-x=this.b
-if(x==null){J.jj(o,new N.B8(this))
-return this.b!=null}y.a=x
-J.jj(o,new N.B9(y,this))
-w=y.a
-if(w!=null){this.y=w
-for(x=this.a;w!=null;w=w.e){x.b6(0,w.a)
-w.b=w.c
-w.c=null}x=this.y
-v=this.b
-if(x==null?v==null:x===v)this.b=null
-else x.f.e=null}return this.gnn()},
-Xh:function(n,o){var y
-if(n!=null){o.e=n
-o.f=n.f
-y=n.f
-if(!(y==null))y.e=o
-n.f=o
-if(n===this.b)this.b=o
-this.c=n
-return n}y=this.c
-if(y!=null){y.e=o
-o.f=y}else this.b=o
-this.c=o
+O.kx.prototype={
+gb0:function(){return this.a}}
+M.MI.prototype={
+gEJ:function(){var y=this.Q
+if(y==null){y=window
+this.Q=y}return y},
+gpr:function(){var y=this.ch
+if(y==null){y=this.c
+y=T.aP(y.m(C.b,this.a.Q,null),y.m(C.C,this.a.Q,null),y.n(C.f,this.a.Q),this.gEJ())
+this.ch=y}return y},
+gEG:function(){var y=this.cx
+if(y==null){y=new O.aD(this.c.n(C.R,this.a.Q),this.gpr())
+this.cx=y}return y},
+gpq:function(){var y=this.cy
+if(y==null){y=document
+this.cy=y}return y},
+guZ:function(){var y=this.db
+if(y==null){y=new K.aE(this.gpq(),this.gpr(),P.aM(null,[P.x,P.j]))
+this.db=y}return y},
+gv_:function(){var y=this.dy
+if(y==null){y=G.aZ(this.c.m(C.y,this.a.Q,null))
+this.dy=y}return y},
+gEL:function(){var y=this.fr
+if(y==null){y=G.b_(this.gpq(),this.c.m(C.x,this.a.Q,null))
+this.fr=y}return y},
+gEM:function(){var y=this.fx
+if(y==null){y=G.aT(this.gv_(),this.gEL(),this.c.m(C.w,this.a.Q,null))
+this.fx=y}return y},
+gv0:function(){var y=this.fy
+if(y==null){this.fy=!0
+y=!0}return y},
+gEN:function(){var y=this.go
+if(y==null){this.go=!0
+y=!0}return y},
+gEI:function(){var y=this.id
+if(y==null){y=this.gpq()
+y=new R.aG(y.querySelector("head"),!1,y)
+this.id=y}return y},
+gEK:function(){var y=this.k1
+if(y==null){y=X.aY()
+this.k1=y}return y},
+gEH:function(){var y=this.k2
+if(y==null){y=K.aX(this.gEI(),this.gEM(),this.gv_(),this.guZ(),this.gpr(),this.gEG(),this.gv0(),this.gEN(),this.gEK())
+this.k2=y}return y},
+p:function(){var y,x
+y=this.a5(this.e)
+x=K.c8(this,0)
+this.x=x
+x=x.e
+this.r=x
+y.appendChild(x)
+x=new U.au(null,this.c.n(C.a6,this.a.Q))
+this.y=x
+this.x.k(0,x,[])
+this.L(C.a,null)
 return},
-OU:function(n,o){var y,x
-y=this.a
-if(y.cW(0,n)){x=y.C(0,n)
-this.Fe(x,o)
-y=x.gpE()
-if(!(y==null))y.e=x.gpA()
-y=x.gpA()
-if(!(y==null))y.f=x.gpE()
-x.spE(null)
-x.spA(null)
-return x}x=new N.ix(n,null,null,null,null,null,null,null)
-x.c=o
-y.u(0,n,x)
-this.zm(x)
-return x},
-Fe:function(n,o){var y=n.c
-if(o==null?y!=null:o!==y){n.b=y
-n.c=o
-if(this.e==null){this.f=n
-this.e=n}else{this.f.x=n
-this.f=n}}},
-Oz:function(){var y,x
-this.c=null
-if(this.gnn()){y=this.b
-this.d=y
-for(;y!=null;y=x){x=y.e
-y.d=x}for(y=this.e;y!=null;y=y.x)y.b=y.c
-for(y=this.r;y!=null;y=y.r)y.b=y.c
-this.f=null
-this.e=null
-this.x=null
-this.r=null
-this.y=null}},
-zm:function(n){if(this.r==null){this.x=n
-this.r=n}else{this.x.r=n
-this.x=n}},
-M:function(n){var y,x,w,v,u,t
-y=[]
-x=[]
-w=[]
-v=[]
-u=[]
-for(t=this.b;t!=null;t=t.e)y.push(t)
-for(t=this.d;t!=null;t=t.d)x.push(t)
-for(t=this.e;t!=null;t=t.x)w.push(t)
-for(t=this.r;t!=null;t=t.r)v.push(t)
-for(t=this.y;t!=null;t=t.e)u.push(t)
-return"map: "+C.c.du(y,", ")+"\nprevious: "+C.c.du(x,", ")+"\nadditions: "+C.c.du(v,", ")+"\nchanges: "+C.c.du(w,", ")+"\nremovals: "+C.c.du(u,", ")+"\n"}}
-N.B8.prototype={
-$2:function(n,o){var y,x,w
-y=new N.ix(n,null,null,null,null,null,null,null)
-y.c=o
-x=this.a
-x.a.u(0,n,y)
-x.zm(y)
-w=x.c
-if(w==null)x.b=y
-else{y.f=w
-w.e=y}x.c=y},
-$S:function(){return{func:1,args:[,,]}}}
-N.B9.prototype={
-$2:function(n,o){var y,x,w,v
-y=this.a
-x=y.a
-w=this.b
-if(J.O(x==null?null:x.a,n)){w.Fe(y.a,o)
-x=y.a
-w.c=x
-y.a=x.e}else{v=w.OU(n,o)
-y.a=w.Xh(y.a,v)}},
-$S:function(){return{func:1,args:[,,]}}}
-N.ix.prototype={
-M:function(n){var y,x,w
-y=this.b
-x=this.c
-w=this.a
-return(y==null?x==null:y===x)?H.o(w):H.o(w)+"["+H.o(this.b)+"->"+H.o(this.c)+"]"},
-giB:function(n){return this.a},
-gpA:function(){return this.e},
-gpE:function(){return this.f},
-spA:function(n){return this.e=n},
-spE:function(n){return this.f=n}};(function inheritance(){var y=P.H
-a(Y.kM,y)
-a(N.B7,y)
-a(N.ix,y)
-y=H.aL
-a(Y.GD,y)
-a(Y.GE,y)
-a(Y.GF,y)
-a(Y.GB,y)
-a(Y.GC,y)
-a(Y.GA,y)
-a(N.B8,y)
-a(N.B9,y)})();(function staticFields(){$.a2J=null})()
-i([]);(function nativeSupport(){j({})
+N:function(n,o,p){var y,x,w,v
+if(n===C.G&&0===o){y=this.z
+if(y==null){this.z=C.z
+y=C.z}return y}if(n===C.H&&0===o)return this.gEJ()
+if(n===C.b&&0===o)return this.gpr()
+if(n===C.N&&0===o)return this.gEG()
+if(n===C.M&&0===o)return this.gpq()
+if(n===C.O&&0===o)return this.guZ()
+if(n===C.S&&0===o){y=this.dx
+if(y==null){y=T.aV(this.c.n(C.f,this.a.Q))
+this.dx=y}return y}if(n===C.y&&0===o)return this.gv_()
+if(n===C.x&&0===o)return this.gEL()
+if(n===C.w&&0===o)return this.gEM()
+if(n===C.T&&0===o)return this.gv0()
+if(n===C.F&&0===o)return this.gEN()
+if(n===C.Q&&0===o)return this.gEI()
+if(n===C.E&&0===o)return this.gEK()
+if(n===C.P&&0===o)return this.gEH()
+if(n===C.m&&0===o){y=this.k3
+if(y==null){y=this.c
+x=y.n(C.f,this.a.Q)
+w=this.gv0()
+v=this.gEH()
+y.m(C.m,this.a.Q,null)
+v=new X.aB(w,x,v)
+this.k3=v
+y=v}return y}if(n===C.v&&0===o){y=this.k4
+if(y==null){y=new K.aK(this.guZ())
+this.k4=y}return y}return p},
+q:function(){var y=this.f.a
+if(this.r1!==y){this.y.a=y
+this.r1=y}this.x.j()},
+w:function(){var y=this.x
+if(!(y==null))y.i()},
+$asa:function(){return[O.kx]}}
+M.U4.prototype={
+p:function(){var y,x
+y=new M.MI(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y.a=S.d(y,3,C.j,0,null)
+x=document.createElement("material-progress-api")
+y.e=x
+x=$.a6n
+if(x==null){x=$.z.a4("",C.W,C.a)
+$.a6n=x}y.a2(x)
+this.r=y
+this.e=y.e
+x=new O.kx(R.cb([],[new R.ah(C.fD,"MaterialProgressDemoComponent","material_progress_example/lib/material_progress_demo.dart")],[new R.al("MaterialProgressComponent","material-progress","angular_components/lib/material_progress/material_progress.dart",'<p>The progress bars are for situations where the percentage completed can be\ndetermined. They give users a quick sense of how much longer an operation\nwill take.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-progress [activeProgress]="10" [secondaryProgress]="30"&gt;\n&lt;/material-progress&gt;\n</code></pre>\n')],[],P.c(),[]))
+this.x=x
+y.k(0,x,this.a.e)
+this.F(this.e)
+return new D.y(this,0,this.e,this.x,[O.kx])},
+q:function(){this.r.j()},
+w:function(){var y=this.r
+if(!(y==null))y.i()},
+$asa:function(){}}
+B.ky.prototype={}
+B.MK.prototype={
+p:function(){var y,x,w,v,u,t,s,r,q
+y=this.a5(this.e)
+x=document
+w=S.m(x,y)
+this.r=w
+this.h(w)
+w=S.b(x,"h2",this.r)
+this.x=w
+this.l(w)
+v=x.createTextNode("Active progress only")
+this.x.appendChild(v)
+w=S.b(x,"section",this.r)
+this.y=w
+w.className="margin"
+this.l(w)
+w=S.ln(this,4)
+this.Q=w
+w=w.e
+this.z=w
+this.y.appendChild(w)
+this.h(this.z)
+w=this.Q
+u=new X.ej(w.a.b,this.z,!0,0,0,0,100,!1,!1,null,null,null,null)
+this.ch=u
+w.k(0,u,[])
+u=S.b(x,"h2",this.r)
+this.cx=u
+this.l(u)
+t=x.createTextNode("Active and secondary progress")
+this.cx.appendChild(t)
+u=S.b(x,"section",this.r)
+this.cy=u
+u.className="margin"
+this.l(u)
+u=S.ln(this,8)
+this.dx=u
+u=u.e
+this.db=u
+this.cy.appendChild(u)
+this.h(this.db)
+u=this.dx
+w=new X.ej(u.a.b,this.db,!0,0,0,0,100,!1,!1,null,null,null,null)
+this.dy=w
+u.k(0,w,[])
+w=S.ln(this,9)
+this.fx=w
+w=w.e
+this.fr=w
+this.cy.appendChild(w)
+this.h(this.fr)
+w=this.fx
+u=new X.ej(w.a.b,this.fr,!0,0,0,0,100,!1,!1,null,null,null,null)
+this.fy=u
+w.k(0,u,[])
+u=S.b(x,"h2",this.r)
+this.go=u
+this.l(u)
+s=x.createTextNode("Indeterminate")
+this.go.appendChild(s)
+u=S.b(x,"section",this.r)
+this.id=u
+u.className="margin"
+this.l(u)
+u=S.ln(this,13)
+this.k2=u
+u=u.e
+this.k1=u
+this.id.appendChild(u)
+this.h(this.k1)
+u=this.k2
+w=new X.ej(u.a.b,this.k1,!0,0,0,0,100,!1,!1,null,null,null,null)
+this.k3=w
+u.k(0,w,[])
+w=S.b(x,"section",this.r)
+this.k4=w
+w.className="custom-theme"
+this.l(w)
+w=S.b(x,"h1",this.k4)
+this.r1=w
+this.l(w)
+r=x.createTextNode("Custom theme")
+this.r1.appendChild(r)
+w=S.m(x,this.k4)
+this.r2=w
+this.h(w)
+w=S.b(x,"h2",this.r2)
+this.rx=w
+this.l(w)
+q=x.createTextNode("material-progress-theme($indeterminate-color: $mat-red-100, $active-color: $mat-red-500, $secondary-color: $mat-red-200)")
+this.rx.appendChild(q)
+w=S.ln(this,20)
+this.x1=w
+w=w.e
+this.ry=w
+this.r2.appendChild(w)
+this.h(this.ry)
+w=this.x1
+u=new X.ej(w.a.b,this.ry,!0,0,0,0,100,!1,!1,null,null,null,null)
+this.x2=u
+w.k(0,u,[])
+u=S.ln(this,21)
+this.y2=u
+u=u.e
+this.y1=u
+this.r2.appendChild(u)
+this.h(this.y1)
+u=this.y2
+w=new X.ej(u.a.b,this.y1,!0,0,0,0,100,!1,!1,null,null,null,null)
+this.S=w
+u.k(0,w,[])
+this.L(C.a,null)
+return},
+q:function(){var y,x,w
+y=this.a.cy===0
+if(y){this.ch.d=25
+x=!0}else x=!1
+if(x)this.Q.a.st(1)
+if(y){w=this.dy
+w.d=0
+w.e=25
+x=!0}else x=!1
+if(x)this.dx.a.st(1)
+if(y){w=this.fy
+w.d=25
+w.e=75
+x=!0}else x=!1
+if(x)this.fx.a.st(1)
+if(y){this.k3.skh(0,!0)
+x=!0}else x=!1
+if(x)this.k2.a.st(1)
+if(y){w=this.x2
+w.d=25
+w.e=75
+x=!0}else x=!1
+if(x)this.x1.a.st(1)
+if(y){this.S.skh(0,!0)
+x=!0}else x=!1
+if(x)this.y2.a.st(1)
+this.Q.j()
+this.dx.j()
+this.fx.j()
+this.k2.j()
+this.x1.j()
+this.y2.j()
+if(y){w=this.ch
+w.y=!0
+if(w.x)w.jn()}if(y){w=this.dy
+w.y=!0
+if(w.x)w.jn()}if(y){w=this.fy
+w.y=!0
+if(w.x)w.jn()}if(y){w=this.k3
+w.y=!0
+if(w.x)w.jn()}if(y){w=this.x2
+w.y=!0
+if(w.x)w.jn()}if(y){w=this.S
+w.y=!0
+if(w.x)w.jn()}},
+w:function(){var y=this.Q
+if(!(y==null))y.i()
+y=this.dx
+if(!(y==null))y.i()
+y=this.fx
+if(!(y==null))y.i()
+y=this.k2
+if(!(y==null))y.i()
+y=this.x1
+if(!(y==null))y.i()
+y=this.y2
+if(!(y==null))y.i()
+this.ch.X()
+this.dy.X()
+this.fy.X()
+this.k3.X()
+this.x2.X()
+this.S.X()},
+$asa:function(){return[B.ky]}}
+B.U6.prototype={
+p:function(){var y,x
+y=new B.MK(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
+y.a=S.d(y,3,C.j,0,null)
+x=document.createElement("material-progress-demo")
+y.e=x
+x=$.a6p
+if(x==null){x=$.z.a4("",C.n,$.$get$ai5())
+$.a6p=x}y.a2(x)
+this.r=y
+this.e=y.e
+x=new B.ky()
+this.x=x
+y.k(0,x,this.a.e)
+this.F(this.e)
+return new D.y(this,0,this.e,this.x,[B.ky])},
+q:function(){this.r.j()},
+w:function(){var y=this.r
+if(!(y==null))y.i()},
+$asa:function(){}};(function installTearOffs(){f(M,"ax2",1,0,0,null,["$2"],["aF8"],0)
+f(B,"ax3",1,0,0,null,["$2"],["aFa"],0)})();(function inheritance(){var y=P.G
+a(O.kx,y)
+a(B.ky,y)
+y=S.a
+a(M.MI,y)
+a(M.U4,y)
+a(B.MK,y)
+a(B.U6,y)})();(function constants(){C.cZ=new D.B("material-progress-api",M.ax2(),C.a,[O.kx])
+C.h3=C.cZ
+C.jn=new D.B("material-progress-demo",B.ax3(),C.a,[B.ky])
+C.p8=H.o("kx")
+C.fD=H.o("ky")})();(function staticFields(){$.a6n=null
+$.aaY=!1
+$.a6p=null
+$.ab_=!1})();(function lazyInitializers(){c($,"ajL","$get$ajL",function(){return['h2._ngcontent-%ID%{color:#9e9e9e;font-family:Roboto, "Helvetica Neue", Arial, Helvetica, sans-serif;font-size:16px;font-weight:normal;line-height:40px;margin:20px;}.custom-theme._ngcontent-%ID%  material-progress .progress-container.indeterminate{background-color:#f4c7c3;}.custom-theme._ngcontent-%ID%  material-progress .progress-container.indeterminate > .secondary-progress{background-color:#db4437;}.custom-theme._ngcontent-%ID%  material-progress .active-progress{background-color:#db4437;}.custom-theme._ngcontent-%ID%  material-progress .secondary-progress{background-color:#eda29b;}']})
+c($,"ai5","$get$ai5",function(){return[$.$get$ajL()]})})()
+i([{func:1,ret:S.a,args:[S.a,P.l]}]);(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["NTtLvnMbvfvvrtQlTUC23vjFRLM="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["KtYQOPDMituSYjEiRl/d1k7Aj6U="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_49.part.js.map

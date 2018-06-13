@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_46.part.js",
   "sourceRoot": "",
-  "sources": ["../packages/angular/src/core/linker/app_view_utils.dart"],
-  "names": ["flattenNodes"],
-  "mappings": "A;;GA2EQA,YACAA;;AACNA,2BACEA;AAEFA,QACFA,C"
+  "sources": ["../packages/angular_components/focus/focus.dart"],
+  "names": ["FocusMoveEvent.fromKeyboardEvent","FocusMoveEvent._isNextKey","FocusMoveEvent","FocusMoveEvent.preventDefault","FocusMoveEvent.fromKeyboardEvent.<anonymous function>","FocusMoveEvent_FocusMoveEvent$fromKeyboardEvent_closure"],
+  "mappings": "A;;IAyGUA,cAEFA;AAAkBA;AAUKC;AATFD,iBAAGA;KAAHA;AAAzBA,KAAkDA,MAKpDA;AAHkCA;AAAhCA,OATFE,aAS0CF,YAG1CA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GAlBKG,YACkCA,WACvCA,C;;GAa0CC,WACtCA,uBACDA,C;GAFuCC,0B"
 }
