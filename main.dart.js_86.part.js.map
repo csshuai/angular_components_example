@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_86.part.js",
   "sourceRoot": "",
-  "sources": [],
-  "names": [],
-  "mappings": "A"
+  "sources": ["../packages/angular_components/utils/angular/css/css.dart","org-dartlang-sdk:///sdk/lib/html/html_common/css_class_set.dart","org-dartlang-sdk:///sdk/lib/_internal/js_runtime/lib/collection_patch.dart"],
+  "names": ["constructEncapsulatedCss","CssClassSetImpl.iterator","_LinkedHashSetIterator","_LinkedHashSet.iterator","_LinkedHashSetIterator.current"],
+  "mappings": "A;;GAyBOA,cACDA;ACqB6BC,eCukDjCC,gBAxXaC,wBFnuCbH,SE+lDiBI;AF7lDXJ,eAAmBA,SAEzBA,QACFA,C"
 }

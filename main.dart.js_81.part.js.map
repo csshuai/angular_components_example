@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_81.part.js",
   "sourceRoot": "",
-  "sources": ["/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/async/future.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/async/future_impl.dart"],
-  "names": ["Future.delayed","_Future","Future.delayed.<anonymous function>","Future_Future$delayed_closure"],
-  "mappings": "A;;GAiTUA,gBCjGRC;ADmGMD,OAAgBA;AAOpBA,QACFA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GARsBE;IAEcA;AAA9BA,sBAFgBA;;AAIhBA,iBAEHA,C;;;GANmBC,0B"
+  "sources": [],
+  "names": [],
+  "mappings": "A"
 }

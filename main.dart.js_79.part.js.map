@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_79.part.js",
   "sourceRoot": "",
-  "sources": ["../packages/angular/src/core/linker/app_view_utils.dart"],
-  "names": ["flattenNodes"],
-  "mappings": "A;;GA4EQA,YACAA;;AACNA,2BACEA;AAEFA,QACFA,C"
+  "sources": [],
+  "names": [],
+  "mappings": "A"
 }

@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_88.part.js",
   "sourceRoot": "",
-  "sources": [],
-  "names": [],
-  "mappings": "A"
+  "sources": ["org-dartlang-sdk:///sdk/lib/_internal/js_runtime/lib/js_helper.dart","org-dartlang-sdk:///sdk/lib/_internal/js_runtime/lib/core_patch.dart"],
+  "names": ["Primitives.parseDouble","checkString","double.parse","double.tryParse"],
+  "mappings": "A;;IAuxBgBA,YAAWA;AAw7BzBC,uBAAsBA,IAAMA;qFA36BxBD,MAWJA;AARMA;AAAOA,aACKA;AACdA,qCACEA,QAKNA;AAHIA,MAGJA,CADEA,QACFA,C;GCnnBcE,cAELA;AAEHA;AAMcC;AAPlBD,WAAmBA,QAGrBA;AAFEA,WAAqBA,OAAOA,OAE9BA;AADEA,UAAUA,8BACZA,C"
 }

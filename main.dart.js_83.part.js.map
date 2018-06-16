@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_83.part.js",
   "sourceRoot": "",
-  "sources": ["../packages/quiver/src/core/hash.dart"],
-  "names": ["hash4"],
-  "mappings": "A;8EA4ByBA;IAArBA,kBAAqBA,YAAQA,KAC7BA,KAASA,KAASA,OAAcA,SAAaA,qCACjCA,C"
+  "sources": ["../packages/angular_components/utils/angular/properties/properties.dart"],
+  "names": ["getBool"],
+  "mappings": "A;;GA2CKA,YACHA,WAAwBA,UAAUA;AAElCA,uBAA0BA,OAAOA,QAKnCA;AAJEA,wBAAwBA,QAI1BA;AAFEA,UAAUA,uDAEZA,C"
 }

@@ -1,53 +1,27 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={
-aCy:function(n,o){var y=new K.RU(null,null,null,P.c(),n,null,null,null)
-y.a=S.d(y,3,C.k,o,null)
-return y},
-atD:function(){if($.acA)return
-$.acA=!0
-$.$get$D().u(0,C.oI,C.d9)
-E.t()
-K.cj()
-N.a2i()},
-LT:function LT(n,o,p,q,r,s,t,u,v,w,x,y,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4){var _=this
-_.r=n
-_.x=o
-_.y=p
-_.z=q
-_.Q=r
-_.ch=s
-_.cx=t
-_.cy=u
-_.db=v
-_.dx=w
-_.dy=x
-_.fr=y
-_.fx=a0
-_.fy=a1
-_.go=a2
-_.id=a3
-_.k1=a4
-_.k2=a5
-_.k3=a6
-_.k4=a7
-_.r1=a8
-_.a=a9
-_.b=b0
-_.c=b1
-_.d=b2
-_.e=b3
-_.f=b4},
-RU:function RU(n,o,p,q,r,s,t,u){var _=this
-_.r=n
-_.x=o
-_.a=p
-_.b=q
-_.c=r
-_.d=s
-_.e=t
-_.f=u}},V={k8:function k8(n){this.a=n}},N={},E={},M={},B={},S={},Q={},D={},L={},Z={},A={},T={},O={},U={},X={},F={}
-var z=[C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F]
-g([C,H,J,P,W,G,Y,R,K,V,N,E,M,B,S,Q,D,L,Z,A,T,O,U,X,F])
+bK:function(){if($.ag1)return
+$.ag1=!0
+D.agv()
+T.agw()
+T.agw()}},V={},S={},N={},E={},M={},B={},Q={},D={
+agv:function(){if($.ag3)return
+$.ag3=!0
+K.bK()}},L={},Z={
+apz:function(n){return n},
+k_:function k_(){},
+nF:function nF(){},
+ce:function ce(){},
+lT:function lT(){},
+Rv:function Rv(n,o,p){this.a=n
+this.b=o
+this.$ti=p}},A={},T={
+agw:function(){if($.ag2)return
+$.ag2=!0
+D.agv()
+K.bK()}},O={},U={},X={},F={}
+var z=[C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,T,O,U,X,F]
+g([C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,T,O,U,X,F])
 C=h(m[0],C)
 H=h(m[1],H)
 J=h(m[2],J)
@@ -58,11 +32,11 @@ Y=h(m[6],Y)
 R=h(m[7],R)
 K=h(m[8],K)
 V=h(m[9],V)
-N=h(m[10],N)
-E=h(m[11],E)
-M=h(m[12],M)
-B=h(m[13],B)
-S=h(m[14],S)
+S=h(m[10],S)
+N=h(m[11],N)
+E=h(m[12],E)
+M=h(m[13],M)
+B=h(m[14],B)
 Q=h(m[15],Q)
 D=h(m[16],D)
 L=h(m[17],L)
@@ -73,124 +47,49 @@ O=h(m[21],O)
 U=h(m[22],U)
 X=h(m[23],X)
 F=h(m[24],F)
-V.k8.prototype={
-gb0:function(){return this.a}}
-K.LT.prototype={
-gCl:function(){var y=this.Q
-if(y==null){y=window
-this.Q=y}return y},
-goQ:function(){var y=this.ch
-if(y==null){y=this.c
-y=T.aP(y.m(C.b,this.a.Q,null),y.m(C.C,this.a.Q,null),y.n(C.f,this.a.Q),this.gCl())
-this.ch=y}return y},
-gCi:function(){var y=this.cx
-if(y==null){y=new O.aD(this.c.n(C.R,this.a.Q),this.goQ())
-this.cx=y}return y},
-goP:function(){var y=this.cy
-if(y==null){y=document
-this.cy=y}return y},
-gu3:function(){var y=this.db
-if(y==null){y=new K.aE(this.goP(),this.goQ(),P.aM(null,[P.x,P.j]))
-this.db=y}return y},
-gu4:function(){var y=this.dy
-if(y==null){y=G.aZ(this.c.m(C.y,this.a.Q,null))
-this.dy=y}return y},
-gCn:function(){var y=this.fr
-if(y==null){y=G.b_(this.goP(),this.c.m(C.x,this.a.Q,null))
-this.fr=y}return y},
-gCo:function(){var y=this.fx
-if(y==null){y=G.aT(this.gu4(),this.gCn(),this.c.m(C.w,this.a.Q,null))
-this.fx=y}return y},
-gu5:function(){var y=this.fy
-if(y==null){this.fy=!0
-y=!0}return y},
-gCp:function(){var y=this.go
-if(y==null){this.go=!0
-y=!0}return y},
-gCk:function(){var y=this.id
-if(y==null){y=this.goP()
-y=new R.aG(y.querySelector("head"),!1,y)
-this.id=y}return y},
-gCm:function(){var y=this.k1
-if(y==null){y=X.aY()
-this.k1=y}return y},
-gCj:function(){var y=this.k2
-if(y==null){y=K.aX(this.gCk(),this.gCo(),this.gu4(),this.gu3(),this.goQ(),this.gCi(),this.gu5(),this.gCp(),this.gCm())
-this.k2=y}return y},
-p:function(){var y,x
-y=this.a5(this.e)
-x=K.c8(this,0)
-this.x=x
-x=x.e
-this.r=x
-y.appendChild(x)
-x=new U.au(null,this.c.n(C.a6,this.a.Q))
-this.y=x
-this.x.k(0,x,[])
-this.L(C.a,null)
-return},
-N:function(n,o,p){var y,x,w,v
-if(n===C.G&&0===o){y=this.z
-if(y==null){this.z=C.z
-y=C.z}return y}if(n===C.H&&0===o)return this.gCl()
-if(n===C.b&&0===o)return this.goQ()
-if(n===C.N&&0===o)return this.gCi()
-if(n===C.M&&0===o)return this.goP()
-if(n===C.O&&0===o)return this.gu3()
-if(n===C.S&&0===o){y=this.dx
-if(y==null){y=T.aV(this.c.n(C.f,this.a.Q))
-this.dx=y}return y}if(n===C.y&&0===o)return this.gu4()
-if(n===C.x&&0===o)return this.gCn()
-if(n===C.w&&0===o)return this.gCo()
-if(n===C.T&&0===o)return this.gu5()
-if(n===C.F&&0===o)return this.gCp()
-if(n===C.Q&&0===o)return this.gCk()
-if(n===C.E&&0===o)return this.gCm()
-if(n===C.P&&0===o)return this.gCj()
-if(n===C.m&&0===o){y=this.k3
-if(y==null){y=this.c
-x=y.n(C.f,this.a.Q)
-w=this.gu5()
-v=this.gCj()
-y.m(C.m,this.a.Q,null)
-v=new X.aB(w,x,v)
-this.k3=v
-y=v}return y}if(n===C.v&&0===o){y=this.k4
-if(y==null){y=new K.aK(this.gu3())
-this.k4=y}return y}return p},
-q:function(){var y=this.f.a
-if(this.r1!==y){this.y.a=y
-this.r1=y}this.x.j()},
-w:function(){var y=this.x
-if(!(y==null))y.i()},
-$asa:function(){return[V.k8]}}
-K.RU.prototype={
-p:function(){var y,x
-y=new K.LT(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,P.c(),this,null,null,null)
-y.a=S.d(y,3,C.j,0,null)
-x=document.createElement("material-auto-suggest-input-api")
-y.e=x
-x=$.a5Q
-if(x==null){x=$.z.a4("",C.W,C.a)
-$.a5Q=x}y.a2(x)
-this.r=y
-this.e=y.e
-x=new V.k8(R.cb([],[new R.ah(C.cK,"MaterialAutoSuggestInputDemoComponent","material_input_example/lib/material_auto_suggest_input_demo.dart")],[new R.al("MaterialAutoSuggestInputComponent","material-auto-suggest-input","angular_components/lib/material_input/material_auto_suggest_input.dart",'<p><code>material-auto-suggest-input</code> is an input field which provides the\nsuggestions to auto-complete the input as the user types.</p>\n<p>The caller of this component has to provide the list of initial/unfiltered\nsuggestions which are filtered by component as user types. The filter is\ncase insensitive.</p>\n<p>Supports async suggestions through the [ObserveAware] interface implemented\nby [SelectionOptions].</p>\n<p>The popup suggestion list has a max height and auto overflow. We can add a\nproperty for custom max height once there\'s a use case.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-auto-suggest-input label="Type here"\n                             [suggestions]="suggestions"\n                             [limit]="5"&gt;\n&lt;/material-auto-suggest-input&gt;\n</code></pre>\n<p><strong>Properties:</strong></p><ul><li><code>suggestions: List&lt;String&gt;</code> -- The list of suggestions to use when\nauto-suggesting. Suggestions are matched if they contain the input text.</li><li><code>shouldClearOnSelection: bool</code> -- If the text field should be cleared on\nselection.</li><li><code>limit: int</code> -- How many suggestions to show. If the limit is less than 1,\nit is assumed to be mean no limit. See filter method in [Filterable].\nDefaults to 10.</li><li><code>label: String</code> -- The label to use on the input. Passed through to\n<code>material-input</code>.</li><li><code>ariaLabel: String</code> -- The label to use for assistive technology.  If not\n provided, uses the label instead.</li><li><code>labelRenderer: ComponentRenderer</code> -- Provides capability to customize the\n suggestionOptions label with a custom component.</li><li><code>leadingGlyph: String</code> -- Any persistent glyph to show before the input.\nAvailable icons are shown on this page: [https://design.google.com/icons/]\n(https://design.google.com/icons/)</li><li><code>trailingGlyph: String</code> -- Any persistent glyph to show at the end of the\ninput; the icons available are the same as the leadingGlyph property.</li><li><code>inputText: String</code> -- The text entered into the input.</li><li><code>filterSuggestions: bool</code> -- When turn off, always show full list of\nsuggestions.</li><li><code>popupMatchInputWidth: bool</code> -- Whether or not the suggestion popup width\nis at least as wide as the input width.</li><li><code>selection: SelectionModel</code> -- if set, auto suggest will use the\nsupplied observable SelectionModel object.\n(default) uses a single selection model.</li><li><code>showClearIcon: bool</code> -- Show or hide the trailing close icon to clear the\ninput and hide the popup.</li><li><code>clearIconTooltip: String</code> -- Tooltip shown on clear icon.</li><li><code>slide: String</code> -- Direction of popup scaling. Valid values are <code>x</code>, <code>y</code>,\nor <code>null</code>.</li><li><code>loading: bool</code> -- When turned on and no suggestions available, show\n loading indicator in the suggestions dropdown.</li><li><code>emptyPlaceholder: String</code> -- The text to display if there are no\n suggestions to show and the suggestions are not loading.</li><li><code>closeOnActivate</code> -- Whether to close dropdown on activation.</li><li><code>hideCheckbox</code> -- Whether to hide the checkbox before the item in\nmulti-selection.</li><li><code>showPopup</code> -- Used to control the visibility of the suggestion popup.</li><li><code>disabled: bool</code> -- Whether this input is disabled.</li></ul>\n<p><strong>Events:</strong></p><ul><li><code>focus: FocusEvent</code> -- Fired when the input gains focus</li><li><code>blur: FocusEvent</code> -- Fired when the input gains blur or auto suggest\nitem get selected.</li><li><code>inputTextChange: String</code> -- Fired when the input text changes (on\nkeypress).</li><li><code>clear</code> -- Fired when the close icon is clicked.</li><li><code>showPopupChange</code> -- Fired when the value of showPopup changes.</li></ul>\n')],[],P.c(),[]))
-this.x=x
-y.k(0,x,this.a.e)
-this.F(this.e)
-return new D.y(this,0,this.e,this.x,[V.k8])},
-q:function(){this.r.j()},
-w:function(){var y=this.r
-if(!(y==null))y.i()},
-$asa:function(){}};(function installTearOffs(){f(K,"auA",1,0,0,null,["$2"],["aCy"],0)})();(function inheritance(){a(V.k8,P.G)
-var y=S.a
-a(K.LT,y)
-a(K.RU,y)})();(function constants(){C.d9=new D.B("material-auto-suggest-input-api",K.auA(),C.a,[V.k8])
-C.hh=C.d9
-C.oI=H.o("k8")})();(function staticFields(){$.a5Q=null
-$.acA=!1})()
-i([{func:1,ret:S.a,args:[S.a,P.l]}]);(function nativeSupport(){j({})
+Z.k_.prototype={}
+Z.nF.prototype={}
+Z.ce.prototype={}
+Z.lT.prototype={
+a2I:function(){if(this.gJe()){var x=this.y2$
+x=x!=null&&x.length!==0}else x=!1
+if(x){x=this.y2$
+this.y2$=null
+this.y1$.R(0,new P.kQ(x,[[Z.ce,H.Q(this,"lT",0)]]))
+return!0}else return!1},
+qI:function(n,o){var x,w,v
+x=H.Q(this,"lT",0)
+w=[x]
+H.t(n,"$isM",w,"$asM")
+H.t(o,"$isM",w,"$asM")
+if(this.gJe()){v=[x]
+n=H.t(new P.kQ(n,v),"$isM",w,"$asM")
+o=H.t(new P.kQ(o,v),"$isM",w,"$asM")
+if(this.y2$==null){this.y2$=H.b([],[[Z.ce,x]])
+P.d1(this.ga2H())}this.y2$.push(new Z.Rv(n,o,[x]))}},
+JU:function(n){return this.qI(C.an,n)},
+a5H:function(n){return this.qI(n,C.an)},
+gJe:function(){var x=this.y1$
+return x!=null&&x.d!=null},
+ghJ:function(){var x=this.y1$
+if(x==null){x=new P.n(null,null,0,[[P.h,[Z.ce,H.Q(this,"lT",0)]]])
+this.y1$=x}return new P.q(x,[H.f(x,0)])}}
+Z.Rv.prototype={
+M:function(n){return"SelectionChangeRecord{added: "+H.E(this.a)+", removed: "+H.E(this.b)+"}"},
+$isce:1,
+gpU:function(){return this.a},
+gKs:function(){return this.b}}
+var y=i([{func:1,ret:P.r},{func:1,ret:P.w,args:[P.w]}]);(function installTearOffs(){f(Z,"a3W",1,0,1,null,["$1"],["apz"],1,0)
+f(Z.lT.prototype,"ga2H",0,0,0,null,["$0"],["a2I"],0,0)})();(function inheritance(){var x=P.w
+a(Z.k_,x)
+a(Z.lT,x)
+a(Z.nF,Z.k_)
+x=Y.cV
+a(Z.ce,x)
+a(Z.Rv,x)})();(function constants(){C.bj=new H.e1("isEmpty")
+C.bk=new H.e1("isNotEmpty")})();(function staticFields(){$.ag1=!1
+$.ag3=!1
+$.ag2=!1})();(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["RqrF0oBlzRSH87MjLD+eJqcYgzo="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["5ZKgIgmfRMyg6gLMBlTkKuYvG5A="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_5.part.js.map

@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_82.part.js",
   "sourceRoot": "",
-  "sources": ["../packages/angular_components/model/selection/selection_options.dart","/b/build/slave/dart-sdk-mac-dev/build/sdk/sdk/lib/async/broadcast_stream_controller.dart"],
-  "names": ["SelectionOptions.fromList","_SyncBroadcastStreamController","SelectionOptions"],
-  "mappings": "A;;IA0FEA,gBAAyBA;AACEA,OAAKA;AC2QhCC,ED5QAD;AALOE;AAKPF,QAC0EA,C"
+  "sources": [],
+  "names": [],
+  "mappings": "A"
 }
