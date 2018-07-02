@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_69.part.js",
   "sourceRoot": "",
-  "sources": [],
-  "names": [],
-  "mappings": "A"
+  "sources": ["../packages/angular_components/utils/color/material.template.dart","../packages/angular_components/material_ripple/material_ripple.template.dart","../packages/angular/src/core/linker/app_view.dart","../packages/angular/src/di/reflector.dart","../packages/angular/src/core/linker/component_factory.dart"],
+  "names": ["initReflector","viewFactory_MaterialRippleComponentHost0","AppView","_ViewMaterialRippleComponentHost0","registerComponent","_ViewMaterialRippleComponentHost0.build","ComponentRef","_ViewMaterialRippleComponentHost0.detectChangesInternal","_ViewMaterialRippleComponentHost0.destroyInternal"],
+  "mappings": "A;;IAWKA,WACHA,SACEA,MAKJA;S;ICiEyCC,cCiGhCC,MD5HPC;ACiIiBD;ADrGjBD,QACFA,C;GASKD,WACHA,SACEA,MASJA;;AE9DEI,WAAWA;AF0DLJ;AACAA;AAEAA,OACRA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA/CgDK,WAC1BA;AAAlBA;AACqBA;AAArBA;AAC2CA;AAA3CA;AACAA;AACAA;AACAA,OG3CFC,oCH4CAD,C;EAGKE,WAKHA,UACFA,C;EAGKC,WACHA;cAAaA;AACbA,UACFA,C"
 }

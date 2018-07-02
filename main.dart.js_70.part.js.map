@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_70.part.js",
   "sourceRoot": "",
-  "sources": ["../packages/angular_components/model/selection/selection_options.dart","../packages/angular_components/model/collection/labeled_list.dart"],
-  "names": ["OptionGroup.withLabel","LabeledList.withLabel","OptionGroup.withLabel.<anonymous function>"],
-  "mappings": "A;;GA+BEA,kBAAqBA;AACwBA;ACNVC;ADKnCD,0BAEmCA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GADUE,WAAMA,aAAUA,C"
+  "sources": ["../packages/angular_components/material_icon/material_icon.template.dart","../packages/angular/src/core/linker/app_view.dart","../packages/angular/src/di/reflector.dart","../packages/angular_components/material_icon/material_icon.dart","../packages/angular/src/core/linker/component_factory.dart"],
+  "names": ["viewFactory_MaterialIconComponentHost0","AppView","_ViewMaterialIconComponentHost0","initReflector","registerComponent","_ViewMaterialIconComponentHost0.build","MaterialIconComponent","ComponentRef","_ViewMaterialIconComponentHost0.detectChangesInternal","_ViewMaterialIconComponentHost0.destroyInternal"],
+  "mappings": "A;;IAmGuCA,cCiF9BC,MD3GPC;ACgHiBD;ADrFjBD,QACFA,C;GASKG,WACHA,SACEA,MAOJA;;AE5EEC,WAAWA;AF0ELD,KAERA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA5C8CE,WAAQA;AAChCA;AAAlBA;AACqBA;AAArBA;AGGFC;AHFED;AACAA;AACAA;AACAA,OI5DFE,oCJ6DAF,C;EAGKG,WAKHA,UACFA,C;EAGKC,WACHA;cAAaA,KACfA,C"
 }

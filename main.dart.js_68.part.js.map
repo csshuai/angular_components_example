@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_68.part.js",
   "sourceRoot": "",
-  "sources": [],
-  "names": [],
-  "mappings": "A"
+  "sources": ["../packages/angular_components/material_button/material_button.template.dart","../packages/angular/src/core/linker/app_view.dart","../packages/angular/src/di/reflector.dart","../packages/angular_components/theme/module.template.dart","../packages/angular_components/theme/dark_theme.template.dart","../packages/angular/src/core/linker/component_factory.dart"],
+  "names": ["viewFactory_MaterialButtonComponentHost0","AppView","_ViewMaterialButtonComponentHost0","initReflector","registerComponent","registerFactory","registerDependencies","_ViewMaterialButtonComponentHost0.build","ComponentRef","_ViewMaterialButtonComponentHost0.injectorGetInternal","_ViewMaterialButtonComponentHost0.detectChangesInternal","_ViewMaterialButtonComponentHost0.destroyInternal","initReflector.<anonymous function>"],
+  "mappings": "A;;IA2MyCA,cCvBhCC,MDpBPC;ACyBiBD;ADmBjBD,QACFA,C;GASKG,WACHA,SACEA,MAWJA;;AExLEC,WAAWA;AFkLLD;AACAA;AACAA;AAEAA;AACAA,MACRA,C;;;;;;IGxNKA,WACHA,SACEA,MAKJA;;AADQA,KACRA,C;GCFKA,WACHA,SACEA,MAUJA;;AFkCEE,YAAUA,SExC2BF;AF4ErCG,YAAaA;AExEPH;AACAA,OACRA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EJsIgDI,WAC1BA;AAAlBA;AACAA;AACiCA,OAAkBA;AAAnDA;AAC2CA;AAA3CA;AACAA;AACAA;AACAA,OKpJFC,oCLqJAD,C;EAGQE,gBACNA,mBACEA,aAMJA;AAJEA,uCACEA,aAGJA;AADEA,QACFA,C;EAGKC,WAEqBA;AAIxBA,KACEA;AAEFA;AACAA,UACFA,C;EAGKC,WACHA;cAAaA,KACfA,C;;;AIlLsDC;GAAjBA,YAAaA,YAAiBA,OAAGA,C"
 }

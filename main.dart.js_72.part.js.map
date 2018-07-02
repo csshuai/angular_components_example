@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_72.part.js",
   "sourceRoot": "",
-  "sources": ["../packages/angular_components/model/selection/selection_options.dart","org-dartlang-sdk:///sdk/lib/async/broadcast_stream_controller.dart"],
-  "names": ["SelectionOptions.fromList","_SyncBroadcastStreamController","SelectionOptions"],
-  "mappings": "A;;IA0FEA,gBAAyBA;AACEA,OAAKA;AC2QhCC,ED5QAD;AALOE;AAKPF,QAC0EA,C"
+  "sources": ["../packages/angular_components/material_list/material_list_item.template.dart","../packages/angular/src/core/linker/app_view.dart","../packages/angular/src/di/reflector.dart","../packages/angular/src/core/linker/component_factory.dart","../packages/angular_components/material_list/material_list_item.dart"],
+  "names": ["viewFactory_MaterialListItemComponentHost0","AppView","_ViewMaterialListItemComponentHost0","initReflector","registerComponent","_ViewMaterialListItemComponentHost0.build","ComponentRef","_ViewMaterialListItemComponentHost0.injectorGetInternal","_ViewMaterialListItemComponentHost0.detectChangesInternal","_ViewMaterialListItemComponentHost0.destroyInternal","MaterialListItemComponent.ngOnDestroy"],
+  "mappings": "A;;IAsJ2CA,cC8BlCC,MDtEPC;AC2EiBD;ADlCjBD,QACFA,C;IASKG,WACHA,SACEA,MAYJA;;AEpIEC,WAAWA;AF6HLD;AACAA;AAEAA;AACAA;AACAA,MAERA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA/DkDE,WAC5BA;AAAlBA;AACqBA;AAArBA;AAC6CA,SAAuCA,iCAA6DA;AAAjJA;AACAA;AACAA;AACAA,OGjGFC,oCHkGAD,C;EAGQE,gBACNA,kBACEA,aAGJA;AADEA,QACFA,C;EAGKC,WAEqBA;AAIxBA,KACEA;AAEFA;AACAA,UACFA,C;EAGKC,WACHA;cAAaA;AI/DbC,YJiEFD,C"
 }

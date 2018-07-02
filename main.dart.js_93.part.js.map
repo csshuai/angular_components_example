@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_93.part.js",
   "sourceRoot": "",
-  "sources": [],
-  "names": [],
-  "mappings": "A"
+  "sources": ["../packages/angular_components/model/selection/selection_options.dart","org-dartlang-sdk:///sdk/lib/async/broadcast_stream_controller.dart"],
+  "names": ["SelectionOptions.fromList","_SyncBroadcastStreamController","SelectionOptions"],
+  "mappings": "A;;IA0FEA,gBAAyBA;AACEA,OAAKA;AC2QhCC,ED5QAD;AALOE;AAKPF,QAC0EA,C"
 }

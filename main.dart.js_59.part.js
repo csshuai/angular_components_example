@@ -1,76 +1,46 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},S={},N={},E={bU:function bU(n,o,p,q,r,s,t,u,v,w,x,a0){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q
-_.e=r
-_.f=s
-_.r=t
-_.x=u
-_.y=v
-_.z=w
-_.Q=x
-_.ch=a0
-_.cy=_.cx=null}},M={
-dT:function(n,o){var x=new M.rR(!0,!0,P.j(P.c,null),n)
-x.a=S.k(x,1,C.j,o,E.bU)
-x.Ou(n,o)
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},S={},N={},E={},M={},B={hi:function hi(n){this.a=n},
+aGK:function(n,o){var x=new B.VM(P.i(P.d,null),n)
+x.a=S.j(x,3,C.k,o,B.hi)
 return x},
-aIF:function(n,o){var x=new M.Xa(P.j(P.c,null),n)
-x.a=S.k(x,3,C.d,o,E.bU)
-x.d=$.xa
-return x},
-aIG:function(n,o){var x=new M.mi(P.j(P.c,null),n)
-x.a=S.k(x,3,C.d,o,E.bU)
-x.d=$.xa
-return x},
-aIH:function(n,o){var x=new M.mj(P.j(P.c,null),n)
-x.a=S.k(x,3,C.d,o,E.bU)
-x.d=$.xa
-return x},
-aII:function(n,o){var x=new M.Xb(P.j(P.c,null),n)
-x.a=S.k(x,3,C.k,o,null)
-return x},
-ZU:function(){if($.a9H)return
-$.a9H=!0
-$.$get$S().q(0,C.q4,C.jE)
-E.H()
-U.eh()
-X.a37()},
-rR:function rR(n,o,p,q){var _=this
-_.r=n
-_.x=o
-_.a=_.cy=_.cx=_.ch=_.Q=_.z=_.y=null
-_.b=p
-_.c=q
-_.f=_.e=_.d=null},
-OW:function OW(){},
-OX:function OX(){},
-OY:function OY(){},
-OZ:function OZ(){},
-Xa:function Xa(n,o){var _=this
-_.a=_.z=_.y=_.x=_.r=null
+anu:function(){return C.e9},
+atz:function(){if($.acc)return
+$.acc=!0
+$.$get$T().q(0,C.nN,C.e9)
+E.I()
+K.dg()
+D.d6()
+B.atA()},
+O9:function O9(n,o){var _=this
+_.a=_.r1=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
 _.b=n
 _.c=o
 _.f=_.e=_.d=null},
-mi:function mi(n,o){var _=this
-_.a=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
-_.b=n
-_.c=o
-_.f=_.e=_.d=null},
-mj:function mj(n,o){var _=this
-_.a=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
-_.b=n
-_.c=o
-_.f=_.e=_.d=null},
-Xb:function Xb(n,o){var _=this
+VM:function VM(n,o){var _=this
 _.a=_.x=_.r=null
 _.b=n
 _.c=o
-_.f=_.e=_.d=null}},B={},Q={},D={},L={},Z={},A={},T={},O={},U={},X={},F={}
-var z=[C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,T,O,U,X,F]
-g([C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,T,O,U,X,F])
+_.f=_.e=_.d=null},
+aGM:function(n,o){var x=new B.VO(P.i(P.d,null),n)
+x.a=S.j(x,3,C.k,o,X.jr)
+return x},
+atA:function(){if($.acd)return
+$.acd=!0
+$.$get$T().q(0,C.nP,C.dX)
+E.I()
+X.a30()},
+Ob:function Ob(n,o){var _=this
+_.a=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
+_.b=n
+_.c=o
+_.f=_.e=_.d=null},
+VO:function VO(n,o){var _=this
+_.a=_.x=_.r=null
+_.b=n
+_.c=o
+_.f=_.e=_.d=null}},Q={},D={},L={},Z={},A={},U={},T={},O={},X={jr:function jr(){}},F={}
+var z=[C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F]
+g([C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F])
 C=h(m[0],C)
 H=h(m[1],H)
 J=h(m[2],J)
@@ -91,254 +61,264 @@ D=h(m[16],D)
 L=h(m[17],L)
 Z=h(m[18],Z)
 A=h(m[19],A)
-T=h(m[20],T)
-O=h(m[21],O)
-U=h(m[22],U)
+U=h(m[20],U)
+T=h(m[21],T)
+O=h(m[22],O)
 X=h(m[23],X)
 F=h(m[24],F)
-E.bU.prototype={
-a6w:function(n){this.a.R(0,H.a(n,"$isa7"))},
-a6c:function(n){this.b.R(0,H.a(n,"$isa7"))},
-gaT:function(n){return this.x},
-saT:function(n,o){return this.x=o},
-sa81:function(n){return this.cx=n},
-sa5E:function(n){return this.cy=n}}
-M.rR.prototype={
-Ou:function(n,o){var x=document.createElement("material-yes-no-buttons")
-this.e=H.a(x,"$isA")
-x=$.xa
-if(x==null){x=$.O
-x=x.a3(null,C.o,$.$get$ak4())
-$.xa=x}this.a2(x)},
-p:function(){var x,w,v,u
-x=this.a4(this.e)
-w=$.$get$Z()
-v=W.a_
-u=H.i(w.cloneNode(!1),v)
-x.appendChild(u)
-u=new V.u(0,null,this,u)
-this.y=u
-this.z=new K.N(new D.B(u,M.aAS()),u,!1)
-u=H.i(w.cloneNode(!1),v)
-x.appendChild(u)
-u=new V.u(1,null,this,u)
-this.Q=u
-this.ch=new K.N(new D.B(u,M.aAT()),u,!1)
-v=H.i(w.cloneNode(!1),v)
-x.appendChild(v)
-v=new V.u(2,null,this,v)
-this.cx=v
-this.cy=new K.N(new D.B(v,M.aAU()),v,!1)
-this.N(C.a,null)
-return},
-t:function(){var x,w,v,u
-x=this.f
-this.z.sX(x.ch)
-w=this.ch
-if(!x.ch){x.z
-v=!0}else v=!1
-w.sX(v)
-v=this.cy
-v.sX(!x.ch&&x.Q)
-this.y.H()
-this.Q.H()
-this.cx.H()
-if(this.r){w=this.f
-v=B.eb
-u=M.mi
-w.sa81(this.Q.bK(new M.OW(),v,u).length!==0?C.c.gaQ(this.Q.bK(new M.OX(),v,u)):null)
-this.r=!1}if(this.x){w=this.f
-v=B.eb
-u=M.mj
-w.sa5E(this.cx.bK(new M.OY(),v,u).length!==0?C.c.gaQ(this.cx.bK(new M.OZ(),v,u)):null)
-this.x=!1}},
-v:function(){var x=this.y
-if(!(x==null))x.G()
-x=this.Q
-if(!(x==null))x.G()
-x=this.cx
-if(!(x==null))x.G()},
-$asd:function(){return[E.bU]}}
-M.Xa.prototype={
-p:function(){var x=document.createElement("div")
-H.a(x,"$isK")
-this.r=x
-x.className="btn spinner"
-this.h(x)
-x=X.nQ(this,1)
-this.y=x
-x=x.e
-this.x=x
-this.r.appendChild(x)
-this.h(this.x)
-x=new T.fo()
-this.z=x
-this.y.k(0,x,[])
-this.F(this.r)
-return},
-t:function(){this.y.j()},
-v:function(){var x=this.y
-if(!(x==null))x.i()},
-$asd:function(){return[E.bU]}}
-M.mi.prototype={
-p:function(){var x,w,v
-x=U.ag(this,0)
-this.x=x
-x=x.e
-this.r=x
-x.className="btn btn-yes"
-this.h(x)
-x=F.a9(H.x(this.c.l(C.q,this.a.Q,null)))
-this.y=x
-x=B.ae(this.r,x,this.x.a.b,null)
-this.z=x
-w=document.createTextNode("")
-this.Q=w
-this.x.k(0,x,[H.b([w],[W.bi])])
-w=this.z.b
-x=W.a7
-v=new P.q(w,[H.f(w,0)]).A(this.w(this.f.ga6v(),x,x))
-this.N([this.r],[v])
-return},
-O:function(n,o,p){var x
-if(n===C.a8)x=o<=1
-else x=!1
-if(x)return this.y
-if(n===C.a9||n===C.m||n===C.e)x=o<=1
-else x=!1
-if(x)return this.z
-return p},
-t:function(){var x,w,v,u,t,s,r,q
-x=this.f
-w=this.a.cy===0
-v=x.y||x.x
-u=this.cx
-if(u==null?v!=null:u!==v){this.z.f=v
-this.cx=v
-t=!0}else t=!1
-s=x.r||x.f
-u=this.cy
-if(u!==s){this.z.cx=s
-this.cy=s
-t=!0}if(t)this.x.a.su(1)
-if(w)this.z.D()
-r=x.e
-u=this.ch
-if(u!==r){this.bm(this.r,"highlighted",r)
-this.ch=r}this.x.B(w)
-q=x.c
-if(q==null)q=""
-u=this.db
-if(u!==q){this.Q.textContent=q
-this.db=q}this.x.j()},
-dq:function(){H.aC(this.c,"$isrR").r=!0},
-v:function(){var x=this.x
-if(!(x==null))x.i()},
-$asd:function(){return[E.bU]}}
-M.mj.prototype={
-p:function(){var x,w,v
-x=U.ag(this,0)
-this.x=x
-x=x.e
-this.r=x
-x.className="btn btn-no"
-this.h(x)
-x=F.a9(H.x(this.c.l(C.q,this.a.Q,null)))
-this.y=x
-x=B.ae(this.r,x,this.x.a.b,null)
-this.z=x
-w=document.createTextNode("")
-this.Q=w
-this.x.k(0,x,[H.b([w],[W.bi])])
-w=this.z.b
-x=W.a7
-v=new P.q(w,[H.f(w,0)]).A(this.w(this.f.ga6b(),x,x))
-this.N([this.r],[v])
-return},
-O:function(n,o,p){var x
-if(n===C.a8)x=o<=1
-else x=!1
-if(x)return this.y
-if(n===C.a9||n===C.m||n===C.e)x=o<=1
-else x=!1
-if(x)return this.z
-return p},
-t:function(){var x,w,v,u,t,s,r
-x=this.f
-w=this.a.cy===0
-v=x.x
-u=this.ch
-if(u==null?v!=null:u!==v){this.z.f=v
-this.ch=v
-t=!0}else t=!1
-s=x.f
-u=this.cx
-if(u!==s){this.z.cx=s
-this.cx=s
-t=!0}if(t)this.x.a.su(1)
-if(w)this.z.D()
-this.x.B(w)
-r=x.d
-if(r==null)r=""
-u=this.cy
-if(u!==r){this.Q.textContent=r
-this.cy=r}this.x.j()},
-dq:function(){H.aC(this.c,"$isrR").x=!0},
-v:function(){var x=this.x
-if(!(x==null))x.i()},
-$asd:function(){return[E.bU]}}
-M.Xb.prototype={
+B.hi.prototype={
+gaX:function(){return this.a}}
+B.O9.prototype={
+gpm:function(){var x=this.z
+if(x==null){x=document
+this.z=x}return x},
+gEL:function(){var x=this.Q
+if(x==null){x=window
+this.Q=x}return x},
+gpn:function(){var x=this.ch
+if(x==null){x=this.c
+x=T.bl(H.a(x.m(C.c,this.a.Q,null),"$isH"),H.a(x.m(C.B,this.a.Q,null),"$isG"),H.a(x.n(C.f,this.a.Q),"$isK"),this.gEL())
+this.ch=x}return x},
+gEI:function(){var x=this.cx
+if(x==null){x=new O.b1(H.a(this.c.n(C.R,this.a.Q),"$isaS"),this.gpn())
+this.cx=x}return x},
+gv6:function(){var x=this.cy
+if(x==null){x=new K.b7(this.gpm(),this.gpn(),P.bj(null,[P.h,P.d]))
+this.cy=x}return x},
+gv7:function(){var x=this.dx
+if(x==null){x=G.bz(this.c.m(C.v,this.a.Q,null))
+this.dx=x}return x},
+gEN:function(){var x=this.dy
+if(x==null){x=G.bD(this.gpm(),this.c.m(C.x,this.a.Q,null))
+this.dy=x}return x},
+gEO:function(){var x=this.fr
+if(x==null){x=G.br(this.gv7(),this.gEN(),this.c.m(C.u,this.a.Q,null))
+this.fr=x}return x},
+gv8:function(){var x=this.fx
+if(x==null){this.fx=!0
+x=!0}return x},
+gEP:function(){var x=this.fy
+if(x==null){this.fy=!0
+x=!0}return x},
+gEK:function(){var x=this.go
+if(x==null){x=this.gpm()
+x=new R.b3(H.a(x.querySelector("head"),"$isbd"),!1,x)
+this.go=x}return x},
+gEM:function(){var x=this.id
+if(x==null){x=X.by()
+this.id=x}return x},
+gEJ:function(){var x=this.k1
+if(x==null){x=K.bw(this.gEK(),this.gEO(),this.gv7(),this.gv6(),this.gpn(),this.gEI(),this.gv8(),this.gEP(),this.gEM())
+this.k1=x}return x},
 p:function(){var x,w
-x=M.dT(this,0)
-this.r=x
-this.e=x.e
-w=[W.a7]
-w=new E.bU(new P.a1(null,null,0,w),new P.a1(null,null,0,w),$.$get$pj(),$.$get$pi(),!1,!1,!1,!1,!1,!0,!0,!1)
+x=this.a4(this.e)
+w=K.d3(this,0)
 this.x=w
-x.k(0,w,this.a.e)
-this.F(this.e)
-return new D.L(this,0,this.e,this.x,[E.bU])},
-O:function(n,o,p){if(n===C.e&&0===o)return this.x
-return p},
+w=w.e
+this.r=w
+x.appendChild(w)
+w=new U.ay(H.a(this.c.n(C.a7,this.a.Q),"$iscW"))
+this.y=w
+this.x.k(0,w,[])
+this.P(C.a,null)
+return},
+R:function(n,o,p){var x,w,v,u
+if(n===C.L&&0===o)return this.gpm()
+if(n===C.H&&0===o)return this.gEL()
+if(n===C.c&&0===o)return this.gpn()
+if(n===C.N&&0===o)return this.gEI()
+if(n===C.M&&0===o)return this.gv6()
+if(n===C.S&&0===o){x=this.db
+if(x==null){x=T.bs(H.a(this.c.n(C.f,this.a.Q),"$isK"))
+this.db=x}return x}if(n===C.v&&0===o)return this.gv7()
+if(n===C.x&&0===o)return this.gEN()
+if(n===C.u&&0===o)return this.gEO()
+if(n===C.Q&&0===o)return this.gv8()
+if(n===C.E&&0===o)return this.gEP()
+if(n===C.P&&0===o)return this.gEK()
+if(n===C.D&&0===o)return this.gEM()
+if(n===C.O&&0===o)return this.gEJ()
+if(n===C.n&&0===o){x=this.k2
+if(x==null){x=this.c
+w=H.a(x.n(C.f,this.a.Q),"$isK")
+v=this.gv8()
+u=this.gEJ()
+H.a(x.m(C.n,this.a.Q,null),"$isa1")
+u=new X.a1(v,w,u)
+this.k2=u
+x=u}return x}if(n===C.G&&0===o){x=this.k3
+if(x==null){this.k3=C.y
+x=C.y}return x}if(n===C.w&&0===o){x=this.k4
+if(x==null){x=new K.au(this.gv6())
+this.k4=x}return x}return p},
+t:function(){var x,w
+x=this.f.a
+w=this.r1
+if(w!==x){this.y.a=x
+this.r1=x}this.x.j()},
+v:function(){var x=this.x
+if(!(x==null))x.i()},
+$asc:function(){return[B.hi]}}
+B.VM.prototype={
+p:function(){var x,w,v,u,t
+x=P.d
+w=new B.O9(P.i(x,null),this)
+v=B.hi
+w.a=S.j(w,3,C.j,0,v)
+u=document.createElement("material-spinner-api")
+w.e=H.a(u,"$isA")
+u=$.a7s
+if(u==null){u=$.P
+u=u.a3(null,C.U,C.a)
+$.a7s=u}w.a2(u)
+this.r=w
+this.e=w.e
+w=[R.l]
+w=H.b([new R.ar("MaterialSpinnerComponent","material-spinner","angular_components/lib/material_spinner/material_spinner.dart",'<p>A circular spinner for an indeterminate amount of time following the\nMaterial Spec for Progress &amp; Activity.</p>\n<p>See <a href="http://www.google.com/design/spec/components/progress-activity.html">http://www.google.com/design/spec/components/progress-activity.html</a>.</p>\n<p>To change the color of the spinner, change the <code>border-color</code> in CSS:</p>\n<pre><code>material-spinner {\n  border-color: $mat-red;\n}\n</code></pre>\n',H.b([],w),H.b([],w))],[R.ar])
+u=H.b([new R.av(C.dX,"MaterialSpinnerExample","material_spinner_example/lib/material_spinner_example.dart")],[R.av])
+t=[x]
+t=new B.hi(R.d8(H.b([],[R.cx]),u,w,H.b([],t),P.i(x,x),!0,H.b([],t)))
+this.x=t
+this.r.k(0,t,this.a.e)
+this.D(this.e)
+return new D.N(this,0,this.e,this.x,[v])},
 t:function(){this.r.j()},
 v:function(){var x=this.r
 if(!(x==null))x.i()},
-$asd:function(){}}
-var y=i([{func:1,ret:[S.d,E.bU],args:[S.d,P.p]},{func:1,ret:-1,args:[W.a7]},{func:1,ret:[P.h,B.eb],args:[M.mi]},{func:1,ret:[P.h,B.eb],args:[M.mj]},{func:1,ret:S.d,args:[S.d,P.p]}])
-M.OW.prototype={
-$1:function(n){return H.b([H.a(n,"$ismi").z],[B.eb])},
-$S:y+2}
-M.OX.prototype={
-$1:function(n){return H.b([H.a(n,"$ismi").z],[B.eb])},
-$S:y+2}
-M.OY.prototype={
-$1:function(n){return H.b([H.a(n,"$ismj").z],[B.eb])},
-$S:y+3}
-M.OZ.prototype={
-$1:function(n){return H.b([H.a(n,"$ismj").z],[B.eb])},
-$S:y+3};(function installTearOffs(){var x
-f(x=E.bU.prototype,"ga6v",0,0,0,null,["$1"],["a6w"],1,0)
-f(x,"ga6b",0,0,0,null,["$1"],["a6c"],1,0)
-f(M,"aAS",1,0,0,null,["$2"],["aIF"],0,0)
-f(M,"aAT",1,0,0,null,["$2"],["aIG"],0,0)
-f(M,"aAU",1,0,0,null,["$2"],["aIH"],0,0)
-f(M,"aAV",1,0,0,null,["$2"],["aII"],4,0)})();(function inheritance(){a(E.bU,P.w)
-var x=S.d
-a(M.rR,x)
-a(M.Xa,x)
-a(M.mi,x)
-a(M.mj,x)
-a(M.Xb,x)
-x=H.be
-a(M.OW,x)
-a(M.OX,x)
-a(M.OY,x)
-a(M.OZ,x)})();(function constants(){C.jE=new D.F("material-yes-no-buttons",M.aAV(),C.a,[E.bU])
-C.q4=H.C("bU")})();(function staticFields(){$.xa=null
-$.a9H=!1})();(function lazyInitializers(){c($,"pj","$get$pj",function(){return T.bv("Yes",null,"Text on yes button.",C.B,null,"Text on yes button.","_msgYes",null)})
-c($,"pi","$get$pi",function(){return T.bv("No",null,"Text on no button.",C.B,null,"Text on no button.","_msgNo",null)})
-c($,"akk","$get$akk",function(){return["._nghost-%ID%{display:flex;}.btn.btn-yes._ngcontent-%ID%,.btn.btn-no._ngcontent-%ID%{height:36px;margin:0 4px;}.btn:not([disabled]).highlighted[raised]._ngcontent-%ID%{background-color:#4285f4;color:#fff;}.btn:not([disabled]).highlighted:not([raised])._ngcontent-%ID%{color:#4285f4;}.spinner._ngcontent-%ID%{align-items:center;display:flex;margin-right:24px;min-width:128px;}._nghost-%ID%.no-margin .btn._ngcontent-%ID%{margin:0;min-width:0;padding:0;}._nghost-%ID%.no-margin .btn._ngcontent-%ID% .content._ngcontent-%ID%{padding-right:0;}._nghost-%ID%[reverse]{flex-direction:row-reverse;}._nghost-%ID%[reverse] .spinner._ngcontent-%ID%{justify-content:flex-end;}._nghost-%ID%[dense] .btn.btn-yes._ngcontent-%ID% ,._nghost-%ID%[dense] .btn.btn-no._ngcontent-%ID% {height:32px;font-size:13px;}"]})
-c($,"ak4","$get$ak4",function(){return[$.$get$akk()]})})();(function nativeSupport(){j({})
+$asc:function(){return[B.hi]}}
+X.jr.prototype={}
+B.Ob.prototype={
+p:function(){var x,w,v,u,t,s
+x=this.a4(this.e)
+w=document
+v=S.e(w,"p",x)
+this.r=v
+this.l(v)
+u=w.createTextNode("Different colors!")
+this.r.appendChild(u)
+v=S.v(w,x)
+this.x=v
+this.h(v)
+v=X.nD(this,3)
+this.z=v
+v=v.e
+this.y=v
+this.x.appendChild(v)
+this.h(this.y)
+v=new T.ef()
+this.Q=v
+this.z.k(0,v,[])
+v=X.nD(this,4)
+this.cx=v
+v=v.e
+this.ch=v
+this.x.appendChild(v)
+v=this.ch
+v.className="red"
+this.h(v)
+v=new T.ef()
+this.cy=v
+this.cx.k(0,v,[])
+v=X.nD(this,5)
+this.dx=v
+v=v.e
+this.db=v
+this.x.appendChild(v)
+v=this.db
+v.className="yellow"
+this.h(v)
+v=new T.ef()
+this.dy=v
+this.dx.k(0,v,[])
+v=X.nD(this,6)
+this.fx=v
+v=v.e
+this.fr=v
+this.x.appendChild(v)
+v=this.fr
+v.className="green"
+this.h(v)
+v=new T.ef()
+this.fy=v
+this.fx.k(0,v,[])
+v=S.e(w,"p",x)
+this.go=v
+this.l(v)
+t=w.createTextNode("With text!")
+this.go.appendChild(t)
+v=S.v(w,x)
+this.id=v
+this.h(v)
+v=X.nD(this,10)
+this.k2=v
+v=v.e
+this.k1=v
+this.id.appendChild(v)
+this.h(this.k1)
+v=new T.ef()
+this.k3=v
+this.k2.k(0,v,[])
+v=S.dr(w,this.id)
+this.k4=v
+this.l(v)
+s=w.createTextNode("Submitting...")
+this.k4.appendChild(s)
+this.P(C.a,null)
+return},
+t:function(){this.z.j()
+this.cx.j()
+this.dx.j()
+this.fx.j()
+this.k2.j()},
+v:function(){var x=this.z
+if(!(x==null))x.i()
+x=this.cx
+if(!(x==null))x.i()
+x=this.dx
+if(!(x==null))x.i()
+x=this.fx
+if(!(x==null))x.i()
+x=this.k2
+if(!(x==null))x.i()},
+$asc:function(){return[X.jr]}}
+B.VO.prototype={
+p:function(){var x,w,v
+x=new B.Ob(P.i(P.d,null),this)
+w=X.jr
+x.a=S.j(x,3,C.j,0,w)
+v=document.createElement("material-spinner-example")
+x.e=H.a(v,"$isA")
+v=$.a7u
+if(v==null){v=$.P
+v=v.a3(null,C.o,$.$get$aiR())
+$.a7u=v}x.a2(v)
+this.r=x
+this.e=x.e
+v=new X.jr()
+this.x=v
+x.k(0,v,this.a.e)
+this.D(this.e)
+return new D.N(this,0,this.e,this.x,[w])},
+t:function(){this.r.j()},
+v:function(){var x=this.r
+if(!(x==null))x.i()},
+$asc:function(){return[X.jr]}}
+var y=i([{func:1,ret:[S.c,B.hi],args:[S.c,P.k]},{func:1,ret:[S.c,X.jr],args:[S.c,P.k]}]);(function installTearOffs(){f(B,"ayv",1,0,0,null,["$2"],["aGK"],0,0)
+f(B,"ayw",1,0,0,null,["$2"],["aGM"],1,0)})();(function inheritance(){var x=P.x
+a(B.hi,x)
+a(X.jr,x)
+x=S.c
+a(B.O9,x)
+a(B.VM,x)
+a(B.Ob,x)
+a(B.VO,x)})();(function constants(){C.dX=new D.F("material-spinner-example",B.ayw(),[X.jr])
+C.e9=new D.F("material-spinner-api",B.ayv(),[B.hi])
+C.nN=H.D("hi")
+C.nP=H.D("jr")})();(function staticFields(){$.a7s=null
+$.acc=!1
+$.a7u=null
+$.acd=!1})();(function lazyInitializers(){c($,"ak7","$get$ak7",function(){return["p._ngcontent-%ID%{font-weight:bold;}div._ngcontent-%ID%{margin-bottom:32px;}material-spinner._ngcontent-%ID%{margin-right:8px;}.red._ngcontent-%ID%{border-color:#db4437;}.yellow._ngcontent-%ID%{border-color:#ffeb3b;}.green._ngcontent-%ID%{border-color:#0f9d58;}"]})
+c($,"aiR","$get$aiR",function(){return[$.$get$ak7()]})})();(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["IzuKLXXM/WQ8dQNKhvtsoyL0dmo="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["9aBNlZgTPB8nDP7lvMXmEOfYIsI="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_59.part.js.map
