@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/angular_components/model/selection/selection_container.dart"],
   "names": ["SelectionContainer.selection","SelectionContainer.options","SelectionContainer.itemRenderer","SelectionContainer.componentRenderer","SelectionContainer.factoryRenderer"],
-  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAcwBA,WAAaA,aAAUA,C;IACzCA,YACWA,gDACfA,C;IAIwBC,YAAWA,aAAQA,C;IACvCA,cACSA,gDACbA,C;IAMoBC,WAAgBA,aAAaA,C;IAE7CA,YACcA,sDAClBA,C;IAMsBC,WAAqBA,aAAkBA,C;IAYzCC,WAAmBA,aAAgBA,C;IAEnDA,YACiBA,uCACrBA,C"
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAcwBA,WAAaA,aAAUA,C;IACzCA,YACWA,gDACfA,C;IAIwBC,YAAWA,aAAQA,C;IACvCA,cACSA,gDACbA,C;IAMoBC,WAAgBA,aAAaA,C;IAE7CA,YACcA,sDAClBA,C;IAMsBC,WAAqBA,aAAkBA,C;IAYzCC,WAAmBA,aAAgBA,C;IAEnDA,YACiBA,2CACrBA,C"
 }

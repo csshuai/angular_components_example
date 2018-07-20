@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_98.part.js",
   "sourceRoot": "",
-  "sources": ["../packages/angular_components/mixins/material_dropdown_base.template.dart"],
-  "names": ["initReflector"],
-  "mappings": "A;;GAgBKA,WACHA,SACEA,MAOJA;;AAHQA;AAEAA,MACRA,C"
+  "sources": [],
+  "names": [],
+  "mappings": "A"
 }

@@ -1,26 +1,26 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={
-aDy:function(n,o){var x=new K.T3(P.i(P.d,null),n)
-x.a=S.j(x,3,C.k,o,V.fZ)
+aKZ:function(n,o){var x=new K.a_8(P.i(P.d,null),n)
+x.a=S.j(x,3,C.k,o,V.fV)
 return x},
-an1:function(){return C.du},
-auJ:function(){if($.aem)return
-$.aem=!0
-$.$get$T().q(0,C.mZ,C.du)
-E.I()
-K.dg()
-D.d6()
-N.a3g()},
-N0:function N0(n,o){var _=this
+auh:function(){return C.dv},
+aC3:function(){if($.alx)return
+$.alx=!0
+$.$get$R().q(0,C.mY,C.dv)
+E.G()
+K.d5()
+D.cX()
+N.aap()},
+Tl:function Tl(n,o){var _=this
 _.a=_.r1=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
 _.b=n
 _.c=o
 _.f=_.e=_.d=null},
-T3:function T3(n,o){var _=this
+a_8:function a_8(n,o){var _=this
 _.a=_.x=_.r=null
 _.b=n
 _.c=o
-_.f=_.e=_.d=null}},V={fZ:function fZ(n){this.a=n}},S={},N={},E={},M={},B={},Q={},D={},L={},Z={},A={},U={},T={},O={},X={},F={}
+_.f=_.e=_.d=null}},V={fV:function fV(n){this.a=n}},S={},N={},E={},M={},B={},Q={},D={},L={},Z={},A={},U={},T={},O={},X={},F={}
 var z=[C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F])
 C=h(m[0],C)
@@ -48,90 +48,90 @@ T=h(m[21],T)
 O=h(m[22],O)
 X=h(m[23],X)
 F=h(m[24],F)
-V.fZ.prototype={
-gaX:function(){return this.a}}
-K.N0.prototype={
-goD:function(){var x=this.z
+V.fV.prototype={
+gaW:function(){return this.a}}
+K.Tl.prototype={
+goG:function(){var x=this.z
 if(x==null){x=document
 this.z=x}return x},
-gBT:function(){var x=this.Q
+gC1:function(){var x=this.Q
 if(x==null){x=window
 this.Q=x}return x},
-goE:function(){var x=this.ch
+goH:function(){var x=this.ch
 if(x==null){x=this.c
-x=T.bl(H.a(x.m(C.c,this.a.Q,null),"$isH"),H.a(x.m(C.B,this.a.Q,null),"$isG"),H.a(x.n(C.f,this.a.Q),"$isK"),this.gBT())
+x=T.bg(H.a(x.m(C.e,this.a.Q,null),"$isH"),H.a(x.m(C.A,this.a.Q,null),"$isD"),H.a(x.n(C.f,this.a.Q),"$isI"),this.gC1())
 this.ch=x}return x},
-gBQ:function(){var x=this.cx
-if(x==null){x=new O.b1(H.a(this.c.n(C.R,this.a.Q),"$isaS"),this.goE())
+gBZ:function(){var x=this.cx
+if(x==null){x=new O.aY(H.a(this.c.n(C.Q,this.a.Q),"$isaO"),this.goH())
 this.cx=x}return x},
-gu_:function(){var x=this.cy
-if(x==null){x=new K.b7(this.goD(),this.goE(),P.bj(null,[P.h,P.d]))
+gu5:function(){var x=this.cy
+if(x==null){x=new K.b1(this.goG(),this.goH(),P.bf(null,[P.h,P.d]))
 this.cy=x}return x},
-gu0:function(){var x=this.dx
-if(x==null){x=G.bz(this.c.m(C.v,this.a.Q,null))
+gu6:function(){var x=this.dx
+if(x==null){x=G.bt(this.c.m(C.v,this.a.Q,null))
 this.dx=x}return x},
-gBV:function(){var x=this.dy
-if(x==null){x=G.bD(this.goD(),this.c.m(C.x,this.a.Q,null))
+gC3:function(){var x=this.dy
+if(x==null){x=G.by(this.goG(),this.c.m(C.w,this.a.Q,null))
 this.dy=x}return x},
-gBW:function(){var x=this.fr
-if(x==null){x=G.br(this.gu0(),this.gBV(),this.c.m(C.u,this.a.Q,null))
+gC4:function(){var x=this.fr
+if(x==null){x=G.bk(this.gu6(),this.gC3(),this.c.m(C.u,this.a.Q,null))
 this.fr=x}return x},
-gu1:function(){var x=this.fx
+gu7:function(){var x=this.fx
 if(x==null){this.fx=!0
 x=!0}return x},
-gBX:function(){var x=this.fy
+gC5:function(){var x=this.fy
 if(x==null){this.fy=!0
 x=!0}return x},
-gBS:function(){var x=this.go
-if(x==null){x=this.goD()
-x=new R.b3(H.a(x.querySelector("head"),"$isbd"),!1,x)
+gC0:function(){var x=this.go
+if(x==null){x=this.goG()
+x=new R.b_(H.a(x.querySelector("head"),"$isb8"),!1,x)
 this.go=x}return x},
-gBU:function(){var x=this.id
-if(x==null){x=X.by()
+gC2:function(){var x=this.id
+if(x==null){x=X.br()
 this.id=x}return x},
-gBR:function(){var x=this.k1
-if(x==null){x=K.bw(this.gBS(),this.gBW(),this.gu0(),this.gu_(),this.goE(),this.gBQ(),this.gu1(),this.gBX(),this.gBU())
+gC_:function(){var x=this.k1
+if(x==null){x=K.bq(this.gC0(),this.gC4(),this.gu6(),this.gu5(),this.goH(),this.gBZ(),this.gu7(),this.gC5(),this.gC2())
 this.k1=x}return x},
 p:function(){var x,w
-x=this.a4(this.e)
-w=K.d3(this,0)
+x=this.a2(this.e)
+w=K.cT(this,0)
 this.x=w
 w=w.e
 this.r=w
 x.appendChild(w)
-w=new U.ay(H.a(this.c.n(C.a7,this.a.Q),"$iscW"))
+w=new U.av(H.a(this.c.n(C.a5,this.a.Q),"$iscf"))
 this.y=w
 this.x.k(0,w,[])
 this.P(C.a,null)
 return},
 R:function(n,o,p){var x,w,v,u
-if(n===C.L&&0===o)return this.goD()
-if(n===C.H&&0===o)return this.gBT()
-if(n===C.c&&0===o)return this.goE()
-if(n===C.N&&0===o)return this.gBQ()
-if(n===C.M&&0===o)return this.gu_()
-if(n===C.S&&0===o){x=this.db
-if(x==null){x=T.bs(H.a(this.c.n(C.f,this.a.Q),"$isK"))
-this.db=x}return x}if(n===C.v&&0===o)return this.gu0()
-if(n===C.x&&0===o)return this.gBV()
-if(n===C.u&&0===o)return this.gBW()
-if(n===C.Q&&0===o)return this.gu1()
-if(n===C.E&&0===o)return this.gBX()
-if(n===C.P&&0===o)return this.gBS()
-if(n===C.D&&0===o)return this.gBU()
-if(n===C.O&&0===o)return this.gBR()
-if(n===C.n&&0===o){x=this.k2
+if(n===C.K&&0===o)return this.goG()
+if(n===C.G&&0===o)return this.gC1()
+if(n===C.e&&0===o)return this.goH()
+if(n===C.M&&0===o)return this.gBZ()
+if(n===C.L&&0===o)return this.gu5()
+if(n===C.R&&0===o){x=this.db
+if(x==null){x=T.bn(H.a(this.c.n(C.f,this.a.Q),"$isI"))
+this.db=x}return x}if(n===C.v&&0===o)return this.gu6()
+if(n===C.w&&0===o)return this.gC3()
+if(n===C.u&&0===o)return this.gC4()
+if(n===C.P&&0===o)return this.gu7()
+if(n===C.E&&0===o)return this.gC5()
+if(n===C.O&&0===o)return this.gC0()
+if(n===C.C&&0===o)return this.gC2()
+if(n===C.N&&0===o)return this.gC_()
+if(n===C.m&&0===o){x=this.k2
 if(x==null){x=this.c
-w=H.a(x.n(C.f,this.a.Q),"$isK")
-v=this.gu1()
-u=this.gBR()
-H.a(x.m(C.n,this.a.Q,null),"$isa1")
-u=new X.a1(v,w,u)
+w=H.a(x.n(C.f,this.a.Q),"$isI")
+v=this.gu7()
+u=this.gC_()
+H.a(x.m(C.m,this.a.Q,null),"$isa0")
+u=new X.a0(v,w,u)
 this.k2=u
-x=u}return x}if(n===C.G&&0===o){x=this.k3
+x=u}return x}if(n===C.F&&0===o){x=this.k3
 if(x==null){this.k3=C.y
-x=C.y}return x}if(n===C.w&&0===o){x=this.k4
-if(x==null){x=new K.au(this.gu_())
+x=C.y}return x}if(n===C.x&&0===o){x=this.k4
+if(x==null){x=new K.at(this.gu5())
 this.k4=x}return x}return p},
 t:function(){var x,w
 x=this.f.a
@@ -140,40 +140,40 @@ if(w!==x){this.y.a=x
 this.r1=x}this.x.j()},
 v:function(){var x=this.x
 if(!(x==null))x.i()},
-$asc:function(){return[V.fZ]}}
-K.T3.prototype={
+$asc:function(){return[V.fV]}}
+K.a_8.prototype={
 p:function(){var x,w,v,u,t
 x=P.d
-w=new K.N0(P.i(x,null),this)
-v=V.fZ
+w=new K.Tl(P.i(x,null),this)
+v=V.fV
 w.a=S.j(w,3,C.j,0,v)
 u=document.createElement("material-auto-suggest-input-api")
-w.e=H.a(u,"$isA")
-u=$.a6K
-if(u==null){u=$.P
-u=u.a3(null,C.U,C.a)
-$.a6K=u}w.a2(u)
+w.e=H.a(u,"$isF")
+u=$.adR
+if(u==null){u=$.O
+u=u.a1(null,C.T,C.a)
+$.adR=u}w.a0(u)
 this.r=w
 this.e=w.e
-w=[R.l]
-w=H.b([new R.ar("MaterialAutoSuggestInputComponent","material-auto-suggest-input","angular_components/lib/material_input/material_auto_suggest_input.dart",'<p><code>material-auto-suggest-input</code> is an input field which provides the\nsuggestions to auto-complete the input as the user types.</p>\n<p>The caller of this component has to provide the list of initial/unfiltered\nsuggestions which are filtered by component as user types. The filter is\ncase insensitive.</p>\n<p>Supports async suggestions through the <code>ObserveAware</code> interface implemented\nby <code>SelectionOptions</code>.</p>\n<p>The popup suggestion list has a max height and auto overflow. We can add a\nproperty for custom max height once there\'s a use case.</p>\n<p><strong>Example usage:</strong></p>\n<pre><code>&lt;material-auto-suggest-input label="Type here"\n                             [suggestions]="suggestions"\n                             [limit]="5"&gt;\n&lt;/material-auto-suggest-input&gt;\n</code></pre>\n<p><strong>Properties:</strong></p><ul><li><code>suggestions: List&lt;String&gt;</code> -- The list of suggestions to use when\nauto-suggesting. Suggestions are matched if they contain the input text.</li><li><code>shouldClearOnSelection: bool</code> -- If the text field should be cleared on\nselection.</li><li><code>limit: int</code> -- How many suggestions to show. If the limit is less than 1,\nit is assumed to be mean no limit. See filter method in <code>Filterable</code>.\nDefaults to 10.</li><li><code>label: String</code> -- The label to use on the input. Passed through to\n<code>material-input</code>.</li><li><code>ariaLabel: String</code> -- The label to use for assistive technology.  If not\n provided, uses the label instead.</li><li><code>labelRenderer: ComponentRenderer</code> -- Provides capability to customize the\n suggestionOptions label with a custom component.</li><li><code>leadingGlyph: String</code> -- Any persistent glyph to show before the input.\nAvailable icons are shown on this page: <code>https://design.google.com/icons/</code>\n(https://design.google.com/icons/)</li><li><code>trailingGlyph: String</code> -- Any persistent glyph to show at the end of the\ninput; the icons available are the same as the leadingGlyph property.</li><li><code>inputText: String</code> -- The text entered into the input.</li><li><code>filterSuggestions: bool</code> -- When turn off, always show full list of\nsuggestions.</li><li><code>popupMatchInputWidth: bool</code> -- Whether or not the suggestion popup width\nis at least as wide as the input width.</li><li><code>selection: SelectionModel</code> -- if set, auto suggest will use the\nsupplied observable SelectionModel object.\n(default) uses a single selection model.</li><li><code>showClearIcon: bool</code> -- Show or hide the trailing close icon to clear the\ninput and hide the popup.</li><li><code>clearIconTooltip: String</code> -- Tooltip shown on clear icon.</li><li><code>slide: String</code> -- Direction of popup scaling. Valid values are <code>x</code>, <code>y</code>,\nor <code>null</code>.</li><li><code>loading: bool</code> -- When turned on and no suggestions available, show\n loading indicator in the suggestions dropdown.</li><li><code>emptyPlaceholder: String</code> -- The text to display if there are no\n suggestions to show and the suggestions are not loading.</li><li><code>closeOnActivate</code> -- Whether to close dropdown on activation.</li><li><code>hideCheckbox</code> -- Whether to hide the checkbox before the item in\nmulti-selection.</li><li><code>showPopup</code> -- Used to control the visibility of the suggestion popup.</li><li><code>disabled: bool</code> -- Whether this input is disabled.</li></ul>\n<p><strong>Events:</strong></p><ul><li><code>focus: FocusEvent</code> -- Fired when the input gains focus</li><li><code>blur: FocusEvent</code> -- Fired when the input gains blur or auto suggest\nitem get selected.</li><li><code>inputTextChange: String</code> -- Fired when the input text changes (on\nkeypress).</li><li><code>clear</code> -- Fired when the close icon is clicked.</li><li><code>showPopupChange</code> -- Fired when the value of showPopup changes.</li></ul>\n',H.b([new R.l("Input","ariaLabel","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","characterCounter","","Function","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","checkValid","","Function","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","clearIconTooltip","","String","<p>Tooltip shown on clear icon.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","closeOnActivate","","bool","<p>Whether to cause dropdown to be closed on activation.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","closeOnEnter","","bool","<p>Whether to close on enter even for string non matching options.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","componentRenderer","","(dynamic) \u2192 Type","","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,"Use factoryRenderer instead as it is tree shakeable."),new R.l("Input","constrainToViewport","","bool","<p>Whether to clamp the popup position so that it never goes offscreen.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","disabled","","bool","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","displayBottomPanel","","bool","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","emptyPlaceholder","","String","<p>Text to show if the options list is empty and not loading.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","enforceSpaceConstraints","","bool","<p>Whether the popup should automatically reposition itself based on space\navailable relative to the viewport.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","error","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","factoryRenderer","","(dynamic) \u2192 ComponentFactory<dynamic>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","filterSuggestions","","bool","<p>Allow filtering of suggestions as the user is typing.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","floatingLabel","","bool","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","hideCheckbox","","bool","<p>Whether to hide the checkbox before the selection item for multi-select.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","highlightMatchFromStartOfWord","","bool","","angular_components/lib/mixins/highlight_assistant_mixin.dart",!1,""),new R.l("Input","highlightOptions","","bool","<p>Whether to highlight options.\nDefault value is <code>true</code>.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","hintText","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","initialActivateSelection","","bool","<p>The first suggestion in the popup is active and highlighted by default.\nSetting this to true changes behavior so that when <code>options</code> or\n[selection] are changed:</p><ol><li>first selected value in <code>selection</code> is active in <code>options</code></li><li>if <code>selection</code> has no selected values, nothing is active in <code>options</code></li></ol>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","inputText","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","itemRenderer","","(dynamic) \u2192 String","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","label","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","labelFactory","","(dynamic) \u2192 ComponentFactory<dynamic>","<p>Custom factory for rendering suggestion labels.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","labelRenderer","","(dynamic) \u2192 Type","<p>Custom renderer for suggestion labels.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,"Use labelFactory instead."),new R.l("Input","leadingGlyph","","String","<p>Any persistent glyph to show before the input box.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","leadingText","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","limit","","dynamic","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","loading","","bool","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","maxCount","","int","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","optionHighlighter","","(String, dynamic) \u2192 List<HighlightedTextSegment>","","angular_components/lib/mixins/highlight_assistant_mixin.dart",!1,""),new R.l("Input","options","selectionOptions","SelectionOptions<dynamic>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","popupMatchInputWidth","","bool","<p>Whether or not the suggestion popup width is at least as wide as the input\nwidth.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","popupPositions","","List<RelativePosition>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","popupShadowCssClass","","String","<p>A custom CSS class for suggestion popup contents.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","required","","bool","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","requiredErrorMsg","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","rightAlign","","bool","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","selection","","SelectionModel<dynamic>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","shouldClearOnSelection","","bool","<p>Whether to clear the text once the item is selected from the menu.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","showClearIcon","","bool","<p>Show or hide the trailing close icon.</p>\n<p>Clicking on the icon clears the input text and hides the popup.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","showHintOnlyOnFocus","","bool","","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","showPopup","","bool","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","slide","","String","<p>Direction of popup scaling.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Input","sorted","","bool","<p>Sort the suggestions.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,"Caller should call .sort() instead."),new R.l("Input","suggestions","","List<dynamic>","<p>The list of all possible suggestions.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,""),new R.l("Input","trailingGlyph","","String","<p>Any persistent glyph to show at the end of the input box.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.l("Input","trailingText","","String","","angular_components/lib/material_input/input_wrapper.dart",!1,"")],w),H.b([new R.l("Output","onBlur","blur","Stream<Null>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Output","onClear","clear","Stream<Null>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Output","onFocus","focus","Stream<FocusEvent>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Output","showPopupChange","","Stream<bool>","<p>Publishes event when the showPopup changes.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.l("Output","textChanged","inputTextChange","Stream<String>","<p>Publishes events when input text changes.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,"")],w))],[R.ar])
-u=H.b([new R.av(C.c1,"MaterialAutoSuggestInputDemoComponent","material_input_example/lib/material_auto_suggest_input_demo.dart")],[R.av])
+w=[R.k]
+w=H.b([new R.am("MaterialAutoSuggestInputComponent","material-auto-suggest-input","","angular_components/lib/material_input/material_auto_suggest_input.dart","<p><code>material-auto-suggest-input</code> is an input field which provides the\nsuggestions to auto-complete the input as the user types.</p>\n<p>The caller of this component has to provide the list of initial/unfiltered\nsuggestions which are filtered by component as user types. The filter is\ncase insensitive.</p>\n<p>Supports async suggestions through the <code>ObserveAware</code> interface implemented\nby <code>SelectionOptions</code>.</p>\n<p>The popup suggestion list has a max height and auto overflow. We can add a\nproperty for custom max height once there's a use case.</p>\n",H.b([new R.k("Input","ariaLabel","","String","<p>The label to use for assistive technology.</p>\n<p>If not provided, uses the label instead.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","characterCounter","","Function","<p>A custom character counter function.</p>\n<p>Takes in the input text; returns how many characters the text should be\nconsidered as.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","checkValid","","Function","","angular_components/lib/material_input/input_wrapper.dart",!0,"Use forms API instead"),new R.k("Input","clearIconTooltip","","String","<p>Tooltip shown on clear icon.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","closeOnActivate","","bool","<p>Whether to cause dropdown to be closed on activation.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","closeOnEnter","","bool","<p>Whether to close on enter even for string non matching options.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","componentRenderer","","(dynamic) \u2192 Type","","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,"Use factoryRenderer instead as it is tree shakeable."),new R.k("Input","constrainToViewport","","bool","<p>Whether to clamp the popup position so that it never goes offscreen.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","disabled","","bool","<p>Whether this input is disabled.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","displayBottomPanel","","bool","<p>Whether to display error, hint text, and character counter panel.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","emptyPlaceholder","","String","<p>Text to show if the options list is empty and not loading.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","enforceSpaceConstraints","","bool","<p>Whether the popup should automatically reposition itself based on space\navailable relative to the viewport.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","error","","String","<p>Error to be displayed.</p>\n<p>Higher precendent than all other errors which may be on this input.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","factoryRenderer","","(dynamic) \u2192 ComponentFactory<dynamic>","<p><code>FactoryRenderer</code> used to display the item.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","filterSuggestions","","bool","<p>Allow filtering of suggestions as the user is typing.</p>\n<p>When <code>false</code> always show the full list of suggestions.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","floatingLabel","","bool",'<p>Whether or not the label "floats".</p>\n<p>If false, the label disappears when text is entered into the box. If true,\nit instead "floats" up above the input.</p>\n',"angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","hideCheckbox","","bool","<p>Whether to hide the checkbox before the selection item for multi-select.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","highlightMatchFromStartOfWord","","bool","<p>Whether matches should only highlight at the start of words.</p>\n","angular_components/lib/mixins/highlight_assistant_mixin.dart",!1,""),new R.k("Input","highlightOptions","","bool","<p>Whether to highlight options.\nDefault value is <code>true</code>.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","hintText","","String","<p>The hint to be shown on the input.</p>\n<p>This text will not be displayed if there is an error message on the input.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","initialActivateSelection","","bool","<p>The first suggestion in the popup is active and highlighted by default.\nSetting this to true changes behavior so that when <code>options</code> or\n<code>selection</code> are changed:</p><ol><li>first selected value in <code>selection</code> is active in <code>options</code></li><li>if <code>selection</code> has no selected values, nothing is active in <code>options</code></li></ol>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","inputText","","String","<p>The text the input should have.</p>\n<p>Consider using the angular_forms <code>NgModel</code> instead.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","itemRenderer","","(dynamic) \u2192 String","<p>A simple function to render the an item to string.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","label","","String","<p>The label to use on the input.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","labelFactory","","(dynamic) \u2192 ComponentFactory<dynamic>","<p>Custom factory for rendering suggestion labels.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","labelRenderer","","(dynamic) \u2192 Type","","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,"Use labelFactory instead."),new R.k("Input","leadingGlyph","","String","<p>Any persistent glyph to show before the input box.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","leadingText","","String","<p>Any text to show at the leading edge of the input -- e.g. a currency\nsymbol or similar.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","limit","","dynamic","<p>How many suggestions to show.</p>\n<p>If the limit is less than 1, it is assumed to be mean no limit.\nSee filter method in <code>Filterable</code>. Defaults to 10.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","loading","","bool","<p>When turned on and no suggestions available, show loading indicator in the\nsuggestions dropdown.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","maxCount","","int","<p>Maximum allowed characters for character counting input box.</p>\n<p>Character count always is displayed when the value is non-null.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","optionHighlighter","","(String, dynamic) \u2192 List<HighlightedTextSegment>","<p>Function which returns a list of <code>HighlightedTextSegment</code> for the given\nquery and value.</p>\n<p>If no <code>optionHighlighter</code> is provided, a <code>TextHighlighter</code> is used in\nconjunction with the <code>itemRenderer</code> to produce the list of text segments.</p>\n","angular_components/lib/mixins/highlight_assistant_mixin.dart",!1,""),new R.k("Input","options","selectionOptions","SelectionOptions<dynamic>","<p>The available options for this container.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","popupMatchInputWidth","","bool","<p>Whether or not the suggestion popup width is at least as wide as the input\nwidth.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","popupPositions","","List<RelativePosition>","<p>List of positions to try and draw the suggest popup.</p>\n<p>See <code>MaterialPopupComponent</code> for more information.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","popupShadowCssClass","","String","<p>A custom CSS class for suggestion popup contents.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","required","","bool","<p>Whether or not the input is required.</p>\n<p>If there's no input text, a required input will show a validation error\nwhen it's first blured.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","requiredErrorMsg","","String","<p>Custom error message to show when the field is required and blank.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","rightAlign","","bool","<p>Whether the input contents should be always right aligned.</p>\n<p>Default value is <code>false</code>.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","selection","","SelectionModel<dynamic>","<p>If set, auto suggest will use the supplied observable <code>SelectionModel</code>\nobject.</p>\n<p>Uses a single selection model by default.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","shouldClearOnSelection","","bool","<p>Whether to clear the text once the item is selected from the menu.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","showClearIcon","","bool","<p>Show or hide the trailing close icon.</p>\n<p>Clicking on the icon clears the input text and hides the popup.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","showHintOnlyOnFocus","","bool","<p>Whether or not the hint text will be displayed when the input is not\nfocused.</p>\n<p>Defaults to false.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","showPopup","","bool","<p>Used to control the visibility of the suggestion popup.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","slide","","String","<p>Direction of popup scaling.</p>\n<p>Valid values are <code>x</code>, <code>y</code>, or <code>null</code>.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Input","sorted","","bool","","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,"Caller should call .sort() on the options instead."),new R.k("Input","suggestions","","List<dynamic>","","angular_components/lib/material_input/material_auto_suggest_input.dart",!0,"Use [options] instead"),new R.k("Input","trailingGlyph","","String","<p>Any persistent glyph to show at the end of the input box.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,""),new R.k("Input","trailingText","","String","<p>Any text to show at the trailing edge of the input -- e.g. a currency\nsymbol or similar.</p>\n","angular_components/lib/material_input/input_wrapper.dart",!1,"")],w),H.b([new R.k("Output","onBlur","blur","Stream<void>","<p>Fired when the input gains blur or auto suggest item get selected.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Output","onClear","clear","Stream<void>","<p>Fired when the close icon is clicked.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Output","onFocus","focus","Stream<FocusEvent>","<p>Fired when the input gains focus</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Output","showPopupChange","","Stream<bool>","<p>Publishes event when the showPopup changes.</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,""),new R.k("Output","textChanged","inputTextChange","Stream<String>","<p>Publishes events when input text changes (on keypress.)</p>\n","angular_components/lib/material_input/material_auto_suggest_input.dart",!1,"")],w))],[R.am])
+u=H.b([new R.aw(C.c1,"MaterialAutoSuggestInputDemoComponent","material_input_example/lib/material_auto_suggest_input_demo.dart")],[R.aw])
 t=[x]
-t=new V.fZ(R.d8(H.b([],[R.cx]),u,w,H.b([],t),P.i(x,x),!1,H.b([],t)))
+t=new V.fV(R.d0(H.b([],[R.cn]),u,w,H.b([],t),P.i(x,x),!0,H.b([],t)))
 this.x=t
 this.r.k(0,t,this.a.e)
 this.D(this.e)
-return new D.N(this,0,this.e,this.x,[v])},
+return new D.K(this,0,this.e,this.x,[v])},
 t:function(){this.r.j()},
 v:function(){var x=this.r
 if(!(x==null))x.i()},
-$asc:function(){return[V.fZ]}}
-var y=i([{func:1,ret:[S.c,V.fZ],args:[S.c,P.k]}]);(function installTearOffs(){f(K,"avs",1,0,0,null,["$2"],["aDy"],0,0)})();(function inheritance(){a(V.fZ,P.x)
+$asc:function(){return[V.fV]}}
+var y=i([{func:1,ret:[S.c,V.fV],args:[[S.c,,],P.l]}]);(function installTearOffs(){f(K,"aCN",1,0,0,null,["$2"],["aKZ"],0,0)})();(function inheritance(){a(V.fV,P.x)
 var x=S.c
-a(K.N0,x)
-a(K.T3,x)})();(function constants(){C.du=new D.F("material-auto-suggest-input-api",K.avs(),[V.fZ])
-C.mZ=H.D("fZ")})();(function staticFields(){$.a6K=null
-$.aem=!1})();(function nativeSupport(){j({})
+a(K.Tl,x)
+a(K.a_8,x)})();(function constants(){C.dv=new D.B("material-auto-suggest-input-api",K.aCN(),[V.fV])
+C.mY=H.C(V.fV)})();(function staticFields(){$.adR=null
+$.alx=!1})();(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["3eg/uZ+6Ghzcww3Edn3p5uL9FiU="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["vGD/b04WbzgHG2RVKwCxQPiuFrk="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_5.part.js.map
