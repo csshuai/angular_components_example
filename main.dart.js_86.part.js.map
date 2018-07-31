@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/angular_components/model/ui/has_renderer.dart"],
   "names": ["_nullRenderer"],
-  "mappings": "A;8EAgEIA;IADGA,YACHA,WAAUA,4CAAiDA,C"
+  "mappings": "A;8EAgEIA;IADGA,YACHA,WAAMA,4CAAiDA,C"
 }

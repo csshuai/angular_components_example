@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/angular_components/material_icon/material_icon.template.dart","../packages/angular/src/core/linker/app_view.dart","../packages/angular/src/di/reflector.dart","../packages/angular_components/material_icon/material_icon.dart","../packages/angular/src/core/linker/component_factory.dart"],
   "names": ["viewFactory_MaterialIconComponentHost0","AppView","_ViewMaterialIconComponentHost0","initReflector","registerComponent","_ViewMaterialIconComponentHost0.build","MaterialIconComponent","ComponentRef","_ViewMaterialIconComponentHost0.detectChangesInternal","_ViewMaterialIconComponentHost0.destroyInternal"],
-  "mappings": "A;;IAmGuCA,cCiF9BC,MD3GPC;ACgHiBD;ADrFjBD,QACFA,C;GAQKG,WACHA,SACEA,MAOJA;;AE3EEC,WAAWA;AFyEXD,KAEFA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA3C8CE,WAAQA;AAChCA;AAAlBA;AACqBA;AAArBA;AGGFC;AHFED;AACAA;AACAA;AACAA,OI5DFE,oCJ6DAF,C;EAGKG,WAKHA,UACFA,C;EAGKC,WACHA;cAAaA,KACfA,C"
+  "mappings": "A;;IAyGuCA,cC2E9BC,MDrGPC;AC0GiBD;AD/EjBD,QACFA,C;GAQKG,WACHA,SACEA,MAOJA;;AEjFEC,WAAWA;AF+EXD,KAEFA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA3C8CE,WAAQA;AAChCA;AAAlBA;AACqBA;AAArBA;AGCFC;AHAED;AACAA;AACAA;AACAA,OIlEFE,oCJmEAF,C;EAGKG,WAKHA,UACFA,C;EAGKC,WACHA;cAAaA,KACfA,C"
 }

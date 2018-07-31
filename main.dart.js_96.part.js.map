@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/quiver/src/core/hash.dart"],
   "names": ["hash4"],
-  "mappings": "A;8EA4ByBA;IAArBA,kBAAqBA,aAAQA,KAC7BA,KAASA,KAASA,OAAcA,SAAaA,qCACjCA,C"
+  "mappings": "A;8EA4ByBA;IAArBA,kBAAqBA,YAAQA,KAC7BA,KAASA,KAASA,OAAcA,SAAaA,qCACjCA,C"
 }

@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/angular_components/src/model/selection/noop_selection_model_impl.dart"],
   "names": ["_NoopSelectionModelImpl.notifyChange","_NoopSelectionModelImpl.select","_NoopSelectionModelImpl.deselect","_NoopSelectionModelImpl.isSelected","_NoopSelectionModelImpl.selectionChanges"],
-  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GAiCOA,YAAmBA,C;GAiBnBC;AAAaA,QAAKA,C;GAGlBC;AAAeA,QAAKA,C;GAGpBC;AAAiBA,QAAKA,C;IASgBC,WACvCA,OAAIA,oCAA6BA,C"
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GAiCOA,YAAmBA,C;GAiBnBC;AAAaA,QAAKA,C;GAGlBC;AAAeA,QAAKA,C;GAGpBC;AAAiBA,QAAKA,C;IASgBC,WACvCA,OAAOA,oCAAsBA,C"
 }

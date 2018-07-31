@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/angular_components/utils/angular/properties/properties.dart"],
   "names": ["getBool"],
-  "mappings": "A;;GA2CKA,YACHA,WAAwBA,UAAUA;AAElCA,uBAA0BA,OAAOA,QAKnCA;AAJEA,wBAAwBA,QAI1BA;AAFEA,UAAUA,uDAEZA,C"
+  "mappings": "A;;GA2CKA,YACHA,WAAwBA,UAAoBA;AAE5CA,uBAA0BA,OAAOA,QAKnCA;AAJEA,wBAAwBA,QAI1BA;AAFEA,UAAoBA,uDAEtBA,C"
 }
