@@ -1,71 +1,26 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},S={},N={},E={},M={},B={},Q={},D={cE:function cE(n,o,p,q,r,s,t,u,v,w,x,a0){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q
-_.e=r
-_.f=null
-_.r=s
-_.x=t
-_.y=u
-_.z=v
-_.Q=w
-_.ch=null
-_.cx=x
-_.cy=null
-_.db=a0},Gd:function Gd(n){this.a=n},Ge:function Ge(n){this.a=n},Gc:function Gc(n){this.a=n},Gf:function Gf(n){this.a=n}},L={},Z={
-iR:function(n,o){var x,w
-x=new Z.NC(!0,!0,P.i(P.d,null),n)
-x.a=S.j(x,1,C.j,o,D.cE)
-w=document.createElement("material-dialog")
-x.e=H.a(w,"$isB")
-w=$.ND
-if(w==null){w=$.P
-w=w.a1(null,C.p,$.$get$aig())
-$.ND=w}x.a0(w)
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={
+aEm:function(n,o){var x=new Y.Tw(P.e(P.c,null),n)
+x.a=S.f(x,3,C.k,o)
 return x},
-aEV:function(n,o){var x=new Z.TX(P.i(P.d,null),n)
-x.a=S.j(x,3,C.c,o,D.cE)
-x.d=$.ND
-return x},
-aEW:function(n,o){var x=new Z.TY(P.i(P.d,null),n)
-x.a=S.j(x,3,C.c,o,D.cE)
-x.d=$.ND
-return x},
-aEX:function(n,o){var x=new Z.TZ(P.i(P.d,null),n)
-x.a=S.j(x,3,C.k,o,D.cE)
-return x},
-agQ:function(){if($.adv)return
-$.adv=!0
-$.$get$S().q(0,C.nc,C.ie)
-E.H()
-B.zW()
-O.ZX()
-V.ez()},
-NC:function NC(n,o,p,q){var _=this
-_.r=n
-_.z=_.y=_.x=null
-_.Q=o
-_.a=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=null
-_.b=p
-_.c=q
-_.f=_.e=_.d=null},
-TX:function TX(n,o){var _=this
-_.a=_.r=null
+amA:function(){return C.d3},
+atH:function(){if($.acQ)return
+$.acQ=!0
+$.$get$F().u(0,C.ng,C.d3)
+E.w()
+K.ca()
+D.c2()
+A.a2u()},
+MJ:function MJ(n,o){var _=this
+_.a=_.r1=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
 _.b=n
 _.c=o
 _.f=_.e=_.d=null},
-TY:function TY(n,o){var _=this
-_.a=_.r=null
-_.b=n
-_.c=o
-_.f=_.e=_.d=null},
-TZ:function TZ(n,o){var _=this
+Tw:function Tw(n,o){var _=this
 _.a=_.x=_.r=null
 _.b=n
 _.c=o
-_.f=_.e=_.d=null}},A={},U={},T={},O={},X={},F={}
+_.f=_.e=_.d=null}},R={},K={},V={},S={},N={},E={},M={},B={},Q={},D={},L={eZ:function eZ(n){this.a=n}},Z={},A={},U={},T={},O={},X={},F={}
 var z=[C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F])
 C=h(m[0],C)
@@ -93,182 +48,131 @@ T=h(m[21],T)
 O=h(m[22],O)
 X=h(m[23],X)
 F=h(m[24],F)
-D.cE.prototype={
-sa2Q:function(n){var x,w,v
-this.f=n
-x=this.e
-w=J.alP(n)
-v=H.f(w,0)
-x.cb(W.cB(w.a,w.b,H.n(new D.Gd(this),{func:1,ret:-1,args:[v]}),!1,v),W.K)
-w=this.d
-if(w==null)return
-w=w.d
-x.cb(new P.p(w,[H.f(w,0)]).B(new D.Ge(this)),[L.bA,,])},
-vW:function(){this.e.e8(this.b.fM(new D.Gc(this)),R.c7)},
-sLC:function(n){var x
-if(this.cx)return
-this.cx=!0
-x=W.K
-this.e.cb(W.cB(window,"resize",H.n(new D.Gf(this),{func:1,ret:-1,args:[x]}),!1,x),x)},
-Wi:function(){if(!this.cx)return
-this.e.e8(this.b.fM(this.ga_c()),R.c7)},
-H8:function(){var x,w,v,u,t
-x=document.body
-w=x.clientWidth
-v=this.a
-u=v.clientWidth
-if(w==null?u==null:w===u){x=x.clientHeight
-v=v.clientHeight
-t=x==null?v==null:x===v}else t=!1
-if(this.ch!==t){this.ch=t
-this.Q.E(0,t)}},
-hL:function(){if(this.cx)this.H8()
-this.vW()},
-geH:function(n){return this.cy}}
-Z.NC.prototype={
-p:function(){var x,w,v,u,t,s
-x=this.a2(this.e)
-w=B.rx(this,0)
-this.y=w
-w=w.e
+L.eZ.prototype={
+gaV:function(){return this.a}}
+Y.MJ.prototype={
+gp0:function(){var x=this.z
+if(x==null){x=document
+this.z=x}return x},
+gDu:function(){var x=this.Q
+if(x==null){x=window
+this.Q=x}return x},
+gp1:function(){var x=this.ch
+if(x==null){x=this.c
+x=T.aM(x.m(C.d,this.a.Q,null),x.m(C.A,this.a.Q,null),x.n(C.f,this.a.Q),this.gDu())
+this.ch=x}return x},
+gDr:function(){var x=this.cx
+if(x==null){x=new O.aA(this.c.n(C.Q,this.a.Q),this.gp1())
+this.cx=x}return x},
+guH:function(){var x=this.cy
+if(x==null){x=new K.ay(this.gp0(),this.gp1(),P.aL(null))
+this.cy=x}return x},
+guI:function(){var x=this.dx
+if(x==null){x=G.aY(this.c.m(C.v,this.a.Q,null))
+this.dx=x}return x},
+gDw:function(){var x=this.dy
+if(x==null){x=G.b2(this.gp0(),this.c.m(C.w,this.a.Q,null))
+this.dy=x}return x},
+gDx:function(){var x=this.fr
+if(x==null){x=G.aQ(this.guI(),this.gDw(),this.c.m(C.u,this.a.Q,null))
+this.fr=x}return x},
+guJ:function(){var x=this.fx
+if(x==null){this.fx=!0
+x=!0}return x},
+gDy:function(){var x=this.fy
+if(x==null){this.fy=!0
+x=!0}return x},
+gDt:function(){var x=this.go
+if(x==null){x=this.gp0()
+x=new R.aH(x.querySelector("head"),!1,x)
+this.go=x}return x},
+gDv:function(){var x=this.id
+if(x==null){x=X.aX()
+this.id=x}return x},
+gDs:function(){var x=this.k1
+if(x==null){x=K.aV(this.gDt(),this.gDx(),this.guI(),this.guH(),this.gp1(),this.gDr(),this.guJ(),this.gDy(),this.gDv())
+this.k1=x}return x},
+p:function(){var x,w
+x=this.a3(this.e)
+w=K.bZ(this,0)
 this.x=w
+w=w.e
+this.r=w
 x.appendChild(w)
-this.h(this.x)
-this.z=new G.ep(new R.F(!0,!1))
-v=document
-w=v.createElement("div")
-H.a(w,"$isN")
-this.ch=w
-w.className="wrapper"
-this.h(w)
-w=$.$get$Z()
-u=H.a(w.cloneNode(!1),"$isz")
-this.ch.appendChild(u)
-t=new V.r(2,1,this,u)
-this.cx=t
-this.cy=new K.O(new D.A(t,Z.awQ()),t,!1)
-t=S.v(v,this.ch)
-this.db=t
-t.className="error"
-this.h(t)
-t=v.createTextNode("")
-this.dx=t
-this.db.appendChild(t)
-t=S.e(v,"main",this.ch)
-this.dy=t
-this.l(t)
-this.cp(this.dy,1)
-s=H.a(w.cloneNode(!1),"$isz")
-this.ch.appendChild(s)
-w=new V.r(6,1,this,s)
-this.fr=w
-this.fx=new K.O(new D.A(w,Z.awR()),w,!1)
-this.y.k(0,this.z,[H.b([this.ch],[W.N])])
-this.f.sa2Q(H.a(this.dy,"$isB"))
+w=new U.ao(this.c.n(C.a5,this.a.Q))
+this.y=w
+this.x.k(0,w,[])
 this.P(C.a,null)
 return},
-t:function(){var x,w,v,u,t,s
-x=this.f
-this.cy.sY(x.r)
-this.fx.sY(x.x)
-this.cx.H()
-this.fr.H()
-w=x.cy!=null
-v=this.fy
-if(v!==w){this.aD(this.db,"expanded",w)
-this.fy=w}u=x.cy
-if(u==null)u=""
-v=this.go
-if(v!==u){this.dx.textContent=u
-this.go=u}t=x.y
-v=this.id
-if(v!==t){this.aD(H.a(this.dy,"$isB"),"top-scroll-stroke",t)
-this.id=t}s=x.z
-v=this.k1
-if(v!==s){this.aD(H.a(this.dy,"$isB"),"bottom-scroll-stroke",s)
-this.k1=s}this.y.j()},
-v:function(){var x=this.cx
-if(!(x==null))x.G()
-x=this.fr
-if(!(x==null))x.G()
-x=this.y
-if(!(x==null))x.i()
-this.z.a.J()},
-$asc:function(){return[D.cE]}}
-Z.TX.prototype={
-p:function(){var x=document.createElement("header")
-this.r=x
-this.l(x)
-this.cp(this.r,0)
-this.D(this.r)
-return},
-$asc:function(){return[D.cE]}}
-Z.TY.prototype={
-p:function(){var x=document.createElement("footer")
-this.r=x
-this.l(x)
-this.cp(this.r,2)
-this.D(this.r)
-return},
-$asc:function(){return[D.cE]}}
-Z.TZ.prototype={
-p:function(){var x=Z.iR(this,0)
-this.r=x
-x=x.e
-this.e=x
-x=new D.cE(x,H.a(this.n(C.e,this.a.Q),"$isI"),this.r.a.b,H.a(this.m(C.ax,this.a.Q,null),"$isde"),new R.F(!0,!1),!0,!0,!1,!1,P.aX(null,null,null,null,!1,P.q),!1,!0)
-this.x=x
-this.r.k(0,x,this.a.e)
+R:function(n,o,p){var x,w,v,u
+if(n===C.K&&0===o)return this.gp0()
+if(n===C.G&&0===o)return this.gDu()
+if(n===C.d&&0===o)return this.gp1()
+if(n===C.M&&0===o)return this.gDr()
+if(n===C.L&&0===o)return this.guH()
+if(n===C.R&&0===o){x=this.db
+if(x==null){x=T.aS(this.c.n(C.f,this.a.Q))
+this.db=x}return x}if(n===C.v&&0===o)return this.guI()
+if(n===C.w&&0===o)return this.gDw()
+if(n===C.u&&0===o)return this.gDx()
+if(n===C.P&&0===o)return this.guJ()
+if(n===C.E&&0===o)return this.gDy()
+if(n===C.O&&0===o)return this.gDt()
+if(n===C.C&&0===o)return this.gDv()
+if(n===C.N&&0===o)return this.gDs()
+if(n===C.m&&0===o){x=this.k2
+if(x==null){x=this.c
+w=x.n(C.f,this.a.Q)
+v=this.guJ()
+u=this.gDs()
+x.m(C.m,this.a.Q,null)
+u=new X.aE(v,w,u)
+this.k2=u
+x=u}return x}if(n===C.F&&0===o){x=this.k3
+if(x==null){this.k3=C.y
+x=C.y}return x}if(n===C.x&&0===o){x=this.k4
+if(x==null){x=new K.aJ(this.guH())
+this.k4=x}return x}return p},
+q:function(){var x,w
+x=this.f.a
+w=this.r1
+if(w!==x){this.y.a=x
+this.r1=x}this.x.j()},
+v:function(){var x=this.x
+if(!(x==null))x.i()},
+$asb:function(){return[L.eZ]}}
+Y.Tw.prototype={
+p:function(){var x,w,v,u
+x=P.c
+w=new Y.MJ(P.e(x,null),this)
+w.a=S.f(w,3,C.j,0)
+v=document.createElement("material-dropdown-select-api")
+w.e=v
+v=$.a6h
+if(v==null){v=$.D
+v=v.a2(null,C.T,C.a)
+$.a6h=v}w.a1(v)
+this.r=w
+this.e=w.e
+w=[R.h]
+w=H.a([new R.a2("MaterialDropdownSelectComponent","material-dropdown-select","","angular_components/lib/material_select/material_dropdown_select.dart","<p>Material Dropdown Select is a button-triggered dropdown.</p>\n<p>The <code>material-dropdown-select</code> component combines the APIs of\n<code>material-select</code>, and <code>material-button-dropdown</code>.</p>\n<p>When used with a single selection model, the dropdown closes upon selection.\nWhen using a multi-selection model, the user must close the dropdown by\nclicking outside of it.</p>\n<p>Selection options may be declared manually by passing <code>material-select-item</code>\nelements. When using the declarative API, the <code>SelectionModel</code> and\n<code>SelectionOptions</code> are not injected, so marking the item as selected is not\nautomatic.</p>\n<p>If an <code>OptionGroup</code> is empty and has an <code>emptyLabel</code> defined, the dropdown\nwill include it with the other groups. If <code>emptyLabel</code> is not defined for\nan empty group it will not appear in the list.</p>\n<p>Supports async suggestions through the <code>ObserveAware</code> interface implemented\nby <code>SelectionOptions</code>.</p>\n<p>The material-select has a fixed max height and auto overflow. We can add a\nproperty for custom max height once there's a use case.</p>\n<p>See examples for usage.</p>\n<p><strong>Attributes:</strong></p><ul><li><code>buttonAriaRole</code> -- Aria label for the button icon.</li><li><code>popupClass</code> -- Class to be added to the dropdown popup so that the popup\ncan be styled in an encapsulated way. See <code>MaterialPopup</code> for\ndocumentation.</li></ul>\n",H.a([new R.h("Input","ariaActiveDescendant","","String","<p>The id of the active element of the dropdown.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","buttonAriaLabel","","String","<p>Aria label for the button.</p>\n","angular_components/lib/mixins/button_wrapper.dart",!1,""),new R.h("Input","buttonAriaLabelledBy","","String",'<p>The id of an element that describes the selection in the dropdown button.</p>\n<p>For example, a text element that says "results per page" for a dropdown\nwith numerical options.</p>\n',"angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","buttonText","","String","<p>Text on the button.</p>\n","angular_components/lib/mixins/button_wrapper.dart",!1,""),new R.h("Input","componentRenderer","","(dynamic) \u2192 Type","","angular_components/lib/material_select/material_dropdown_select.dart",!0,"Use factoryRenderer it allows for more tree-shakable code."),new R.h("Input","constrainToViewport","","bool","<p>Whether to clamp the dropdown position so that it never goes offscreen.</p>\n","angular_components/lib/mixins/material_dropdown_base.dart",!1,""),new R.h("Input","deselectLabel","","String","<p>Text label for select item that deselects the current selection.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","deselectOnActivate","","bool","<p> Whether to deselect a selected option on click or enter/space key.</p>\n<p>Single selection model only. Defaults to true.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","disabled","","bool","<p>Whether the button is disabled.</p>\n","angular_components/lib/mixins/button_wrapper.dart",!1,""),new R.h("Input","enforceSpaceConstraints","","bool","<p>Avoid rendering drop down offscreen.</p>\n","angular_components/lib/mixins/material_dropdown_base.dart",!1,""),new R.h("Input","error","","String","<p>An error displayed below the dropdown button.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","factoryRenderer","","(dynamic) \u2192 ComponentFactory<dynamic>","<p>Function that returns a component factory to render the Item.</p>\n<p>The resulting component must implement RendersValue.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","icon","","Icon","<p>Icon to be used with the button. (Optional)</p>\n","angular_components/lib/mixins/button_wrapper.dart",!1,""),new R.h("Input","iconName","","String","<p>Icon to use for the button.</p>\n<p>See <code>MaterialIconComponent</code> for possible values.</p>\n","angular_components/lib/mixins/button_wrapper.dart",!1,""),new R.h("Input","itemRenderer","","(dynamic) \u2192 String","<p>Function to convert an option object to string.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","labelFactory","","(dynamic) \u2192 ComponentFactory<dynamic>","<p>Factory that returns a component to be used for rendering group labels.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","labelRenderer","","(dynamic) \u2192 Type","","angular_components/lib/material_select/material_dropdown_select.dart",!0,"Use labelFactory instead it allows for better tree-shakable code."),new R.h("Input","listAutoFocus","","bool","<p>Whether to focus the options list by default when the popup opens.</p>\n<p>Should be set to false when another element in the popup is focused on\nopen, e.g. a search box.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","options","","SelectionOptions<dynamic>","<p>The options to use for this selection model.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","popupMatchInputWidth","","bool","<p>Whether or not the popup width is at least as wide as the select width.</p>\n","angular_components/lib/mixins/material_dropdown_base.dart",!1,""),new R.h("Input","preferredPositions","","List<dynamic>","<p>Preferred positions for alignment when enforceSpaceConstraints is true</p>\n","angular_components/lib/mixins/material_dropdown_base.dart",!1,""),new R.h("Input","raised","","bool","<p>Whether the button is raised.</p>\n","angular_components/lib/mixins/button_wrapper.dart",!1,""),new R.h("Input","selection","","SelectionModel<dynamic>","<p>The selection model this component controls.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","showButtonBorder","","bool","<p>Whether to show the bottom border of the dropdown button.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Input","slide","","String","<p>Direction of popup scaling.</p>\n<p>Valid values are <code>x</code>, <code>y</code>, or <code>null</code>.</p>\n","angular_components/lib/mixins/material_dropdown_base.dart",!1,""),new R.h("Input","trackLayoutChanges","","bool","<p>Sets whether the suggestion list scrolls with the input box.</p>\n<p>This is a pass through property, as defined in <code>PopupInterface</code>.</p>\n","angular_components/lib/mixins/track_layout_changes.dart",!1,""),new R.h("Input","visible","","bool","<p>Whether the dropdown is visible.</p>\n","angular_components/lib/mixins/material_dropdown_base.dart",!1,""),new R.h("Input","width","","dynamic","<p>Width of the dropdown/list, default none, valid values are 0-5.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,"")],w),H.a([new R.h("Output","blur","","Stream<FocusEvent>","<p>Event that fires when the dropdown button is blurred.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Output","focus","","Stream<FocusEvent>","<p>Event that fires when the dropdown button is focused.</p>\n","angular_components/lib/material_select/material_dropdown_select.dart",!1,""),new R.h("Output","visibleStream","visibleChange","Stream<bool>","<p>Fired when the dropdown's visibility changes.</p>\n","angular_components/lib/mixins/material_dropdown_base.dart",!1,"")],w))],[R.a2])
+v=H.a([new R.a7(C.c2,"MaterialDropdownSelectDemoComponent","material_select_example/lib/material_dropdown_select_demo.dart")],[R.a7])
+u=[x]
+u=new L.eZ(R.c5(H.a([],[R.bF]),v,w,H.a([],u),P.e(x,x),!0,H.a([],u)))
+this.x=u
+this.r.k(0,u,this.a.e)
 this.D(this.e)
-return new D.M(this,0,this.e,this.x,[D.cE])},
-t:function(){this.x.hL()
-this.r.j()},
+return new D.A(this,0,this.e,this.x,[L.eZ])},
+q:function(){this.r.j()},
 v:function(){var x=this.r
-if(!(x==null))x.i()
-this.x.e.J()},
-$asc:function(){return[D.cE]}}
-var y=i([{func:1,ret:[S.c,D.cE],args:[[S.c,,],P.l]},{func:1,ret:-1}])
-D.Gd.prototype={
-$1:function(n){this.a.vW()},
-$S:9}
-D.Ge.prototype={
-$1:function(n){H.a(n,"$isbA")
-this.a.vW()},
-"call*":"$1",
-$R:1,
-$S:213}
-D.Gc.prototype={
-$0:function(){var x,w,v,u,t
-x=this.a
-w=x.f
-v=C.B.bP(w.scrollTop)>0&&x.cy==null
-u=w.clientHeight
-t=u<C.B.bP(w.scrollHeight)&&C.B.bP(w.scrollTop)<C.B.bP(w.scrollHeight)-u
-if(v!==x.y||t!==x.z){x.y=v
-x.z=t
-x=x.c.a
-x.aP()
-x.j()}},
-$S:0}
-D.Gf.prototype={
-$1:function(n){this.a.Wi()},
-$S:9};(function installTearOffs(){f(D.cE.prototype,"ga_c",0,0,0,null,["$0"],["H8"],1,0)
-f(Z,"awQ",1,0,0,null,["$2"],["aEV"],0,0)
-f(Z,"awR",1,0,0,null,["$2"],["aEW"],0,0)
-f(Z,"awS",1,0,0,null,["$2"],["aEX"],0,0)})();(function inheritance(){a(D.cE,P.x)
-var x=H.b5
-a(D.Gd,x)
-a(D.Ge,x)
-a(D.Gc,x)
-a(D.Gf,x)
-x=S.c
-a(Z.NC,x)
-a(Z.TX,x)
-a(Z.TY,x)
-a(Z.TZ,x)})();(function constants(){C.ie=new D.C("material-dialog",Z.awS(),[D.cE])
-C.nc=H.E(D.cE)})();(function staticFields(){$.ND=null
-$.adv=!1})();(function lazyInitializers(){c($,"akH","$get$akH",function(){return["._nghost-%ID%{box-shadow:0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.2);background:#fff;border-radius:2px;display:block;height:auto;max-height:60vh;max-width:1240px;overflow:hidden;}@media (max-height:1200px){._nghost-%ID%{max-height:calc(560px + (100vh - 600px) * .267);}}@media (max-height:600px){._nghost-%ID%{max-height:calc(100vh - 32px);}}@media (max-width:1800px){._nghost-%ID%{max-width:calc(880px + (100vw - 920px) * .4);}}@media (max-width:920px){._nghost-%ID%{max-width:calc(100vw - 32px);}}focus-trap._ngcontent-%ID%{height:inherit;max-height:inherit;min-height:inherit;width:100%;}.wrapper._ngcontent-%ID%{display:flex;flex-direction:column;height:inherit;overflow:hidden;max-height:inherit;min-height:inherit;}.error._ngcontent-%ID%{font-size:13px;font-weight:400;box-sizing:border-box;flex-shrink:0;background:#eee;color:#c53929;padding:0 24px;transition:padding 218ms cubic-bezier(0.4, 0, 0.2, 1) 0s;width:100%;}.error.expanded._ngcontent-%ID%{border-bottom:1px #e0e0e0 solid;border-top:1px #e0e0e0 solid;padding:8px 24px;}main._ngcontent-%ID%{font-size:13px;font-weight:400;box-sizing:border-box;flex-grow:1;color:rgba(0, 0, 0, 0.87);overflow:auto;padding:0 24px;width:100%;}main.top-scroll-stroke._ngcontent-%ID%{border-top:1px #e0e0e0 solid;}main.bottom-scroll-stroke._ngcontent-%ID%{border-bottom:1px #e0e0e0 solid;}footer._ngcontent-%ID%{box-sizing:border-box;flex-shrink:0;padding:0 8px 8px;width:100%;}._nghost-%ID%  .wrapper > header{-moz-box-sizing:border-box;box-sizing:border-box;padding:24px 24px 0;width:100%;flex-shrink:0;}._nghost-%ID%  .wrapper > header  h1,._nghost-%ID%  .wrapper > header  h3{font-size:20px;font-weight:500;margin:0 0 8px;}._nghost-%ID%  .wrapper > header  p{font-size:12px;font-weight:400;margin:0;}._nghost-%ID%  .wrapper > footer [footer]{display:flex;flex-shrink:0;justify-content:flex-end;}._nghost-%ID%[headered]  .wrapper > header{-moz-box-sizing:border-box;box-sizing:border-box;padding:24px 24px 0;width:100%;background:#616161;padding-bottom:16px;}._nghost-%ID%[headered]  .wrapper > header  h1,._nghost-%ID%[headered]  .wrapper > header  h3{font-size:20px;font-weight:500;margin:0 0 8px;}._nghost-%ID%[headered]  .wrapper > header  p{font-size:12px;font-weight:400;margin:0;}._nghost-%ID%[headered]  .wrapper > header  h1,._nghost-%ID%[headered]  .wrapper > header  h3{color:#fff;margin-bottom:4px;}._nghost-%ID%[headered]  .wrapper > header  p{color:white;}._nghost-%ID%[headered]  .wrapper > main{padding-top:8px;}._nghost-%ID%[info]  .wrapper > header  h1,._nghost-%ID%[info]  .wrapper > header  h3{line-height:40px;margin:0;}._nghost-%ID%[info]  .wrapper > header  material-button{float:right;}._nghost-%ID%[info]  .wrapper > footer{padding-bottom:24px;}"]})
-c($,"aig","$get$aig",function(){return[$.$get$akH()]})})();(function nativeSupport(){j({})
+if(!(x==null))x.i()},
+$asb:function(){return[L.eZ]}}
+var y=i([{func:1,ret:[S.b,L.eZ],args:[[S.b,,],P.j]}]);(function installTearOffs(){f(Y,"aw7",1,0,0,null,["$2"],["aEm"],0,0)})();(function inheritance(){a(L.eZ,P.q)
+var x=S.b
+a(Y.MJ,x)
+a(Y.Tw,x)})();(function constants(){C.d3=new D.v("material-dropdown-select-api",Y.aw7(),[L.eZ])
+C.ng=H.t(L.eZ)})();(function staticFields(){$.a6h=null
+$.acQ=!1})();(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["Y/CDJhXsX+NbO30xtiIQNgXA3ZU="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["NB99kzSILeTZNgUPAwMaJW8ntbI="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_38.part.js.map

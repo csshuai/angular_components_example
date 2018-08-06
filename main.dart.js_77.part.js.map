@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_77.part.js",
   "sourceRoot": "",
-  "sources": [],
-  "names": [],
-  "mappings": "A"
+  "sources": ["../packages/angular_components/model/selection/selection_options.dart","../packages/angular_components/model/collection/labeled_list.dart"],
+  "names": ["OptionGroup.withLabel","LabeledList.withLabel","OptionGroup.withLabel.<anonymous function>"],
+  "mappings": "A;;GA+BEA,kBAAqBA;AACwBA;ACNVC;ADKnCD,0BAEmCA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GADUE,WAAMA,aAAUA,C"
 }

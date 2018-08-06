@@ -3,7 +3,7 @@
   "engine": "v2",
   "file": "main.dart.js_92.part.js",
   "sourceRoot": "",
-  "sources": ["org-dartlang-sdk:///sdk/lib/async/future.dart","org-dartlang-sdk:///sdk/lib/async/future_impl.dart"],
-  "names": ["Future.delayed","_Future","Future.delayed.<anonymous function>"],
-  "mappings": "A;;GAmTUA,gBACKA;;ACpGbC;ADqGMD,OAAgBA;AAOpBA,QACFA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GARsBE;IAEcA;AAA9BA,sBAFgBA;;AAIhBA,iBAEHA,C"
+  "sources": ["../packages/angular/src/core/linker/app_view_utils.dart"],
+  "names": ["flattenNodes"],
+  "mappings": "A;;GAyFQA,cACAA;AAAYA;AAClBA,2BACEA;AAEFA,QACFA,C"
 }
