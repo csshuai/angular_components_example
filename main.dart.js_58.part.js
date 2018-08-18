@@ -1,58 +1,58 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={
-a12:function(n,o){var x,w
-x=new Y.Nw(P.e(P.c,null),n)
-x.a=S.f(x,1,C.j,o)
-w=document.createElement("material-slider")
-x.e=w
-w=$.a6M
-if(w==null){w=$.D
-w=w.a2(null,C.p,$.$get$ai9())
-$.a6M=w}x.a1(w)
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={
+aG3:function(n,o){var x=new V.xJ(P.X(["$implicit",null],P.c,null),n)
+x.a=S.f(x,3,C.b,o)
+x.d=$.Nn
 return x},
-aGk:function(n,o){var x=new Y.Vg(P.e(P.c,null),n)
+aG4:function(n,o){var x=new V.q4(P.X(["$implicit",null],P.c,null),n)
+x.a=S.f(x,3,C.b,o)
+x.d=$.Nn
+return x},
+aG5:function(n,o){var x=new V.UW(P.e(P.c,null),n)
 x.a=S.f(x,3,C.k,o)
 return x},
-at4:function(){if($.abB)return
-$.abB=!0
-$.$get$F().u(0,C.cw,C.hB)
+atm:function(){if($.ac6)return
+$.ac6=!0
+$.$get$F().u(0,C.nI,C.cX)
 E.w()
-V.dh()},
-Nw:function Nw(n,o){var _=this
-_.a=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
+M.by()
+L.Zy()
+L.Zz()
+K.b7()
+K.cD()},
+uZ:function uZ(n,o,p,q){var _=this
+_.N=_.T=_.y2=_.y1=_.x2=_.x1=_.ry=_.rx=_.r2=_.r1=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
+_.am=_.ad=_.ai=_.X=_.ah=_.ap=_.ag=_.a6=_.aa=_.a5=_.a7=_.V=_.a0=_.Z=_.a_=_.M=_.I=_.K=_.L=_.U=null
+_.aj=n
+_.ab=_.as=_.aC=_.aI=_.aq=_.av=_.ax=_.an=_.al=_.ay=_.ae=null
+_.aO=o
+_.bk=_.bd=_.b9=_.b8=_.au=_.bj=_.bc=_.bx=_.bv=_.b5=_.bi=_.bu=_.bh=_.b7=_.aV=_.b3=_.ao=_.aM=_.aA=_.aQ=_.aN=_.aY=_.aw=_.aH=_.at=_.aG=_.aF=_.aX=_.az=_.aT=null
+_.a=_.bX=_.cq=_.bT=_.b2=_.bz=_.bH=_.bN=_.bM=_.bg=_.br=_.bS=_.bf=_.by=_.bC=_.be=_.c_=_.bq=_.b6=_.b1=_.bZ=_.bG=_.bB=_.bw=_.bm=_.aW=_.bt=_.bb=_.bl=null
+_.b=p
+_.c=q
+_.f=_.e=_.d=null},
+No:function No(){},
+Np:function Np(){},
+xJ:function xJ(n,o){var _=this
+_.a=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
 _.b=n
 _.c=o
 _.f=_.e=_.d=null},
-Vg:function Vg(n,o){var _=this
-_.a=_.x=_.r=null
-_.b=n
-_.c=o
-_.f=_.e=_.d=null}},R={iB:function iB(n,o,p,q){var _=this
-_.a=n
-_.b=o
-_.c=p
-_.d=q}},K={},V={},S={},N={},E={},M={fc:function fc(n){this.a=n}},B={
-aGj:function(n,o){var x=new B.Vf(P.e(P.c,null),n)
-x.a=S.f(x,3,C.k,o)
-return x},
-amS:function(){return C.dY},
-at2:function(){if($.abz)return
-$.abz=!0
-$.$get$F().u(0,C.nM,C.dY)
-E.w()
-K.ca()
-D.c2()
-Q.at3()},
-Nv:function Nv(n,o){var _=this
-_.a=_.r1=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
+q4:function q4(n,o){var _=this
+_.a=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
 _.b=n
 _.c=o
 _.f=_.e=_.d=null},
-Vf:function Vf(n,o){var _=this
+UW:function UW(n,o){var _=this
 _.a=_.x=_.r=null
 _.b=n
 _.c=o
-_.f=_.e=_.d=null}},Q={fd:function fd(n,o,p,q,r,s,t,u,v){var _=this
+_.f=_.e=_.d=null}},S={},N={},E={},M={},B={},Q={},D={},L={},Z={},A={},U={},T={},O={
+an1:function(){var x=[O.iY]
+x=new O.fW(!1,!1,!0,!1,!0,H.a([new O.iY("fast",!1,!1),new O.iY("cheap",!1,!1),new O.iY("good",!1,!1)],x),Z.cA(null,null,null),H.a([new O.iY("poor",!1,!1),new O.iY("fair",!0,!1),new O.iY("good",!1,!0),new O.iY("awesome",!1,!1)],x))
+x.N_()
+return x},
+fW:function fW(n,o,p,q,r,s,t,u){var _=this
 _.a=n
 _.b=o
 _.c=p
@@ -61,35 +61,32 @@ _.e=r
 _.f=s
 _.r=t
 _.x=u
-_.y=null
-_.z=v},GC:function GC(n,o){this.a=n
-this.b=o},GD:function GD(n){this.a=n},GE:function GE(n,o){this.a=n
-this.b=o},GF:function GF(n){this.a=n},GG:function GG(n,o){this.a=n
-this.b=o},
-aGl:function(n,o){var x=new Q.Vh(P.e(P.c,null),n)
+_.y=null},
+Gw:function Gw(){},
+iY:function iY(n,o,p){this.a=n
+this.b=o
+this.c=p}},X={},F={fb:function fb(n){this.a=n},
+aG0:function(n,o){var x=new F.UT(P.e(P.c,null),n)
 x.a=S.f(x,3,C.k,o)
 return x},
-at3:function(){if($.abA)return
-$.abA=!0
-$.$get$F().u(0,C.nN,C.cZ)
+an0:function(){return C.dG},
+atl:function(){if($.ac5)return
+$.ac5=!0
+$.$get$F().u(0,C.nG,C.dG)
 E.w()
-Y.at4()
-Q.m_()},
-uY:function uY(n,o){var _=this
-_.O=_.T=_.y2=_.y1=_.x2=_.x1=_.ry=_.rx=_.r2=_.r1=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
-_.a=_.L=_.U=null
+K.cd()
+D.c4()
+V.atm()},
+Nl:function Nl(n,o){var _=this
+_.a=_.r1=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.ch=_.Q=_.z=_.y=_.x=_.r=null
 _.b=n
 _.c=o
 _.f=_.e=_.d=null},
-Vh:function Vh(n,o){var _=this
+UT:function UT(n,o){var _=this
 _.a=_.x=_.r=null
 _.b=n
 _.c=o
-_.f=_.e=_.d=null}},D={},L={},Z={},A={},U={},T={
-A5:function(n){var x
-if($.a3H!==n){$.a3H=n
-x=$.$get$a3J().b
-$.a3I=x.test(n)}return $.a3I}},O={},X={},F={}
+_.f=_.e=_.d=null}}
 var z=[C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F])
 C=h(m[0],C)
@@ -117,241 +114,53 @@ T=h(m[21],T)
 O=h(m[22],O)
 X=h(m[23],X)
 F=h(m[24],F)
-Q.fd.prototype={
-gjd:function(){return H.u(this.c)},
-gKq:function(){var x,w
-x=this.d
-w=this.f
-return 100*(x-w)/(this.r-w)},
-pQ:function(n){this.b.fM(new Q.GC(this,n))},
-a47:function(n){var x,w,v
-if(this.c)return
-if(n.button!==0)return
-n.preventDefault()
-this.pQ(n.pageX)
-this.z=!0
-this.a.a.aN()
-x=document
-w=W.a8
-v=W.bH(x,"mousemove",new Q.GD(this),!1,w)
-new P.nr(1,new W.aP(x,"mouseup",!1,[w]),[w]).B(new Q.GE(this,v))},
-a6k:function(n){var x,w,v,u
-if(this.c)return
-n.preventDefault()
-x=n.targetTouches
-w=(x&&C.bg).gaM(x)
-x=C.B.bQ(w.pageX)
-C.B.bQ(w.pageY)
-this.pQ(x)
-this.z=!0
-this.a.a.aN()
-x=document
-v=W.da
-u=W.bH(x,"touchmove",new Q.GF(this),!1,v)
-new P.nr(1,new W.aP(x,"touchend",!1,[v]),[v]).B(new Q.GG(this,u))},
-a3s:function(n){var x,w,v,u
-if(this.c)return
-x=this.d
-w=C.aE.qb((this.r-this.f)/10)
-v=T.oq()
-u=T.A5(v==null?"":v)?-1:1
-switch(n.keyCode){case 40:case 37:x=Math.max(this.f,Math.min(this.r,this.d-this.x*u))
-break
-case 38:case 39:x=Math.max(this.f,Math.min(this.r,this.d+this.x*u))
-break
-case 33:x=Math.max(this.f,Math.min(this.r,this.d+this.x*w))
-break
-case 34:x=Math.max(this.f,Math.min(this.r,this.d-this.x*w))
-break}v=this.d
-if(x==null?v!=null:x!==v){this.d=x
-this.e.S(0,x)}},
-gaO:function(n){return this.c},
-gab:function(n){return this.d},
-saO:function(n,o){return this.c=o},
-sab:function(n,o){return this.d=o},
-sjM:function(n){return this.y=n}}
-Y.Nw.prototype={
-p:function(){var x,w,v,u
-x=this.a3(this.e)
-w=document
-v=S.o(w,x)
-this.r=v
-v.className="container"
-this.h(v)
-v=S.o(w,this.r)
-this.x=v
-v.className="track-container left-track-container"
-this.h(v)
-v=S.o(w,this.x)
-this.y=v
-v.className="track"
-this.h(v)
-v=S.o(w,this.r)
-this.z=v
-v.className="knob"
-v.setAttribute("role","slider")
-v=this.z
-v.tabIndex=0
-this.h(v)
-v=S.o(w,this.z)
-this.Q=v
-v.className="knob-real"
-this.h(v)
-v=S.o(w,this.z)
-this.ch=v
-v.className="knob-hover-shadow"
-this.h(v)
-v=S.o(w,this.z)
-this.cx=v
-v.className="knob-drag-shadow"
-this.h(v)
-v=S.o(w,this.r)
-this.cy=v
-v.className="track-container right-track-container"
-this.h(v)
-v=S.o(w,this.cy)
-this.db=v
-v.className="track"
-this.h(v)
-v=this.r
-u=W.B;(v&&C.t).a8(v,"mousedown",this.w(this.f.ga46(),u,W.a8))
-v=this.r;(v&&C.t).a8(v,"touchstart",this.w(this.f.ga6j(),u,W.da))
-v=this.z;(v&&C.t).a8(v,"keydown",this.w(this.f.ga3r(),u,W.W))
-this.f.sjM(this.r)
-this.P(C.a,null)
-return},
-q:function(){var x,w,v,u,t,s,r,q,p,o,n,a0,a1
-x=this.f
-w=x.c
-v=this.dx
-if(v==null?w!=null:v!==w){this.aE(this.r,"is-disabled",w)
-this.dx=w}u=x.gKq()
-v=this.dy
-if(v!==u){v=this.x.style
-C.B.N(u)
-t=C.B.N(u)
-s=t+"%"
-t=(v&&C.Y).dl(v,"width")
-v.setProperty(t,s,"")
-this.dy=u}v=T.oq()
-r=T.A5(v==null?"":v)?0:-8
-v=this.fr
-if(v!==r){v=this.z.style
-C.h.N(r)
-t=C.h.N(r)
-s=t+"px"
-t=(v&&C.Y).dl(v,"margin-left")
-v.setProperty(t,s,"")
-this.fr=r}v=T.oq()
-q=T.A5(v==null?"":v)?-8:0
-v=this.fx
-if(v!==q){v=this.z.style
-C.h.N(q)
-t=C.h.N(q)
-s=t+"px"
-t=(v&&C.Y).dl(v,"margin-right")
-v.setProperty(t,s,"")
-this.fx=q}p=x.f
-v=this.fy
-if(v!==p){v=this.z
-t=C.h.N(p)
-this.a9(v,"aria-valuemin",t)
-this.fy=p}o=x.r
-v=this.go
-if(v!==o){v=this.z
-t=C.h.N(o)
-this.a9(v,"aria-valuemax",t)
-this.go=o}n=x.d
-v=this.id
-if(v==null?n!=null:v!==n){v=this.z
-this.a9(v,"aria-valuenow",n==null?null:C.B.N(n))
-this.id=n}a0=x.z
-v=this.k1
-if(v!==a0){this.aE(this.cx,"is-dragging",a0)
-this.k1=a0}v=H.u(100-x.gKq())
-a1="calc("+v+"% + 8px)"
-v=this.k2
-if(v!==a1){v=this.cy.style
-t=(v&&C.Y).dl(v,"width")
-v.setProperty(t,a1,"")
-this.k2=a1}},
-C:function(n){var x,w,v
-x=J.e5(this.f)
-w=this.k3
-if(w==null?x!=null:w!==x){w=this.e
-this.a9(w,"aria-disabled",x==null?null:C.aI.N(x))
-this.k3=x}v=J.e5(this.f)
-w=this.k4
-if(w==null?v!=null:w!==v){this.bb(this.e,"is-disabled",v)
-this.k4=v}},
-$asb:function(){return[Q.fd]}}
-Y.Vg.prototype={
-p:function(){var x,w
-x=Y.a12(this,0)
-this.r=x
-this.e=x.e
-x=x.a.b
-w=this.n(C.d,this.a.Q)
-x=new Q.fd(x,w,!1,0,new P.k(null,null,0,[P.ab]),0,100,1,!1)
-this.x=x
-this.r.k(0,x,this.a.e)
-this.D(this.e)
-return new D.A(this,0,this.e,this.x,[Q.fd])},
-R:function(n,o,p){if((n===C.cw||n===C.c)&&0===o)return this.x
-return p},
-q:function(){var x=this.a.cy
-this.r.C(x===0)
-this.r.j()},
-v:function(){var x=this.r
-if(!(x==null))x.i()},
-$asb:function(){return[Q.fd]}}
-M.fc.prototype={
-gaV:function(){return this.a}}
-B.Nv.prototype={
+F.fb.prototype={
+gaZ:function(){return this.a}}
+F.Nl.prototype={
 gpo:function(){var x=this.z
 if(x==null){x=document
 this.z=x}return x},
-gEX:function(){var x=this.Q
+gES:function(){var x=this.Q
 if(x==null){x=window
 this.Q=x}return x},
 gpp:function(){var x=this.ch
 if(x==null){x=this.c
-x=T.aM(x.m(C.d,this.a.Q,null),x.m(C.A,this.a.Q,null),x.n(C.f,this.a.Q),this.gEX())
+x=T.aN(x.m(C.d,this.a.Q,null),x.m(C.A,this.a.Q,null),x.n(C.f,this.a.Q),this.gES())
 this.ch=x}return x},
-gEU:function(){var x=this.cx
+gEP:function(){var x=this.cx
 if(x==null){x=new O.aA(this.c.n(C.Q,this.a.Q),this.gpp())
 this.cx=x}return x},
-gvd:function(){var x=this.cy
-if(x==null){x=new K.ay(this.gpo(),this.gpp(),P.aL(null))
+gvb:function(){var x=this.cy
+if(x==null){x=new K.az(this.gpo(),this.gpp(),P.aM(null))
 this.cy=x}return x},
-gve:function(){var x=this.dx
-if(x==null){x=G.aY(this.c.m(C.v,this.a.Q,null))
+gvc:function(){var x=this.dx
+if(x==null){x=G.aY(this.c.m(C.w,this.a.Q,null))
 this.dx=x}return x},
-gEZ:function(){var x=this.dy
-if(x==null){x=G.b2(this.gpo(),this.c.m(C.w,this.a.Q,null))
+gEU:function(){var x=this.dy
+if(x==null){x=G.b2(this.gpo(),this.c.m(C.x,this.a.Q,null))
 this.dy=x}return x},
-gF_:function(){var x=this.fr
-if(x==null){x=G.aQ(this.gve(),this.gEZ(),this.c.m(C.u,this.a.Q,null))
+gEV:function(){var x=this.fr
+if(x==null){x=G.aQ(this.gvc(),this.gEU(),this.c.m(C.v,this.a.Q,null))
 this.fr=x}return x},
-gvf:function(){var x=this.fx
+gvd:function(){var x=this.fx
 if(x==null){this.fx=!0
 x=!0}return x},
-gF0:function(){var x=this.fy
+gEW:function(){var x=this.fy
 if(x==null){this.fy=!0
 x=!0}return x},
-gEW:function(){var x=this.go
+gER:function(){var x=this.go
 if(x==null){x=this.gpo()
 x=new R.aH(x.querySelector("head"),!1,x)
 this.go=x}return x},
-gEY:function(){var x=this.id
+gET:function(){var x=this.id
 if(x==null){x=X.aX()
 this.id=x}return x},
-gEV:function(){var x=this.k1
-if(x==null){x=K.aV(this.gEW(),this.gF_(),this.gve(),this.gvd(),this.gpp(),this.gEU(),this.gvf(),this.gF0(),this.gEY())
+gEQ:function(){var x=this.k1
+if(x==null){x=K.aV(this.gER(),this.gEV(),this.gvc(),this.gvb(),this.gpp(),this.gEP(),this.gvd(),this.gEW(),this.gET())
 this.k1=x}return x},
 p:function(){var x,w
 x=this.a3(this.e)
-w=K.bZ(this,0)
+w=K.c0(this,0)
 this.x=w
 w=w.e
 this.r=w
@@ -363,32 +172,32 @@ this.P(C.a,null)
 return},
 R:function(n,o,p){var x,w,v,u
 if(n===C.K&&0===o)return this.gpo()
-if(n===C.G&&0===o)return this.gEX()
+if(n===C.G&&0===o)return this.gES()
 if(n===C.d&&0===o)return this.gpp()
-if(n===C.M&&0===o)return this.gEU()
-if(n===C.L&&0===o)return this.gvd()
+if(n===C.M&&0===o)return this.gEP()
+if(n===C.L&&0===o)return this.gvb()
 if(n===C.R&&0===o){x=this.db
 if(x==null){x=T.aS(this.c.n(C.f,this.a.Q))
-this.db=x}return x}if(n===C.v&&0===o)return this.gve()
-if(n===C.w&&0===o)return this.gEZ()
-if(n===C.u&&0===o)return this.gF_()
-if(n===C.P&&0===o)return this.gvf()
-if(n===C.E&&0===o)return this.gF0()
-if(n===C.O&&0===o)return this.gEW()
-if(n===C.C&&0===o)return this.gEY()
-if(n===C.N&&0===o)return this.gEV()
+this.db=x}return x}if(n===C.w&&0===o)return this.gvc()
+if(n===C.x&&0===o)return this.gEU()
+if(n===C.v&&0===o)return this.gEV()
+if(n===C.P&&0===o)return this.gvd()
+if(n===C.E&&0===o)return this.gEW()
+if(n===C.O&&0===o)return this.gER()
+if(n===C.C&&0===o)return this.gET()
+if(n===C.N&&0===o)return this.gEQ()
 if(n===C.m&&0===o){x=this.k2
 if(x==null){x=this.c
 w=x.n(C.f,this.a.Q)
-v=this.gvf()
-u=this.gEV()
+v=this.gvd()
+u=this.gEQ()
 x.m(C.m,this.a.Q,null)
-u=new X.aE(v,w,u)
+u=new X.aF(v,w,u)
 this.k2=u
 x=u}return x}if(n===C.F&&0===o){x=this.k3
-if(x==null){this.k3=C.y
-x=C.y}return x}if(n===C.x&&0===o){x=this.k4
-if(x==null){x=new K.aJ(this.gvd())
+if(x==null){this.k3=C.z
+x=C.z}return x}if(n===C.y&&0===o){x=this.k4
+if(x==null){x=new K.aJ(this.gvb())
 this.k4=x}return x}return p},
 q:function(){var x,w
 x=this.f.a
@@ -397,339 +206,791 @@ if(w!==x){this.y.a=x
 this.r1=x}this.x.j()},
 v:function(){var x=this.x
 if(!(x==null))x.i()},
-$asb:function(){return[M.fc]}}
-B.Vf.prototype={
+$asb:function(){return[F.fb]}}
+F.UT.prototype={
 p:function(){var x,w,v,u
 x=P.c
-w=new B.Nv(P.e(x,null),this)
+w=new F.Nl(P.e(x,null),this)
 w.a=S.f(w,3,C.j,0)
-v=document.createElement("material-slider-api")
+v=document.createElement("material-radio-api")
 w.e=v
-v=$.a6L
+v=$.a6N
 if(v==null){v=$.D
-v=v.a2(null,C.T,C.a)
-$.a6L=v}w.a1(v)
+v=v.a2(null,C.U,C.a)
+$.a6N=v}w.a1(v)
 this.r=w
 this.e=w.e
 w=[R.h]
-w=H.a([new R.a2("MaterialSliderComponent","material-slider","","angular_components/lib/material_slider/material_slider.dart",'<p>A <a href="https://material.io/guidelines/components/sliders.html">material slider</a>\nwhich works for integer values.</p>\n<p>The slider can be controlled by dragging it with the mouse, or by using the\nkeyboard. In LTR, Left/down arrow keys decrease the value by 1, up/right\nkeys increase by 1, page up increases by 10% (rounded up) and page down\ndecreases by 10% (rounded up). In RTL, the keys have the opposite effect.</p>\n<p>WARNING when using double values floating point math can cause the values\nto be non-exact. If displaying the value to the user consider formatting\nthe result.</p>\n',H.a([new R.h("Input","disabled","","bool","<p>True if the slider disabled.</p>\n","angular_components/lib/material_slider/material_slider.dart",!1,""),new R.h("Input","max","","num","<p>The maximum progress value.</p>\n<p>Defaults to 100, must be strictly larger than min.</p>\n","angular_components/lib/material_slider/material_slider.dart",!1,""),new R.h("Input","min","","num","<p>The minimum progress value.</p>\n<p>Defaults to 0, must be strictly smaller than max.</p>\n","angular_components/lib/material_slider/material_slider.dart",!1,""),new R.h("Input","step","","num","<p>The step size of the input.</p>\n<p>Must be a positive number and a divisor of (max - min).</p>\n","angular_components/lib/material_slider/material_slider.dart",!1,""),new R.h("Input","value","","num","<p>The current value of the input element.</p>\n<p>Must be between <code>min</code> and <code>max</code>, inclusive, and a multiple of <code>step</code>.</p>\n","angular_components/lib/material_slider/material_slider.dart",!1,"")],w),H.a([new R.h("Output","valueChange","","Stream<num>","<p>Publishes events when the value of the input is changed by the user.</p>\n","angular_components/lib/material_slider/material_slider.dart",!1,"")],w))],[R.a2])
-v=H.a([new R.a7(C.cZ,"MaterialSliderExample","material_slider_example/lib/material_slider_example.dart")],[R.a7])
+w=H.a([new R.a2("MaterialRadioComponent","material-radio","","angular_components/lib/material_radio/material_radio.dart","<p>A radio button with material style. Usually used together with\n<code>material-radio-group</code>. Once checked, same radio button can not be unchecked\nvia user action.</p>\n<p>Keyboard interaction for focus is a little unusual, so we are managing our\nown streams instead of using FocusItemDirective.</p>\n<p><strong>Attributes:</strong></p><ul><li><code>no-ink</code> -- set this attribute to disable the ripple effect on the chip.</li></ul>\n",H.a([new R.h("Input","checked","","bool","<p>Whether the radio should be preselected.</p>\n","angular_components/lib/material_radio/material_radio.dart",!1,""),new R.h("Input","disabled","","bool","<p>Whether the radio should not respond to events, and have a style that\nsuggests that interaction is not allowed.</p>\n","angular_components/lib/material_radio/material_radio.dart",!1,""),new R.h("Input","value","","dynamic","<p>Value this radio represents, used in selection model with radio-group.</p>\n","angular_components/lib/material_radio/material_radio.dart",!1,"")],w),H.a([new R.h("Output","onChecked","checkedChange","Stream<bool>","<p>Published when the radio selection state changes.</p>\n","angular_components/lib/material_radio/material_radio.dart",!1,"")],w)),new R.a2("MaterialRadioGroupComponent","material-radio-group","","angular_components/lib/material_radio/material_radio_group.dart","<p>Group containing multiple material radio buttons, enforcing that only one\nvalue in the group is selected.</p>\n<p>You can get the value via both <code>selected</code> and <code>ngModel</code>, but you should\navoid using both, because ngModel is also getting the value by listening\nto <code>onChange</code>, so the values may appear out of sync.</p>\n<p>Preselect of value at group level is done via managed zone, so if it's\npossible to set it at radio level, do that instead.</p>\n<p>Per accessibility guide line:</p><ul><li>SPACE selects</li><li>Arrow keys moves focus to next / previous options and selects it</li><li>CTL + arrow keys moves focus without selecting</li><li>Focus will wrap around to first / last option when navigating with arrows</li><li>When navigating with TAB, if nothing is selected, focus goes to first or\nlast option that's not disabled, depending on direction, otherwise focus\ngoes to the selected (except when disabled, then skips group entirely);\nand jumps out of the group on second tab.</li></ul>\n",H.a([new R.h("Input","selected","","dynamic","<p>Value of currently selected radio. Prefer <code>[ngModel]</code>.</p>\n","angular_components/lib/material_radio/material_radio_group.dart",!1,""),new R.h("Input","valueSelection","selectionModel","SelectionModel<dynamic>","<p>Selection model containing value object.</p>\n","angular_components/lib/material_radio/material_radio_group.dart",!1,"")],w),H.a([new R.h("Output","onChange","selectedChange","Stream<dynamic>","<p>Published when selection changes. Prefer <code>(ngModelChanged)</code>.</p>\n","angular_components/lib/material_radio/material_radio_group.dart",!1,"")],w))],[R.a2])
+v=H.a([new R.a6(C.cX,"MaterialRadioExample","material_radio_example/lib/material_radio_example.dart")],[R.a6])
 u=[x]
-u=new M.fc(R.c5(H.a([],[R.bF]),v,w,H.a([],u),P.e(x,x),!0,H.a([],u)))
+u=new F.fb(R.c7(H.a([],[R.bH]),v,w,H.a([],u),P.e(x,x),!0,H.a([],u)))
 this.x=u
 this.r.k(0,u,this.a.e)
-this.D(this.e)
-return new D.A(this,0,this.e,this.x,[M.fc])},
+this.E(this.e)
+return new D.z(this,0,this.e,this.x,[F.fb])},
 q:function(){this.r.j()},
 v:function(){var x=this.r
 if(!(x==null))x.i()},
-$asb:function(){return[M.fc]}}
-R.iB.prototype={
-gab:function(n){return this.a},
-gaO:function(n){return this.c},
-sab:function(n,o){return this.a=o},
-sa6C:function(n){return this.b=n},
-saO:function(n,o){return this.c=o},
-sa1j:function(n){return this.d=n}}
-Q.uY.prototype={
-p:function(){var x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2
+$asb:function(){return[F.fb]}}
+O.fW.prototype={
+N_:function(){this.y=C.e.J7(this.x,new O.Gw())},
+geh:function(n){return this.y},
+sa7j:function(n){return this.b=n},
+sa6e:function(n){return this.c=n},
+sa3N:function(n){return this.d=n},
+sa1f:function(n){return this.e=n},
+seh:function(n,o){return this.y=o}}
+O.iY.prototype={
+gd_:function(n){return this.a},
+geh:function(n){return this.b},
+gaS:function(n){return this.c},
+seh:function(n,o){return this.b=o},
+saS:function(n,o){return this.c=o}}
+V.uZ.prototype={
+p:function(){var x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8
 x=this.a3(this.e)
 w=document
 v=S.d(w,"section",x)
 this.r=v
+v.className="independent-radio-buttons"
 this.l(v)
 v=S.d(w,"h2",this.r)
 this.x=v
 this.l(v)
-u=w.createTextNode("Basic")
+u=w.createTextNode("Independent Radio Buttons")
 this.x.appendChild(u)
-v=Q.c_(this,3)
+v=L.e0(this,3)
 this.z=v
 v=v.e
 this.y=v
 this.r.appendChild(v)
 this.h(this.y)
-v=D.bU(this.z.a.b,null)
+v=U.bb(null,null)
 this.Q=v
-this.z.k(0,v,[C.a])
-v=S.d(w,"br",this.r)
 this.ch=v
-this.l(v)
-v=Y.a12(this,5)
-this.cy=v
-v=v.e
+v=R.dS(this.y,this.z.a.b,null,v,null)
 this.cx=v
-this.r.appendChild(v)
-this.h(this.cx)
-v=this.cy.a.b
-t=this.c
-s=t.n(C.d,this.a.Q)
-r=P.ab
-q=[r]
-v=new Q.fd(v,s,!1,0,new P.k(null,null,0,q),0,100,1,!1)
+t=w.createTextNode("Selectable radio button")
+s=[W.aK]
+this.z.k(0,v,[H.a([t],s)])
+v=L.e0(this,5)
 this.db=v
-this.cy.k(0,v,[])
-v=S.d(w,"p",this.r)
+v=v.e
+this.cy=v
+this.r.appendChild(v)
+this.h(this.cy)
+v=U.bb(null,null)
 this.dx=v
-this.l(v)
-p=w.createTextNode("Value: ")
-this.dx.appendChild(p)
-v=w.createTextNode("")
 this.dy=v
-this.dx.appendChild(v)
-v=S.d(w,"section",x)
+v=R.dS(this.cy,this.db.a.b,null,v,null)
 this.fr=v
-this.l(v)
-v=S.d(w,"h2",this.fr)
-this.fx=v
-this.l(v)
-o=w.createTextNode("Custom Colors and Double Values")
-this.fx.appendChild(o)
-v=Q.c_(this,12)
-this.go=v
-v=v.e
+r=w.createTextNode("Pre-selected radio button")
+this.db.k(0,v,[H.a([r],s)])
+v=L.e0(this,7)
 this.fy=v
-this.fr.appendChild(v)
-this.h(this.fy)
-v=D.bU(this.go.a.b,null)
-this.id=v
-this.go.k(0,v,[C.a])
-v=S.d(w,"br",this.fr)
-this.k1=v
-this.l(v)
-v=Y.a12(this,14)
-this.k3=v
 v=v.e
+this.fx=v
+this.r.appendChild(v)
+this.h(this.fx)
+v=R.dS(this.fx,this.fy.a.b,null,null,null)
+this.go=v
+q=w.createTextNode("Disabled radio button")
+this.fy.k(0,v,[H.a([q],s)])
+v=L.e0(this,9)
+this.k1=v
+v=v.e
+this.id=v
+this.r.appendChild(v)
+this.h(this.id)
+v=R.dS(this.id,this.k1.a.b,null,null,null)
 this.k2=v
-this.fr.appendChild(v)
-v=this.k2
-v.className="custom-colors"
+p=w.createTextNode("Disabled pre-selected radio button")
+this.k1.k(0,v,[H.a([p],s)])
+v=S.o(w,this.r)
+this.k3=v
+v.className="debug-info"
 this.h(v)
-v=this.k3.a.b
-t=t.n(C.d,this.a.Q)
-v=new Q.fd(v,t,!1,0,new P.k(null,null,0,q),0,100,1,!1)
+o=w.createTextNode("unlabeled = ")
+this.k3.appendChild(o)
+v=w.createTextNode("")
 this.k4=v
-this.k3.k(0,v,[])
-v=S.d(w,"p",this.fr)
+this.k3.appendChild(v)
+v=S.d(w,"br",this.k3)
 this.r1=v
 this.l(v)
-n=w.createTextNode("Value: ")
-this.r1.appendChild(n)
+n=w.createTextNode(" selectable = ")
+this.k3.appendChild(n)
 v=w.createTextNode("")
 this.r2=v
-this.r1.appendChild(v)
-v=this.Q.f
-t=P.x
-a0=new P.m(v,[H.i(v,0)]).B(this.w(this.gXv(),t,t))
-v=this.db.e
-a1=new P.m(v,[H.i(v,0)]).B(this.w(this.gVq(),r,r))
-v=this.id.f
-a2=new P.m(v,[H.i(v,0)]).B(this.w(this.gPe(),t,t))
-t=this.k4.e
-this.P(C.a,[a0,a1,a2,new P.m(t,[H.i(t,0)]).B(this.w(this.gVo(),r,r))])
+this.k3.appendChild(v)
+v=S.d(w,"br",this.k3)
+this.rx=v
+this.l(v)
+a0=w.createTextNode(" pre-selected = ")
+this.k3.appendChild(a0)
+v=w.createTextNode("")
+this.ry=v
+this.k3.appendChild(v)
+v=S.d(w,"br",this.k3)
+this.x1=v
+this.l(v)
+a1=w.createTextNode(" impossible = ")
+this.k3.appendChild(a1)
+v=w.createTextNode("")
+this.x2=v
+this.k3.appendChild(v)
+v=S.d(w,"br",this.k3)
+this.y1=v
+this.l(v)
+a2=w.createTextNode(" always = ")
+this.k3.appendChild(a2)
+v=w.createTextNode("")
+this.y2=v
+this.k3.appendChild(v)
+v=S.d(w,"br",this.k3)
+this.T=v
+this.l(v)
+v=S.d(w,"section",x)
+this.N=v
+v.className="themed"
+this.l(v)
+v=S.d(w,"h2",this.N)
+this.U=v
+this.l(v)
+a3=w.createTextNode("Themed Radio Button")
+this.U.appendChild(a3)
+v=L.ne(this,30)
+this.K=v
+v=v.e
+this.L=v
+this.N.appendChild(v)
+this.h(this.L)
+v=this.c
+this.I=T.mN(v.n(C.f,this.a.Q),null)
+a4=L.e0(this,31)
+this.a_=a4
+a4=a4.e
+this.M=a4
+this.h(a4)
+a4=R.dS(this.M,this.a_.a.b,this.I,null,null)
+this.Z=a4
+a5=w.createTextNode("Option 1")
+this.a_.k(0,a4,[H.a([a5],s)])
+a4=L.e0(this,33)
+this.V=a4
+a4=a4.e
+this.a0=a4
+this.h(a4)
+a4=R.dS(this.a0,this.V.a.b,this.I,null,null)
+this.a7=a4
+a6=w.createTextNode("Option 2")
+this.V.k(0,a4,[H.a([a6],s)])
+a4=[R.cx]
+this.I.sl_(H.a([this.Z,this.a7],a4))
+a7=[W.am]
+this.K.k(0,this.I,[H.a([this.M,this.a0],a7)])
+a8=S.d(w,"section",x)
+this.a5=a8
+this.l(a8)
+a8=S.d(w,"h2",this.a5)
+this.aa=a8
+this.l(a8)
+a9=w.createTextNode("Group with Pre-selection")
+this.aa.appendChild(a9)
+a8=S.d(w,"p",this.a5)
+this.a6=a8
+this.l(a8)
+a8=S.d(w,"em",this.a6)
+this.ag=a8
+this.l(a8)
+b0=w.createTextNode("using ng-model at group level")
+this.ag.appendChild(b0)
+a8=L.ne(this,41)
+this.ah=a8
+a8=a8.e
+this.ap=a8
+this.a5.appendChild(a8)
+this.h(this.ap)
+a8=U.bb(null,null)
+this.X=a8
+this.ai=a8
+this.ad=T.mN(v.n(C.f,this.a.Q),this.ai)
+a8=$.$get$I()
+b1=new V.n(42,41,this,a8.cloneNode(!1))
+this.am=b1
+this.ae=new R.ap(b1,new D.p(b1,V.axG()))
+b2=[V.n]
+this.ah.k(0,this.ad,[H.a([b1],b2)])
+b1=S.o(w,this.a5)
+this.ay=b1
+b1.className="debug-info"
+this.h(b1)
+b3=w.createTextNode("selected: ")
+this.ay.appendChild(b3)
+b1=w.createTextNode("")
+this.al=b1
+this.ay.appendChild(b1)
+b1=S.d(w,"section",x)
+this.an=b1
+this.l(b1)
+b1=S.d(w,"h1",this.an)
+this.ax=b1
+this.l(b1)
+b4=w.createTextNode("Group without Pre-selection")
+this.ax.appendChild(b4)
+b1=S.d(w,"p",this.an)
+this.av=b1
+this.l(b1)
+b1=S.d(w,"em",this.av)
+this.aq=b1
+this.l(b1)
+b5=w.createTextNode("with custom style: no ripple on click, vertical list via `display: flex`")
+this.aq.appendChild(b5)
+b1=L.ne(this,52)
+this.aC=b1
+b1=b1.e
+this.aI=b1
+this.an.appendChild(b1)
+this.h(this.aI)
+this.as=T.mN(v.n(C.f,this.a.Q),null)
+a8=new V.n(53,52,this,a8.cloneNode(!1))
+this.ab=a8
+this.aT=new R.ap(a8,new D.p(a8,V.axH()))
+this.aC.k(0,this.as,[H.a([a8],b2)])
+b2=S.o(w,this.an)
+this.az=b2
+b2.className="debug-info"
+this.h(b2)
+b6=w.createTextNode("selected: ")
+this.az.appendChild(b6)
+b2=w.createTextNode("")
+this.aX=b2
+this.az.appendChild(b2)
+b2=S.d(w,"section",x)
+this.aF=b2
+b2.className="radio-button-alignment"
+this.l(b2)
+b2=S.d(w,"h2",this.aF)
+this.aG=b2
+this.l(b2)
+b7=w.createTextNode("Radio Button Alignment")
+this.aG.appendChild(b7)
+b2=L.e0(this,60)
+this.aH=b2
+b2=b2.e
+this.at=b2
+this.aF.appendChild(b2)
+this.at.className=Q.bw("","top-aligned"," ","themeable","")
+this.h(this.at)
+this.aw=R.dS(this.at,this.aH.a.b,null,null,null)
+a8=w.createElement("p")
+this.aY=a8
+this.l(a8)
+b8=w.createTextNode("Top-aligned radio button.")
+this.aY.appendChild(b8)
+a8=w.createElement("textarea")
+this.aN=a8
+this.h(a8)
+b9=w.createTextNode(" ")
+a8=w.createElement("a")
+this.aQ=a8
+a8.setAttribute("href","https://www.google.com")
+this.aQ.setAttribute("target","_blank")
+this.h(this.aQ)
+c0=w.createTextNode("External Link")
+this.aQ.appendChild(c0)
+a8=[W.ac]
+this.aH.k(0,this.aw,[H.a([this.aY,this.aN,b9,this.aQ],a8)])
+b1=S.d(w,"hr",this.aF)
+this.aA=b1
+this.l(b1)
+b1=L.e0(this,68)
+this.ao=b1
+b1=b1.e
+this.aM=b1
+this.aF.appendChild(b1)
+this.aM.className=Q.bw("","center-aligned radio-no-left-margin"," ","themeable","")
+this.h(this.aM)
+this.b3=R.dS(this.aM,this.ao.a.b,null,null,null)
+b1=w.createElement("p")
+this.aV=b1
+this.l(b1)
+c1=w.createTextNode("Center-aligned radio button without left margin")
+this.aV.appendChild(c1)
+b1=w.createElement("textarea")
+this.b7=b1
+this.h(b1)
+c2=w.createTextNode(" ")
+b1=w.createElement("a")
+this.bh=b1
+b1.setAttribute("href","https://www.google.com")
+this.bh.setAttribute("target","_blank")
+this.h(this.bh)
+c3=w.createTextNode("External Link")
+this.bh.appendChild(c3)
+this.ao.k(0,this.b3,[H.a([this.aV,this.b7,c2,this.bh],a8)])
+b1=S.d(w,"hr",this.aF)
+this.bu=b1
+this.l(b1)
+b1=L.e0(this,76)
+this.b5=b1
+b1=b1.e
+this.bi=b1
+this.aF.appendChild(b1)
+this.bi.className=Q.bw("","bottom-aligned"," ","themeable","")
+this.h(this.bi)
+this.bv=R.dS(this.bi,this.b5.a.b,null,null,null)
+b1=w.createElement("p")
+this.bx=b1
+this.l(b1)
+c4=w.createTextNode("Bottom-aligned radio button")
+this.bx.appendChild(c4)
+b1=w.createElement("textarea")
+this.bc=b1
+this.h(b1)
+c5=w.createTextNode(" ")
+b1=w.createElement("a")
+this.bj=b1
+b1.setAttribute("href","https://www.google.com")
+this.bj.setAttribute("target","_blank")
+this.h(this.bj)
+c6=w.createTextNode("External Link")
+this.bj.appendChild(c6)
+this.b5.k(0,this.bv,[H.a([this.bx,this.bc,c5,this.bj],a8)])
+b1=S.d(w,"hr",this.aF)
+this.au=b1
+this.l(b1)
+b1=L.e0(this,84)
+this.b9=b1
+b1=b1.e
+this.b8=b1
+this.aF.appendChild(b1)
+this.h(this.b8)
+this.bd=R.dS(this.b8,this.b9.a.b,null,null,null)
+b1=w.createElement("p")
+this.bk=b1
+this.l(b1)
+c7=w.createTextNode("By default, radio buttons are aligned at the baseline.")
+this.bk.appendChild(c7)
+b1=S.o(w,this.bk)
+this.bl=b1
+b1.className="block"
+this.h(b1)
+b1=S.d(w,"br",this.bk)
+this.bb=b1
+this.l(b1)
+c8=w.createTextNode(" This radio aligns with the first line of text despite the large gray block.")
+this.bk.appendChild(c8)
+b1=w.createElement("textarea")
+this.bt=b1
+this.h(b1)
+c9=w.createTextNode(" ")
+b1=w.createElement("a")
+this.aW=b1
+b1.setAttribute("href","https://www.google.com")
+this.aW.setAttribute("target","_blank")
+this.h(this.aW)
+d0=w.createTextNode("External Link")
+this.aW.appendChild(d0)
+this.b9.k(0,this.bd,[H.a([this.bk,this.bt,c9,this.aW],a8)])
+a8=S.d(w,"section",x)
+this.bm=a8
+this.l(a8)
+a8=S.d(w,"h2",this.bm)
+this.bw=a8
+this.l(a8)
+d1=w.createTextNode("No Left Margin for Radio Group")
+this.bw.appendChild(d1)
+a8=S.d(w,"p",this.bm)
+this.bB=a8
+this.l(a8)
+a8=S.d(w,"em",this.bB)
+this.bG=a8
+this.l(a8)
+d2=w.createTextNode("using CSS class")
+this.bG.appendChild(d2)
+a8=L.ne(this,100)
+this.b1=a8
+a8=a8.e
+this.bZ=a8
+this.bm.appendChild(a8)
+a8=this.bZ
+a8.className="no-left-margin"
+this.h(a8)
+this.b6=T.mN(v.n(C.f,this.a.Q),null)
+v=L.e0(this,101)
+this.c_=v
+v=v.e
+this.bq=v
+this.h(v)
+v=R.dS(this.bq,this.c_.a.b,this.b6,null,null)
+this.be=v
+d3=w.createTextNode("Option A")
+this.c_.k(0,v,[H.a([d3],s)])
+v=L.e0(this,103)
+this.by=v
+v=v.e
+this.bC=v
+this.h(v)
+v=R.dS(this.bC,this.by.a.b,this.b6,null,null)
+this.bf=v
+d4=w.createTextNode("Option B")
+this.by.k(0,v,[H.a([d4],s)])
+this.b6.sl_(H.a([this.be,this.bf],a4))
+this.b1.k(0,this.b6,[H.a([this.bq,this.bC],a7)])
+a7=this.Q.f
+a7.toString
+d5=new P.l(a7,[H.i(a7,0)]).B(this.w(this.gSy(),null,null))
+a7=this.dx.f
+a7.toString
+d6=new P.l(a7,[H.i(a7,0)]).B(this.w(this.gSI(),null,null))
+a7=this.go.y
+a4=P.x
+d7=new P.l(a7,[H.i(a7,0)]).B(this.w(this.gYj(),a4,a4))
+a7=this.k2.y
+d8=new P.l(a7,[H.i(a7,0)]).B(this.w(this.gQc(),a4,a4))
+a4=this.X.f
+a4.toString
+this.P(C.a,[d5,d6,d7,d8,new P.l(a4,[H.i(a4,0)]).B(this.w(this.gSE(),null,null))])
 return},
-R:function(n,o,p){var x,w
-x=n===C.c
-if(x&&3===o)return this.Q
-w=n!==C.cw
-if((!w||x)&&5===o)return this.db
-if(x&&12===o)return this.id
-if((!w||x)&&14===o)return this.k4
+R:function(n,o,p){var x,w,v,u
+x=n===C.aq
+if(x&&3<=o&&o<=4)return this.Q
+w=n===C.ap
+if(w&&3<=o&&o<=4)return this.ch
+v=n===C.c
+if(v&&3<=o&&o<=4)return this.cx
+if(x&&5<=o&&o<=6)return this.dx
+if(w&&5<=o&&o<=6)return this.dy
+if(v&&5<=o&&o<=6)return this.fr
+if(v&&7<=o&&o<=8)return this.go
+if(v&&9<=o&&o<=10)return this.k2
+if(v&&31<=o&&o<=32)return this.Z
+if(v&&33<=o&&o<=34)return this.a7
+u=n===C.bj
+if(u&&30<=o&&o<=34)return this.I
+if(x&&41<=o&&o<=42)return this.X
+if(w&&41<=o&&o<=42)return this.ai
+if(u&&41<=o&&o<=42)return this.ad
+if(u&&52<=o&&o<=53)return this.as
+if(v&&60<=o&&o<=66)return this.aw
+if(v&&68<=o&&o<=74)return this.b3
+if(v&&76<=o&&o<=82)return this.bv
+if(v&&84<=o&&o<=93)return this.bd
+if(v&&101<=o&&o<=102)return this.be
+if(v&&103<=o&&o<=104)return this.bf
+if(u&&100<=o&&o<=104)return this.b6
 return p},
-q:function(){var x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2
+q:function(){var x,w,v,u,t,s,r,q,p,o,n,a0,a1,a2,a3
 x=this.f
 w=this.a.cy===0
-v=x.c?"enable":"disable"
-u="Tap to "+v
-v=this.rx
-if(v!==u){this.Q.r=u
-this.rx=u
-t=!0}else t=!1
-s=x.c
-v=this.ry
-if(v==null?s!=null:v!==s){v=this.Q
-v.e=s
-v.c0()
-this.ry=s
-t=!0}if(t)this.z.a.st(1)
-r=x.c
-v=this.x1
-if(v==null?r!=null:v!==r){this.db.c=r
-this.x1=r
-t=!0}else t=!1
-q=x.a
-v=this.x2
-if(v==null?q!=null:v!==q){this.db.d=q
-this.x2=q
-t=!0}if(t)this.cy.a.st(1)
-if(t)this.db.toString
-v=x.d?"enable":"disable"
-p="Tap to "+v
-v=this.y2
-if(v!==p){this.id.r=p
-this.y2=p
-t=!0}else t=!1
-o=x.d
-v=this.T
-if(v==null?o!=null:v!==o){v=this.id
-v.e=o
-v.c0()
-this.T=o
-t=!0}if(t)this.go.a.st(1)
-if(w){v=this.k4
-v.f=0
-v.r=2
-v.x=0.5
-t=!0}else t=!1
-n=x.d
-v=this.O
-if(v==null?n!=null:v!==n){this.k4.c=n
-this.O=n
-t=!0}a0=x.b
-v=this.U
-if(v==null?a0!=null:v!==a0){this.k4.d=a0
-this.U=a0
-t=!0}if(t)this.k3.a.st(1)
-if(t)this.k4.toString
-this.cy.C(w)
-a1=Q.G(x.a)
-v=this.y1
-if(v!==a1){this.dy.textContent=a1
-this.y1=a1}this.k3.C(w)
-a2=Q.G(x.b)
-v=this.L
-if(v!==a2){this.r2.textContent=a2
-this.L=a2}this.z.j()
-this.cy.j()
-this.go.j()
-this.k3.j()
-if(w){this.Q.c0()
-this.id.c0()}},
-v:function(){var x=this.z
+this.Q.saZ(x.b)
+this.Q.b_()
+if(w)this.Q.D()
+this.dx.saZ(x.c)
+this.dx.b_()
+if(w)this.dx.D()
+if(w){this.go.x=!0
+v=!0}else v=!1
+u=x.d
+t=this.bS
+if(t==null?u!=null:t!==u){this.go.scu(0,u)
+this.bS=u
+v=!0}if(v)this.fy.a.st(1)
+if(w){this.k2.x=!0
+v=!0}else v=!1
+s=x.e
+t=this.br
+if(t==null?s!=null:t!==s){this.k2.scu(0,s)
+this.br=s
+v=!0}if(v)this.k1.a.st(1)
+if(w){this.Z.scu(0,!0)
+v=!0}else v=!1
+if(v)this.a_.a.st(1)
+this.X.saZ(x.y)
+this.X.b_()
+if(w)this.X.D()
+r=x.x
+t=this.b2
+if(t!==r){this.ae.scb(r)
+this.b2=r}this.ae.bQ()
+if(w){this.as.e=x.r
+v=!0}else v=!1
+if(v)this.aC.a.st(1)
+q=x.f
+t=this.cq
+if(t!==q){this.aT.scb(q)
+this.cq=q}this.aT.bQ()
+this.am.H()
+this.ab.H()
+if(this.aj){this.ad.sl_(this.am.cV(new V.No(),R.cx,V.xJ))
+this.aj=!1}if(this.aO){this.as.sl_(this.ab.cV(new V.Np(),R.cx,V.q4))
+this.aO=!1}if(w){this.I.kS()
+this.ad.kS()
+this.as.kS()
+this.b6.kS()}this.z.A(w)
+this.db.A(w)
+this.fy.A(w)
+this.k1.A(w)
+x.a
+p=Q.H(!1)
+t=this.bg
+if(t!==p){this.k4.textContent=p
+this.bg=p}o=Q.H(x.b)
+t=this.bM
+if(t!==o){this.r2.textContent=o
+this.bM=o}n=Q.H(x.c)
+t=this.bN
+if(t!==n){this.ry.textContent=n
+this.bN=n}a0=Q.H(x.d)
+t=this.bH
+if(t!==a0){this.x2.textContent=a0
+this.bH=a0}a1=Q.H(x.e)
+t=this.bz
+if(t!==a1){this.y2.textContent=a1
+this.bz=a1}this.a_.A(w)
+this.V.A(w)
+a2=x.y.a
+t=this.bT
+if(t!==a2){this.al.textContent=a2
+this.bT=a2}t=x.r.b
+a3=t.length===0?"unknown":C.e.gaP(t)
+if(a3==null)a3=""
+t=this.bX
+if(t!==a3){this.aX.textContent=a3
+this.bX=a3}this.aH.A(w)
+this.ao.A(w)
+this.b5.A(w)
+this.b9.A(w)
+this.c_.A(w)
+this.by.A(w)
+this.z.j()
+this.db.j()
+this.fy.j()
+this.k1.j()
+this.K.j()
+this.a_.j()
+this.V.j()
+this.ah.j()
+this.aC.j()
+this.aH.j()
+this.ao.j()
+this.b5.j()
+this.b9.j()
+this.b1.j()
+this.c_.j()
+this.by.j()},
+v:function(){var x=this.am
+if(!(x==null))x.G()
+x=this.ab
+if(!(x==null))x.G()
+x=this.z
 if(!(x==null))x.i()
-x=this.cy
+x=this.db
 if(!(x==null))x.i()
-x=this.go
+x=this.fy
 if(!(x==null))x.i()
-x=this.k3
-if(!(x==null))x.i()},
-Xw:function(n){J.a3x(this.f,n)},
-Vr:function(n){J.a3y(this.f,n)},
-Pf:function(n){this.f.sa1j(n)},
-Vp:function(n){this.f.sa6C(n)},
-$asb:function(){return[R.iB]}}
-Q.Vh.prototype={
+x=this.k1
+if(!(x==null))x.i()
+x=this.K
+if(!(x==null))x.i()
+x=this.a_
+if(!(x==null))x.i()
+x=this.V
+if(!(x==null))x.i()
+x=this.ah
+if(!(x==null))x.i()
+x=this.aC
+if(!(x==null))x.i()
+x=this.aH
+if(!(x==null))x.i()
+x=this.ao
+if(!(x==null))x.i()
+x=this.b5
+if(!(x==null))x.i()
+x=this.b9
+if(!(x==null))x.i()
+x=this.b1
+if(!(x==null))x.i()
+x=this.c_
+if(!(x==null))x.i()
+x=this.by
+if(!(x==null))x.i()
+this.cx.e.F()
+this.fr.e.F()
+this.go.e.F()
+this.k2.e.F()
+this.Z.e.F()
+this.a7.e.F()
+this.I.b.F()
+this.ad.b.F()
+this.as.b.F()
+this.aw.e.F()
+this.b3.e.F()
+this.bv.e.F()
+this.bd.e.F()
+this.be.e.F()
+this.bf.e.F()
+this.b6.b.F()},
+Sz:function(n){this.f.sa7j(n)},
+SJ:function(n){this.f.sa6e(n)},
+Yk:function(n){this.f.sa3N(n)},
+Qd:function(n){this.f.sa1f(n)},
+SF:function(n){J.a_S(this.f,n)},
+$asb:function(){return[O.fW]},
+gNd:function(){return this.ad},
+gNe:function(){return this.as},
+sa_h:function(n){return this.aj=n},
+sa_i:function(n){return this.aO=n}}
+V.xJ.prototype={
 p:function(){var x,w
-x=new Q.uY(P.e(P.c,null),this)
+x=L.e0(this,0)
+this.x=x
+x=x.e
+this.r=x
+this.h(x)
+x=R.dS(this.r,this.x.a.b,this.c.gNd(),null,null)
+this.y=x
+w=document.createTextNode("")
+this.z=w
+this.x.k(0,x,[H.a([w],[W.aK])])
+this.E(this.r)
+return},
+R:function(n,o,p){var x
+if(n===C.c)x=o<=1
+else x=!1
+if(x)return this.y
+return p},
+q:function(){var x,w,v,u,t,s
+x=this.a.cy
+w=this.b.C(0,"$implicit")
+v=this.Q
+if(v==null?w!=null:v!==w){this.y.r=w
+this.Q=w
+u=!0}else u=!1
+t=w.c
+v=this.ch
+if(v==null?t!=null:v!==t){this.y.x=t
+this.ch=t
+u=!0}if(u)this.x.a.st(1)
+this.x.A(x===0)
+s=Q.H(w.a)
+x=this.cx
+if(x!==s){this.z.textContent=s
+this.cx=s}this.x.j()},
+di:function(){this.c.sa_h(!0)},
+v:function(){var x=this.x
+if(!(x==null))x.i()
+this.y.e.F()},
+$asb:function(){return[O.fW]}}
+V.q4.prototype={
+p:function(){var x,w,v
+x=L.e0(this,0)
+this.x=x
+x=x.e
+this.r=x
+x.className=Q.bw("","radio-per-line"," ","themeable","")
+this.r.setAttribute("no-ink","")
+this.h(this.r)
+x=R.dS(this.r,this.x.a.b,this.c.gNe(),null,null)
+this.y=x
+w=document.createTextNode("")
+this.z=w
+this.x.k(0,x,[H.a([w],[W.aK])])
+w=this.y.y
+x=P.x
+v=new P.l(w,[H.i(w,0)]).B(this.w(this.gYh(),x,x))
+this.P([this.r],[v])
+return},
+R:function(n,o,p){var x
+if(n===C.c)x=o<=1
+else x=!1
+if(x)return this.y
+return p},
+q:function(){var x,w,v,u,t,s,r
+x=this.a.cy
+w=this.b.C(0,"$implicit")
+v=w.a
+u=this.Q
+if(u!==v){this.y.r=v
+this.Q=v
+t=!0}else t=!1
+s=w.b
+u=this.ch
+if(u==null?s!=null:u!==s){this.y.scu(0,s)
+this.ch=s
+t=!0}if(t)this.x.a.st(1)
+this.x.A(x===0)
+r=Q.H(v)
+x=this.cx
+if(x!==r){this.z.textContent=r
+this.cx=r}this.x.j()},
+di:function(){this.c.sa_i(!0)},
+v:function(){var x=this.x
+if(!(x==null))x.i()
+this.y.e.F()},
+Yi:function(n){this.b.C(0,"$implicit").b=n},
+$asb:function(){return[O.fW]}}
+V.UW.prototype={
+p:function(){var x,w
+x=new V.uZ(!0,!0,P.e(P.c,null),this)
 x.a=S.f(x,3,C.j,0)
-w=document.createElement("material-slider-example")
+w=document.createElement("material-radio-example")
 x.e=w
-w=$.a6N
+w=$.Nn
 if(w==null){w=$.D
-w=w.a2(null,C.p,$.$get$aia())
-$.a6N=w}x.a1(w)
+w=w.a2(null,C.p,$.$get$aic())
+$.Nn=w}x.a1(w)
 this.r=x
 this.e=x.e
-w=new R.iB(60,0.5,!1,!1)
-this.x=w
-x.k(0,w,this.a.e)
-this.D(this.e)
-return new D.A(this,0,this.e,this.x,[R.iB])},
+x=O.an1()
+this.x=x
+this.r.k(0,x,this.a.e)
+this.E(this.e)
+return new D.z(this,0,this.e,this.x,[O.fW])},
 q:function(){this.r.j()},
 v:function(){var x=this.r
 if(!(x==null))x.i()},
-$asb:function(){return[R.iB]}}
-var y=i([{func:1,ret:-1,args:[,]},{func:1,ret:-1,args:[W.a8]},{func:1,ret:-1,args:[W.da]},{func:1,ret:-1,args:[W.W]},{func:1,ret:[S.b,Q.fd],args:[[S.b,,],P.j]},{func:1,ret:[S.b,M.fc],args:[[S.b,,],P.j]},{func:1,ret:[S.b,R.iB],args:[[S.b,,],P.j]}])
-Q.GC.prototype={
-$0:function(){var x,w,v,u,t,s,r,q,p,o,n
-x=this.a
-w=x.y
-v=w.clientWidth
-if(v===0)return
-u=(this.b-(w.getBoundingClientRect().left+C.ay.gyK(window)))/v
-w=T.oq()
-t=T.A5(w==null?"":w)?1-u:u
-w=x.r
-s=x.f
-r=t*(w-s)
-q=x.x
-p=C.B.l6(r,q)
-o=r%q>q/2?q:0
-n=Math.max(s,Math.min(w,s+p*q+o))
-if(n!==x.d){x.d=n
-x.e.S(0,n)}},
-$S:0}
-Q.GD.prototype={
-$1:function(n){n.preventDefault()
-this.a.pQ(n.pageX)}}
-Q.GE.prototype={
-$1:function(n){var x
-n.preventDefault()
-this.b.aB(0)
-x=this.a
-x.z=!1
-x.a.a.aN()},
-"call*":"$1",
-$R:1}
-Q.GF.prototype={
-$1:function(n){var x,w
-n.preventDefault()
-x=n.targetTouches
-w=(x&&C.bg).gaM(x)
-x=C.B.bQ(w.pageX)
-C.B.bQ(w.pageY)
-this.a.pQ(x)}}
-Q.GG.prototype={
-$1:function(n){var x
-n.preventDefault()
-this.b.aB(0)
-x=this.a
-x.z=!1
-x.a.a.aN()},
-"call*":"$1",
-$R:1};(function installTearOffs(){var x
-f(x=Q.fd.prototype,"ga46",0,0,0,null,["$1"],["a47"],1,0)
-f(x,"ga6j",0,0,0,null,["$1"],["a6k"],2,0)
-f(x,"ga3r",0,0,0,null,["$1"],["a3s"],3,0)
-f(Y,"ay0",1,0,0,null,["$2"],["aGk"],4,0)
-f(B,"axZ",1,0,0,null,["$2"],["aGj"],5,0)
-f(Q,"ay_",1,0,0,null,["$2"],["aGl"],6,0)
-f(x=Q.uY.prototype,"gXv",0,0,0,null,["$1"],["Xw"],0,0)
-f(x,"gVq",0,0,0,null,["$1"],["Vr"],0,0)
-f(x,"gPe",0,0,0,null,["$1"],["Pf"],0,0)
-f(x,"gVo",0,0,0,null,["$1"],["Vp"],0,0)})();(function inheritance(){var x=P.q
-a(Q.fd,x)
-a(M.fc,x)
-a(R.iB,x)
-x=H.aF
-a(Q.GC,x)
-a(Q.GD,x)
-a(Q.GE,x)
-a(Q.GF,x)
-a(Q.GG,x)
+$asb:function(){return[O.fW]}}
+var y=i([{func:1,ret:-1,args:[,]},{func:1,ret:[S.b,O.fW],args:[[S.b,,],P.j]},{func:1,ret:[S.b,F.fb],args:[[S.b,,],P.j]}])
+O.Gw.prototype={
+$1:function(n){return n.b}}
+V.No.prototype={
+$1:function(n){return H.a([n.y],[R.cx])}}
+V.Np.prototype={
+$1:function(n){return H.a([n.y],[R.cx])}};(function installTearOffs(){f(F,"axF",1,0,0,null,["$2"],["aG0"],2,0)
+f(V,"axG",1,0,0,null,["$2"],["aG3"],1,0)
+f(V,"axH",1,0,0,null,["$2"],["aG4"],1,0)
+f(V,"axI",1,0,0,null,["$2"],["aG5"],1,0)
+var x
+f(x=V.uZ.prototype,"gSy",0,0,0,null,["$1"],["Sz"],0,0)
+f(x,"gSI",0,0,0,null,["$1"],["SJ"],0,0)
+f(x,"gYj",0,0,0,null,["$1"],["Yk"],0,0)
+f(x,"gQc",0,0,0,null,["$1"],["Qd"],0,0)
+f(x,"gSE",0,0,0,null,["$1"],["SF"],0,0)
+f(V.q4.prototype,"gYh",0,0,0,null,["$1"],["Yi"],0,0)})();(function inheritance(){var x=P.q
+a(F.fb,x)
+a(O.fW,x)
+a(O.iY,x)
 x=S.b
-a(Y.Nw,x)
-a(Y.Vg,x)
-a(B.Nv,x)
-a(B.Vf,x)
-a(Q.uY,x)
-a(Q.Vh,x)})();(function constants(){C.cZ=new D.v("material-slider-example",Q.ay_(),[R.iB])
-C.hB=new D.v("material-slider",Y.ay0(),[Q.fd])
-C.dY=new D.v("material-slider-api",B.axZ(),[M.fc])
-C.nM=H.t(M.fc)
-C.cw=H.t(Q.fd)
-C.nN=H.t(R.iB)})();(function staticFields(){$.a6M=null
-$.abB=!1
-$.a3H=null
-$.a3I=null
-$.a6L=null
-$.abz=!1
-$.a6N=null
-$.abA=!1})();(function lazyInitializers(){c($,"ajv","$get$ajv",function(){return[".container._ngcontent-%ID%{align-items:center;display:flex;flex-grow:1;height:32px;cursor:pointer;}.container.is-disabled._ngcontent-%ID%{cursor:not-allowed;}.container.is-disabled._ngcontent-%ID% .knob-real._ngcontent-%ID%{background-color:#757575;}.container.is-disabled._ngcontent-%ID% .knob:focus._ngcontent-%ID% .knob-hover-shadow._ngcontent-%ID%,.container.is-disabled._ngcontent-%ID% .knob:hover._ngcontent-%ID% .knob-hover-shadow._ngcontent-%ID%{display:none;}.container.is-disabled._ngcontent-%ID% .left-track-container._ngcontent-%ID% > .track._ngcontent-%ID%{background-color:#757575;}.container.is-disabled._ngcontent-%ID% .right-track-container._ngcontent-%ID% > .track._ngcontent-%ID%{background-color:#bdbdbd;}.track-container._ngcontent-%ID%{align-items:center;display:flex;height:4px;}.track._ngcontent-%ID%{height:2px;width:100%;}.left-track-container._ngcontent-%ID% > .track._ngcontent-%ID%{background-color:#4285f4;}.right-track-container._ngcontent-%ID% > .track._ngcontent-%ID%{background-color:#9e9e9e;}.knob._ngcontent-%ID%{height:16px;position:relative;width:0;}.knob-real._ngcontent-%ID%{background-color:#4285f4;border-radius:50%;height:16px;position:absolute;width:16px;}.knob-hover-shadow._ngcontent-%ID%{border-radius:50%;height:32px;margin:-8px;position:absolute;transition:background-color 0.5s linear;width:32px;}.knob-drag-shadow._ngcontent-%ID%{border-radius:50%;height:20px;margin:-2px;position:absolute;width:20px;}.is-dragging.knob-drag-shadow._ngcontent-%ID%{background-color:#4285f4;}.knob:focus._ngcontent-%ID%,.knob:hover._ngcontent-%ID%{outline:none;}.knob:focus._ngcontent-%ID% .knob-hover-shadow._ngcontent-%ID%,.knob:hover._ngcontent-%ID% .knob-hover-shadow._ngcontent-%ID%{background-color:rgba(66, 133, 244, 0.5);}"]})
-c($,"ai9","$get$ai9",function(){return[$.$get$ajv()]})
-c($,"a3J","$get$a3J",function(){return P.cL("^(ar|dv|he|iw|fa|nqo|ps|sd|ug|ur|yi|.*[-_](Arab|Hebr|Thaa|Nkoo|Tfng))(?!.*[-_](Latn|Cyrl)($|-|_))($|-|_)",!1,!1)})
-c($,"ajw","$get$ajw",function(){return["._nghost-%ID% material-slider._ngcontent-%ID%{display:inline-block;width:400px;}._nghost-%ID%  material-slider.custom-colors .knob-real,._nghost-%ID%  material-slider.custom-colors .is-dragging.knob-drag-shadow{background-color:#ff9800;}._nghost-%ID%  material-slider.custom-colors .knob:focus .knob-hover-shadow,._nghost-%ID%  material-slider.custom-colors .knob:hover .knob-hover-shadow{background-color:rgba(255, 152, 0, 0.5);}._nghost-%ID%  material-slider.custom-colors .left-track-container > .track{background-color:#c53929;}._nghost-%ID%  material-slider.custom-colors .right-track-container > .track{background-color:#fdd835;}"]})
-c($,"aia","$get$aia",function(){return[$.$get$ajw()]})})();(function nativeSupport(){j({})
+a(F.Nl,x)
+a(F.UT,x)
+a(V.uZ,x)
+a(V.xJ,x)
+a(V.q4,x)
+a(V.UW,x)
+x=H.aB
+a(O.Gw,x)
+a(V.No,x)
+a(V.Np,x)})();(function constants(){C.cX=new D.v("material-radio-example",V.axI(),[O.fW])
+C.dG=new D.v("material-radio-api",F.axF(),[F.fb])
+C.nG=H.r(F.fb)
+C.nI=H.r(O.fW)})();(function staticFields(){$.a6N=null
+$.ac5=!1
+$.Nn=null
+$.ac6=!1})();(function lazyInitializers(){c($,"ajT","$get$ajT",function(){return["hr._ngcontent-%ID%{background:#eee;border:0;height:1px;margin:16px 0;width:100%;}.debug-info._ngcontent-%ID%{background:whitesmoke;margin-top:16px;padding:16px;}.independent-radio-buttons._ngcontent-%ID%{display:flex;flex-direction:column;}.themed._ngcontent-%ID%  material-radio:not(.disabled) .icon-container.checked .icon{color:#d81b60;}.themed._ngcontent-%ID%  material-radio:not(.disabled) .icon-container .ripple{color:#e91e63;}.themed._ngcontent-%ID%  material-radio:not(.disabled) .icon-container.focus::after{background-color:#e91e63;}.radio-per-line._ngcontent-%ID%{display:flex;}.radio-button-alignment._ngcontent-%ID% .top-aligned._ngcontent-%ID%{align-items:flex-start;}.radio-button-alignment._ngcontent-%ID% .center-aligned._ngcontent-%ID%{align-items:center;}.radio-button-alignment._ngcontent-%ID% .bottom-aligned._ngcontent-%ID%{align-items:flex-end;}.radio-button-alignment._ngcontent-%ID% p._ngcontent-%ID%{line-height:20px;margin:0 0 8px;}.radio-button-alignment._ngcontent-%ID% textarea._ngcontent-%ID%{display:block;margin-bottom:8px;}.block._ngcontent-%ID%{background-color:#eee;display:inline-block;height:32px;width:32px;}"]})
+c($,"aic","$get$aic",function(){return[$.$get$ajT()]})})();(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["YOZFWZTZ22qIytUEV0pjcO/isbA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["4y2fFVBhlBu1+9qkghqg0IWJzPs="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_58.part.js.map

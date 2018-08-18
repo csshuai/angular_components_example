@@ -1,32 +1,49 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},K={},V={},S={},N={},E={},M={},B={},Q={},D={},L={},Z={},A={},U={},T={dn:function dn(){}},O={},X={
-lK:function(n,o){var x,w
-x=new X.Ny(P.e(P.c,null),n)
+$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={dM:function dM(n){this.a=n
+this.c=this.b=null},Dl:function Dl(n,o){this.c=n
+this.a=o}},Y={},R={},K={},V={},S={},N={},E={},M={},B={
+pf:function(n,o){var x,w
+x=new B.Mm(P.e(P.c,null),n)
 x.a=S.f(x,1,C.j,o)
-w=document.createElement("material-spinner")
+w=document.createElement("focus-trap")
 x.e=w
-w=$.a6P
+w=$.a65
 if(w==null){w=$.D
-w=w.a2(null,C.p,$.$get$aib())
-$.a6P=w}x.a1(w)
+w=w.a2(null,C.p,$.$get$ahl())
+$.a65=w}x.a1(w)
 return x},
-aGn:function(n,o){var x=new X.Vj(P.e(P.c,null),n)
+aCH:function(n,o){var x=new B.S0(P.e(P.c,null),n)
 x.a=S.f(x,3,C.k,o)
 return x},
-a2l:function(){if($.aa0)return
-$.aa0=!0
-$.$get$F().u(0,C.nP,C.hd)
-E.w()},
-Ny:function Ny(n,o){var _=this
+yL:function(){if($.acq)return
+$.acq=!0
+$.$get$F().u(0,C.mJ,C.i7)
+E.w()
+G.c3()},
+Mm:function Mm(n,o){var _=this
 _.a=_.z=_.y=_.x=_.r=null
 _.b=n
 _.c=o
 _.f=_.e=_.d=null},
-Vj:function Vj(n,o){var _=this
+S0:function S0(n,o){var _=this
 _.a=_.x=_.r=null
 _.b=n
 _.c=o
-_.f=_.e=_.d=null}},F={}
+_.f=_.e=_.d=null}},Q={
+a4i:function(n,o,p,q){if(q&&p==null)H.E(P.rz("global wrapping is disallowed, scope is required"))
+if(p!=null&&!p.contains(n))H.E(P.rz("if scope is set, starting element should be inside of scope"))
+return new Q.Cr(o,q,n,p,n)},
+auX:function(n){var x,w,v,u
+for(x=n;w=J.J(x),v=w.gqf(x),!v.gc0(v);){u=w.gqf(x)
+x=u.C(0,u.gJ(u)-1)}return x},
+ap6:function(n){var x=J.kX(n)
+return x.C(0,x.gJ(x)-1)},
+Cr:function Cr(n,o,p,q,r){var _=this
+_.a=n
+_.b=o
+_.c=p
+_.d=q
+_.e=r}},D={},L={},Z={},A={},U={},T={},O={},X={},F={}
 var z=[C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F]
 g([C,H,J,P,W,G,Y,R,K,V,S,N,E,M,B,Q,D,L,Z,A,U,T,O,X,F])
 C=h(m[0],C)
@@ -54,51 +71,129 @@ T=h(m[21],T)
 O=h(m[22],O)
 X=h(m[23],X)
 F=h(m[24],F)
-T.dn.prototype={}
-X.Ny.prototype={
-p:function(){var x,w,v
+G.dM.prototype={
+slo:function(n,o){this.c=o
+if(o!=null&&this.b==null)o.c.focus()},
+a2Q:function(){var x=this.c.c
+this.Bo(Q.a4i(x,!1,x,!1))},
+a2S:function(){var x=this.c.c
+this.Bo(Q.a4i(x,!0,x,!0))},
+Bo:function(n){var x
+for(;n.ar();){x=n.e
+if(x.tabIndex===0&&C.B.bY(x.offsetWidth)!==0&&C.B.bY(x.offsetHeight)!==0){J.qD(x)
+return}}x=this.b
+if(x!=null)x.cj(0)
+else{x=this.c
+if(x!=null)x.c.focus()}}}
+G.Dl.prototype={
+ghs:function(){return this.c}}
+B.Mm.prototype={
+p:function(){var x,w,v,u
 x=this.a3(this.e)
 w=document
 v=S.o(w,x)
 this.r=v
-v.className="spinner"
+v.tabIndex=0
 this.h(v)
-v=S.o(w,this.r)
+v=S.o(w,x)
 this.x=v
-v.className="circle left"
+v.setAttribute("focusContentWrapper","")
+this.x.setAttribute("style","outline: none")
+v=this.x
+v.tabIndex=-1
 this.h(v)
-v=S.o(w,this.r)
-this.y=v
-v.className="circle right"
-this.h(v)
-v=S.o(w,this.r)
+v=this.x
+this.y=new G.Dl(v,v)
+this.cD(v,0)
+v=S.o(w,x)
 this.z=v
-v.className="circle gap"
+v.tabIndex=0
 this.h(v)
+v=this.r
+u=W.B;(v&&C.u).a8(v,"focus",this.ac(this.f.ga2R(),u))
+v=this.z;(v&&C.u).a8(v,"focus",this.ac(this.f.ga2P(),u))
+J.alE(this.f,this.y)
 this.P(C.a,null)
 return},
-$asb:function(){return[T.dn]}}
-X.Vj.prototype={
+$asb:function(){return[G.dM]}}
+B.S0.prototype={
 p:function(){var x,w
-x=X.lK(this,0)
+x=B.pf(this,0)
 this.r=x
 this.e=x.e
-w=new T.dn()
+w=new G.dM(new R.y(!0,!1))
 this.x=w
 x.k(0,w,this.a.e)
-this.D(this.e)
-return new D.A(this,0,this.e,this.x,[T.dn])},
+this.E(this.e)
+return new D.z(this,0,this.e,this.x,[G.dM])},
 q:function(){this.r.j()},
 v:function(){var x=this.r
-if(!(x==null))x.i()},
-$asb:function(){return[T.dn]}}
-var y=i([{func:1,ret:[S.b,T.dn],args:[[S.b,,],P.j]}]);(function installTearOffs(){f(X,"ay3",1,0,0,null,["$2"],["aGn"],0,0)})();(function inheritance(){a(T.dn,P.q)
-var x=S.b
-a(X.Ny,x)
-a(X.Vj,x)})();(function constants(){C.hd=new D.v("material-spinner",X.ay3(),[T.dn])
-C.nP=H.t(T.dn)})();(function staticFields(){$.a6P=null
-$.aa0=!1})();(function lazyInitializers(){c($,"aj_","$get$aj_",function(){return['._nghost-%ID%{animation:rotate 1568ms linear infinite;border-color:#4285f4;display:inline-block;height:28px;position:relative;vertical-align:middle;width:28px;}.spinner._ngcontent-%ID%{animation:fill-unfill-rotate 5332ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;border-color:inherit;height:100%;display:flex;position:absolute;width:100%;}.circle._ngcontent-%ID%{border-color:inherit;height:100%;overflow:hidden;position:relative;width:50%;}.circle._ngcontent-%ID%::before{border-bottom-color:transparent!important;border-color:inherit;border-radius:50%;border-style:solid;border-width:3px;bottom:0;box-sizing:border-box;content:"";height:100%;left:0;position:absolute;right:0;top:0;width:200%;}.circle.left._ngcontent-%ID%::before{animation:left-spin 1333ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;border-right-color:transparent;transform:rotate(129deg);}.circle.right._ngcontent-%ID%::before{animation:right-spin 1333ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;border-left-color:transparent;left:-100%;transform:rotate(-129deg);}.circle.gap._ngcontent-%ID%{height:50%;left:45%;position:absolute;top:0;width:10%;}.circle.gap._ngcontent-%ID%::before{height:200%;left:-450%;width:1000%;}@keyframes rotate{to{transform:rotate(360deg);}}@keyframes fill-unfill-rotate{12.5%{transform:rotate(135deg);}25%{transform:rotate(270deg);}37.5%{transform:rotate(405deg);}50%{transform:rotate(540deg);}62.5%{transform:rotate(675deg);}75%{transform:rotate(810deg);}87.5%{transform:rotate(945deg);}to{transform:rotate(1080deg);}}@keyframes left-spin{from{transform:rotate(130deg);}50%{transform:rotate(-5deg);}to{transform:rotate(130deg);}}@keyframes right-spin{from{transform:rotate(-130deg);}50%{transform:rotate(5deg);}to{transform:rotate(-130deg);}}']})
-c($,"aib","$get$aib",function(){return[$.$get$aj_()]})})();(function nativeSupport(){j({})
+if(!(x==null))x.i()
+this.x.a.F()},
+$asb:function(){return[G.dM]}}
+Q.Cr.prototype={
+gb0:function(n){return this.e},
+ar:function(){var x,w
+x=this.e
+if(x==null)return!1
+if(x===this.d){x=J.kX(x)
+x=x.gc0(x)}else x=!1
+if(x){this.e=null
+return!1}if(this.a)this.Z2()
+else this.Z3()
+x=this.e
+w=this.c
+if(x==null?w==null:x===w){this.e=null
+x=null}return x!=null},
+Z2:function(){var x,w,v,u
+x=this.e
+w=this.d
+if(x==null?w==null:x===w)if(this.b)this.e=Q.auX(w)
+else this.e=null
+else{w=x.parentElement
+if(w==null)this.e=null
+else{w=J.kX(w).C(0,0)
+v=this.e
+if(x==null?w==null:x===w)this.e=v.parentElement
+else{x=v.previousElementSibling
+this.e=x
+for(;x=J.kX(x),!x.gc0(x);){u=J.kX(this.e)
+x=u.C(0,u.gJ(u)-1)
+this.e=x}}}}},
+Z3:function(){var x,w,v,u
+x=J.kX(this.e)
+if(!x.gc0(x))this.e=J.kX(this.e).C(0,0)
+else{x=this.d
+while(!0){w=this.e
+v=w.parentElement
+if(v!=null)if(v!==x){u=J.kX(v)
+v=u.C(0,u.gJ(u)-1)
+v=w==null?v==null:w===v
+w=v}else w=!1
+else w=!1
+if(!w)break
+this.e=this.e.parentElement}w=this.e
+v=w.parentElement
+if(v!=null)if(v===x){v=Q.ap6(v)
+v=w==null?v==null:w===v
+w=v}else w=!1
+else w=!0
+if(w)if(this.b)this.e=x
+else this.e=null
+else this.e=this.e.nextElementSibling}}}
+var y=i([{func:1,ret:-1},{func:1,ret:[S.b,G.dM],args:[[S.b,,],P.j]}]);(function installTearOffs(){var x
+f(x=G.dM.prototype,"ga2P",0,0,0,null,["$0"],["a2Q"],0,0)
+f(x,"ga2R",0,0,0,null,["$0"],["a2S"],0,0)
+f(B,"ar2",1,0,0,null,["$2"],["aCH"],1,0)})();(function inheritance(){var x=P.q
+a(G.dM,x)
+a(Q.Cr,x)
+a(G.Dl,E.om)
+x=S.b
+a(B.Mm,x)
+a(B.S0,x)})();(function constants(){C.i7=new D.v("focus-trap",B.ar2(),[G.dM])
+C.mJ=H.r(G.dM)})();(function staticFields(){$.a65=null
+$.acq=!1})();(function lazyInitializers(){c($,"ajX","$get$ajX",function(){return["._nghost-%ID%{display:block;}[focusContentWrapper]._ngcontent-%ID%{height:inherit;max-height:inherit;min-height:inherit;}"]})
+c($,"ahl","$get$ahl",function(){return[$.$get$ajX()]})})();(function nativeSupport(){j({})
 k({})})()}
-$__dart_deferred_initializers__["y8sQ3wI6g3XXGMWxx3B3Wr6kC/w="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["YL2ENLNCrrEfkYB4XEzq0qoej9U="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_20.part.js.map
