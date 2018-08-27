@@ -5,5 +5,5 @@
   "sourceRoot": "",
   "sources": ["../packages/angular_components/model/selection/selection_options.dart","../packages/angular_components/model/collection/labeled_list.dart"],
   "names": ["OptionGroup.withLabel","LabeledList.withLabel","OptionGroup.withLabel.<anonymous function>"],
-  "mappings": "A;;GA+BEA,kBAAqBA;AACwBA;ACNVC;ADKnCD,0BAEmCA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GADUE,WAAMA,aAAUA,C"
+  "mappings": "A;;GAoCEA,kBAAqBA;AACwBA;ACXVC;ADUnCD,0BAEmCA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GADUE,WAAMA,aAAUA,C"
 }
